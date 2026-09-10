@@ -1,0 +1,74 @@
+docs/Merge Heroes Unite War.fig
+docs/links.txt
+
+# Large local research originals; retain short clips and extracted game art in Git.
+/analysis/figma/raw/source.fig
+/analysis/reference/videos/
+
+# Local system and Python cache files.
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local pinned toolchains, dependency caches and native/editor build output.
+/.tools/
+node_modules/
+.gradle/
+Pods/
+/spikes/rn-cocos/cocos-probe/library/
+/spikes/rn-cocos/cocos-probe/temp/
+/spikes/rn-cocos/cocos-probe/local/
+/spikes/rn-cocos/cocos-probe/build/
+/spikes/rn-cocos/rn-probe/android/build/
+/spikes/rn-cocos/rn-probe/android/app/build/
+/spikes/rn-cocos/rn-probe/ios/build/
+local.properties
+*.xcuserstate
+xcuserdata/
+
+# Long native diagnostics stay local; reports retain their hashes and commands.
+/spikes/rn-cocos/evidence/videos/
+
+# Signing material and process dumps are local, never checkpoint artifacts.
+*.keystore
+*.jks
+*.hprof
+*.xcresult/
+# Keep the filtered application events; the full unrelated Android system stream is redundant.
+/spikes/rn-cocos/logs/android-host-isolated-runtime.log
+
+# Redundant raw native-probe automation output; selected evidence remains tracked.
+spikes/rn-cocos/evidence/**/logs/
+spikes/rn-cocos/evidence/**/takeScreenshot/
+spikes/rn-cocos/evidence/**/xctest_runner_*.log
+spikes/rn-cocos/logs/*build.log
+spikes/rn-cocos/logs/*configure.log
+spikes/rn-cocos/logs/*export-console.log
+spikes/rn-cocos/logs/cocos-probe-*-export.log
+
+# Reproducible Expo/native output and local browser tooling.
+/.expo/
+/dist/
+/android/
+/ios/
+/public/canvaskit.wasm
+/test-results/
+/playwright-report/
+
+# SEC-001: runtime/network diagnostics may contain proxy headers and tokens.
+/spikes/**/logs/
+/spikes/**/*.log
+/analysis/**/diagnostics/
+*.log
+.env
+.env.*
+!.env.example
+
+# Local Expo module native compiler output (source remains tracked).
+/modules/*/android/build/
+/modules/*/android/.gradle/
+/modules/*/android/.cxx/
+/modules/*/ios/build/
+
+# Owner-supplied binary reference; read locally, never ship or commit.
+/docs/tz/com.chickenmaracana.pop.apk

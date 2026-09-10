@@ -1,0 +1,34 @@
+# Execution order
+
+Do not execute phases by filename alone. The251-task DAG is authoritative; early storage and native gates prevent late integration surprises. All implementation tasks are NOT_STARTED.
+
+| Milestone | Required accepted tasks |
+| --- | --- |
+| M0 — Source/decision handoff | TASK-0004 Fidelity gate registry; TASK-0005 Reference version lock; TASK-0026 Asset semantic validator |
+| M1 — Native feasibility | TASK-0046 Native integration acceptance |
+| M2 — Static Figma fidelity | TASK-0069 Static golden comparison |
+| M3 — Playable vertical slice | TASK-0094 Purchase merge acceptance; TASK-0110 Combat visual acceptance; TASK-0118 Stage boss acceptance; TASK-0157 Save offline acceptance; TASK-0164 Merge convergence profile; TASK-0184 Audio event wiring; TASK-0185 Audio settings lifecycle |
+| M4 — MVP meta/content | TASK-0127 Equipment progression acceptance; TASK-0143 Meta lifecycle acceptance; TASK-0200 Content fidelity acceptance; TASK-0176 Motion freeze and interruption QA; TASK-0186 Audio mix acceptance |
+| M5 — Production native/performance | TASK-0212 Native build reproducibility; TASK-0220 Performance budget acceptance |
+| M6 — Beta/release | TASK-0230 Beta gate acceptance; TASK-0237 Production release gate |
+
+## Sequence
+
+1. Validate handoff/source versions and begin independent reference/art/rights work. Lock host scope and toolchain; execute native spike before foundation.
+2. Establish core/Cocos foundation. In parallel calibrate/import art and build exact static fixtures plus15-slot adaptation.
+3. Define state,transaction/reward contracts and fault-injectable storage ports. Complete phase12codec/web adapter/recovery before playable purchase/merge acceptance;pure command work can proceed alongside storage.
+4. Build combat→stage/boss; complete save recovery/offline and core motion/audio subset for playable native slice.
+5. Expand equipment/quests/daily/wheel/settings/tutorial and complete content/visual/audio contracts after their evidence gates.
+6. Harden RN Android/iOS hosts, run physical-device performance, full QA and beta/release gates. P2extensions follow separate evidence/scope tasks.
+
+Native spike may report a precise iOS environment blocker, but production both-platform acceptance remains closed until an actual required result exists. Exact reference unknowns block affected rules/content imports, not independent static or infrastructure tasks. If an evidence task cannot close a rule, record an explicit proposed-scope decision with tests; never mark the rule observed.
+
+## Parallel work
+
+Reference captures, rights/fonts, asset annotation and native spike are separate tracks. Android/iOS host probes run independently after standalone builds. Static panels can proceed independently after shared buttons/layout/imports. Domain/render/audio work separates only after event contracts. Shared registries and save schema have one editor/integration task at a time.
+
+## First tasks
+
+Start with TASK-0001 planning handoff validation. First executable native implementation work is the Native toolchain lock followed by Standalone Cocos/RN probes; their IDs are in the task index. No production feature implementation occurred during planning.
+
+[Task index](../tasks/TASK_INDEX.md) · [Manifest](../tasks/task_manifest.json) · [DAG](01_DEPENDENCY_GRAPH.md) · [Critical path](02_CRITICAL_PATH.md).

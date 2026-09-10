@@ -1,0 +1,112 @@
+[
+  {
+    "clipId": "manual_merge",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 312,
+    "durationSeconds": 7,
+    "clip": "analysis/reference/clips/manual_merge.mp4",
+    "sha256": "345946090817503e4074b3ce331bece5458c9436549e62834e8939bf0afb241b",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "first_deploy",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 381,
+    "durationSeconds": 15,
+    "clip": "analysis/reference/clips/first_deploy.mp4",
+    "sha256": "a1b4272a843bea49745c9a93d0e4576bfcf0d7f58dd1b71c7bb73fb96cbf365d",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "redeploy_combat",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 672,
+    "durationSeconds": 18,
+    "clip": "analysis/reference/clips/redeploy_combat.mp4",
+    "sha256": "bbf849a91a771d529957ad311b64bddcf93d6d023172050c92477f689e19186f",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "hold_full_board",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 1098,
+    "durationSeconds": 8,
+    "clip": "analysis/reference/clips/hold_full_board.mp4",
+    "sha256": "598be1c3efb105c4c3bc9c3249500b5ca4320bf27ccffb57b68ce31a4c1b33cf",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "settings_continuity",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 1684,
+    "durationSeconds": 13,
+    "clip": "analysis/reference/clips/settings_continuity.mp4",
+    "sha256": "72ccfae07e9e473e1628802ba27c420fe25d79abc9acc5d08b9fa775b49ccdc4",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "reserve_merges",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 2381,
+    "durationSeconds": 10,
+    "clip": "analysis/reference/clips/reserve_merges.mp4",
+    "sha256": "5ea37768e3739af47daaf2501c9e96905dc567f4ac51cb363ebef3b347429b99",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "boss_retry_win",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 2860,
+    "durationSeconds": 30,
+    "clip": "analysis/reference/clips/boss_retry_win.mp4",
+    "sha256": "fc74a8c6dd7582341b1a77471ab1f65cad1b7224af00aa44f48b307917da2adb",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "auto_activation",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 3775,
+    "durationSeconds": 14,
+    "clip": "analysis/reference/clips/auto_activation.mp4",
+    "sha256": "72c12829b0f966eaecb827bd73ab652a4cebd1cc63cd3b64de1e2b5786aa7f49",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "auto_cascade",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 3807,
+    "durationSeconds": 14,
+    "clip": "analysis/reference/clips/auto_cascade.mp4",
+    "sha256": "619776786a882c122e8e0b572d61f3f8eb7d53f21877bc664f04e6e4182187c0",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "account_level_unlock",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 3834,
+    "durationSeconds": 4,
+    "clip": "analysis/reference/clips/account_level_unlock.mp4",
+    "sha256": "d647a69dd0f9354dd5abc180f955fab0486e3425c8cb4d96d29879bc856dd367",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  },
+  {
+    "clipId": "offline_return",
+    "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+    "sourceStartPtsSeconds": 4045,
+    "durationSeconds": 12,
+    "clip": "analysis/reference/clips/offline_return.mp4",
+    "sha256": "73e98f737a6a2f0c068458058e664d8c3361cdec647d74af2075c61ac05fb24a",
+    "audio": "none",
+    "notes": "Cropped game viewport; original silent25fps recording retained. Command timestamps are monotonic observations, not exact frame PTS."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "vp8",
+      "r_frame_rate": "25/1",
+      "time_base": "1/1000"
+    }
+  ],
+  "format": {
+    "duration": "4091.120000",
+    "size": "438956224"
+  },
+  "source": "analysis/reference/videos/page@e53d5a960afc8843e2ed1ed07de0b312.webm",
+  "sha256": "a2fd96652ceb266b7cc6d03f04f5ada5809208ead851dc7c2fbce22e7e1069dd",
+  "captureMode": "Playwright page video; silent;25fps; tool command timestamps approximate source PTS within scheduling offset; measure frame PTS for exact timing"
+}

@@ -1,0 +1,384 @@
+const imgCoin = "https://www.figma.com/api/mcp/asset/552374f7-d3f7-4e9a-949c-b7bace7b9cac.png";
+const img201 = "https://www.figma.com/api/mcp/asset/fc22c91c-075d-4469-af20-76f10e70e7b4.png";
+const imgCharacter = "https://www.figma.com/api/mcp/asset/0e3923c6-c3c7-4067-9f18-44c2a41128fa.png";
+const imgBoard = "https://www.figma.com/api/mcp/asset/3fd397c1-399f-4bf9-8a60-5e70f90562c2.png";
+const imgIcon = "https://www.figma.com/api/mcp/asset/97624bac-e8a1-4ca4-b7a9-39388d2d301a.png";
+const imgRectangle3 = "https://www.figma.com/api/mcp/asset/a8afd2c2-5b4f-42b1-bc23-c38aa7b4b87b.png";
+const imgIconsSettings = "https://www.figma.com/api/mcp/asset/235ebe11-6d0f-4702-97c7-b984629080a7.png";
+const imgIconsLuckyWheel = "https://www.figma.com/api/mcp/asset/93218820-03c7-444e-9674-4b6cc62e0e2f.png";
+const imgBg = "https://www.figma.com/api/mcp/asset/a719076a-4bcf-4127-b495-0bf5521cde6a.png";
+const imgGem = "https://www.figma.com/api/mcp/asset/72c76b07-098d-4d16-bbef-0421809258b6.png";
+const imgBoard1 = "https://www.figma.com/api/mcp/asset/66fbb976-3788-420a-bdd4-42f42eb11dab.png";
+const imgIcon1 = "https://www.figma.com/api/mcp/asset/c237c1cc-d4de-4779-bd6d-a14f2f678f92.png";
+const imgIcon2 = "https://www.figma.com/api/mcp/asset/6d638db9-285e-42b4-b4bd-f576a514d9b3.png";
+const imgIcon3 = "https://www.figma.com/api/mcp/asset/c03d3215-5d44-4b43-a7db-e87ae7a6338d.png";
+const imgIcon4 = "https://www.figma.com/api/mcp/asset/b4f96c6a-8aa1-4810-b86b-12afbfe21921.png";
+const img310 = "https://www.figma.com/api/mcp/asset/b1531b92-e4b0-46c0-85d3-ac89fef3c348.png";
+const imgCharacter1 = "https://www.figma.com/api/mcp/asset/85f3fa3a-7dba-4aa3-b261-8bec6405a2dc.png";
+const imgCharacter2 = "https://www.figma.com/api/mcp/asset/e86c80db-404d-4fd8-a921-2a2981058d7e.png";
+const imgCharacter3 = "https://www.figma.com/api/mcp/asset/ad515cce-c71f-4499-b8ce-7bf646d92bf5.png";
+const imgCharacter4 = "https://www.figma.com/api/mcp/asset/15d7993f-7b35-4743-9a0f-1ba10a935ae0.png";
+const imgCharacter5 = "https://www.figma.com/api/mcp/asset/159f8b02-8e60-4de2-a6cc-1e7ea981b183.png";
+const imgCharacter6 = "https://www.figma.com/api/mcp/asset/10747f5b-2bdf-460f-b4fd-7aa8402ff442.png";
+const imgCharacter7 = "https://www.figma.com/api/mcp/asset/6f692b75-0acc-4b75-a9a9-0e576cbb3cfb.png";
+const imgCharacter8 = "https://www.figma.com/api/mcp/asset/50b8bca9-c1f4-4dd6-8f05-7a25f96b68af.png";
+const imgEnemyIronhideBoar = "https://www.figma.com/api/mcp/asset/d1da3783-722b-45e2-a059-cb2443ef9fce.png";
+const imgX2Time = "https://www.figma.com/api/mcp/asset/5ae767db-c738-4772-b5a4-409925105b6a.png";
+const imgAutoMerge = "https://www.figma.com/api/mcp/asset/a77a96ac-836a-4391-9cda-b11d43462fa1.png";
+const imgX2Gold = "https://www.figma.com/api/mcp/asset/3ef5d0d8-9608-4feb-8a2d-5ad554f1bc23.png";
+const img00A3B66CF59B4C9D8973976579Fc7A0911 = "https://www.figma.com/api/mcp/asset/e7fd22d2-b1af-4d90-8e90-a11509f43835.png";
+const img9F7511Af8Dea4F988Bf19582F91E419711 = "https://www.figma.com/api/mcp/asset/0eb246d2-1ee1-47ca-8487-116c6fac56fa.png";
+const img9Be31Cff28E341128D4115B9Cf7288E411 = "https://www.figma.com/api/mcp/asset/c78ce462-4909-43ee-a9d6-817ca853a862.png";
+const imgE1D6F87BD3A24Dc0Abd3E6D47D1Ffa0411 = "https://www.figma.com/api/mcp/asset/65d1ad22-1673-4299-954e-84ce42ab6b34.png";
+
+function Coin({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[32px]"} data-node-id="2:434" data-name="coin">
+      <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCoin} />
+    </div>
+  );
+}
+
+function BuyCharacter({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[77px] relative w-[86px]"} data-node-id="45:1450" data-name="buy_character">
+      <div className="absolute aspect-[244/219] left-0 right-0 top-0" data-node-id="19:1222" data-name="Слой 20 1">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img201} />
+      </div>
+      <div className="absolute aspect-[1828/1679] left-[19.77%] right-[19.77%] top-[8px]" data-node-id="32:1309" data-name="character">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgCharacter} />
+      </div>
+      <div className="absolute contents inset-[11.69%_75.58%_72.73%_10.47%]" data-node-id="39:1382" data-name="level">
+        <div className="absolute bg-[#00b43c] border border-black border-solid inset-[11.69%_75.58%_72.73%_10.47%] rounded-[6px]" data-node-id="39:1380" />
+        <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal inset-[11.69%_79.07%_72.73%_13.95%] leading-[normal] text-[9px] text-white whitespace-nowrap" data-node-id="39:1381">
+          2
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal inset-[71.43%_32.56%_12.99%_47.67%] leading-[normal] text-[9px] text-white whitespace-nowrap" data-node-id="45:1444">
+        120
+      </p>
+      <Coin className="absolute inset-[71.43%_55.81%_14.29%_31.4%]" />
+    </div>
+  );
+}
+
+function BattleBoard({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[80px] relative w-[79px]"} data-node-id="19:1202" data-name="battle_board">
+      <div className="absolute aspect-[1576/1595] border border-black border-solid left-0 right-0 top-0" data-node-id="18:1188" data-name="board">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-full left-[-0.03%] max-w-none top-0 w-[100.06%]" src={imgBoard} />
+        </div>
+      </div>
+      <div className="absolute aspect-[1402/1456] left-[13.92%] right-[12.66%] top-[9px]" data-node-id="19:1193" data-name="icon">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgIcon} />
+      </div>
+    </div>
+  );
+}
+
+type BtnProps = {
+  className?: string;
+  property1?: "Variant6";
+};
+
+function Btn({ className, property1 = "Variant6" }: BtnProps) {
+  return (
+    <div className={className || "h-[54px] relative w-[144px]"} data-node-id="2:486">
+      <div className="absolute inset-[0_-0.69%_0_0]" data-node-id="2:487">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgRectangle3} />
+        </div>
+      </div>
+      <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Passion_One:Bold'] h-[42px] justify-center leading-[0] left-[calc(50%+23px)] not-italic text-[32px] text-center text-white top-1/2 uppercase w-[100px]" data-node-id="2:488">
+        <p className="leading-[normal]">1.569</p>
+      </div>
+    </div>
+  );
+}
+
+function IconsSettings({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[53px]"} data-node-id="2:577" data-name="icons/settings">
+      <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgIconsSettings} />
+    </div>
+  );
+}
+
+function IconsLuckyWheel({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[53px]"} data-node-id="2:575" data-name="icons/lucky wheel">
+      <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgIconsLuckyWheel} />
+    </div>
+  );
+}
+
+export default function Game() {
+  return (
+    <div className="bg-white relative size-full" data-node-id="2:426" data-name="game">
+      <div className="absolute h-[932px] left-0 top-0 w-[430px]" data-node-id="2:427" data-name="bg">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-[116.2%] left-[-10.99%] max-w-none top-[-16.2%] w-[121.98%]" src={imgBg} />
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(47,56,155,0.55)] h-[423px] left-[-26px] top-[546px] w-[476px]" data-node-id="32:1318" />
+      <Btn className="-translate-x-1/2 absolute h-[54px] left-[calc(50%-81px)] top-[18px] w-[144px]" />
+      <IconsLuckyWheel className="absolute left-[108px] size-[53px] top-[86px]" />
+      <IconsSettings className="absolute left-[269px] size-[53px] top-[86px]" />
+      <Coin className="absolute left-[72px] size-[32px] top-[29px]" />
+      <Btn className="-translate-x-1/2 absolute h-[54px] left-[calc(50%+83px)] top-[17px] w-[144px]" />
+      <div className="absolute inset-[3%_37.67%_93.56%_54.88%]" data-node-id="57:266" data-name="gem">
+        <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgGem} />
+      </div>
+      <div className="absolute h-[80px] left-[7px] top-[847px] w-[79px]" data-node-id="19:1203" data-name="battle_board">
+        <div className="absolute aspect-[1576/1595] border border-black border-solid left-0 right-0 top-0" data-node-id="I19:1203;18:1188" data-name="board">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-full left-[-0.03%] max-w-none top-0 w-[100.06%]" src={imgBoard1} />
+          </div>
+        </div>
+        <div className="absolute aspect-[1402/1456] left-[13.92%] right-[12.66%] top-[9px]" data-node-id="I19:1203;19:1193" data-name="icon">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgIcon1} />
+        </div>
+      </div>
+      <div className="absolute h-[80px] left-[91px] top-[847px] w-[79px]" data-node-id="19:1207" data-name="battle_board">
+        <div className="absolute aspect-[1576/1595] border border-black border-solid left-0 right-0 top-0" data-node-id="I19:1207;18:1188" data-name="board">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-full left-[-0.03%] max-w-none top-0 w-[100.06%]" src={imgBoard1} />
+          </div>
+        </div>
+        <div className="absolute aspect-[1402/1456] left-[13.92%] right-[12.66%] top-[9px]" data-node-id="I19:1207;19:1193" data-name="icon">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgIcon2} />
+        </div>
+      </div>
+      <BattleBoard className="absolute h-[80px] left-[175px] top-[847px] w-[79px]" />
+      <div className="absolute h-[80px] left-[259px] top-[847px] w-[79px]" data-node-id="19:1215" data-name="battle_board">
+        <div className="absolute aspect-[1576/1595] border border-black border-solid left-0 right-0 top-0" data-node-id="I19:1215;18:1188" data-name="board">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-full left-[-0.03%] max-w-none top-0 w-[100.06%]" src={imgBoard1} />
+          </div>
+        </div>
+        <div className="absolute aspect-[1402/1456] left-[13.92%] right-[12.66%] top-[9px]" data-node-id="I19:1215;19:1193" data-name="icon">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgIcon3} />
+        </div>
+      </div>
+      <div className="absolute h-[80px] left-[343px] top-[847px] w-[79px]" data-node-id="19:1216" data-name="battle_board">
+        <div className="absolute aspect-[1576/1595] border border-black border-solid left-0 right-0 top-0" data-node-id="I19:1216;18:1188" data-name="board">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute h-full left-[-0.03%] max-w-none top-0 w-[100.06%]" src={imgBoard1} />
+          </div>
+        </div>
+        <div className="absolute aspect-[1402/1456] left-[13.92%] right-[12.66%] top-[9px]" data-node-id="I19:1216;19:1193" data-name="icon">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgIcon4} />
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[60px] left-[calc(50%-82px)] top-[770px] w-[68px]" data-node-id="19:1223" data-name="Слой 20 2">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img201} />
+      </div>
+      <div className="absolute contents left-[104px] top-[776px]" data-node-id="39:1383" data-name="level">
+        <div className="absolute bg-[#00b43c] border border-black border-solid left-[104px] rounded-[6px] size-[12px] top-[776px]" data-node-id="39:1384" />
+        <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[107px] text-[9px] text-white top-[776px] whitespace-nowrap" data-node-id="39:1385">
+          1
+        </p>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[60px] left-[calc(50%+82px)] top-[770px] w-[68px]" data-node-id="19:1225" data-name="Слой 20 3">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img201} />
+      </div>
+      <div className="absolute h-[93px] left-[347px] top-[651px] w-[68px]" data-node-id="30:1272" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1272;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+      </div>
+      <div className="absolute h-[93px] left-[264px] top-[651px] w-[68px]" data-node-id="30:1278" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1278;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1278;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter1} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1278;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1278;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1278;39:1393">
+            3
+          </p>
+        </div>
+      </div>
+      <div className="absolute h-[93px] left-[181px] top-[651px] w-[68px]" data-node-id="30:1282" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1282;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1282;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1282;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1282;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1282;39:1393">
+            2
+          </p>
+        </div>
+      </div>
+      <div className="absolute h-[93px] left-[98px] top-[651px] w-[68px]" data-node-id="30:1283" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1283;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1283;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter2} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1283;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1283;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1283;39:1393">
+            1
+          </p>
+        </div>
+      </div>
+      <div className="absolute h-[93px] left-[15px] top-[651px] w-[68px]" data-node-id="30:1289" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1289;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1289;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter3} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1289;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1289;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1289;39:1393">
+            4
+          </p>
+        </div>
+      </div>
+      <div className="absolute h-[93px] left-[347px] top-[549px] w-[68px]" data-node-id="30:1293" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1293;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1293;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter4} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1293;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1293;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1293;39:1393">
+            5
+          </p>
+        </div>
+      </div>
+      <div className="absolute h-[93px] left-[264px] top-[549px] w-[68px]" data-node-id="30:1294" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1294;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1294;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter5} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1294;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1294;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1294;39:1393">
+            6
+          </p>
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Passion_One:Regular'] leading-[normal] left-[79px] not-italic text-[20px] text-white top-[165px] whitespace-nowrap" data-node-id="53:1475">
+        STAGE
+      </p>
+      <div className="absolute h-[93px] left-[181px] top-[549px] w-[68px]" data-node-id="30:1295" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1295;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1295;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter6} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1295;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1295;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1295;39:1393">
+            7
+          </p>
+        </div>
+      </div>
+      <div className="absolute aspect-[1797/1858] left-[40.47%] right-[40.23%] top-[368px]" data-node-id="32:1314" data-name="character">
+        <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter6} />
+      </div>
+      <div className="absolute h-[93px] left-[98px] top-[549px] w-[68px]" data-node-id="30:1296" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1296;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1296;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter7} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1296;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1296;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1296;39:1393">
+            8
+          </p>
+        </div>
+      </div>
+      <div className="absolute aspect-[1797/1858] left-[1.86%] right-[78.84%] top-[384px]" data-node-id="32:1313" data-name="character">
+        <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter7} />
+      </div>
+      <div className="absolute h-[93px] left-[15px] top-[549px] w-[68px]" data-node-id="30:1297" data-name="champ_level">
+        <div className="absolute aspect-[348/265] left-0 right-0 top-[41px]" data-node-id="I30:1297;19:1239" data-name="Слой 3 10">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img310} />
+        </div>
+        <div className="absolute aspect-[1797/1858] left-[11.76%] right-[10.29%] top-0" data-node-id="I30:1297;30:1265" data-name="character">
+          <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter8} />
+        </div>
+        <div className="absolute contents left-[26px] top-[48px]" data-node-id="I30:1297;39:1391" data-name="level">
+          <div className="absolute bg-[#00b43c] border border-black border-solid left-[26px] rounded-[6px] size-[12px] top-[49px]" data-node-id="I30:1297;39:1392" />
+          <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[29px] text-[10px] text-white top-[48px] whitespace-nowrap" data-node-id="I30:1297;39:1393">
+            9
+          </p>
+        </div>
+      </div>
+      <div className="absolute aspect-[1797/1858] left-[17.91%] right-[57.91%] top-[358px]" data-node-id="32:1312" data-name="character">
+        <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgCharacter8} />
+      </div>
+      <div className="absolute h-[35px] left-[117px] top-[775px] w-[38px]" data-node-id="32:1310" data-name="character">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgCharacter2} />
+      </div>
+      <div className="absolute h-[132px] left-[262px] top-[327px] w-[146px]" data-node-id="37:1350" data-name="enemy_ironhide_boar">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgEnemyIronhideBoar} />
+      </div>
+      <div className="absolute h-[55px] left-[94px] top-[487px] w-[54px]" data-node-id="45:1430" data-name="x2_time">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgX2Time} />
+      </div>
+      <div className="absolute h-[55px] left-[188px] top-[487px] w-[54px]" data-node-id="45:1431" data-name="auto_merge">
+        <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgAutoMerge} />
+      </div>
+      <div className="absolute h-[55px] left-[282px] top-[487px] w-[54px]" data-node-id="45:1433" data-name="x2_gold">
+        <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgX2Gold} />
+      </div>
+      <BuyCharacter className="absolute h-[77px] left-[172px] top-[761px] w-[86px]" />
+      <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal leading-[normal] left-[131px] text-[9px] text-white top-[810px] whitespace-nowrap" data-node-id="45:1446">
+        50
+      </p>
+      <Coin className="absolute left-[117px] size-[11px] top-[810px]" />
+      <div className="-translate-x-1/2 absolute h-[34px] left-1/2 top-[189px] w-[284px]" data-node-id="51:1470" data-name="8615a402-b845-4cb1-bf81-dc6f34d3e059 1 1">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgRectangle3} />
+      </div>
+      <div className="-translate-x-1/2 absolute h-[22px] left-[calc(50%+0.5px)] top-[195px] w-[141px]" data-node-id="51:1471" data-name="00a3b66c-f59b-4c9d-8973-976579fc7a09 1 1">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img00A3B66CF59B4C9D8973976579Fc7A0911} />
+      </div>
+      <div className="absolute left-[362px] size-[54px] top-[179px]" data-node-id="51:1472" data-name="9f7511af-8dea-4f98-8bf1-9582f91e4197 1 1">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img9F7511Af8Dea4F988Bf19582F91E419711} />
+      </div>
+      <div className="absolute left-[368px] size-[42px] top-[185px]" data-node-id="51:1473" data-name="9be31cff-28e3-4112-8d41-15b9cf7288e4 1 1">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img9Be31Cff28E341128D4115B9Cf7288E411} />
+      </div>
+      <div className="absolute h-[45px] left-[26px] top-[183px] w-[42px]" data-node-id="52:1474" data-name="e1d6f87b-d3a2-4dc0-abd3-e6d47d1ffa04 1 1">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgE1D6F87BD3A24Dc0Abd3E6D47D1Ffa0411} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Passion_One:Regular'] leading-[normal] left-[87px] not-italic text-[20px] text-white top-[195px] whitespace-nowrap" data-node-id="55:1479">
+        2-100
+      </p>
+      <p className="[word-break:break-word] absolute font-['Passion_One:Regular'] leading-[normal] left-[303px] not-italic text-[20px] text-white top-[195px] whitespace-nowrap" data-node-id="55:1481">
+        BOSS
+      </p>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

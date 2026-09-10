@@ -1,0 +1,27 @@
+{
+  "mapped": 351,
+  "hierarchyMatched": 185,
+  "visualOnly": 166,
+  "categories": {
+    "ui": 72,
+    "currency": 4,
+    "equipment": 109,
+    "relic": 34,
+    "hero": 20,
+    "enemy": 20,
+    "branding": 16,
+    "reward": 5,
+    "boss": 6,
+    "portrait": 20,
+    "decoration": 4,
+    "background": 29,
+    "reference": 12
+  },
+  "scopeSets": {
+    "USED_IN_MVP": 283,
+    "USED_POST_MVP": 52,
+    "UNUSED_OR_REFERENCE_ONLY": 16
+  },
+  "unknownUnclassified": [],
+  "sourceHashMatchCount": 185
+}

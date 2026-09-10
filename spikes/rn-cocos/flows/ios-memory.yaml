@@ -1,0 +1,34 @@
+appId: org.reactjs.native.example.KiselNativeProbe
+---
+- assertVisible: "Open native Cocos"
+- evalScript: ${output.phase = 'baseline'; output.cycle = 0}
+- runScript: memory-sample.js
+- tapOn:
+    id: open-cocos
+- assertVisible: "Return to RN"
+- tapOn:
+    point: "50%,60%"
+    retryTapIfNoChange: false
+- tapOn:
+    id: dismiss-cocos
+- assertVisible: "Bridge PASS: color=1, rejected=9/9"
+- evalScript: ${output.phase = 'warmup'}
+- runScript: memory-sample.js
+- repeat:
+    times: 10
+    commands:
+      - evalScript: ${output.cycle = output.cycle + 1}
+      - tapOn:
+          id: open-cocos
+      - assertVisible: "Return to RN"
+      - tapOn:
+          point: "50%,60%"
+          retryTapIfNoChange: false
+      - evalScript: ${output.phase = 'open'}
+      - runScript: memory-sample.js
+      - tapOn:
+          id: dismiss-cocos
+      - assertVisible: "Bridge PASS: color=1, rejected=9/9"
+      - evalScript: ${output.phase = 'closed'}
+      - runScript: memory-sample.js
+- takeScreenshot: memory-ios-final-rn

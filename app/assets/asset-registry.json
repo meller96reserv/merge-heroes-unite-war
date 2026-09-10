@@ -1,0 +1,4612 @@
+{
+  "version": 1,
+  "screenIds": [
+    "SCREEN-001",
+    "SCREEN-002",
+    "SCREEN-003",
+    "SCREEN-004",
+    "SCREEN-005",
+    "SCREEN-006",
+    "SCREEN-007",
+    "SCREEN-008",
+    "SCREEN-009",
+    "SCREEN-010",
+    "SCREEN-011",
+    "SCREEN-012",
+    "SCREEN-013",
+    "SCREEN-014",
+    "SCREEN-015"
+  ],
+  "records": [
+    {
+      "id": "background_castle_platform__941x1672",
+      "file": "app/assets/art/background_castle_platform__941x1672.png",
+      "sourceFile": "analysis/figma/raw/images/b6843d342c36233c46c287371205642516d4824e",
+      "sourceSha256": "e06ac3ab5089d40a6fb5368d79c6742c77dc58df504753279a40886a91e8b77f",
+      "sha256": "fb149a24193fe20fab48613fb67eef7c513318512e78aabd9ed2c9d34e93df40",
+      "width": 864,
+      "height": 1535,
+      "originalSize": [
+        941,
+        1672
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "standalone",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "background_dungeon_frost_strip__2172x724",
+      "file": "app/assets/art/background_dungeon_frost_strip__2172x724.png",
+      "sourceFile": "analysis/figma/raw/images/f942f214c1087b5af4bfea18e4808a749cdfc2fe",
+      "sourceSha256": "695a0db3c21e3ac7dc18e08a9ad9e3824187d28c004555bf2e725039e511bbcb",
+      "sha256": "f66fa023b79c7e9efd6ead554b3b2162c21bd8deadc16a3bd7a276137cca2ada",
+      "width": 1536,
+      "height": 512,
+      "originalSize": [
+        2172,
+        724
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "standalone",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "background_dungeon_infernal_strip__2172x724",
+      "file": "app/assets/art/background_dungeon_infernal_strip__2172x724.png",
+      "sourceFile": "analysis/figma/raw/images/7276c1544b69adce858414a636fc63bbad7714ec",
+      "sourceSha256": "bed40ad56e5b0c33cc1e573b37cd36deb5b1862983da0d2b9ffa2ca9428ed92f",
+      "sha256": "c1a814f6a2afcd4a6a4fe41f5555c3508d868382919fcad2082e9854a846bdfd",
+      "width": 1536,
+      "height": 512,
+      "originalSize": [
+        2172,
+        724
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "standalone",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "background_dungeon_shadow_bright_strip__2172x724",
+      "file": "app/assets/art/background_dungeon_shadow_bright_strip__2172x724.png",
+      "sourceFile": "analysis/figma/raw/images/cba31e4d7c053dc337a3bd11c0eb0828ef59fcff",
+      "sourceSha256": "87d500f26a3797076183c64e1a15bd93c5513e83bfe744253e6d2aecd425c649",
+      "sha256": "ef8c4df990802a9436a1199e75af5dee9f8027998cfcc20b88fd5f68c41f54ab",
+      "width": 1536,
+      "height": 512,
+      "originalSize": [
+        2172,
+        724
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "standalone",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "background_floating_islands__941x1672",
+      "file": "app/assets/art/background_floating_islands__941x1672.png",
+      "sourceFile": "analysis/figma/raw/images/6b0fe4f85adb51efb23cdd45f201e502c0686cd1",
+      "sourceSha256": "ec5c23fbb04b3ee8647540f5e87334d9d109114d3c73cf7d20119c3b86ec2c74",
+      "sha256": "b47f1ed7d3e32caa1fbce1a7641ba0cef1a8a9848c2c2f0b3f608093d6ea93da",
+      "width": 864,
+      "height": 1535,
+      "originalSize": [
+        941,
+        1672
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "standalone",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "background_forest_glade__941x1672",
+      "file": "app/assets/art/background_forest_glade__941x1672.png",
+      "sourceFile": "analysis/figma/raw/images/4cc88a1fa76bcfc927baf7aa055edcfd32dd0130",
+      "sourceSha256": "f3bbc4875317fad9598975b77346e2513741531b22dfa467c777e005eaba8109",
+      "sha256": "ec2a8c16d87c47a33e37d7f25a17f4375ca6dc199af113823336e7623e88de9e",
+      "width": 864,
+      "height": 1535,
+      "originalSize": [
+        941,
+        1672
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "standalone",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "background_grass_platform__754x329",
+      "file": "app/assets/art/background_grass_platform__754x329.png",
+      "sourceFile": "analysis/figma/raw/images/27498cd527af92b2768eef17c1e5cd6a9454328a",
+      "sourceSha256": "c82b2020a1a80aa6f3468574256a11d2ab83ce0f72b8980d5866357d38b97dd0",
+      "sha256": "2378427c4c77866f6d7ea0a89f0c7e5838d74fc9a5e46819063f299daa0ef526",
+      "width": 754,
+      "height": 329,
+      "originalSize": [
+        754,
+        329
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "standalone",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "background_stone_slot__348x265",
+      "file": "app/assets/art/background_stone_slot__348x265.png",
+      "sourceFile": "analysis/figma/raw/images/3e90c264d05d2f38863dee69a57bad0835294298",
+      "sourceSha256": "e9014dadf9f3bbd5e7c34db7e7586bcf8243d2142e6d7912a31469d161ea5ff5",
+      "sha256": "43c5321daba84c7aae0991e95d8e511e8fc1e496afb78c829b4302aae4424d63",
+      "width": 348,
+      "height": 265,
+      "originalSize": [
+        348,
+        265
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "backgrounds",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "boss_frost_dragon__1995x1925",
+      "file": "app/assets/art/boss_frost_dragon__1995x1925.png",
+      "sourceFile": "analysis/figma/raw/images/7f00e6a27e7f7b619d84155ace2e04e6f6feca26",
+      "sourceSha256": "39e0df703351086f18db825f78e516d6c51258604fa2a471c3029f7709431e51",
+      "sha256": "d7b8b08aa2b66dc673bf488f596a45369036a3c4699e4fea17ae8b5bd36bec0e",
+      "width": 768,
+      "height": 741,
+      "originalSize": [
+        1995,
+        1925
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "boss_infernal_dragon__1968x1659",
+      "file": "app/assets/art/boss_infernal_dragon__1968x1659.png",
+      "sourceFile": "analysis/figma/raw/images/24e7b4b661c7ee64dfa762ed3c11611dc92191b0",
+      "sourceSha256": "2d060451d45ab5b82785cec7a77472d9cc21f1ff19de2fc5856379d96b24ae12",
+      "sha256": "65d2e8199fdbe3faca3fd063bd0e4cfed5e692c3724bca3993db1e76a0188d1c",
+      "width": 768,
+      "height": 647,
+      "originalSize": [
+        1968,
+        1659
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "boss_shadow_dragon__1974x1657",
+      "file": "app/assets/art/boss_shadow_dragon__1974x1657.png",
+      "sourceFile": "analysis/figma/raw/images/399835a2248bc008049911515ada1858ec75cf7b",
+      "sourceSha256": "e2953ae77e9a51b37e90cd4b86f351b2feb6afc31fcc3e3cfb6495436125c2c5",
+      "sha256": "1fca5dd515dd8c7d459c233eac70cf84352fb5044a25d3bba1b945419ae58297",
+      "width": 768,
+      "height": 645,
+      "originalSize": [
+        1974,
+        1657
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "branding_hero_collage__1536x1024",
+      "file": "app/assets/art/branding_hero_collage__1536x1024.png",
+      "sourceFile": "analysis/figma/raw/images/0776e9c3b4670521067e7b4d5751c86deac1e358",
+      "sourceSha256": "701846984cec94771523267c0425b1600a935382acb03e4e7b8b038c70f9bf43",
+      "sha256": "d216b87a8e1c1de74c5f14ffa331b970300dbb428c1d91fe75c19a99e237df72",
+      "width": 768,
+      "height": 512,
+      "originalSize": [
+        1536,
+        1024
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "branding_hero_collage__1536x1024_variant2",
+      "file": "app/assets/art/branding_hero_collage__1536x1024_variant2.png",
+      "sourceFile": "analysis/figma/raw/images/361e1bf843e69fc4acc10557b15117a84f05362f",
+      "sourceSha256": "669960464d41fa191f0e7d967f1e0f73af8cb16b139591bbb616e84333f1c88f",
+      "sha256": "46e835e0402f10331e34eb3a8dde1806a15d56d3b369a5c1d2d67f883161b853",
+      "width": 768,
+      "height": 512,
+      "originalSize": [
+        1536,
+        1024
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "branding_logo__1448x1086",
+      "file": "app/assets/art/branding_logo__1448x1086.png",
+      "sourceFile": "analysis/figma/raw/images/0af28b86d0bf4dd07dcc86106fa47288eb5e449c",
+      "sourceSha256": "28d32483760d5025b9137c076d5532188ce549439202f00740ba027f2e8fea7d",
+      "sha256": "eba9d8d6b8c45dcaaa65dd4d51fe36a5e1313dd8bac6dd656e4dc393d326bbad",
+      "width": 768,
+      "height": 576,
+      "originalSize": [
+        1448,
+        1086
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "branding_logo__1448x1086_variant2",
+      "file": "app/assets/art/branding_logo__1448x1086_variant2.png",
+      "sourceFile": "analysis/figma/raw/images/86f1d78db7ee1bc4e9fcd896e80eb926280b29c8",
+      "sourceSha256": "82a2f6d6dc2d9b8b2cf57cfce5d39d6003e07ab542f4bb0c5ef7cfe2c227edcf",
+      "sha256": "ee7c0602b59eb83842a60b7eb4c01a74ebd4152dff86586078c53aaa97eb8160",
+      "width": 768,
+      "height": 576,
+      "originalSize": [
+        1448,
+        1086
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "branding_welcome_text__2172x724",
+      "file": "app/assets/art/branding_welcome_text__2172x724.png",
+      "sourceFile": "analysis/figma/raw/images/7b964ceeade5e1566bf7ecb69061bac17843cb8a",
+      "sourceSha256": "9de33e14e820794e8cde868cd5225b233a3e99f4d98985d1a314690fa9e180dc",
+      "sha256": "612d72855ace004445a187571beb8a68bc42d0c3676dd2dda683ac694eded8eb",
+      "width": 768,
+      "height": 256,
+      "originalSize": [
+        2172,
+        724
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "branding_welcome_text__2172x724_variant2",
+      "file": "app/assets/art/branding_welcome_text__2172x724_variant2.png",
+      "sourceFile": "analysis/figma/raw/images/9dede4c77553cb20489fce8bf0e8e3d7b3525e2c",
+      "sourceSha256": "fd8d59b382f3b3c3f933f17b7a7dd18fb7b536d12eb2142d33ff72125be4179d",
+      "sha256": "05cde1868c136a599d2beec5dc8e0bc87d0a0b561ecc8492cc5b510c29c4131e",
+      "width": 768,
+      "height": 256,
+      "originalSize": [
+        2172,
+        724
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "currency_blue_orb__545x554",
+      "file": "app/assets/art/currency_blue_orb__545x554.png",
+      "sourceFile": "analysis/figma/raw/images/777e17cf85e51215e2caaff22ebb334b17be469a",
+      "sourceSha256": "3e6d03439c83df7e7e7a73172c38427c6bd0794568a411bf943309904e270042",
+      "sha256": "a042ca67ba75d41fc36c32325b09d5922f7d7f081813804e74e6b456186b82a8",
+      "width": 545,
+      "height": 554,
+      "originalSize": [
+        545,
+        554
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "currency_gem_blue__300x252",
+      "file": "app/assets/art/currency_gem_blue__300x252.png",
+      "sourceFile": "analysis/figma/raw/images/027fb1a160a836ad27c008214bdd44046699c6b3",
+      "sourceSha256": "98f748832c288eca96aa9b561cf92c4514f4764cf7ddc08ec03cdcf886d79fd9",
+      "sha256": "65f72f6f3584c52ffdd7dfd78092e42fd5f6ac83b89dce35cc770710748f2b52",
+      "width": 300,
+      "height": 252,
+      "originalSize": [
+        300,
+        252
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "currency_gold_coin__254x262",
+      "file": "app/assets/art/currency_gold_coin__254x262.png",
+      "sourceFile": "analysis/figma/raw/images/8b1c44fd757fb629498188807b520d0ce3fcca3b",
+      "sourceSha256": "9bdf3b94708e0c8b9ae5660f2f254d8ebb31ea2a8694019dee7408a0180ab119",
+      "sha256": "7c79388547fb61c6f2ef9d5c5d4607fe4e5c35b6ef31e5376a783c9fa19a38c2",
+      "width": 254,
+      "height": 262,
+      "originalSize": [
+        254,
+        262
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "decoration_raccoon_castle__1254x1254",
+      "file": "app/assets/art/decoration_raccoon_castle__1254x1254.png",
+      "sourceFile": "analysis/figma/raw/images/1ae552b846d2cd9a35035f2b16555df744df4a32",
+      "sourceSha256": "18e4da1c4e7254a0be2f85a77b5f16886969d81094bbef60211d016baabe052d",
+      "sha256": "0f2dbb33e49f1215267a3a6bf487e3e5f1616b5069affabe924eb59dade9e917",
+      "width": 768,
+      "height": 768,
+      "originalSize": [
+        1254,
+        1254
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "decoration_raccoon_castle__1254x1254_variant2",
+      "file": "app/assets/art/decoration_raccoon_castle__1254x1254_variant2.png",
+      "sourceFile": "analysis/figma/raw/images/741e1dae868073fa4c6d79284c652a31207b2e69",
+      "sourceSha256": "ab0ddb1af853d6d13b16fb3d2aadfe1b71daf55ee00f0ed26040ba3d8964ff9e",
+      "sha256": "d5219ad3ea9cc364324c14f368505b74f79ec1b7bb833528b78cbebe99cf113f",
+      "width": 768,
+      "height": 768,
+      "originalSize": [
+        1254,
+        1254
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_bomb_goblin__1606x1561",
+      "file": "app/assets/art/enemy_bomb_goblin__1606x1561.png",
+      "sourceFile": "analysis/figma/raw/images/4043fe7b5bb26d9a56eb46d369dd44a7bea0355b",
+      "sourceSha256": "5c8e84e8451eb51aaf077f1be720af1c8344c4328334f2c809fc33724bedbc99",
+      "sha256": "2c53d81f906bd770d771f5f79dc2b673ca9b250ff586434d8fbf312a70126c8d",
+      "width": 384,
+      "height": 373,
+      "originalSize": [
+        1606,
+        1561
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_dark_bat_mage__1888x1531",
+      "file": "app/assets/art/enemy_dark_bat_mage__1888x1531.png",
+      "sourceFile": "analysis/figma/raw/images/7f8265d92f3025e60df9ea6f8476fc8de4c9c427",
+      "sourceSha256": "f118f2c0887a3c7d9e3ade50c1fa7443169166c6a94c4cc86d5cab8a64ee7183",
+      "sha256": "c3dcb2180f43ff94ad4c82a12a501cb12710bbf33ab7d880d414a99aa6cdc0ec",
+      "width": 384,
+      "height": 311,
+      "originalSize": [
+        1888,
+        1531
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_fire_lizard__1562x1651",
+      "file": "app/assets/art/enemy_fire_lizard__1562x1651.png",
+      "sourceFile": "analysis/figma/raw/images/36f8f6f7a7d0c7e0ae4e20f0b737fad9bba67716",
+      "sourceSha256": "a077a6307dd25d102c917f5c6f8585d6e8de991942805716c81e9e96cd3212d1",
+      "sha256": "74ba4a1e5546fd9ffc0c9e1df719ac6441d2bdcb23ff05bd86a2b07292cae4dc",
+      "width": 363,
+      "height": 384,
+      "originalSize": [
+        1562,
+        1651
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_iron_beetle__1835x1638",
+      "file": "app/assets/art/enemy_iron_beetle__1835x1638.png",
+      "sourceFile": "analysis/figma/raw/images/cdfb9c342d6d2e1ad70593ecdbdf2217bffb2b80",
+      "sourceSha256": "a700c124e81fbedc1330d5894e493eae5869a138d59f9f58111e48b874f1cc51",
+      "sha256": "0e2b0856c151d8921bd790c483232c715172c4916f355ad9cf5651dd37ef100b",
+      "width": 384,
+      "height": 343,
+      "originalSize": [
+        1835,
+        1638
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_ironhide_boar__1862x1681",
+      "file": "app/assets/art/enemy_ironhide_boar__1862x1681.png",
+      "sourceFile": "analysis/figma/raw/images/be919953e9369e0760e17392af8208f311c8d51d",
+      "sourceSha256": "f4a011a953e9d21b58200c7f8ffdf23b81dcfbcf8f022b77baa7ae5337329237",
+      "sha256": "303b9ebe54021256eb396b8646f8718a565438e92eb37bcc7c2b7b3963097ab4",
+      "width": 384,
+      "height": 347,
+      "originalSize": [
+        1862,
+        1681
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_poison_mushroom__1596x1576",
+      "file": "app/assets/art/enemy_poison_mushroom__1596x1576.png",
+      "sourceFile": "analysis/figma/raw/images/05a04461351d086a16a2c9b63bc7c05772867132",
+      "sourceSha256": "41aa0e1ac6e0eb6205846f41196a20372274580c3b45ffe5733bdbf86ee0a0b7",
+      "sha256": "60ad9e0f328b27933a376b2c34a3b3b8841aa7ff4ba1a55d5276ad342d37b569",
+      "width": 384,
+      "height": 379,
+      "originalSize": [
+        1596,
+        1576
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_shadow_wolf__1783x1677",
+      "file": "app/assets/art/enemy_shadow_wolf__1783x1677.png",
+      "sourceFile": "analysis/figma/raw/images/884e4a53f27c509c9e0d910c99e8eeb37b3764e0",
+      "sourceSha256": "c71995cce8a8c0efd10ef6bd19923ddb06756503f4a0eef4f396b9f5f1f677f3",
+      "sha256": "f732471ec5b4216e9e3d6ea7f139a4238abead9232e39182da723be23e07f2ed",
+      "width": 384,
+      "height": 361,
+      "originalSize": [
+        1783,
+        1677
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_stone_gargoyle__1789x1558",
+      "file": "app/assets/art/enemy_stone_gargoyle__1789x1558.png",
+      "sourceFile": "analysis/figma/raw/images/6b23891eb8e67567c8677d78a892c054f1fe5f21",
+      "sourceSha256": "0884660aeb4e4650f68f218a89143280903c84bd20d4adefe231cfe3bef994d5",
+      "sha256": "42e0328ddb59e1a64df0e4e0df5e9f5202b9a40effeed4df758a77d1d5642813",
+      "width": 384,
+      "height": 334,
+      "originalSize": [
+        1789,
+        1558
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_swamp_crocodile__1895x1429",
+      "file": "app/assets/art/enemy_swamp_crocodile__1895x1429.png",
+      "sourceFile": "analysis/figma/raw/images/a38f01991256368e852469e9bb54e5105d0707a9",
+      "sourceSha256": "ff94cd486f51ec02d99911341d145c24d7edceb40acc48b3c1a601fb7897c980",
+      "sha256": "b32ae013042b50d61bd494e525fd5344c552c7770a0ab3d40f2c611aa9a5f3fc",
+      "width": 384,
+      "height": 290,
+      "originalSize": [
+        1895,
+        1429
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "enemy_toxic_slime__1654x1388",
+      "file": "app/assets/art/enemy_toxic_slime__1654x1388.png",
+      "sourceFile": "analysis/figma/raw/images/27d3ca679aff035f5275fb0758710d482bf2f399",
+      "sourceSha256": "8a5c6aaa363f8decbf070b5f41175355efc664ec509bb8f4b45fe03dcf0cce7a",
+      "sha256": "6ccae5af4d73e75da1fed147316af31cdfc65c1e3e431506eea0abc572c13433",
+      "width": 384,
+      "height": 322,
+      "originalSize": [
+        1654,
+        1388
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_bunny_assassin_axes__715x516",
+      "file": "app/assets/art/equipment_bunny_assassin_axes__715x516.png",
+      "sourceFile": "analysis/figma/raw/images/eb8c311ae23995ada50296a0eedfdad03cbb395a",
+      "sourceSha256": "4d2217119003dfcd282ea5e0638373e1aa888e6b32e718060abb28d9251fa50f",
+      "sha256": "968a8ddb23777275fac91cd6f4e9f20705ae318b5f8d8a997394df3c6aa5823f",
+      "width": 384,
+      "height": 277,
+      "originalSize": [
+        715,
+        516
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_bunny_assassin_chest__567x656",
+      "file": "app/assets/art/equipment_bunny_assassin_chest__567x656.png",
+      "sourceFile": "analysis/figma/raw/images/e36b43bafc8a1e7bd67010d450107f258c5c8959",
+      "sourceSha256": "4c42b1ec55c1bed86ef710ea7dba12a26753949dea260c30480bb0aadded0d34",
+      "sha256": "caa353f2228974873e4d1957a2f6a0956070f668200ca7eaab94626c36bdaa4b",
+      "width": 332,
+      "height": 384,
+      "originalSize": [
+        567,
+        656
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_bunny_assassin_crescent_axes__699x588",
+      "file": "app/assets/art/equipment_bunny_assassin_crescent_axes__699x588.png",
+      "sourceFile": "analysis/figma/raw/images/b2283bb24e654f4b176d187df3638df2e322db20",
+      "sourceSha256": "e6142cef21b9d73308106be6ba7acd8f42079d476b502321a177eb6fcf700059",
+      "sha256": "0f1973736f911ba35fc513e00397d34b9ca1b298db65ab440749b8138c63181e",
+      "width": 384,
+      "height": 323,
+      "originalSize": [
+        699,
+        588
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_bunny_assassin_pants__522x580",
+      "file": "app/assets/art/equipment_bunny_assassin_pants__522x580.png",
+      "sourceFile": "analysis/figma/raw/images/b15c2e9daa94bf85f0aa6d2aaaae908e6b6d08b6",
+      "sourceSha256": "789cd6730a51e652cdd6be69c8945e90064a4cd49b97b1a8538234e4a30e0c7f",
+      "sha256": "35ad7683cfdbbdd4ce3d90527df8e7c05dc766b5a6e9b7b65109aa4a4d9d9156",
+      "width": 346,
+      "height": 384,
+      "originalSize": [
+        522,
+        580
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_bunny_assassin_ring__506x452",
+      "file": "app/assets/art/equipment_bunny_assassin_ring__506x452.png",
+      "sourceFile": "analysis/figma/raw/images/43d5300cde4ec04b5352a0762d9e21c53a8370f2",
+      "sourceSha256": "eaafc4c09d944e7cc7688f78c51f77e3986f565ec3eef7f2889ec3bd19ded400",
+      "sha256": "2fa4f19f4a85fa57ab6b2af71febb45b84699304f75f55c066c609ae52697c68",
+      "width": 384,
+      "height": 343,
+      "originalSize": [
+        506,
+        452
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_bunny_assassin_ring_band__455x424",
+      "file": "app/assets/art/equipment_bunny_assassin_ring_band__455x424.png",
+      "sourceFile": "analysis/figma/raw/images/9355b0ed05fd564e8f931254fc1b6f0eae0f1779",
+      "sourceSha256": "4fc325ce905e04c957cd18f81106e21482119c349152c069019f9aafa1055f29",
+      "sha256": "ed30bc0b87d6eb831c47d55acd204352ab161e75a56a32cc454688f6a85b2a56",
+      "width": 384,
+      "height": 358,
+      "originalSize": [
+        455,
+        424
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_boots__497x535",
+      "file": "app/assets/art/equipment_elf_archer_boots__497x535.png",
+      "sourceFile": "analysis/figma/raw/images/87c433c12114f926b8c045009192d958e224b1b4",
+      "sourceSha256": "9cbfe54df96df48f35833cfafa5104d11b03384a1a32c0491a9dcfada6d3eece",
+      "sha256": "fe4aebaeb95268e45949c1cf4204f888644c00bee59e57973228bed7e09cb6bd",
+      "width": 357,
+      "height": 384,
+      "originalSize": [
+        497,
+        535
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_bow__561x739",
+      "file": "app/assets/art/equipment_elf_archer_bow__561x739.png",
+      "sourceFile": "analysis/figma/raw/images/8fe532c9489c2b4f3e5f78a7e778a04b2e61cace",
+      "sourceSha256": "a30e81404c3dc97b2ee68f6c5fbd3b32eab1920b1a513ad314e6a01eb4193b05",
+      "sha256": "8bba8e5a30fc72c03c7b8d9d2929a0b049a25f81861d9a4f8e94b39ad5f142ad",
+      "width": 292,
+      "height": 384,
+      "originalSize": [
+        561,
+        739
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_coat__663x625",
+      "file": "app/assets/art/equipment_elf_archer_coat__663x625.png",
+      "sourceFile": "analysis/figma/raw/images/5fa746afd3d5fd77d9d6feb3916a29828e85188f",
+      "sourceSha256": "f7f0b8d7d8d072b23a6ee37e49447af51fa9adff7eb096c83bea3a574ec6b102",
+      "sha256": "a1b006ab88ae70115c19c4db5d46a63da93a1f290740964dfc85fe5a55b7196e",
+      "width": 384,
+      "height": 362,
+      "originalSize": [
+        663,
+        625
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_hood__622x656",
+      "file": "app/assets/art/equipment_elf_archer_hood__622x656.png",
+      "sourceFile": "analysis/figma/raw/images/beff88aa48a1e86f0b673d200d39b1c0b5e5884a",
+      "sourceSha256": "06edf2dafd622adc1b9a07d4a2e56f5179d097bbbb3a857ab9994decfad013e6",
+      "sha256": "b80a91fbc62553568f95c41bc8ca4287fec4c1a4cbccb49dda284a3aac91ab59",
+      "width": 364,
+      "height": 384,
+      "originalSize": [
+        622,
+        656
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_hood_fur__684x714",
+      "file": "app/assets/art/equipment_elf_archer_hood_fur__684x714.png",
+      "sourceFile": "analysis/figma/raw/images/8a0a4b69bf5c0394c572cfdd62de6728f266a29d",
+      "sourceSha256": "424fcfc05250385e412f7b4425c4536406f829f2579bf480032be484d3dbbb87",
+      "sha256": "b59eda0dbadb397c9a70225bf3ab0143e4284938354690303eef3795f3f94495",
+      "width": 368,
+      "height": 384,
+      "originalSize": [
+        684,
+        714
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_quiver__519x688",
+      "file": "app/assets/art/equipment_elf_archer_quiver__519x688.png",
+      "sourceFile": "analysis/figma/raw/images/b7871533ccf92b11eb63cc67f7daca1ff14283c6",
+      "sourceSha256": "3acc70845a2056e0bd60299afd0fe2f885aa8a119a04ca3c3cc21e081546451e",
+      "sha256": "29be2b86ec1dd4b2dbed5dbe58e1cc9a2a1f247a0dc72b9b68bdf6270fdbcd73",
+      "width": 290,
+      "height": 384,
+      "originalSize": [
+        519,
+        688
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_ring__536x516",
+      "file": "app/assets/art/equipment_elf_archer_ring__536x516.png",
+      "sourceFile": "analysis/figma/raw/images/2d2da51be9deeded3d9b9f07d6af7fb93015e94c",
+      "sourceSha256": "98b9a5ab596a9221fe731017d363a2fc1ac9114b1f788d025318907f938e98f5",
+      "sha256": "ff6277eda8ed7ba84a96c817334bd533fdc2e852683b8afb3227b392d5219522",
+      "width": 384,
+      "height": 370,
+      "originalSize": [
+        536,
+        516
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_elf_archer_ring_leaf__529x544",
+      "file": "app/assets/art/equipment_elf_archer_ring_leaf__529x544.png",
+      "sourceFile": "analysis/figma/raw/images/5a5f49a12405c47385e182776d35af1e3809f250",
+      "sourceSha256": "26aeb77ab5fa7c4ca3473a2993d3bb1c87cec7d3cab7a9885244010fd5d1edee",
+      "sha256": "77dccf63dfed6ba554a9f5f4767dc0085f1be71057c103cf57d46a7a3524557b",
+      "width": 373,
+      "height": 384,
+      "originalSize": [
+        529,
+        544
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_fox_sorcerer_ring__452x543",
+      "file": "app/assets/art/equipment_fox_sorcerer_ring__452x543.png",
+      "sourceFile": "analysis/figma/raw/images/0c6ccea79d2675660a690d1fbf6aff624f31024a",
+      "sourceSha256": "11c9ff5cadf10515512147fcd58535b9c445de1fcb624cf5a5bf19c8c2fdc4ff",
+      "sha256": "c1370637308c1ca0dd2db90eba0098f8fd65de0d787f88a66f99ddee3602c965",
+      "width": 320,
+      "height": 384,
+      "originalSize": [
+        452,
+        543
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_fox_sorcerer_ring_mask__461x515",
+      "file": "app/assets/art/equipment_fox_sorcerer_ring_mask__461x515.png",
+      "sourceFile": "analysis/figma/raw/images/73470e7fcaf52e7d7e796c4160a597fa91217860",
+      "sourceSha256": "85448c224627bec7ff919696f00184e966fc66ee6d4f2f26d183f74a0c09e9d6",
+      "sha256": "59f87d6778cfa9f61661ac4632eaa00d683cf03306faee045098e61a1ed1d4c4",
+      "width": 344,
+      "height": 384,
+      "originalSize": [
+        461,
+        515
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_fox_sorcerer_staff__462x747",
+      "file": "app/assets/art/equipment_fox_sorcerer_staff__462x747.png",
+      "sourceFile": "analysis/figma/raw/images/02a4dde377213241fff0dc579b2094999cc76847",
+      "sourceSha256": "79721ca5ecb40c17dd507586c745450d238c1232b7bd035367575b0224605552",
+      "sha256": "696ade19a1a7a54d8d71def27bdadc68979eeed93458ae2ae3162958062d8d15",
+      "width": 237,
+      "height": 384,
+      "originalSize": [
+        462,
+        747
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_fox_sorcerer_staff_orb__535x811",
+      "file": "app/assets/art/equipment_fox_sorcerer_staff_orb__535x811.png",
+      "sourceFile": "analysis/figma/raw/images/732d97e3ef064419ae0f5906ed9868ea45cab4ea",
+      "sourceSha256": "71e3d20a6c9d11d768c68f291d42acc25c715a7d57403ab70871cce07ed9e18c",
+      "sha256": "0bd9a0c91a1569f08d2b9e8b72bf4cfc2a03229b8e6433a71d32b296e4b7c978",
+      "width": 253,
+      "height": 384,
+      "originalSize": [
+        535,
+        811
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_ice_fairy_boots__578x556",
+      "file": "app/assets/art/equipment_ice_fairy_boots__578x556.png",
+      "sourceFile": "analysis/figma/raw/images/26136bc5cc95a7230b2b40e0333a783605c4cd2d",
+      "sourceSha256": "c13e7e70598dff3947a946a6c7578c31e79d136b4a51113ca94df2546ae03894",
+      "sha256": "c49740fc2e601238d76c6a3c13bf10866c1b019d56fb17dfbce03e9ac5ee16f2",
+      "width": 384,
+      "height": 369,
+      "originalSize": [
+        578,
+        556
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_ice_fairy_ring_gem__465x536",
+      "file": "app/assets/art/equipment_ice_fairy_ring_gem__465x536.png",
+      "sourceFile": "analysis/figma/raw/images/167b955bffaeeb6cc65e384a90dbe8318b6469eb",
+      "sourceSha256": "4f9daeb4f0172bf2bb87046c67ad376f31b71ec2b4fb7864a18a8bbbfe9ae6b2",
+      "sha256": "fc94c71a85fffa55c938da9b175d10fe165648ff70b4e50795ae140cf2462aab",
+      "width": 333,
+      "height": 384,
+      "originalSize": [
+        465,
+        536
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_ice_fairy_ring_snowflake__484x545",
+      "file": "app/assets/art/equipment_ice_fairy_ring_snowflake__484x545.png",
+      "sourceFile": "analysis/figma/raw/images/3f7661b751fc2f8c82ca6e3dae34a25b87a1ba6b",
+      "sourceSha256": "a1243c7cf24ce5647fb8790becc3adffd6977128fc1065e7553a4d9ef01063ff",
+      "sha256": "b4291ae878c094a2a022d8f9747d3927bb540f5d0ec6d6be7aa382f1b189578d",
+      "width": 341,
+      "height": 384,
+      "originalSize": [
+        484,
+        545
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_ice_fairy_robe__670x754",
+      "file": "app/assets/art/equipment_ice_fairy_robe__670x754.png",
+      "sourceFile": "analysis/figma/raw/images/5bb94d24b5701250d51a9f5999e913cb4657055c",
+      "sourceSha256": "7cef3018bc159a7895deff14b1772ef17ddc3920c3700f4135b261509b28f60e",
+      "sha256": "0b99d197b8db530574c5b269a75558d46da4bfa4308773502f0d556849dd6084",
+      "width": 341,
+      "height": 384,
+      "originalSize": [
+        670,
+        754
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_ice_fairy_staff_snowflake__583x881",
+      "file": "app/assets/art/equipment_ice_fairy_staff_snowflake__583x881.png",
+      "sourceFile": "analysis/figma/raw/images/5fe747f63bc0c20354a03a39f34d22bf172c5757",
+      "sourceSha256": "ebb4bd85aed8cef85c92334c2eccdd7c2a6cb94a423cce02cb14d0d2fb51e74e",
+      "sha256": "d815c0d0d37f25d8723004745bfc6d87f0019365d74308754696b4f148d6b427",
+      "width": 254,
+      "height": 384,
+      "originalSize": [
+        583,
+        881
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_ice_fairy_staff_spear__435x899",
+      "file": "app/assets/art/equipment_ice_fairy_staff_spear__435x899.png",
+      "sourceFile": "analysis/figma/raw/images/0cfd855bcdef93e33e3e68babd5866bcf2fa4162",
+      "sourceSha256": "32388b31042b8f382df34a8e8e511e2e4f5b5e020c2be1ee72222e32890e1c46",
+      "sha256": "b4a0d741fffbdda991ec75f391dbdccbf1087cec9cf9acfd37cc06da095c4947",
+      "width": 186,
+      "height": 384,
+      "originalSize": [
+        435,
+        899
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_inferno_dragon_chest__610x596",
+      "file": "app/assets/art/equipment_inferno_dragon_chest__610x596.png",
+      "sourceFile": "analysis/figma/raw/images/4ef146a3161fd460450196d7a049be935a2ed028",
+      "sourceSha256": "cf224973a8cc35466a4e3d7e98198f7d2fe026d401cfddd02d52eba01761c92a",
+      "sha256": "28008a78412f2f637ccf1ab0aa42ca3cb36f9940dcfb24be0a4182f954f2d4db",
+      "width": 384,
+      "height": 375,
+      "originalSize": [
+        610,
+        596
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_inferno_dragon_ring__306x425",
+      "file": "app/assets/art/equipment_inferno_dragon_ring__306x425.png",
+      "sourceFile": "analysis/figma/raw/images/0e5e63d6d0df4a896df8e9e3731dfe440e0360d3",
+      "sourceSha256": "a2135ea0283ce501c3f5282bf63e9049626bc24424fe234f244ded1a77d7bd09",
+      "sha256": "4080ef5e2d83bf260302bdcea40b31b822b8bcdaf1468518eab5d22d1f5b12a2",
+      "width": 276,
+      "height": 384,
+      "originalSize": [
+        306,
+        425
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_inferno_dragon_ring_gem__328x398",
+      "file": "app/assets/art/equipment_inferno_dragon_ring_gem__328x398.png",
+      "sourceFile": "analysis/figma/raw/images/5977fb8357d809397ef4e35cfd9cdef06a3f5c9e",
+      "sourceSha256": "2d3f325cceb897b09c2201adfa9e748e41339972cedf981c2a51d057e7ea1bd3",
+      "sha256": "895346f086ba05e15159f0dcf9fb6f041d89be5787c5581a4a8f6e11b5f5b927",
+      "width": 316,
+      "height": 384,
+      "originalSize": [
+        328,
+        398
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_inferno_dragon_robe__521x524",
+      "file": "app/assets/art/equipment_inferno_dragon_robe__521x524.png",
+      "sourceFile": "analysis/figma/raw/images/78bfa38b717308ddd2622ef3c8676cf9bd328b52",
+      "sourceSha256": "8af27cd5f91702b07a67a42889daa6859f861b53d5c102c974d74fb7727a875a",
+      "sha256": "d1f36949d3d71c1162d408bab960869f0e2b4db93fd7d97aac214ac7298136d5",
+      "width": 382,
+      "height": 384,
+      "originalSize": [
+        521,
+        524
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_inferno_dragon_spear__628x784",
+      "file": "app/assets/art/equipment_inferno_dragon_spear__628x784.png",
+      "sourceFile": "analysis/figma/raw/images/3d9e65afef836d103767896dee052022ccc13984",
+      "sourceSha256": "fb0282768904c95ee2865418a040b3436651d06460ef2057bf5136a7e9985f26",
+      "sha256": "c6ee37d8a5fbbe945ed5fae87a5a0b885f198ae304d247720cd69762b2270fb5",
+      "width": 308,
+      "height": 384,
+      "originalSize": [
+        628,
+        784
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_inferno_dragon_sword__557x803",
+      "file": "app/assets/art/equipment_inferno_dragon_sword__557x803.png",
+      "sourceFile": "analysis/figma/raw/images/d18f0813e1506969d5d4fe925b78267b3f855a1c",
+      "sourceSha256": "eb9bad111646f83f89189a98531c92a13e8413fdfa0070a0167460ee122635d2",
+      "sha256": "32f8411f979aafb04d6f9314cbe959b9457c0e609094ea7759c7935ff824455d",
+      "width": 266,
+      "height": 384,
+      "originalSize": [
+        557,
+        803
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_lion_knight_chest__610x541",
+      "file": "app/assets/art/equipment_lion_knight_chest__610x541.png",
+      "sourceFile": "analysis/figma/raw/images/8eda2a1c335c6e7da64e69651e4729b17bfb7283",
+      "sourceSha256": "598c4d7bc8280446fda255b9e9eda3d479c834f5fa9c0734acdda7d19e71bfdd",
+      "sha256": "3d9253751380a1d2b90441139454ce7f3bf291d53b50f8ae547c5b1165eb28ab",
+      "width": 384,
+      "height": 341,
+      "originalSize": [
+        610,
+        541
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_lion_knight_hammer__509x696",
+      "file": "app/assets/art/equipment_lion_knight_hammer__509x696.png",
+      "sourceFile": "analysis/figma/raw/images/668c3a9a2ae00999798a24b7ba79bc4702ce62bd",
+      "sourceSha256": "4dc6c1c5b0a424ccf7b567d1aa5c5dd654f87ee5fa7ec8d80f3eac99570868be",
+      "sha256": "868e7db138f12645cea202e0f7c9988d088666dc1fd5de7f3e1eb1eb740b63fe",
+      "width": 281,
+      "height": 384,
+      "originalSize": [
+        509,
+        696
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_lion_knight_helmet__491x628",
+      "file": "app/assets/art/equipment_lion_knight_helmet__491x628.png",
+      "sourceFile": "analysis/figma/raw/images/a0db91f0ccb8af63ed5624c6dbb0308322fa761c",
+      "sourceSha256": "1cb0b8528546ae1efae6207a6380cfcc37503fa9434806de621928d5b635e943",
+      "sha256": "8614974338283dc7a39da876725de8aeb29affdfa3d09ed469176d899820b861",
+      "width": 300,
+      "height": 384,
+      "originalSize": [
+        491,
+        628
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_lion_knight_shield__458x423",
+      "file": "app/assets/art/equipment_lion_knight_shield__458x423.png",
+      "sourceFile": "analysis/figma/raw/images/fee263da58d83039825169394584a69fd9f99f5f",
+      "sourceSha256": "f5bb046adbe70954cf268550b8a36bd1e56f265b92d7bc1b917ad7a93ed1ae4b",
+      "sha256": "5d0e4ec7da75b6c35228a7154ff536d01455591db5cebf39fa612f1e21814f22",
+      "width": 384,
+      "height": 355,
+      "originalSize": [
+        458,
+        423
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_lion_knight_sword__486x750",
+      "file": "app/assets/art/equipment_lion_knight_sword__486x750.png",
+      "sourceFile": "analysis/figma/raw/images/de43cd8317bf721a4af4086201add657a5f6f9a7",
+      "sourceSha256": "18a04ecdd84829f898a72d264ab040146b142977c7aea546aae01bc541890c7b",
+      "sha256": "2b9107103015124d28eed7f35c218fec66fff6010353b1309a6887505efaff0a",
+      "width": 249,
+      "height": 384,
+      "originalSize": [
+        486,
+        750
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_owl_mage_ring_crescent__413x553",
+      "file": "app/assets/art/equipment_owl_mage_ring_crescent__413x553.png",
+      "sourceFile": "analysis/figma/raw/images/0d8dfc1da087dbdb043b08faed0eb0b12b49c371",
+      "sourceSha256": "5652b9fb3db25e09b142ff050ce4fd27d1eb37c52ed6b95dea1931cd3d8c09c0",
+      "sha256": "bfc4e9cc076763808a1cc33a652f4bc74c3f00ca667a933ab4ef85466a002f39",
+      "width": 287,
+      "height": 384,
+      "originalSize": [
+        413,
+        553
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_owl_mage_ring_orb__499x469",
+      "file": "app/assets/art/equipment_owl_mage_ring_orb__499x469.png",
+      "sourceFile": "analysis/figma/raw/images/a61c6732dfa030bd0337ac9a2d5644d8d89ee6dc",
+      "sourceSha256": "0cb3346bd47d219125c0dd1275a9a420892cf4c66cf0508dc865a7862aa8126c",
+      "sha256": "86fc2f8d8464a151f038bc7bea52d585cd7210eaee1bddf2acc612dea2a90f12",
+      "width": 384,
+      "height": 361,
+      "originalSize": [
+        499,
+        469
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_owl_mage_robe_crescent__611x673",
+      "file": "app/assets/art/equipment_owl_mage_robe_crescent__611x673.png",
+      "sourceFile": "analysis/figma/raw/images/2a448a50e985e72af9e22c1145c95b359c87b74a",
+      "sourceSha256": "5c2251775dd57dc972cb0f98e9b52764c97a863303375f9d857b2d41ca192ac3",
+      "sha256": "e4d4d9745531b490f2f06c53b84aa34dbd299f5a9c3083b81be89c77f0f715fe",
+      "width": 349,
+      "height": 384,
+      "originalSize": [
+        611,
+        673
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_owl_mage_robe_orb__533x651",
+      "file": "app/assets/art/equipment_owl_mage_robe_orb__533x651.png",
+      "sourceFile": "analysis/figma/raw/images/cd3cbe77729a836949def618d21d5d38454f11b3",
+      "sourceSha256": "ca798a6b9b072b2b0965ec129b2badb11270428fd63221c5dd73a1d17b44abbb",
+      "sha256": "17dd700af90269aebe52b4ba7dbad1006c496b8cfdc3216673b0f21a04c6bf44",
+      "width": 314,
+      "height": 384,
+      "originalSize": [
+        533,
+        651
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_owl_mage_staff_crescent__394x792",
+      "file": "app/assets/art/equipment_owl_mage_staff_crescent__394x792.png",
+      "sourceFile": "analysis/figma/raw/images/696dd30a73d5d2e2c929303afd4a5ba32e3332f3",
+      "sourceSha256": "aba0caa7ea277efe4f57e292d7ba07b5a9e22c493a36b612dc37024be32d7321",
+      "sha256": "9791b79e66f385091e845ab2b5f52aae2d8b3f0f6ec01ed7519e80b8f91a8f77",
+      "width": 191,
+      "height": 384,
+      "originalSize": [
+        394,
+        792
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_owl_mage_staff_owl__478x836",
+      "file": "app/assets/art/equipment_owl_mage_staff_owl__478x836.png",
+      "sourceFile": "analysis/figma/raw/images/65cd524b7292d59bfce6b1d95c03bb73cf72ebc1",
+      "sourceSha256": "363f9dfc08389657906da5269755aa2068bb50467797f359c9948bd93f27d60d",
+      "sha256": "030cb0e7d9d6774da6b2c663d5264d4498367a1ac10d10272532d2fd36308900",
+      "width": 220,
+      "height": 384,
+      "originalSize": [
+        478,
+        836
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_panda_monk_chest__619x555",
+      "file": "app/assets/art/equipment_panda_monk_chest__619x555.png",
+      "sourceFile": "analysis/figma/raw/images/ae3fad983d1da3a5633348e3f3da0d24d85e4640",
+      "sourceSha256": "249e50b473a57a60823a0d0904f5cdd578210f9b26fd26fe9bd90f1fcc921cec",
+      "sha256": "5b4fc1ccb006dbf90f4f35a162c9ea0af53e121eb7c4acf1d5197ed05bf33b6b",
+      "width": 384,
+      "height": 344,
+      "originalSize": [
+        619,
+        555
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_panda_monk_orbs__669x551",
+      "file": "app/assets/art/equipment_panda_monk_orbs__669x551.png",
+      "sourceFile": "analysis/figma/raw/images/c17e7a2cd41a2faf6d5397f6c46465f14a155f47",
+      "sourceSha256": "aadc9c3dcd6ec50a6dffb1e1d3c4b69e9e96a3f93e0fa476d1f04364f4d96927",
+      "sha256": "94e5596038229f92b54b47780829ad5d3329568fefd3a5bf934ca9529c2701d0",
+      "width": 384,
+      "height": 316,
+      "originalSize": [
+        669,
+        551
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_panda_monk_pants__537x568",
+      "file": "app/assets/art/equipment_panda_monk_pants__537x568.png",
+      "sourceFile": "analysis/figma/raw/images/9887c23fae59d8e27878791c157c9f3a050e62b0",
+      "sourceSha256": "12b71755e44073179e9ce43ff6c826f1acf7944a17eb736712d270cc7d22c9e1",
+      "sha256": "24840661b1d137811f95801afbf069a3a191f264c583053eba36093c1f7875d9",
+      "width": 363,
+      "height": 384,
+      "originalSize": [
+        537,
+        568
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_panda_monk_ring__442x374",
+      "file": "app/assets/art/equipment_panda_monk_ring__442x374.png",
+      "sourceFile": "analysis/figma/raw/images/bba70ea31d80ee161052eee9611b4a4f11863ee9",
+      "sourceSha256": "365134db3518fd26b09b0b6a397be2fe99581737ed342dc5d050c9ef1eb59dd4",
+      "sha256": "80fc87cfdcc86965d0f4fd28994fca33bc6dbc78481ee89471ab86d17081eb70",
+      "width": 384,
+      "height": 325,
+      "originalSize": [
+        442,
+        374
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_panda_monk_staff__623x626",
+      "file": "app/assets/art/equipment_panda_monk_staff__623x626.png",
+      "sourceFile": "analysis/figma/raw/images/fcb06634e345c076cd030ae74ed295778eaf95c2",
+      "sourceSha256": "75071d4d2bfc1534c8f436de3a73b93da1beface1625f3e98e4a9acdc6978ff9",
+      "sha256": "96541fef769879536ec0756dc6d51f42ea11fc3aaca07a386e9cbc108f1c8f7e",
+      "width": 382,
+      "height": 384,
+      "originalSize": [
+        623,
+        626
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_cannon_large__625x565",
+      "file": "app/assets/art/equipment_raccoon_engineer_cannon_large__625x565.png",
+      "sourceFile": "analysis/figma/raw/images/fb130201864a4e9776cc84c0735297c96c741912",
+      "sourceSha256": "a08ebe08664eb17c3106d57d1469fe393df1080105b8b60869ea3a1d82a626ce",
+      "sha256": "8df29b55a810df3d0e232cfa8f892e020ba048c55e2c7f84daca9ad9e1b2554f",
+      "width": 384,
+      "height": 347,
+      "originalSize": [
+        625,
+        565
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_cannon_large__666x538",
+      "file": "app/assets/art/equipment_raccoon_engineer_cannon_large__666x538.png",
+      "sourceFile": "analysis/figma/raw/images/ea87345e76b21aa6327ddb1202842962c4ecc595",
+      "sourceSha256": "e722a1c4159721b339b310d2e2b03b1aea575f6818735f6ff6596cd4f5c32989",
+      "sha256": "99c7174c58a3aee83d2cf969c82a9e6753b8f94bb0d1a488c75dc3a0ace9d751",
+      "width": 384,
+      "height": 310,
+      "originalSize": [
+        666,
+        538
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_chest_machine__668x500",
+      "file": "app/assets/art/equipment_raccoon_engineer_chest_machine__668x500.png",
+      "sourceFile": "analysis/figma/raw/images/599dab42cfb75937f7a1b9fc111ccb283886ac49",
+      "sourceSha256": "a0b74f4a855a2dd00d085fda4d9098e997d0eafa3e28f703fab2c06d6d97f967",
+      "sha256": "165dbe290ccb7d3c80c6e36fce7e47a5806db118ad33d9e6212cbb88a7545872",
+      "width": 384,
+      "height": 287,
+      "originalSize": [
+        668,
+        500
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_coat__651x566",
+      "file": "app/assets/art/equipment_raccoon_engineer_coat__651x566.png",
+      "sourceFile": "analysis/figma/raw/images/56fefa41ce54478df42e9635270a205cf710f713",
+      "sourceSha256": "3102a68ae72c58f976ed0c8e934dce5ca1a90808458a65918b0857eb3e0c901e",
+      "sha256": "9ffdfbd5e6e54b5809102e8a440fc4ceeec8bf785329a9e0619f9f7795b75cb0",
+      "width": 384,
+      "height": 334,
+      "originalSize": [
+        651,
+        566
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_ring_clock__558x491",
+      "file": "app/assets/art/equipment_raccoon_engineer_ring_clock__558x491.png",
+      "sourceFile": "analysis/figma/raw/images/13562fe59895c6ec439ecf556040bd2e2f4f25a7",
+      "sourceSha256": "8af4b9bba0ca46968282c9b4dca048bce055fc3c5276952b59e91fc2c4996bf0",
+      "sha256": "6e81b3c76840c9f911837ad96eb77eff763c2d879a2a37b4837f591b2df9baa9",
+      "width": 384,
+      "height": 338,
+      "originalSize": [
+        558,
+        491
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_ring_gem__497x460",
+      "file": "app/assets/art/equipment_raccoon_engineer_ring_gem__497x460.png",
+      "sourceFile": "analysis/figma/raw/images/9d5f5141fd61d21842fe70ddb0c792239ccc64b7",
+      "sourceSha256": "9bbd36837d37d7a9a2bd95fba730830da982bf651fdd897090af47556855c80c",
+      "sha256": "379c29441ea4919f516360f2327071537fac6b00b590f21c9f086bab9e0f0798",
+      "width": 384,
+      "height": 355,
+      "originalSize": [
+        497,
+        460
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_turtle_warrior_chest_plate__686x555",
+      "file": "app/assets/art/equipment_turtle_warrior_chest_plate__686x555.png",
+      "sourceFile": "analysis/figma/raw/images/e6dae6bc9d0e728fa4f6c122d163581182d6440e",
+      "sourceSha256": "57dfb7cf4d036ef662ab304fe74845bd16469d380565dcad9316652c09117662",
+      "sha256": "b044e687bc484e4a6d1f5ba7b88a5a6536269d5c3774da986f7b0f0ea4ecf3ca",
+      "width": 384,
+      "height": 311,
+      "originalSize": [
+        686,
+        555
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_turtle_warrior_chest_shell__608x522",
+      "file": "app/assets/art/equipment_turtle_warrior_chest_shell__608x522.png",
+      "sourceFile": "analysis/figma/raw/images/6bc34dd104e58e77958567e48e5459e94a81e695",
+      "sourceSha256": "53a8ca645c3e720207a3b6b3eed6d1296a1ef90179812d9b6ae857689f0ba895",
+      "sha256": "5fffa71214407d523c9a486df2f14cb19c8e89618433f77514274cbc69dc6eab",
+      "width": 384,
+      "height": 330,
+      "originalSize": [
+        608,
+        522
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_turtle_warrior_hammer__562x646",
+      "file": "app/assets/art/equipment_turtle_warrior_hammer__562x646.png",
+      "sourceFile": "analysis/figma/raw/images/9b939242dd505c0f5e83127ef26368c906d5b6ef",
+      "sourceSha256": "a6507fa05f567e30990e93cfd2a882eb469bb1bb429fcac35a5fce6dcab76aab",
+      "sha256": "321ed9f0e282a7be54bf11387cf5702208d448159bd2f8c7e8e5c8ed2ecdb633",
+      "width": 334,
+      "height": 384,
+      "originalSize": [
+        562,
+        646
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_turtle_warrior_mace__583x649",
+      "file": "app/assets/art/equipment_turtle_warrior_mace__583x649.png",
+      "sourceFile": "analysis/figma/raw/images/876530f5deabec9047682bec53678c43368897b6",
+      "sourceSha256": "e8e001ac6dc3f7a9944120a1f633cbd7a86af1aaa2d01dab024f7c315d43f277",
+      "sha256": "e6edd6234c033923525a9b9f72564a419035897712229cf5341e34993c6298f8",
+      "width": 345,
+      "height": 384,
+      "originalSize": [
+        583,
+        649
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_turtle_warrior_ring__534x437",
+      "file": "app/assets/art/equipment_turtle_warrior_ring__534x437.png",
+      "sourceFile": "analysis/figma/raw/images/0b2bf358d7101831113c0546963d06e71534f4cb",
+      "sourceSha256": "88668671dc6a6233c8618a4dd8eb256cc82bcbb378c3926b460bf41404e63c18",
+      "sha256": "fc7e9a04023ce7118ecfe7d051d26fadae843072e6e586963c1335a6b3b02b90",
+      "width": 384,
+      "height": 314,
+      "originalSize": [
+        534,
+        437
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_turtle_warrior_ring_orb__511x435",
+      "file": "app/assets/art/equipment_turtle_warrior_ring_orb__511x435.png",
+      "sourceFile": "analysis/figma/raw/images/904a4fff4b7a8b6f5a323e4933dd9a4b694cbb0f",
+      "sourceSha256": "b67f622ab2b47e54ed5e7d0ca2389d342a130a9b7c7314dcd43df8e4312efe35",
+      "sha256": "ca95f56a45ede4ab8eb7637e73682ccc9c6c34ac5efee077246528f06139497c",
+      "width": 384,
+      "height": 327,
+      "originalSize": [
+        511,
+        435
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_turtle_warrior_ring_shell__514x487",
+      "file": "app/assets/art/equipment_turtle_warrior_ring_shell__514x487.png",
+      "sourceFile": "analysis/figma/raw/images/c4302483db5ca38f3b1037e4b34f73a7c6c10ea7",
+      "sourceSha256": "e8576841f93893ab28ad689536d7f90abe030c0c7bbeefb5782cf33d934e573b",
+      "sha256": "10c2eb24d4e131ebeb8274a8f99c1c3698d3018371cbdef30f00baea2ef2e9ec",
+      "width": 384,
+      "height": 364,
+      "originalSize": [
+        514,
+        487
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_bunny_assassin__1711x1827",
+      "file": "app/assets/art/hero_bunny_assassin__1711x1827.png",
+      "sourceFile": "analysis/figma/raw/images/fb3d4b7bdcf5505797f86cffd17d04e5fc32f3ab",
+      "sourceSha256": "c6d31753476eefb819839e82e6771e5af8769ee4a1a4dd1e4b72b7c001f04679",
+      "sha256": "b8071ce30a2d546aae9d24e5fc32849b69591bfb02b2691dc9438f9fde6e90d6",
+      "width": 360,
+      "height": 384,
+      "originalSize": [
+        1711,
+        1827
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_elf_archer__1797x1858",
+      "file": "app/assets/art/hero_elf_archer__1797x1858.png",
+      "sourceFile": "analysis/figma/raw/images/1e615ffee51f6045a4682a21538b096f62e47134",
+      "sourceSha256": "f66d72d08e1210eafa306471c8867f9b06ae849ff9fd77eae6df7604525c0be7",
+      "sha256": "f0f2fe1bca7e7389c3df45c5aaa1ce266956dc31fa505bc0cc2d14243a3acdc7",
+      "width": 371,
+      "height": 384,
+      "originalSize": [
+        1797,
+        1858
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_fox_sorcerer__1828x1679",
+      "file": "app/assets/art/hero_fox_sorcerer__1828x1679.png",
+      "sourceFile": "analysis/figma/raw/images/e5183844bfdb30bb2d3a1c81ae1474e29643daba",
+      "sourceSha256": "865ed674fc801e56a8a5aefd4ca5a8206c45bcc68bd98edf35e8d46d831b8f06",
+      "sha256": "d006a23089ba6bb1c3dc0b4511ec8283f507d21b584423cd20b323486faf8c27",
+      "width": 384,
+      "height": 353,
+      "originalSize": [
+        1828,
+        1679
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_ice_fairy__1718x1740",
+      "file": "app/assets/art/hero_ice_fairy__1718x1740.png",
+      "sourceFile": "analysis/figma/raw/images/7d89a5b1428ce1d8664a5023c0bd4a196292688c",
+      "sourceSha256": "c5bca6b0f0bdea1962f2f1882f0457b8dd53cc27c6e90edd9c25573d25929579",
+      "sha256": "e953401f47f33240a984de6d0dd9bc986c5bb99ca306c7948805e0c0dee0ece7",
+      "width": 379,
+      "height": 384,
+      "originalSize": [
+        1718,
+        1740
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_inferno_dragon__1886x1748",
+      "file": "app/assets/art/hero_inferno_dragon__1886x1748.png",
+      "sourceFile": "analysis/figma/raw/images/531d002be7c9fa402b324aebc0597b2e89bbe538",
+      "sourceSha256": "98edc841daa5099456253acb15c58dcfd13ec3e3b665c88a97560f9e251d778f",
+      "sha256": "bda91ec5dbfeca1b8a94c22314a79edf087090017a530a184cd284583fd13b4d",
+      "width": 384,
+      "height": 356,
+      "originalSize": [
+        1886,
+        1748
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_lion_knight__1616x1788",
+      "file": "app/assets/art/hero_lion_knight__1616x1788.png",
+      "sourceFile": "analysis/figma/raw/images/b4005f1aa7994a120176ed0c22354d7bdbad2131",
+      "sourceSha256": "16dd368f0784fcd8000f08bc001998e8e043123123487605f5a9eafafc6916fc",
+      "sha256": "864100e211feb609f24dce33c4526972d6272f021b186cb4bf8657c31ab702f5",
+      "width": 347,
+      "height": 384,
+      "originalSize": [
+        1616,
+        1788
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_owl_mage__1813x1760",
+      "file": "app/assets/art/hero_owl_mage__1813x1760.png",
+      "sourceFile": "analysis/figma/raw/images/db498372af9d5b4323316175984ae19604bd2d28",
+      "sourceSha256": "36a86bab0a33a6123120197a3737429812d8581fc4f153fa05636a1642197f50",
+      "sha256": "f46957e8d46139b764a3caace20b83636b2bfd18aa297a25cc7581131eea19a2",
+      "width": 384,
+      "height": 373,
+      "originalSize": [
+        1813,
+        1760
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_panda_monk__1705x1775",
+      "file": "app/assets/art/hero_panda_monk__1705x1775.png",
+      "sourceFile": "analysis/figma/raw/images/b7d79aea43cb644cba83ab14923ec3deba9efa51",
+      "sourceSha256": "43f57af8c76b8db945eb4493b5d941aa86f2f69eba999b6baa410451164d178b",
+      "sha256": "be2f28cf40fdabb603a5c5d0fed7de80f286b8259aa8c8795a8eb796231068f2",
+      "width": 369,
+      "height": 384,
+      "originalSize": [
+        1705,
+        1775
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_raccoon_engineer__1617x1662",
+      "file": "app/assets/art/hero_raccoon_engineer__1617x1662.png",
+      "sourceFile": "analysis/figma/raw/images/88cdae02ce87495159d9dc9940267c2a906f5100",
+      "sourceSha256": "800cd6f6e5c013bc35dbda41e27964de388aaf62c5d2892c4ab02d8f80805799",
+      "sha256": "9fd509e1866659283e70d8bc9caf2df6af7fc21d38e72b4d262f4b30eb9252d6",
+      "width": 374,
+      "height": 384,
+      "originalSize": [
+        1617,
+        1662
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "hero_turtle_warrior__1815x1620",
+      "file": "app/assets/art/hero_turtle_warrior__1815x1620.png",
+      "sourceFile": "analysis/figma/raw/images/f123b258ee3365da347c09a0e172003fe3c78520",
+      "sourceSha256": "1c237ea3661612276711c5bb4548ebc78e58f176f0ce15edf1e3b2275338b1ca",
+      "sha256": "0fdb342502bb248e41d3a21ea9f6883a4f744148e160cfb7ca7a579e959356b1",
+      "width": 384,
+      "height": 343,
+      "originalSize": [
+        1815,
+        1620
+      ],
+      "pivot": [
+        0.5,
+        1
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "battle_common",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_bunny_assassin__662x590",
+      "file": "app/assets/art/portrait_bunny_assassin__662x590.png",
+      "sourceFile": "analysis/figma/raw/images/b189751a75be3e3dfa86c100def27e27de3224b8",
+      "sourceSha256": "dec077664924569c976bc66ace90cd40dfb7e81cb062fc041b34fe69e51f22d0",
+      "sha256": "50280baeb0d6801864446665b3498f78ccfb939da5a377a92f978d8114d6f9c0",
+      "width": 448,
+      "height": 399,
+      "originalSize": [
+        662,
+        590
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_elf_archer__647x592",
+      "file": "app/assets/art/portrait_elf_archer__647x592.png",
+      "sourceFile": "analysis/figma/raw/images/29d71879d7ca4f81f849d09d382caabbee442d6a",
+      "sourceSha256": "bef3295f46a703605063c0b01fb5234778ce8ebba9df2a2405e1f5555482e184",
+      "sha256": "16b88535b55272000e0aabd21b2ffe341d6dab09d49c4dcfe53c62a69e5f2ff9",
+      "width": 448,
+      "height": 410,
+      "originalSize": [
+        647,
+        592
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_fox_sorcerer__642x592",
+      "file": "app/assets/art/portrait_fox_sorcerer__642x592.png",
+      "sourceFile": "analysis/figma/raw/images/da5cf38a904fd000dde487a9bca7da41e9c9e7d2",
+      "sourceSha256": "d608c9d77717224204b70af21c17a289e31ce75f95f9c06630f4e366fb42513d",
+      "sha256": "e4af1c32eeca2dcba21d088eedb8495b912a1bb29f1a381cbb4441351f081ac6",
+      "width": 448,
+      "height": 413,
+      "originalSize": [
+        642,
+        592
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_ice_fairy__660x590",
+      "file": "app/assets/art/portrait_ice_fairy__660x590.png",
+      "sourceFile": "analysis/figma/raw/images/a84946304b6fa220e60816032915bcf106cca10f",
+      "sourceSha256": "b6bf6522834ca3197497149f45f9397d21fae2b1e80fbaeb5bcc70ca6844c4d2",
+      "sha256": "8c816664141c61f9a5532b47e93798c6bcd591f512e5a14e31723ecad4df4f19",
+      "width": 448,
+      "height": 400,
+      "originalSize": [
+        660,
+        590
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_inferno_dragon__621x590",
+      "file": "app/assets/art/portrait_inferno_dragon__621x590.png",
+      "sourceFile": "analysis/figma/raw/images/b1b56615c66dd10cc8bf457700c9e699ba06f3fb",
+      "sourceSha256": "abbd1cb924c2530f2aea43bd42350159835cd080846d5d572d2bbed9a8f9cf5c",
+      "sha256": "c75b0a2032899a6bb85d1797e556e430c90215b4b3fc1a824032614938ec4dae",
+      "width": 448,
+      "height": 426,
+      "originalSize": [
+        621,
+        590
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_lion_knight__661x606",
+      "file": "app/assets/art/portrait_lion_knight__661x606.png",
+      "sourceFile": "analysis/figma/raw/images/f515249df249bb0eb674f85bb698f0a08e16de1e",
+      "sourceSha256": "0bf7cf58458260b6643ce47d8744e11253d570f36eb7ca8f6415b0c18a081d9c",
+      "sha256": "cb9e4e7a81430d6bc873f2ff73ccb9fc9b83ba0f70e8c5452c3888642e67bf2f",
+      "width": 448,
+      "height": 411,
+      "originalSize": [
+        661,
+        606
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_owl_mage__621x592",
+      "file": "app/assets/art/portrait_owl_mage__621x592.png",
+      "sourceFile": "analysis/figma/raw/images/45e7b2da1606b82d39f929c61e5f1cbcfa932627",
+      "sourceSha256": "256497d52f68a33ea62f2c07598065fef6d34f9753b5f1b89fa0dd70448274d1",
+      "sha256": "ec7af6b7f3e8556e4b07633a9126c9303e46e0ae33b661cddab259a6539ac721",
+      "width": 448,
+      "height": 427,
+      "originalSize": [
+        621,
+        592
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_panda_monk__648x590",
+      "file": "app/assets/art/portrait_panda_monk__648x590.png",
+      "sourceFile": "analysis/figma/raw/images/fe138567268deb1ce754c3226b89ef06cb95c1e6",
+      "sourceSha256": "9d7745bbacaa81655615cd4a9fc071879c4ad2e0cbb6e62ba53c16cb36975390",
+      "sha256": "2d188eda1cb77eca2dd13980e086424a7c6c27288a957f996f989bd8c0a61556",
+      "width": 448,
+      "height": 408,
+      "originalSize": [
+        648,
+        590
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_raccoon_engineer__662x592",
+      "file": "app/assets/art/portrait_raccoon_engineer__662x592.png",
+      "sourceFile": "analysis/figma/raw/images/92c7c1a40b6d91df365479d07454de0f4f0e1184",
+      "sourceSha256": "83b8e3ce29db413e5f1d0bb6f2846f65255dc01a23262a3b17bc436fd31827d5",
+      "sha256": "c6a59a31d5d43ea2f53fb7921b2881daaa34a02f5dbf29096315cfb405c35757",
+      "width": 448,
+      "height": 401,
+      "originalSize": [
+        662,
+        592
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "portrait_turtle_warrior__660x592",
+      "file": "app/assets/art/portrait_turtle_warrior__660x592.png",
+      "sourceFile": "analysis/figma/raw/images/7db345e2f56a2a40ba912d41a5724b3e8d3b888e",
+      "sourceSha256": "4508b65d9bba20e222d9400b7e5a839e19212f309153ded7ce4880da7f840d9a",
+      "sha256": "2289b48732ead164bc473b32ef9eea88f291477b56f0f86cf024f61bc5f1b14a",
+      "width": 448,
+      "height": 402,
+      "originalSize": [
+        660,
+        592
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "hero_portraits",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_blue_crescent__505x579",
+      "file": "app/assets/art/relic_blue_crescent__505x579.png",
+      "sourceFile": "analysis/figma/raw/images/8c7153dc6d86cc3b3063d4b6c9d0602ed36ed4f5",
+      "sourceSha256": "f9199ea9a97a96c800489f8f9b4bc2766044b5f065017830bfe54c9f8246805e",
+      "sha256": "a7fcf55354bbae1d426fe278a95e588c9f84b9eaa81524b0464a79ccc66359d6",
+      "width": 505,
+      "height": 579,
+      "originalSize": [
+        505,
+        579
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_blue_feather__473x665",
+      "file": "app/assets/art/relic_blue_feather__473x665.png",
+      "sourceFile": "analysis/figma/raw/images/e220a2021af266373f84d2debda5a126e2de789c",
+      "sourceSha256": "373d45ba94b8ec41c1cd73bba7d96e4fd52ee421aa8c9ca622d5ad90971e750b",
+      "sha256": "c2ca2ffc3a47c37d2a79fd7231e99b81fb625f1331c01db259d9437d4525edc3",
+      "width": 473,
+      "height": 665,
+      "originalSize": [
+        473,
+        665
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_blue_shard__354x641",
+      "file": "app/assets/art/relic_blue_shard__354x641.png",
+      "sourceFile": "analysis/figma/raw/images/94534c1dbc61e3e10d88c1a61483c905d127f04b",
+      "sourceSha256": "040257bff29a6a29ee565b3fcb51a208ee75f9be24e54aa6d6c2ff636ed10d20",
+      "sha256": "44adf679c7d8d57c350e3308615029327e3dffba200f04f1f2d2b5892e72de84",
+      "width": 354,
+      "height": 641,
+      "originalSize": [
+        354,
+        641
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_boar_mask__510x544",
+      "file": "app/assets/art/relic_boar_mask__510x544.png",
+      "sourceFile": "analysis/figma/raw/images/4f1125faf2ec52a33420ac28a147aa4afb24a78f",
+      "sourceSha256": "4abd512905df1157258b66dc26f8561d140310942eb281c1f924034eebde9585",
+      "sha256": "0d95831cfc054f1b8665a517743e7d02d274ceaeb36130e8caa71840a60b9e23",
+      "width": 510,
+      "height": 544,
+      "originalSize": [
+        510,
+        544
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_compass_gold__538x602",
+      "file": "app/assets/art/relic_compass_gold__538x602.png",
+      "sourceFile": "analysis/figma/raw/images/02cacfc26701953eb11a6dfc5b4e46ff4b8f6d75",
+      "sourceSha256": "83addef0f4fb65cfceff32bab38c40c1dd758fe4b2d8f0dcc35329487cbb008f",
+      "sha256": "6d5c3f34babec5737369397d17842d3dfa11aa06b59cf01828d9db78302f1269",
+      "width": 538,
+      "height": 602,
+      "originalSize": [
+        538,
+        602
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_fire_crystal__447x635",
+      "file": "app/assets/art/relic_fire_crystal__447x635.png",
+      "sourceFile": "analysis/figma/raw/images/1adf237e14b08e2b9e68c12ebdc0f77382c34b17",
+      "sourceSha256": "32f8e12519e194908bb48f850b086d016f9636a02667035141bf8b87fe10c6c6",
+      "sha256": "539ac14f2897645783d4894962e58a7a608b6f9e04df68efec5c895c584f3d6e",
+      "width": 447,
+      "height": 635,
+      "originalSize": [
+        447,
+        635
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_fire_dragon_head__406x576",
+      "file": "app/assets/art/relic_fire_dragon_head__406x576.png",
+      "sourceFile": "analysis/figma/raw/images/e89da6990c77495006b21f0ccfb9772084adcbb6",
+      "sourceSha256": "3da2745ec746d5777f47ea89562c27a1d8666377c8148aa2b54be9b7e325d184",
+      "sha256": "e88a959b66eb1177c052b41a8c32bdb4c495e742c24b8d2df36aa9de78e216ef",
+      "width": 406,
+      "height": 576,
+      "originalSize": [
+        406,
+        576
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_frost_dragon_head__471x629",
+      "file": "app/assets/art/relic_frost_dragon_head__471x629.png",
+      "sourceFile": "analysis/figma/raw/images/9ebda7e54059edd527fc1bfc703f79dad100f93e",
+      "sourceSha256": "9553922b344bb1e1fec72bb3ee2d4b02119b7ccc139802785432780b4e04e391",
+      "sha256": "67e2d349a2954260abc71f28ef326ef635087c5f590e1335a4eaf865c6754e58",
+      "width": 471,
+      "height": 629,
+      "originalSize": [
+        471,
+        629
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_gold_bird_mask__527x591",
+      "file": "app/assets/art/relic_gold_bird_mask__527x591.png",
+      "sourceFile": "analysis/figma/raw/images/fe361baf447b5629369e3a85a3dd3b7a1229c26e",
+      "sourceSha256": "6b2643af8d76215892416fcb7481549875d9dc41e2ee58bec942e303ef4cfaac",
+      "sha256": "e4a7a140c478fa7c240416aae1d315859c568ac90bdea9313432c143a491bf07",
+      "width": 527,
+      "height": 591,
+      "originalSize": [
+        527,
+        591
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_gold_dragon_head__455x633",
+      "file": "app/assets/art/relic_gold_dragon_head__455x633.png",
+      "sourceFile": "analysis/figma/raw/images/c42133ee7cd54223392c66dd68a93e297727e007",
+      "sourceSha256": "d38bd926d27f67c12668b9a2596cc84f0ad816854cb1ae667610dadc37d9fd6d",
+      "sha256": "987a195682cdf7788074eb6acb3fa90089634f9a18930e7839875c2c13d669d2",
+      "width": 455,
+      "height": 633,
+      "originalSize": [
+        455,
+        633
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_gold_hammer__474x528",
+      "file": "app/assets/art/relic_gold_hammer__474x528.png",
+      "sourceFile": "analysis/figma/raw/images/b35dc8c846480c0a60816360c9b124e065b8284a",
+      "sourceSha256": "ec9e081a48cf10a8773bcde6a5d3a111b710f3d8f43cc67c89ddf7e33df3b703",
+      "sha256": "4c734f7f214c3d4ca9ad4d1f42c6e08e0f6c7fe894f5a09ffaca2a62386fb463",
+      "width": 474,
+      "height": 528,
+      "originalSize": [
+        474,
+        528
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_green_disc__483x547",
+      "file": "app/assets/art/relic_green_disc__483x547.png",
+      "sourceFile": "analysis/figma/raw/images/9d8b7302f90725a0d24c86b0988b2ac3b8459fa5",
+      "sourceSha256": "f68e6b52f10d37e8acb7b7a94eba0a5af1818e17a80951f170a33f507051fd49",
+      "sha256": "cde7f3bc7ffdbe00be3eb765a06306712eb904b98468475e7a5222fb1ab1e082",
+      "width": 483,
+      "height": 547,
+      "originalSize": [
+        483,
+        547
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_infernal_mask__1628x1757",
+      "file": "app/assets/art/relic_infernal_mask__1628x1757.png",
+      "sourceFile": "analysis/figma/raw/images/0431d4a4bcacc5183a9b0f2d3c635e4eb47856b9",
+      "sourceSha256": "562460c20896f47952619b5aa3afe1d0135d3b177e9cb0b9e0b58fa28ea08e93",
+      "sha256": "3985c50bc63ab8ae2767e6c503d42dabc2e417b0a6a27303ee483730d538624b",
+      "width": 712,
+      "height": 768,
+      "originalSize": [
+        1628,
+        1757
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_leaf_crescent__470x571",
+      "file": "app/assets/art/relic_leaf_crescent__470x571.png",
+      "sourceFile": "analysis/figma/raw/images/59fabe382ec32d1dfedf9b053ba7bf9bf5355a65",
+      "sourceSha256": "dee381fa4b917cefb8f27501870deecba240b0d8a44d124b1d79c3baefcd677c",
+      "sha256": "b6e6e554e4604504607c5b389d1a061d23a83212ebd2a09bc757da7e7e897c82",
+      "width": 470,
+      "height": 571,
+      "originalSize": [
+        470,
+        571
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_rabbit_mask__490x644",
+      "file": "app/assets/art/relic_rabbit_mask__490x644.png",
+      "sourceFile": "analysis/figma/raw/images/e1ba2111414e527aa13403387739146a0ed72760",
+      "sourceSha256": "708e9313d655bf0c14647ac958bc779b7d42b1be14a585aa6849e5006a42e341",
+      "sha256": "08c908f343088dbec4e2ee3e9445f4b54b6b2b264d45b582eefb3fb7f7096c53",
+      "width": 490,
+      "height": 644,
+      "originalSize": [
+        490,
+        644
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_shadow_crystal__469x599",
+      "file": "app/assets/art/relic_shadow_crystal__469x599.png",
+      "sourceFile": "analysis/figma/raw/images/93fa637f8aa66f4a0334d8839745c3cd8e6d2ccc",
+      "sourceSha256": "d9661cb52c28c39a69ccaad4324bcbe9770c8470c0f7b409ca6a5880d93b04b9",
+      "sha256": "2c0357601c6b913e9654990942cc0fa4bd8abb6d012e035810a142744d0cf2d1",
+      "width": 469,
+      "height": 599,
+      "originalSize": [
+        469,
+        599
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "relic_wolf_mask__479x633",
+      "file": "app/assets/art/relic_wolf_mask__479x633.png",
+      "sourceFile": "analysis/figma/raw/images/e0ff11fea283b5be86103c5bca2e580ca43e0345",
+      "sourceSha256": "ddb67360680d9e622da735cd1b60c3975e1a963911f32b78e9f1e20ad7186df3",
+      "sha256": "e60ab4518e2d5aad95c511f71e026d6a94412940428499ee6d2336a51e7f9f40",
+      "width": 479,
+      "height": 633,
+      "originalSize": [
+        479,
+        633
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_POST_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "reward_gold_chest__1254x1254",
+      "file": "app/assets/art/reward_gold_chest__1254x1254.png",
+      "sourceFile": "analysis/figma/raw/images/07938c8d6fff7ef8f5f691688e4860a8e46ddffa",
+      "sourceSha256": "188b86dcf82eefca301f55c9cd4a012c6522c731810b73d11757ed5c5c263ab0",
+      "sha256": "f38b97b74a30ddf4d742ff00bfb83389860a62ffbdda0c926963474bad2a6e76",
+      "width": 768,
+      "height": 768,
+      "originalSize": [
+        1254,
+        1254
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "meta_daily_wheel",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "reward_gold_chest__1254x1254_variant2",
+      "file": "app/assets/art/reward_gold_chest__1254x1254_variant2.png",
+      "sourceFile": "analysis/figma/raw/images/d734bdbd0bdc894f78da40d7d9ccabe4052477c9",
+      "sourceSha256": "88bff839ec65a4e657f10bcd19c9ff26c329edac788669c5b2f4e95245a203ad",
+      "sha256": "9193c7037fc5edb98446463adddebbdaf65d098833d08eac6a3d0379f9b88d70",
+      "width": 768,
+      "height": 768,
+      "originalSize": [
+        1254,
+        1254
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "meta_daily_wheel",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_banner_name_purple__959x176",
+      "file": "app/assets/art/ui_banner_name_purple__959x176.png",
+      "sourceFile": "analysis/figma/raw/images/d10ae70ea2eadf857579c47b9a7d19320377df71",
+      "sourceSha256": "4924b8e68e5de2bf206105f343cd176490fec6219aa8f67f14dbfacd9d70e423",
+      "sha256": "fca90aae6b05ea6f5885816e6351edb407dfc628701c10455e06ea7ece45a2e0",
+      "width": 768,
+      "height": 141,
+      "originalSize": [
+        959,
+        176
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_banner_stage_blue__3876x605",
+      "file": "app/assets/art/ui_banner_stage_blue__3876x605.png",
+      "sourceFile": "analysis/figma/raw/images/a1f74786b99af092f75c99c17ed49d98da9b6d7e",
+      "sourceSha256": "f312dde3683ec7ab1ce9def13088acc093bba17f6ab2760ba0f2ef01eeb67318",
+      "sha256": "5f95d1d087bf4ae5e02cddd6e7619a040015ef563fa85135ff5ca34bb600a900",
+      "width": 768,
+      "height": 120,
+      "originalSize": [
+        3876,
+        605
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_bar_cyan_fill__2680x420",
+      "file": "app/assets/art/ui_bar_cyan_fill__2680x420.png",
+      "sourceFile": "analysis/figma/raw/images/8da3d328eab24eef9e35927c9eadf0f95e706219",
+      "sourceSha256": "e42e47f11e949ac6e19f7903eedec919dcaf9b88e88966aaee52126603c3c289",
+      "sha256": "ef3984a711e1d25e494d1cad823d0ee7b297a00b0a57f39978a842724a3deac2",
+      "width": 766,
+      "height": 120,
+      "originalSize": [
+        2680,
+        420
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_bar_dark_track__3646x435",
+      "file": "app/assets/art/ui_bar_dark_track__3646x435.png",
+      "sourceFile": "analysis/figma/raw/images/cb797fee92f1088c3c33582adbf7a598e3fbce45",
+      "sourceSha256": "8dfc7fb23c4c2c64ee8971134c0ac20172f9ce57323b38cf966aa22ad4c4cda0",
+      "sha256": "6ea57f396ecf058d4c67792baf5437604ac121661e90f99d65fd7736e86566b8",
+      "width": 768,
+      "height": 92,
+      "originalSize": [
+        3646,
+        435
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_button_gold__2378x1300",
+      "file": "app/assets/art/ui_button_gold__2378x1300.png",
+      "sourceFile": "analysis/figma/raw/images/cf6c639c3e529ac1e9d99a5365b691ec8aeb271b",
+      "sourceSha256": "61d5be2b18a8882ca75e666feb312c53680eb6dca700942708314cabffb04e83",
+      "sha256": "3c38d5b8303085e49d510c7399237f76f476033ffc0f5ea7f3034dea34385b48",
+      "width": 768,
+      "height": 420,
+      "originalSize": [
+        2378,
+        1300
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_button_orange__2542x1359",
+      "file": "app/assets/art/ui_button_orange__2542x1359.png",
+      "sourceFile": "analysis/figma/raw/images/7d0289c641e46bae1b62d4fe28ea11d184302d26",
+      "sourceSha256": "f09a6fa7466d5ca352e1b5be84a02119f860fb5527dcd1941ca19f3b97103622",
+      "sha256": "96a55e0aef77ad98074ce6455b2cf51729ff56e861453559f7094c83545b2889",
+      "width": 768,
+      "height": 411,
+      "originalSize": [
+        2542,
+        1359
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_button_red_square__1580x1579",
+      "file": "app/assets/art/ui_button_red_square__1580x1579.png",
+      "sourceFile": "analysis/figma/raw/images/08b1bc2751f3b6f0d6d9b634e5c8a9bb021199ef",
+      "sourceSha256": "552ce9ca7d9a4168248e9f2b1af9c6ad9fa2413ec80bd798abe4d8ef179c616f",
+      "sha256": "a27fbc95be783b2f489a345dd6b3385bd02013f810154efc1c3021358f57a260",
+      "width": 768,
+      "height": 768,
+      "originalSize": [
+        1580,
+        1579
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_frame_board_slot__244x219",
+      "file": "app/assets/art/ui_frame_board_slot__244x219.png",
+      "sourceFile": "analysis/figma/raw/images/289edf8d7d4cc89271745df76c84e59a84441d75",
+      "sourceSha256": "0d3c6287b32fd09d6a0dab7045ce740ea3058151b2627c3e13f2365c2f61063b",
+      "sha256": "4f1a8e273246ef3f45af4aa2f673cab8f1e1fd36d636ba8234e593c63201e683",
+      "width": 244,
+      "height": 219,
+      "originalSize": [
+        244,
+        219
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_frame_equipment_gold__1035x1545",
+      "file": "app/assets/art/ui_frame_equipment_gold__1035x1545.png",
+      "sourceFile": "analysis/figma/raw/images/5b2fb629c36746c86adbb8f7460d1770ae270cdc",
+      "sourceSha256": "bbffc23e9dcc5da6a4f6f2f85680798c25877faccba3562f2c5b0c841909d56d",
+      "sha256": "d6a7682f59c1ec45b9b4d75f21f2b1ded32db3faa04befaeda7a7e63a50a9baa",
+      "width": 514,
+      "height": 767,
+      "originalSize": [
+        1035,
+        1545
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_frame_heart_wings__1728x1616",
+      "file": "app/assets/art/ui_frame_heart_wings__1728x1616.png",
+      "sourceFile": "analysis/figma/raw/images/e0304b45fa52b9fc2fbbded5924c9465b727bd67",
+      "sourceSha256": "9a76acac1af48f889b2a628ce5c42abd2be75c1c130e41c682b4b2c2889334b0",
+      "sha256": "b6bd5130e2e06e379c720abeb68179e3f31fe65b0f42830a1a2ab959206d4122",
+      "width": 768,
+      "height": 718,
+      "originalSize": [
+        1728,
+        1616
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_frame_magic_gold__1289x1762",
+      "file": "app/assets/art/ui_frame_magic_gold__1289x1762.png",
+      "sourceFile": "analysis/figma/raw/images/e1310f45216dcfc68e7aa2c7a50f78993b3534da",
+      "sourceSha256": "d4ac12cc66fd394d20cf6dcb518b86cf39361fdd4b97b276dcec36e54bf75482",
+      "sha256": "4d6c532ff3ad2c277dc60fc46ebe7ed6ff643eae420da6ede896ea123a8f86c5",
+      "width": 562,
+      "height": 768,
+      "originalSize": [
+        1289,
+        1762
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_frame_orange_wings__1714x1662",
+      "file": "app/assets/art/ui_frame_orange_wings__1714x1662.png",
+      "sourceFile": "analysis/figma/raw/images/860072ba61d2da15aed7f6e0c717fbf9b0c3b359",
+      "sourceSha256": "77c70023fca9fd7d6d619691e50f3156f58cf80ed37f05597e2fc6d22752c05e",
+      "sha256": "0f7da4b610aa1a7cc807e80122cc84dcf798100742f9f5b966bba6d763f58dc8",
+      "width": 768,
+      "height": 745,
+      "originalSize": [
+        1714,
+        1662
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_frame_purple_orb__1428x1440",
+      "file": "app/assets/art/ui_frame_purple_orb__1428x1440.png",
+      "sourceFile": "analysis/figma/raw/images/f4759d36c20f4d5406b3dfa5473651c47b84fdc9",
+      "sourceSha256": "975f5f6b97ce1c4516840be13d8b04fb3079fb07cac65e5780c3769f5866e848",
+      "sha256": "3ac50eee3782146310f19b7cbda93013c4218b964deb8a0b3ec8816fa4c94c0c",
+      "width": 762,
+      "height": 768,
+      "originalSize": [
+        1428,
+        1440
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_frame_purple_shield__1628x1719",
+      "file": "app/assets/art/ui_frame_purple_shield__1628x1719.png",
+      "sourceFile": "analysis/figma/raw/images/69745b8d9f7ddc33f8e3dd7fcd00b87039fd3eed",
+      "sourceSha256": "3a981b702c791b1154957731cd72842ebc2364f518e1ffda5e12a1f8596fa3a0",
+      "sha256": "28d8563616252de1f7dd223fd6894fda873b0d38490deafce7c8797bad04477a",
+      "width": 727,
+      "height": 768,
+      "originalSize": [
+        1628,
+        1719
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_battle_swords__1402x1456",
+      "file": "app/assets/art/ui_icon_battle_swords__1402x1456.png",
+      "sourceFile": "analysis/figma/raw/images/54e166b2a97ba055bfa15f4e10479466ce5068d4",
+      "sourceSha256": "786b978db44f3144fed66330f7c9b1f8dae205d47b798beaf555b52bbbf93573",
+      "sha256": "839269cbac10063fe2b25dd3fdde6245cebee4ddfad870541ece9dcdddbdd993",
+      "width": 740,
+      "height": 768,
+      "originalSize": [
+        1402,
+        1456
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_blue_triangle__1484x1322",
+      "file": "app/assets/art/ui_icon_blue_triangle__1484x1322.png",
+      "sourceFile": "analysis/figma/raw/images/55e08f61b7b03b548c7fb448d55988a1a7e71930",
+      "sourceSha256": "81eba1816d5e924a18928f5b44e2036580d298c778b8e1fa5b9d73f6fb2fe0b6",
+      "sha256": "6b280b65a7d4474529d1e4cdd65d2170a5391131db72b8b0b8aa3bd29bc1b4df",
+      "width": 768,
+      "height": 684,
+      "originalSize": [
+        1484,
+        1322
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_crown__353x325",
+      "file": "app/assets/art/ui_icon_crown__353x325.png",
+      "sourceFile": "analysis/figma/raw/images/0340666bee1059d8aef76d0dc38c26ba9429cc3d",
+      "sourceSha256": "f4e10b4aae9f5b7ed63d5ca974a86cfbaf9ad917a911e659e94612df76dab518",
+      "sha256": "3c8f0946e20941f2c5cad63134058734d4fe142823f6ae0371b551cec4b8369c",
+      "width": 353,
+      "height": 325,
+      "originalSize": [
+        353,
+        325
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_crystal_snowflake__1318x1341",
+      "file": "app/assets/art/ui_icon_crystal_snowflake__1318x1341.png",
+      "sourceFile": "analysis/figma/raw/images/d93c344388dd40c56bc46e5846a16ef36d8b9028",
+      "sourceSha256": "897a7ce25731c7e2aabf27807d9dc0dada59078ae11a31fd82bdd3ebe313eb6e",
+      "sha256": "2cbef9b3b6ecbc7cc0d31679e5dfcb38363b7a2ca3d440109338b8f544c2d919",
+      "width": 755,
+      "height": 768,
+      "originalSize": [
+        1318,
+        1341
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_dragon_red__1540x1564",
+      "file": "app/assets/art/ui_icon_dragon_red__1540x1564.png",
+      "sourceFile": "analysis/figma/raw/images/fc1cc64139c8c276f0575a4ede022749b073a75c",
+      "sourceSha256": "f319037f91057ff360e32f5019ce054dc5d4c47c9a076addcd136ac868df2e21",
+      "sha256": "5a14a6791e3d793bcf9d7f7ecb7687e03717ce7c154eac391d225b46d8946b9f",
+      "width": 756,
+      "height": 768,
+      "originalSize": [
+        1540,
+        1564
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_gold_pile__1134x1163",
+      "file": "app/assets/art/ui_icon_gold_pile__1134x1163.png",
+      "sourceFile": "analysis/figma/raw/images/dd6154c91ef336f7d22730ba2c8d43d966f6d772",
+      "sourceSha256": "f373ee26848c020b27dfec819733065e3f89a2f648d93600d9f31843054d785d",
+      "sha256": "4cbb37d21bb6b4667398f5bd99f42f3e3dce9ff2bda8be41159043a7093eae1c",
+      "width": 749,
+      "height": 768,
+      "originalSize": [
+        1134,
+        1163
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_heart__474x437",
+      "file": "app/assets/art/ui_icon_heart__474x437.png",
+      "sourceFile": "analysis/figma/raw/images/2e6532461095a06c2911e42ee8acd8ec351883ee",
+      "sourceSha256": "c7131f28b541bab97712955f39763cbeda823a27630a8fc713d5e4ee681e185c",
+      "sha256": "93ea0bdef778ea09e07611c56bee6a5d0c61d89ee788e8ed75376fbaad91df45",
+      "width": 474,
+      "height": 437,
+      "originalSize": [
+        474,
+        437
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_hourglass__1343x1364",
+      "file": "app/assets/art/ui_icon_hourglass__1343x1364.png",
+      "sourceFile": "analysis/figma/raw/images/6bda5ce4aa2a6848a588f2f906891a7356a6b28b",
+      "sourceSha256": "40dbf7885c870b6b5c616043e34e2e3b72852389564bed936a1a37f0be3e74df",
+      "sha256": "7f231717c15b74499b968d1d3aec93886f21bb4b5ba3319884ee42c330b6ab4e",
+      "width": 756,
+      "height": 768,
+      "originalSize": [
+        1343,
+        1364
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_settings__369x374",
+      "file": "app/assets/art/ui_icon_settings__369x374.png",
+      "sourceFile": "analysis/figma/raw/images/7de89c5429f37aa45c08a77de458feaa8b1ff2fe",
+      "sourceSha256": "de98eb4c4ba59f9c20dc8b1d3c81b5567615cc01242420c0767cddc44aba84c0",
+      "sha256": "5c0072744ea9ceea2c702d2fe331d82afd9fe6894344894b0f07d2d0f917b43e",
+      "width": 369,
+      "height": 374,
+      "originalSize": [
+        369,
+        374
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_star__478x497",
+      "file": "app/assets/art/ui_icon_star__478x497.png",
+      "sourceFile": "analysis/figma/raw/images/c9a965e48a3fb7a4655e491e3d20c69288f9294c",
+      "sourceSha256": "ef45d9ad535f4eb2a304caeef071998a3037507fe8646a68cee2c2a4ac22534e",
+      "sha256": "33eeb12a6bc22f9ec153068b31ac1852f997cd72712e7d107bd87918a3366cdc",
+      "width": 478,
+      "height": 497,
+      "originalSize": [
+        478,
+        497
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_sword__525x536",
+      "file": "app/assets/art/ui_icon_sword__525x536.png",
+      "sourceFile": "analysis/figma/raw/images/5dcc8f91b17f1226f0c012df0135ae09f03678b0",
+      "sourceSha256": "5742eb59c3aab5fa28e82c25c48570f6d0b499d8caac8ee7c31abc5b7efc004a",
+      "sha256": "1d34c6c3f8a92580e784385c421bb8718ae9c747de11020c02f35a76535b6e3a",
+      "width": 525,
+      "height": 536,
+      "originalSize": [
+        525,
+        536
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_icon_upgrade_arrow__1302x1413",
+      "file": "app/assets/art/ui_icon_upgrade_arrow__1302x1413.png",
+      "sourceFile": "analysis/figma/raw/images/0cf9cf29b984c58a7af8eb8b445cdbb1123a44c8",
+      "sourceSha256": "a8a64e50da1df1b2c132f7a485d0215271425520362047a3a542fa213fa5bfde",
+      "sha256": "c46349c8f06142728c6c47f7c546d1363161d5cb4b863b7d697f6c9c9a25b484",
+      "width": 708,
+      "height": 768,
+      "originalSize": [
+        1302,
+        1413
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_nav_crystal_relic__1407x1332",
+      "file": "app/assets/art/ui_nav_crystal_relic__1407x1332.png",
+      "sourceFile": "analysis/figma/raw/images/90eefb1e52086c29646b1818471aac90bd76ee2d",
+      "sourceSha256": "3087dcd30815885e579da52808d56f66d8fc1f5f310675f80756b117dca2c99a",
+      "sha256": "223c6821e10c6d23bae8b2f94a938a59c505307f2e815e9782866b6ffb74d737",
+      "width": 768,
+      "height": 727,
+      "originalSize": [
+        1407,
+        1332
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_nav_dungeon__1494x1139",
+      "file": "app/assets/art/ui_nav_dungeon__1494x1139.png",
+      "sourceFile": "analysis/figma/raw/images/f4cb8b25c50df3defb06b5d0fee4c2b311098774",
+      "sourceSha256": "43a4d7323cd336871a977e8166b83421b81c72f117cf0ab64fe1884f494152d6",
+      "sha256": "53d74b10f53c87f8e57c0444980370c512f8e75533af5c6fb4c72344756500f7",
+      "width": 768,
+      "height": 586,
+      "originalSize": [
+        1494,
+        1139
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_nav_heroes_helmet__1902x1550",
+      "file": "app/assets/art/ui_nav_heroes_helmet__1902x1550.png",
+      "sourceFile": "analysis/figma/raw/images/af53d16704846b72a83658d911681ade819709cc",
+      "sourceSha256": "49e5635f7dd1c321ddd25491b61931e373167e566b8f457f011973e9e48f90e1",
+      "sha256": "de9d18ac928b5790704a2ff3aca6a817cb9a9240f711654abe6e629f2c0625ab",
+      "width": 768,
+      "height": 626,
+      "originalSize": [
+        1902,
+        1550
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_nav_shop__438x436",
+      "file": "app/assets/art/ui_nav_shop__438x436.png",
+      "sourceFile": "analysis/figma/raw/images/373d77e6b8229fd322f1eaf0a04dc6569d9a690b",
+      "sourceSha256": "98f2540eeb471b789d175541337419f3e25cd1cf1b24ef8d8a315db1e987ed65",
+      "sha256": "a8524498ab5fe122072e8128e704929f1dbbdc11c6b2cf178a50fa2453cf9b20",
+      "width": 438,
+      "height": 436,
+      "originalSize": [
+        438,
+        436
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_panel_blue_square__1448x1614",
+      "file": "app/assets/art/ui_panel_blue_square__1448x1614.png",
+      "sourceFile": "analysis/figma/raw/images/1bec326d67982d2b37b0bf94fdceb5e11c18095d",
+      "sourceSha256": "3c6d4b076f85591581f834359f293c58b9555b73db070f15b6c6a78c28a92158",
+      "sha256": "6b4f22d8f7baaabf53557117978e82111813104e65e5a1c4926ab86bdc232008",
+      "width": 689,
+      "height": 768,
+      "originalSize": [
+        1448,
+        1614
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_panel_dark_square__1576x1595",
+      "file": "app/assets/art/ui_panel_dark_square__1576x1595.png",
+      "sourceFile": "analysis/figma/raw/images/4262bc5b52ccf861ee9cf940d4000bafcffdc84b",
+      "sourceSha256": "f403a505a25fafb7ccec28a4c3cbfb24b3bcfbfc34bc2e7426e59e6cfc5cf803",
+      "sha256": "295440e5cd61e32b467f3c3d3c6848f0ce7d5a7104b3d30d2509d4a317b8ff88",
+      "width": 759,
+      "height": 768,
+      "originalSize": [
+        1576,
+        1595
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_panel_gold_black_wide__3815x1593",
+      "file": "app/assets/art/ui_panel_gold_black_wide__3815x1593.png",
+      "sourceFile": "analysis/figma/raw/images/d1c66e4f6f13868503b1c7fd7d0fe2e02ce7756b",
+      "sourceSha256": "5f0ddb510bb29055a5a506e282270d3f8ac7426d98ac7b6cd359a6cbf88493fd",
+      "sha256": "ed977949920bb5208af4ed38056c9fc16aeceb5649f6934f1710fda13caa5bfa",
+      "width": 768,
+      "height": 321,
+      "originalSize": [
+        3815,
+        1593
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_panel_gold_navy_wide__2339x828",
+      "file": "app/assets/art/ui_panel_gold_navy_wide__2339x828.png",
+      "sourceFile": "analysis/figma/raw/images/86ef8ab88fddc7cd5fabacfd628f8c0ae4ef4876",
+      "sourceSha256": "ad746089526366da7b40518acaf091ad7979878c0ad7b8aad7dfb22bcbf0780c",
+      "sha256": "da6ae8fbefbd6a8b3f3fe8049a787806d35ad5ae2e53a9eb3bd19abf0a63bdab",
+      "width": 768,
+      "height": 272,
+      "originalSize": [
+        2339,
+        828
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_panel_plain_navy__1126x2000",
+      "file": "app/assets/art/ui_panel_plain_navy__1126x2000.png",
+      "sourceFile": "analysis/figma/raw/images/5976164c9088d9f3322d497bbf2c3c76b9211e1f",
+      "sourceSha256": "549d0c779f2822144d7764a6310959f442e5da74f168bc99f656dd25e1c86f68",
+      "sha256": "a36e572c8e0fad58da10e4b897f1a4f54f8bbebdc0db43227da2ddb198d5125e",
+      "width": 432,
+      "height": 767,
+      "originalSize": [
+        1126,
+        2000
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_panel_stats_black__966x425",
+      "file": "app/assets/art/ui_panel_stats_black__966x425.png",
+      "sourceFile": "analysis/figma/raw/images/f114a4c886b5b51ac42b3ffe94ebe8bb12661366",
+      "sourceSha256": "ca6d322b1a3fe254be49230e897597e09656d936c459f91391436c5a8beae2bf",
+      "sha256": "395034da713f6c608a3f74ea52aaef61292899919bfbfcd43aafbc6ebaf76082",
+      "width": 768,
+      "height": 338,
+      "originalSize": [
+        966,
+        425
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "core_ui",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_wheel_outer_ring__1940x1924",
+      "file": "app/assets/art/ui_wheel_outer_ring__1940x1924.png",
+      "sourceFile": "analysis/figma/raw/images/506e2c442ef14cc3433543f99131e6d33c63ac0c",
+      "sourceSha256": "697e6fa6a8e039fe065106cd1d0c56c894a34aff3c375effdd7f7b4b06c22eb8",
+      "sha256": "469d8fd2255cbd3ad499464e8162b233eb4733795e0d03f2b91954b887172401",
+      "width": 768,
+      "height": 762,
+      "originalSize": [
+        1940,
+        1924
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "meta_daily_wheel",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "ui_wheel_reward_illustration__1774x1837",
+      "file": "app/assets/art/ui_wheel_reward_illustration__1774x1837.png",
+      "sourceFile": "analysis/figma/raw/images/2fe539a12c7c857eabe1150073d8c7250f8b4e7c",
+      "sourceSha256": "c757cb792bc8baf2a2c615553f16fb3847dcfcee9e398932a0102b1bdcf5e35d",
+      "sha256": "071b4f819fdf9d433a006fba585398b37e06b14f116c3a497975c92100991676",
+      "width": 742,
+      "height": 768,
+      "originalSize": [
+        1774,
+        1837
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "meta_daily_wheel",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_cannon_small__313x283",
+      "file": "app/assets/art/equipment_raccoon_engineer_cannon_small__313x283.png",
+      "sourceFile": "analysis/figma/raw/images/cbeb22c66d2cd87e9fbf5ba621e1bd01f1001ee3",
+      "sourceSha256": "ead0ce93cc0943a963432651b7563521cca455abbfa0c1fe25cae67820236a14",
+      "sha256": "066c8170a61d38d8a5a111ca290e1b252ea519e7040f3313a28d07a469efe6ad",
+      "width": 313,
+      "height": 283,
+      "originalSize": [
+        313,
+        283
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    },
+    {
+      "id": "equipment_raccoon_engineer_cannon_small__333x269",
+      "file": "app/assets/art/equipment_raccoon_engineer_cannon_small__333x269.png",
+      "sourceFile": "analysis/figma/raw/images/e0f463810878fe169493ddf02ec4df5c4928e501",
+      "sourceSha256": "2d417070aa5a0500060cfbc9bf9f52f54f837501491d5b19541976d37eb77e3b",
+      "sha256": "898a3fd39618fa1381256eb0baf37ccbae17d45bcfbceff461df19a0bbab4d8e",
+      "width": 333,
+      "height": 269,
+      "originalSize": [
+        333,
+        269
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "trim": {
+        "applied": false,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "group": "equipment_icons",
+      "scope": "USED_IN_MVP",
+      "distributionAllowed": false
+    }
+  ]
+}

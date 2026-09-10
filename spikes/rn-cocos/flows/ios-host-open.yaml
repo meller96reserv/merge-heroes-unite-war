@@ -1,0 +1,9 @@
+appId: org.reactjs.native.example.KiselNativeProbe
+---
+# Install and launch the integrated debug binary with native console capture first.
+- assertVisible: "Open native Cocos"
+- assertVisible: "ready"
+- tapOn:
+    id: open-cocos
+- assertVisible: "Return to RN"
+- takeScreenshot: ios-host-open

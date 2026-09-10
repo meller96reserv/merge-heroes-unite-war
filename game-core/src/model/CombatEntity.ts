@@ -1,0 +1,9 @@
+export type CombatStats={attack:number;defense:number;hp:number;attackIntervalMs:number;critChanceBp:number;critMultiplierBp:number};
+export type CombatEntity={id:string;definitionId:string;encounterId:string;side:'hero'|'enemy';spawnOrdinal:number;hp:number;maxHp:number;attack:number;defense:number;intervalTicks:number;cooldownTicks:number;hitDelayTicks:number;critChanceBp:number;critMultiplierBp:number;attackSequence:number;targetId:string|null;canAttack:boolean;deathEmitted:boolean;rewardId:string|null};
+export function combatEntity(input:{id:string;definitionId:string;encounterId:string;side:'hero'|'enemy';spawnOrdinal:number;stats:CombatStats;stepMs:number;hitDelayMs:number;canAttack:boolean;rewardId?:string|null}):CombatEntity {
+ const {stats:s,stepMs,hitDelayMs}=input;
+ if(!input.id||!input.encounterId||!Number.isSafeInteger(input.spawnOrdinal)||input.spawnOrdinal<0||!Number.isSafeInteger(stepMs)||stepMs<1||!Number.isSafeInteger(hitDelayMs)||hitDelayMs<0)throw Error('Invalid combat identity/timing');
+ if(Object.values(s).some(n=>!Number.isSafeInteger(n)||n<0)||s.hp<1||s.attackIntervalMs<1||s.critChanceBp>10000||s.critMultiplierBp<10000||s.critMultiplierBp>100000||BigInt(s.attack)*BigInt(s.critMultiplierBp)>BigInt(Number.MAX_SAFE_INTEGER)*10000n)throw Error('Invalid or overflowing combat stats');
+ const intervalTicks=Math.max(1,Math.ceil(s.attackIntervalMs/stepMs));
+ return {id:input.id,definitionId:input.definitionId,encounterId:input.encounterId,side:input.side,spawnOrdinal:input.spawnOrdinal,hp:s.hp,maxHp:s.hp,attack:s.attack,defense:s.defense,intervalTicks,cooldownTicks:intervalTicks,hitDelayTicks:Math.ceil(hitDelayMs/stepMs),critChanceBp:s.critChanceBp,critMultiplierBp:s.critMultiplierBp,attackSequence:0,targetId:null,canAttack:input.canAttack,deathEmitted:false,rewardId:input.rewardId??null};
+}

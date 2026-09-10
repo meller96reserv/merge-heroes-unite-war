@@ -1,0 +1,9 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {mergeFixture,rules} from './merge-rules.test';import {mergeHeroes,type MergeHeroes} from '../src/commands/MergeHeroes';import {Dispatcher} from '../src/commands/Dispatcher';import {MemorySaveStore,FakeClock} from '../src/ports';import {TransactionCoordinator} from '../src/systems/TransactionCoordinator';
+test('merge consumes two into destination once, discovery shares transaction, failure restores both',async()=>{
+ const {s,catalog}=mergeFixture();s.data.heroes[1]!.deployed=true;const store=new MemorySaveStore();let events=0;
+ const d=new Dispatcher(s,(state,c:MergeHeroes)=>mergeHeroes(state,c,rules,catalog,(draft,tier)=>{draft.data.progression.discoveredTiers.push(tier);return [{type:'discovery',payload:{tier}}];}),new TransactionCoordinator(store,new FakeClock(),'merge').commit);
+ d.events.subscribe(batch=>events+=batch.filter(e=>e.type==='merge.completed').length);const c:MergeHeroes={type:'MergeHeroes',commandId:'merge1',sourceId:'a',targetId:'b'},before=JSON.stringify(d.getSnapshot());
+ store.failNext='verify';assert.equal((await d.dispatch(c)).ok,false);assert.equal(JSON.stringify(d.getSnapshot()),before);assert.equal(events,0);
+ assert.equal((await d.dispatch(c)).ok,true);await d.dispatch(c);const after=d.getSnapshot();assert.equal(events,1);assert.equal(after.data.heroes.length,1);assert.equal(after.data.heroes[0]!.slotId,1);assert.equal(after.data.heroes[0]!.tier,2);assert.equal(after.data.heroes[0]!.deployed,true);assert.deepEqual(after.data.progression.discoveredTiers,[2]);assert.equal(after.data.board[0]!.unitId,null);
+ const settled=JSON.stringify(after);assert.equal((await d.dispatch({...c,commandId:'stale',expectedRevision:0})).ok,false);assert.equal(JSON.stringify(d.getSnapshot()),settled);
+});

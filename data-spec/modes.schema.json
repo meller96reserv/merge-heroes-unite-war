@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kisel.invalid/schemas/modes.schema.json",
+  "title": "modes",
+  "description": "PROPOSED planning contract. Validate cross-record references separately. Not reference balance.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "dataVersion": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+    },
+    "evidenceMode": {
+      "enum": [
+        "OBSERVED",
+        "MEASURED",
+        "DERIVED",
+        "PROPOSED"
+      ]
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "unlockId": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "entryRewardTokenType": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "stageIds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+            },
+            "minItems": 1
+          },
+          "rosterLimit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 9007199254740991
+          },
+          "rewardId": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "returnPolicy": {
+            "enum": [
+              "resumeStage",
+              "restartEncounter"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "unlockId",
+          "entryRewardTokenType",
+          "stageIds",
+          "rosterLimit",
+          "rewardId",
+          "returnPolicy"
+        ]
+      },
+      "minItems": 0
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "dataVersion",
+    "evidenceMode",
+    "entries"
+  ]
+}

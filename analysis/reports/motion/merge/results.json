@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "durationMs": 650,
+  "markerChangedPixels": 3300,
+  "visibleRevealRingPixels": 585,
+  "committedBeforeMotion": true,
+  "cancelReconcilesTier3": true,
+  "reloadPreservesGold195": true,
+  "runtimeErrors": 0,
+  "native": "NOT_RUN"
+}

@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kisel.invalid/schemas/rewards.schema.json",
+  "title": "rewards",
+  "description": "PROPOSED planning contract. Validate cross-record references separately. Not reference balance.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "dataVersion": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+    },
+    "evidenceMode": {
+      "enum": [
+        "OBSERVED",
+        "MEASURED",
+        "DERIVED",
+        "PROPOSED"
+      ]
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "grants": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "kind": {
+                  "enum": [
+                    "currency",
+                    "item",
+                    "freeSpin"
+                  ]
+                },
+                "id": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+                },
+                "amount": {
+                  "type": "string",
+                  "pattern": "^(0|[1-9][0-9]*)$"
+                }
+              },
+              "required": [
+                "kind",
+                "id",
+                "amount"
+              ]
+            },
+            "minItems": 0
+          },
+          "repeatability": {
+            "enum": [
+              "once",
+              "period",
+              "encounter",
+              "spin"
+            ]
+          },
+          "source": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "evidenceIds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+            },
+            "minItems": 0
+          }
+        },
+        "required": [
+          "id",
+          "grants",
+          "repeatability",
+          "source",
+          "evidenceIds"
+        ]
+      },
+      "minItems": 0
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "dataVersion",
+    "evidenceMode",
+    "entries"
+  ]
+}

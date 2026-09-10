@@ -1,0 +1,194 @@
+{
+  "taskId": "TASK-0037",
+  "status": "VERIFIED_TOOLS",
+  "verifiedAt": "2026-09-08T16:39:50.137707+00:00",
+  "os": {
+    "version": "macOS 15.7.4",
+    "build": "24G517",
+    "arch": "arm64"
+  },
+  "cocos": {
+    "version": "3.8.8",
+    "distributionBuild": "121518",
+    "path": ".tools/cocos-3.8.8/CocosCreator.app/Contents/MacOS/CocosCreator",
+    "download": "https://download.cocos.com/CocosCreator/v3.8.8/CocosCreator-v3.8.8-mac-121518.zip",
+    "archiveSha256": "cc65c3665539e996c076fa8202dee8531b8770e7e956f0c68f610537735d640c",
+    "signature": "codesign --verify --deep --strict: PASS outside sandbox",
+    "smoke": {
+      "input": "Official bundled hello-3d-world copied to /tmp/kisel-cocos-toolchain-smoke",
+      "platform": "web-desktop",
+      "expectedExitCode": 36,
+      "actualExitCode": 36,
+      "outputExists": true,
+      "log": "spikes/rn-cocos/logs/toolchain-cocos-web.log"
+    },
+    "nativeGradle": "8.11.1",
+    "nativeAgp": "8.10.1"
+  },
+  "node": {
+    "version": "22.23.2",
+    "npm": "10.9.8",
+    "path": ".tools/node-v22.23.2-darwin-arm64/bin/node",
+    "archiveSha256": "61130f394c1630d211dd50aecc4353d379480f36d3ac913cd85dbba1aed585c6"
+  },
+  "reactNative": {
+    "version": "0.86.3",
+    "cliVersion": "20.2.0",
+    "cliPath": ".tools/rn-cli/node_modules/@react-native-community/cli/build/bin.js",
+    "templateVersion": "0.86.3",
+    "gradle": "9.3.1",
+    "gradlePlugin": "@react-native/gradle-plugin@0.86.3",
+    "kotlin": "2.1.20",
+    "hostBuildStatus": "PASS standalone Android emulator and iOS26.2 arm64 simulator \u2014 TASK-0039",
+    "agp": "8.12.0",
+    "templateCliVersion": "20.1.0"
+  },
+  "java": {
+    "version": "17.0.20",
+    "home": "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home"
+  },
+  "android": {
+    "sdk": "/Users/admin/Library/Android/sdk",
+    "compileSdk": 36,
+    "targetSdk": 36,
+    "minSdk": 24,
+    "buildTools": "36.0.0",
+    "commandlineTools": "19.0",
+    "commandlineToolsPath": ".tools/android-commandline-19/cmdline-tools/bin/sdkmanager",
+    "cocosNdk": "24.0.8215888",
+    "cocosNdkPath": ".tools/android-ndk-r24",
+    "cocosNdkArchiveSha256": "162a7000515be07489f2ed70d6d3a117d236150f83f3fcb601c163349429ba23",
+    "rnNdk": "27.1.12297006",
+    "rnNdkPath": "/Users/admin/Library/Android/sdk/ndk/27.1.12297006",
+    "cmake": "3.22.1",
+    "cmakePath": "/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/cmake",
+    "ninja": "1.10.2",
+    "adb": "37.0.1",
+    "avd": "medium_phone",
+    "physicalDevices": "NONE_CONNECTED",
+    "emulatorGpu": "host (Apple M1). Existing AVD software renderer is overridden only by launch argument, not rewritten.",
+    "commandlineToolsSdkPath": "/Users/admin/Library/Android/sdk/cmdline-tools/19.0/bin/avdmanager",
+    "isolatedAvd": {
+      "name": "kisel_native_api36",
+      "avdHome": ".tools/android-avd",
+      "userHome": ".tools/android-user",
+      "port": 5556,
+      "systemImage": "system-images;android-36;google_apis_playstore;arm64-v8a",
+      "dataPartition": "8G",
+      "memoryMiB": 2048,
+      "gpu": "host",
+      "window": false,
+      "existingAvdPreserved": true,
+      "reason": "Shared emulator captures had additional input/Back actions; isolated data also avoids low free space"
+    }
+  },
+  "ios": {
+    "xcode": "26.3",
+    "xcodeBuild": "17C529",
+    "developerDir": "/Applications/Xcode.app/Contents/Developer",
+    "sdk": "26.2",
+    "availableSimulatorRuntime": "17.2 and 26.2",
+    "cocoaPods": "1.17.0",
+    "cocoaPodsPath": "/opt/homebrew/bin/pod",
+    "ruby": "4.0.6",
+    "rubyPath": "/opt/homebrew/opt/ruby/bin/ruby",
+    "signingStatus": "NOT_RUN; simulator first; physical signing requires available account/device",
+    "simulatorRuntime": {
+      "version": "26.2",
+      "build": "23C52",
+      "sdkBuild": "23C57",
+      "mappingCommand": "xcrun simctl runtime match set iphoneos26.2 23C52 --sdkBuild 23C57",
+      "undoMappingCommand": "xcrun simctl runtime match set iphoneos26.2 --default --sdkBuild 23C57",
+      "reason": "Default SDK mapping selected unavailable build23C57. Installed signed26.2 build23C52 explicitly mapped with supported simctl command; showdestinations then lists simulators."
+    },
+    "cocosSimulatorLibraries": {
+      "selection": "Vendor external/ios-m1-simulator library files selected by project AppleSiliconSimulator.cmake",
+      "editorModified": false,
+      "requiredSettings": [
+        "KISEL_APPLE_SILICON_SIMULATOR=ON",
+        "CMAKE_OSX_SYSROOT=iphonesimulator",
+        "ARCHS=arm64",
+        "EXCLUDED_ARCHS=",
+        "VALID_ARCHS=arm64"
+      ],
+      "verified": "121668960-byte arm64 executable installed, continuous render and touch0\u21921 on iOS26.2; TASK-0038 evidence"
+    },
+    "cocoaPodsGemHome": "/opt/homebrew/Cellar/cocoapods/1.17.0/libexec",
+    "xcodeprojGem": "1.28.1"
+  },
+  "compilerProbes": {
+    "cocosAndroidClang": {
+      "command": [
+        "/Users/admin/Documents/Other/Code/kisel/.tools/android-ndk-r24/toolchains/llvm/prebuilt/darwin-x86_64/bin/aarch64-linux-android24-clang",
+        "-shared",
+        "-fPIC",
+        "/tmp/kisel-native-compiler-smoke.c",
+        "-o",
+        "/tmp/kisel-ndk24-smoke.so"
+      ],
+      "exitCode": 0,
+      "output": ""
+    },
+    "rnAndroidClang": {
+      "command": [
+        "/Users/admin/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/aarch64-linux-android24-clang",
+        "-shared",
+        "-fPIC",
+        "/tmp/kisel-native-compiler-smoke.c",
+        "-o",
+        "/tmp/kisel-ndk27-smoke.so"
+      ],
+      "exitCode": 0,
+      "output": ""
+    },
+    "iosSimulatorClang": {
+      "command": [
+        "xcrun",
+        "--sdk",
+        "iphonesimulator",
+        "clang",
+        "-target",
+        "arm64-apple-ios17.2-simulator",
+        "-isysroot",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk",
+        "-dynamiclib",
+        "/tmp/kisel-native-compiler-smoke.c",
+        "-o",
+        "/tmp/kisel-ios-smoke.dylib"
+      ],
+      "exitCode": 0,
+      "output": ""
+    }
+  },
+  "environmentRules": {
+    "unset": [
+      "ELECTRON_RUN_AS_NODE"
+    ],
+    "NODE_TLS_REJECT_UNAUTHORIZED": "1",
+    "globalShellFilesModified": false,
+    "localToolsGitIgnored": true,
+    "sdkManagerFailure": "Manifest download IO errors; authenticated proxy is present. Official direct Google download + published checksum used for NDK. No TLS/signature bypass.",
+    "cocosVersionNote": "With inherited ELECTRON_RUN_AS_NODE=1, --version prints embedded Node 20.15.1. Creator version verified from signed app Info.plist and successful editor build."
+  },
+  "sources": [
+    "https://docs.cocos.com/creator/3.8/manual/en/editor/publish/setup-native-development.html",
+    "https://docs.cocos.com/creator/3.8/manual/en/editor/publish/publish-in-command-line.html",
+    "https://reactnative.dev/docs/0.86/set-up-your-environment",
+    "https://registry.npmjs.org/@react-native-community/template/0.86.3"
+  ],
+  "nativeAcceptance": "NOT_RUN \u2014 compiler/editor smoke does not prove RN+Cocos integration",
+  "verification": {
+    "status": "PASS",
+    "scope": "installed tools, pinned official templates, compiler smoke and real Cocos build workflow only"
+  },
+  "maestro": {
+    "version": "2.10.0",
+    "path": ".tools/maestro-2.10.0/maestro/bin/maestro",
+    "source": "https://github.com/mobile-dev-inc/Maestro/releases/tag/cli-2.10.0",
+    "archiveSha256": "29b675e10cc12080e445e9bfb2e2b4e4dfb9c0f2e30d5884120d258b5e1cd991",
+    "versionCheck": "2.10.0",
+    "smoke": "cocos-ios-touch.log: flow COMPLETED, native counter increments once",
+    "analytics": false,
+    "cloudUsed": false
+  }
+}

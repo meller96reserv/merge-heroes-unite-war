@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kisel.invalid/schemas/economy.schema.json",
+  "title": "economy",
+  "description": "PROPOSED planning contract. Validate cross-record references separately. Not reference balance.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "dataVersion": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+    },
+    "evidenceMode": {
+      "enum": [
+        "OBSERVED",
+        "PROPOSED",
+        "DERIVED"
+      ]
+    },
+    "currencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "nameKey": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "iconVisualId": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          }
+        },
+        "required": [
+          "id",
+          "nameKey",
+          "iconVisualId"
+        ]
+      },
+      "minItems": 1
+    },
+    "offers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "currencyId": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "grantDefinitionId": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "prices": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(0|[1-9][0-9]*)$"
+            },
+            "minItems": 1
+          },
+          "afterTable": {
+            "enum": [
+              "reject",
+              "repeatLastProposed"
+            ]
+          },
+          "holdEnabled": {
+            "type": "boolean"
+          },
+          "holdIntervalMs": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 9007199254740991
+          }
+        },
+        "required": [
+          "id",
+          "currencyId",
+          "grantDefinitionId",
+          "prices",
+          "afterTable",
+          "holdEnabled",
+          "holdIntervalMs"
+        ]
+      },
+      "minItems": 0
+    },
+    "offline": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+        "currencyId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "capMs": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "ratePerSecond": {
+          "type": "string",
+          "pattern": "^(0|[1-9][0-9]*)$"
+        },
+        "advanceStages": {
+          "const": false
+        }
+      },
+      "required": [
+        "enabled",
+        "currencyId",
+        "capMs",
+        "ratePerSecond",
+        "advanceStages"
+      ]
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "dataVersion",
+    "evidenceMode",
+    "currencies",
+    "offers",
+    "offline"
+  ]
+}

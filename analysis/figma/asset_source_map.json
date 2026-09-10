@@ -1,0 +1,2640 @@
+{
+  "ui_icon_crystal_snowflake__330x336": {
+    "hash": "01a23149e09e72fa8ac700f6e0a62ad010a041f9",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/01a23149e09e72fa8ac700f6e0a62ad010a041f9"
+  },
+  "ui_frame_magic_gold__323x441": {
+    "hash": "02730f95ce54e51cd6c92682fae4c880e893f520",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/02730f95ce54e51cd6c92682fae4c880e893f520"
+  },
+  "currency_gem_blue__300x252": {
+    "hash": "027fb1a160a836ad27c008214bdd44046699c6b3",
+    "nodes": [
+      "57:266",
+      "89:1318",
+      "80:1117",
+      "75:742",
+      "71:287",
+      "I75:606;75:594",
+      "75:751",
+      "I80:925;75:594",
+      "75:594"
+    ],
+    "source": "analysis/figma/raw/images/027fb1a160a836ad27c008214bdd44046699c6b3"
+  },
+  "equipment_fox_sorcerer_staff__462x747": {
+    "hash": "02a4dde377213241fff0dc579b2094999cc76847",
+    "nodes": [
+      "80:1058"
+    ],
+    "source": "analysis/figma/raw/images/02a4dde377213241fff0dc579b2094999cc76847"
+  },
+  "relic_compass_gold__538x602": {
+    "hash": "02cacfc26701953eb11a6dfc5b4e46ff4b8f6d75",
+    "nodes": [
+      "I73:462;73:436",
+      "73:503"
+    ],
+    "source": "analysis/figma/raw/images/02cacfc26701953eb11a6dfc5b4e46ff4b8f6d75"
+  },
+  "ui_icon_crown__353x325": {
+    "hash": "0340666bee1059d8aef76d0dc38c26ba9429cc3d",
+    "nodes": [
+      "80:1104",
+      "80:1107"
+    ],
+    "source": "analysis/figma/raw/images/0340666bee1059d8aef76d0dc38c26ba9429cc3d"
+  },
+  "equipment_elf_archer_hood__311x328": {
+    "hash": "034be57911f70df8a8504a42e69cb4eb200d2b7a",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/034be57911f70df8a8504a42e69cb4eb200d2b7a"
+  },
+  "relic_infernal_mask__1628x1757": {
+    "hash": "0431d4a4bcacc5183a9b0f2d3c635e4eb47856b9",
+    "nodes": [
+      "52:1474"
+    ],
+    "source": "analysis/figma/raw/images/0431d4a4bcacc5183a9b0f2d3c635e4eb47856b9"
+  },
+  "hero_ice_fairy__430x435": {
+    "hash": "05534612ec3043db12c74f036585a065bb002b07",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/05534612ec3043db12c74f036585a065bb002b07"
+  },
+  "enemy_poison_mushroom__1596x1576": {
+    "hash": "05a04461351d086a16a2c9b63bc7c05772867132",
+    "nodes": [
+      "37:1347"
+    ],
+    "source": "analysis/figma/raw/images/05a04461351d086a16a2c9b63bc7c05772867132"
+  },
+  "equipment_bunny_assassin_pants__261x290": {
+    "hash": "06cd33d87f0b29a2964c598bf7e3124a59294bad",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/06cd33d87f0b29a2964c598bf7e3124a59294bad"
+  },
+  "branding_hero_collage__1536x1024": {
+    "hash": "0776e9c3b4670521067e7b4d5751c86deac1e358",
+    "nodes": [
+      "2:410",
+      "91:558",
+      "110:1166",
+      "I109:602;110:1166",
+      "I109:604;110:1166",
+      "I109:606;110:1166",
+      "I109:608;110:1166",
+      "I109:610;110:1166",
+      "I109:612;110:1166"
+    ],
+    "source": "analysis/figma/raw/images/0776e9c3b4670521067e7b4d5751c86deac1e358"
+  },
+  "reward_gold_chest__1254x1254": {
+    "hash": "07938c8d6fff7ef8f5f691688e4860a8e46ddffa",
+    "nodes": [
+      "I2:421;2:437",
+      "I106:556;2:437",
+      "2:437"
+    ],
+    "source": "analysis/figma/raw/images/07938c8d6fff7ef8f5f691688e4860a8e46ddffa"
+  },
+  "ui_button_red_square__1580x1579": {
+    "hash": "08b1bc2751f3b6f0d6d9b634e5c8a9bb021199ef",
+    "nodes": [
+      "51:1472"
+    ],
+    "source": "analysis/figma/raw/images/08b1bc2751f3b6f0d6d9b634e5c8a9bb021199ef"
+  },
+  "ui_bar_cyan_fill__335x53": {
+    "hash": "092ac501041d697546d50159ce69fa085983abcb",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/092ac501041d697546d50159ce69fa085983abcb"
+  },
+  "enemy_swamp_crocodile__474x358": {
+    "hash": "09bfd4ac03b6b9ef80b573897cf0839e13037230",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/09bfd4ac03b6b9ef80b573897cf0839e13037230"
+  },
+  "equipment_ice_fairy_boots__289x278": {
+    "hash": "0a0e8be3bb2ff3816b58a759156e65a7f21fb8f4",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/0a0e8be3bb2ff3816b58a759156e65a7f21fb8f4"
+  },
+  "ui_frame_equipment_gold__259x387": {
+    "hash": "0a3daa5714e0526d57a8f4de13d2b6233b30a292",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/0a3daa5714e0526d57a8f4de13d2b6233b30a292"
+  },
+  "hero_raccoon_engineer__405x416": {
+    "hash": "0ac29d5d34a548d42a7f415c8a753877e9e9cf6d",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/0ac29d5d34a548d42a7f415c8a753877e9e9cf6d"
+  },
+  "ui_frame_heart_wings__432x404": {
+    "hash": "0adf1ea1483dd69e64864417cfad5467a9f756f9",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/0adf1ea1483dd69e64864417cfad5467a9f756f9"
+  },
+  "branding_logo__1448x1086": {
+    "hash": "0af28b86d0bf4dd07dcc86106fa47288eb5e449c",
+    "nodes": [
+      "I2:4;2:15",
+      "2:15",
+      "I90:1757;2:15",
+      "I110:1151;2:15",
+      "I109:602;110:1151;2:15",
+      "I109:604;110:1151;2:15",
+      "I109:606;110:1151;2:15",
+      "I109:608;110:1151;2:15",
+      "I109:610;110:1151;2:15",
+      "I109:612;110:1151;2:15"
+    ],
+    "source": "analysis/figma/raw/images/0af28b86d0bf4dd07dcc86106fa47288eb5e449c"
+  },
+  "equipment_turtle_warrior_ring__534x437": {
+    "hash": "0b2bf358d7101831113c0546963d06e71534f4cb",
+    "nodes": [
+      "80:1075"
+    ],
+    "source": "analysis/figma/raw/images/0b2bf358d7101831113c0546963d06e71534f4cb"
+  },
+  "boss_frost_dragon__499x482": {
+    "hash": "0c533b392e238edbbc6070da6d92a522e2a480b0",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/0c533b392e238edbbc6070da6d92a522e2a480b0"
+  },
+  "equipment_fox_sorcerer_ring__452x543": {
+    "hash": "0c6ccea79d2675660a690d1fbf6aff624f31024a",
+    "nodes": [
+      "80:1055"
+    ],
+    "source": "analysis/figma/raw/images/0c6ccea79d2675660a690d1fbf6aff624f31024a"
+  },
+  "ui_icon_upgrade_arrow__1302x1413": {
+    "hash": "0cf9cf29b984c58a7af8eb8b445cdbb1123a44c8",
+    "nodes": [
+      "I90:1745;90:1743",
+      "90:1743",
+      "I90:1749;90:1743",
+      "I90:1750;90:1743",
+      "I90:1748;90:1743",
+      "I80:971;80:959",
+      "80:959"
+    ],
+    "source": "analysis/figma/raw/images/0cf9cf29b984c58a7af8eb8b445cdbb1123a44c8"
+  },
+  "equipment_ice_fairy_staff_spear__435x899": {
+    "hash": "0cfd855bcdef93e33e3e68babd5866bcf2fa4162",
+    "nodes": [
+      "80:1034"
+    ],
+    "source": "analysis/figma/raw/images/0cfd855bcdef93e33e3e68babd5866bcf2fa4162"
+  },
+  "equipment_owl_mage_ring_crescent__413x553": {
+    "hash": "0d8dfc1da087dbdb043b08faed0eb0b12b49c371",
+    "nodes": [
+      "80:1030"
+    ],
+    "source": "analysis/figma/raw/images/0d8dfc1da087dbdb043b08faed0eb0b12b49c371"
+  },
+  "equipment_inferno_dragon_ring__306x425": {
+    "hash": "0e5e63d6d0df4a896df8e9e3731dfe440e0360d3",
+    "nodes": [
+      "80:1069"
+    ],
+    "source": "analysis/figma/raw/images/0e5e63d6d0df4a896df8e9e3731dfe440e0360d3"
+  },
+  "portrait_elf_archer__324x296": {
+    "hash": "104dcd5307e71acef9d8a52d8db1a9e2e960a814",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/104dcd5307e71acef9d8a52d8db1a9e2e960a814"
+  },
+  "portrait_raccoon_engineer__331x296": {
+    "hash": "12124c5ba3d45e740c85976a849ad20d62a751c0",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/12124c5ba3d45e740c85976a849ad20d62a751c0"
+  },
+  "equipment_raccoon_engineer_ring_clock__558x491": {
+    "hash": "13562fe59895c6ec439ecf556040bd2e2f4f25a7",
+    "nodes": [
+      "80:1062"
+    ],
+    "source": "analysis/figma/raw/images/13562fe59895c6ec439ecf556040bd2e2f4f25a7"
+  },
+  "hero_fox_sorcerer__457x420": {
+    "hash": "136e2c3daa100e5c10e35a8e6e483bbcab334c7d",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/136e2c3daa100e5c10e35a8e6e483bbcab334c7d"
+  },
+  "equipment_fox_sorcerer_staff__231x374": {
+    "hash": "159634f01579f83f29dd08cad88628ab01ae0f62",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/159634f01579f83f29dd08cad88628ab01ae0f62"
+  },
+  "equipment_ice_fairy_robe__335x377": {
+    "hash": "1660096ef0fb0a817a58f20baa2a15ae8fcf4f13",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/1660096ef0fb0a817a58f20baa2a15ae8fcf4f13"
+  },
+  "equipment_ice_fairy_ring_gem__465x536": {
+    "hash": "167b955bffaeeb6cc65e384a90dbe8318b6469eb",
+    "nodes": [
+      "80:1036"
+    ],
+    "source": "analysis/figma/raw/images/167b955bffaeeb6cc65e384a90dbe8318b6469eb"
+  },
+  "ui_frame_orange_wings__429x416": {
+    "hash": "1aa2cad57ec093d74ced0b3cb6507e28f7ad140c",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/1aa2cad57ec093d74ced0b3cb6507e28f7ad140c"
+  },
+  "relic_fire_crystal__447x635": {
+    "hash": "1adf237e14b08e2b9e68c12ebdc0f77382c34b17",
+    "nodes": [
+      "I73:474;73:436",
+      "73:506"
+    ],
+    "source": "analysis/figma/raw/images/1adf237e14b08e2b9e68c12ebdc0f77382c34b17"
+  },
+  "decoration_raccoon_castle__1254x1254": {
+    "hash": "1ae552b846d2cd9a35035f2b16555df744df4a32",
+    "nodes": [
+      "I2:119;2:124",
+      "2:124"
+    ],
+    "source": "analysis/figma/raw/images/1ae552b846d2cd9a35035f2b16555df744df4a32"
+  },
+  "ui_panel_blue_square__1448x1614": {
+    "hash": "1bec326d67982d2b37b0bf94fdceb5e11c18095d",
+    "nodes": [
+      "I19:1211;18:1188",
+      "I89:1319;18:1188",
+      "I80:1121;18:1188",
+      "I71:292;18:1188",
+      "I75:753;18:1188",
+      "18:1188"
+    ],
+    "source": "analysis/figma/raw/images/1bec326d67982d2b37b0bf94fdceb5e11c18095d"
+  },
+  "hero_elf_archer__1797x1858": {
+    "hash": "1e615ffee51f6045a4682a21538b096f62e47134",
+    "nodes": [
+      "I89:1604;89:1447",
+      "89:1447",
+      "89:1531",
+      "75:867",
+      "39:1377",
+      "30:1265"
+    ],
+    "source": "analysis/figma/raw/images/1e615ffee51f6045a4682a21538b096f62e47134"
+  },
+  "equipment_elf_archer_coat__332x313": {
+    "hash": "207cfefaffb4ac766f12ef881d0ff2c934130535",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/207cfefaffb4ac766f12ef881d0ff2c934130535"
+  },
+  "relic_wolf_mask__240x317": {
+    "hash": "22d068463183b40f7113e48fb8a193d0748bd89c",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/22d068463183b40f7113e48fb8a193d0748bd89c"
+  },
+  "boss_infernal_dragon__1968x1659": {
+    "hash": "24e7b4b661c7ee64dfa762ed3c11611dc92191b0",
+    "nodes": [
+      "37:1355"
+    ],
+    "source": "analysis/figma/raw/images/24e7b4b661c7ee64dfa762ed3c11611dc92191b0"
+  },
+  "equipment_ice_fairy_boots__578x556": {
+    "hash": "26136bc5cc95a7230b2b40e0333a783605c4cd2d",
+    "nodes": [
+      "80:1035"
+    ],
+    "source": "analysis/figma/raw/images/26136bc5cc95a7230b2b40e0333a783605c4cd2d"
+  },
+  "ui_frame_purple_orb__357x360": {
+    "hash": "26709afb60ab655eba934861a8765d7ead7d951e",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/26709afb60ab655eba934861a8765d7ead7d951e"
+  },
+  "equipment_inferno_dragon_sword__279x402": {
+    "hash": "26a707abab8df237a6b554a0bca024fad16b0587",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/26a707abab8df237a6b554a0bca024fad16b0587"
+  },
+  "hero_turtle_warrior__454x405": {
+    "hash": "2704c8e4d69345be4fd9b883a269bdeb3611375e",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/2704c8e4d69345be4fd9b883a269bdeb3611375e"
+  },
+  "background_grass_platform__754x329": {
+    "hash": "27498cd527af92b2768eef17c1e5cd6a9454328a",
+    "nodes": [
+      "I89:1604;89:1446",
+      "I89:1604;89:1453",
+      "I89:1604;89:1455",
+      "I89:1604;89:1456",
+      "I89:1604;89:1458",
+      "89:1446",
+      "89:1453",
+      "89:1455",
+      "89:1456",
+      "89:1458",
+      "89:1524",
+      "89:1527",
+      "89:1530",
+      "89:1533",
+      "89:1536",
+      "110:1215",
+      "I109:602;110:1215",
+      "I109:604;110:1215",
+      "I109:606;110:1215",
+      "I109:608;110:1215",
+      "I109:610;110:1215",
+      "I109:612;110:1215"
+    ],
+    "source": "analysis/figma/raw/images/27498cd527af92b2768eef17c1e5cd6a9454328a"
+  },
+  "enemy_toxic_slime__1654x1388": {
+    "hash": "27d3ca679aff035f5275fb0758710d482bf2f399",
+    "nodes": [
+      "37:1345"
+    ],
+    "source": "analysis/figma/raw/images/27d3ca679aff035f5275fb0758710d482bf2f399"
+  },
+  "equipment_ice_fairy_ring_gem__233x268": {
+    "hash": "27ec234b70e5c41081959a8665c00ab83a148594",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/27ec234b70e5c41081959a8665c00ab83a148594"
+  },
+  "ui_frame_board_slot__244x219": {
+    "hash": "289edf8d7d4cc89271745df76c84e59a84441d75",
+    "nodes": [
+      "19:1223",
+      "19:1225",
+      "I45:1451;19:1222",
+      "45:1463",
+      "45:1461",
+      "19:1222"
+    ],
+    "source": "analysis/figma/raw/images/289edf8d7d4cc89271745df76c84e59a84441d75"
+  },
+  "ui_panel_plain_navy__282x500": {
+    "hash": "29d4b3a5e3bb07d8d4d82add1e71cc5c879233f6",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/29d4b3a5e3bb07d8d4d82add1e71cc5c879233f6"
+  },
+  "portrait_elf_archer__647x592": {
+    "hash": "29d71879d7ca4f81f849d09d382caabbee442d6a",
+    "nodes": [
+      "80:1080",
+      "80:1081"
+    ],
+    "source": "analysis/figma/raw/images/29d71879d7ca4f81f849d09d382caabbee442d6a"
+  },
+  "equipment_owl_mage_robe_crescent__611x673": {
+    "hash": "2a448a50e985e72af9e22c1145c95b359c87b74a",
+    "nodes": [
+      "80:1031"
+    ],
+    "source": "analysis/figma/raw/images/2a448a50e985e72af9e22c1145c95b359c87b74a"
+  },
+  "equipment_panda_monk_pants__269x284": {
+    "hash": "2ac06680b310c2e4c49f64eb7d85013490aa3a3d",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/2ac06680b310c2e4c49f64eb7d85013490aa3a3d"
+  },
+  "equipment_elf_archer_bow__281x370": {
+    "hash": "2ae1207478c6cad2336a4eb0ddb7e802654cbb4f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/2ae1207478c6cad2336a4eb0ddb7e802654cbb4f"
+  },
+  "equipment_elf_archer_ring__536x516": {
+    "hash": "2d2da51be9deeded3d9b9f07d6af7fb93015e94c",
+    "nodes": [
+      "I80:951;80:911",
+      "80:1012"
+    ],
+    "source": "analysis/figma/raw/images/2d2da51be9deeded3d9b9f07d6af7fb93015e94c"
+  },
+  "ui_icon_heart__474x437": {
+    "hash": "2e6532461095a06c2911e42ee8acd8ec351883ee",
+    "nodes": [
+      "I89:1604;89:1500",
+      "I89:1604;89:1543",
+      "I89:1604;89:1559",
+      "I89:1604;89:1575",
+      "I89:1604;89:1590",
+      "89:1500",
+      "89:1543",
+      "89:1559",
+      "89:1575",
+      "89:1590",
+      "89:1719",
+      "110:1174",
+      "I109:602;110:1174",
+      "I109:604;110:1174",
+      "I109:606;110:1174",
+      "I109:608;110:1174",
+      "I109:610;110:1174",
+      "I109:612;110:1174"
+    ],
+    "source": "analysis/figma/raw/images/2e6532461095a06c2911e42ee8acd8ec351883ee"
+  },
+  "ui_wheel_reward_illustration__1774x1837": {
+    "hash": "2fe539a12c7c857eabe1150073d8c7250f8b4e7c",
+    "nodes": [
+      "I2:431;2:576",
+      "I89:1314;2:576",
+      "I80:1113;2:576",
+      "I71:283;2:576",
+      "I75:747;2:576",
+      "2:576"
+    ],
+    "source": "analysis/figma/raw/images/2fe539a12c7c857eabe1150073d8c7250f8b4e7c"
+  },
+  "reference_screen_equipment__852x1846": {
+    "hash": "3009340212c93c612320bf8ecc63c85b6c3a1f42",
+    "nodes": [
+      "I109:594;203:12",
+      "I109:602;109:594;203:12",
+      "I109:604;109:594;203:12",
+      "I109:606;109:594;203:12",
+      "I109:608;109:594;203:12",
+      "I109:610;109:594;203:12",
+      "I109:612;109:594;203:12"
+    ],
+    "source": "analysis/figma/raw/images/3009340212c93c612320bf8ecc63c85b6c3a1f42"
+  },
+  "background_dungeon_goblin_strip__2172x724": {
+    "hash": "3117bbf2ea8e080c3c460da6edb2f28b6ac59544",
+    "nodes": [
+      "86:1267"
+    ],
+    "source": "analysis/figma/raw/images/3117bbf2ea8e080c3c460da6edb2f28b6ac59544"
+  },
+  "branding_app_icon__314x314": {
+    "hash": "3133f215a4fce97c1de11bb8216582dc7da04f41",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/3133f215a4fce97c1de11bb8216582dc7da04f41"
+  },
+  "background_castle_platform__236x418": {
+    "hash": "358859852eeefbfcfc2b2b9f34fe521fae0c9686",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/358859852eeefbfcfc2b2b9f34fe521fae0c9686"
+  },
+  "branding_hero_collage__1536x1024_variant2": {
+    "hash": "361e1bf843e69fc4acc10557b15117a84f05362f",
+    "nodes": [
+      "2:410",
+      "91:558",
+      "110:1166",
+      "I109:602;110:1166",
+      "I109:604;110:1166",
+      "I109:606;110:1166",
+      "I109:608;110:1166",
+      "I109:610;110:1166",
+      "I109:612;110:1166"
+    ],
+    "source": "analysis/figma/raw/images/361e1bf843e69fc4acc10557b15117a84f05362f"
+  },
+  "enemy_fire_lizard__1562x1651": {
+    "hash": "36f8f6f7a7d0c7e0ae4e20f0b737fad9bba67716",
+    "nodes": [
+      "37:1343"
+    ],
+    "source": "analysis/figma/raw/images/36f8f6f7a7d0c7e0ae4e20f0b737fad9bba67716"
+  },
+  "ui_nav_shop__438x436": {
+    "hash": "373d77e6b8229fd322f1eaf0a04dc6569d9a690b",
+    "nodes": [
+      "I19:1203;19:1193",
+      "I89:1319;19:1193",
+      "I80:1118;19:1193",
+      "I71:288;19:1193",
+      "I75:752;19:1193",
+      "32:1319"
+    ],
+    "source": "analysis/figma/raw/images/373d77e6b8229fd322f1eaf0a04dc6569d9a690b"
+  },
+  "reference_screen_battle__213x462": {
+    "hash": "37ba6af3a49a0eee8774c7fe203120891ca06035",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/37ba6af3a49a0eee8774c7fe203120891ca06035"
+  },
+  "decoration_raccoon_castle__314x314": {
+    "hash": "388cc29f981c9ff236dd87f701629cfc2df0ed1b",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/388cc29f981c9ff236dd87f701629cfc2df0ed1b"
+  },
+  "boss_shadow_dragon__1974x1657": {
+    "hash": "399835a2248bc008049911515ada1858ec75cf7b",
+    "nodes": [
+      "37:1352"
+    ],
+    "source": "analysis/figma/raw/images/399835a2248bc008049911515ada1858ec75cf7b"
+  },
+  "background_dungeon_shadow_strip__272x91": {
+    "hash": "39e89bf91b4cec39742c2340a3cf488173f6c014",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/39e89bf91b4cec39742c2340a3cf488173f6c014"
+  },
+  "equipment_lion_knight_chest__305x271": {
+    "hash": "3a4c7d87973beb2a6bac697b8b6f40ea4b0180b8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/3a4c7d87973beb2a6bac697b8b6f40ea4b0180b8"
+  },
+  "equipment_turtle_warrior_ring_shell__257x244": {
+    "hash": "3a80e816a423683876f3467005e81e966d98f0f3",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/3a80e816a423683876f3467005e81e966d98f0f3"
+  },
+  "portrait_fox_sorcerer__321x296": {
+    "hash": "3d2805e8ff2eed585f7f5531ff9d272f3b2634f8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/3d2805e8ff2eed585f7f5531ff9d272f3b2634f8"
+  },
+  "ui_icon_gold_pile__284x291": {
+    "hash": "3d7b2576105a02f7f41d79b0ff9f2043fe62c15f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/3d7b2576105a02f7f41d79b0ff9f2043fe62c15f"
+  },
+  "equipment_inferno_dragon_spear__628x784": {
+    "hash": "3d9e65afef836d103767896dee052022ccc13984",
+    "nodes": [
+      "80:1067"
+    ],
+    "source": "analysis/figma/raw/images/3d9e65afef836d103767896dee052022ccc13984"
+  },
+  "background_stone_slot__348x265": {
+    "hash": "3e90c264d05d2f38863dee69a57bad0835294298",
+    "nodes": [
+      "I30:1272;19:1239",
+      "I30:1278;19:1239",
+      "I30:1282;19:1239",
+      "I30:1283;19:1239",
+      "I30:1289;19:1239",
+      "I30:1293;19:1239",
+      "I30:1294;19:1239",
+      "I30:1295;19:1239",
+      "I30:1296;19:1239",
+      "I30:1297;19:1239",
+      "19:1239"
+    ],
+    "source": "analysis/figma/raw/images/3e90c264d05d2f38863dee69a57bad0835294298"
+  },
+  "equipment_ice_fairy_ring_snowflake__484x545": {
+    "hash": "3f7661b751fc2f8c82ca6e3dae34a25b87a1ba6b",
+    "nodes": [
+      "80:1037"
+    ],
+    "source": "analysis/figma/raw/images/3f7661b751fc2f8c82ca6e3dae34a25b87a1ba6b"
+  },
+  "enemy_bomb_goblin__1606x1561": {
+    "hash": "4043fe7b5bb26d9a56eb46d369dd44a7bea0355b",
+    "nodes": [
+      "37:1342"
+    ],
+    "source": "analysis/figma/raw/images/4043fe7b5bb26d9a56eb46d369dd44a7bea0355b"
+  },
+  "ui_panel_dark_square__1576x1595": {
+    "hash": "4262bc5b52ccf861ee9cf940d4000bafcffdc84b",
+    "nodes": [
+      "I19:1203;18:1188",
+      "I19:1207;18:1188",
+      "I19:1215;18:1188",
+      "I19:1216;18:1188",
+      "I89:1319;18:1188",
+      "I89:1320;18:1188",
+      "I89:1321;18:1188",
+      "I89:1322;18:1188",
+      "I89:1323;18:1188",
+      "I80:1118;18:1188",
+      "I80:1119;18:1188",
+      "I80:1120;18:1188",
+      "I80:1122;18:1188",
+      "I71:288;18:1188",
+      "I71:289;18:1188",
+      "I71:290;18:1188",
+      "I71:291;18:1188",
+      "I75:752;18:1188",
+      "I75:754;18:1188",
+      "I75:755;18:1188",
+      "I75:756;18:1188"
+    ],
+    "source": "analysis/figma/raw/images/4262bc5b52ccf861ee9cf940d4000bafcffdc84b"
+  },
+  "equipment_bunny_assassin_ring__506x452": {
+    "hash": "43d5300cde4ec04b5352a0762d9e21c53a8370f2",
+    "nodes": [
+      "80:1023"
+    ],
+    "source": "analysis/figma/raw/images/43d5300cde4ec04b5352a0762d9e21c53a8370f2"
+  },
+  "boss_infernal_dragon__492x415": {
+    "hash": "4422f3554ef303338bf2c5ce27a183cf1e2316ec",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/4422f3554ef303338bf2c5ce27a183cf1e2316ec"
+  },
+  "equipment_ice_fairy_staff_snowflake__292x441": {
+    "hash": "44b20761ceb8fc370add7b0ad7d8dea272bbac01",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/44b20761ceb8fc370add7b0ad7d8dea272bbac01"
+  },
+  "reference_screen_wheel__852x1846": {
+    "hash": "45449f7a8414d7efaffdcdb33a76fc1ef27dea4e",
+    "nodes": [
+      "I109:593;203:12",
+      "I109:602;109:593;203:12",
+      "I109:604;109:593;203:12",
+      "I109:606;109:593;203:12",
+      "I109:608;109:593;203:12",
+      "I109:610;109:593;203:12",
+      "I109:612;109:593;203:12"
+    ],
+    "source": "analysis/figma/raw/images/45449f7a8414d7efaffdcdb33a76fc1ef27dea4e"
+  },
+  "portrait_owl_mage__621x592": {
+    "hash": "45e7b2da1606b82d39f929c61e5f1cbcfa932627",
+    "nodes": [
+      "80:1089"
+    ],
+    "source": "analysis/figma/raw/images/45e7b2da1606b82d39f929c61e5f1cbcfa932627"
+  },
+  "equipment_bunny_assassin_axes__358x258": {
+    "hash": "487ed1c8312cc200790af6f0f17d2f31779b99cf",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/487ed1c8312cc200790af6f0f17d2f31779b99cf"
+  },
+  "equipment_owl_mage_ring_crescent__207x277": {
+    "hash": "4a1a52b5970ee31620411fa7195a005ae872b81c",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/4a1a52b5970ee31620411fa7195a005ae872b81c"
+  },
+  "background_forest_glade__941x1672": {
+    "hash": "4cc88a1fa76bcfc927baf7aa055edcfd32dd0130",
+    "nodes": [
+      "I71:280;2:8"
+    ],
+    "source": "analysis/figma/raw/images/4cc88a1fa76bcfc927baf7aa055edcfd32dd0130"
+  },
+  "equipment_elf_archer_hood_fur__342x357": {
+    "hash": "4d6289a8e6e4f27f2168f14964906e375cf372ae",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/4d6289a8e6e4f27f2168f14964906e375cf372ae"
+  },
+  "equipment_owl_mage_staff_crescent__197x396": {
+    "hash": "4e749bdb6b99992e4cb2deba666f0780c792a876",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/4e749bdb6b99992e4cb2deba666f0780c792a876"
+  },
+  "equipment_inferno_dragon_chest__610x596": {
+    "hash": "4ef146a3161fd460450196d7a049be935a2ed028",
+    "nodes": [
+      "80:1068"
+    ],
+    "source": "analysis/figma/raw/images/4ef146a3161fd460450196d7a049be935a2ed028"
+  },
+  "relic_boar_mask__510x544": {
+    "hash": "4f1125faf2ec52a33420ac28a147aa4afb24a78f",
+    "nodes": [
+      "I73:475;73:436",
+      "73:507"
+    ],
+    "source": "analysis/figma/raw/images/4f1125faf2ec52a33420ac28a147aa4afb24a78f"
+  },
+  "enemy_fire_lizard__391x413": {
+    "hash": "4f6e66aa6234b8e763bb7e2220f302a32bad9d34",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/4f6e66aa6234b8e763bb7e2220f302a32bad9d34"
+  },
+  "ui_wheel_outer_ring__1940x1924": {
+    "hash": "506e2c442ef14cc3433543f99131e6d33c63ac0c",
+    "nodes": [
+      "91:575",
+      "91:581",
+      "91:569",
+      "2:664",
+      "2:670"
+    ],
+    "source": "analysis/figma/raw/images/506e2c442ef14cc3433543f99131e6d33c63ac0c"
+  },
+  "branding_banner__1672x941": {
+    "hash": "50dd7bc64a457b17d2132683b3d77f77bb9e53c0",
+    "nodes": [
+      "109:580"
+    ],
+    "source": "analysis/figma/raw/images/50dd7bc64a457b17d2132683b3d77f77bb9e53c0"
+  },
+  "equipment_raccoon_engineer_coat__326x283": {
+    "hash": "50f9115542ef6d9d489842242ef313ea9645bd7f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/50f9115542ef6d9d489842242ef313ea9645bd7f"
+  },
+  "reward_gift_box__335x371": {
+    "hash": "51a308f9a466cd5582bda5a2d805eb5087745591",
+    "nodes": [
+      "110:1236",
+      "I109:602;110:1236",
+      "I109:604;110:1236",
+      "I109:606;110:1236",
+      "I109:608;110:1236",
+      "I109:610;110:1236",
+      "I109:612;110:1236"
+    ],
+    "source": "analysis/figma/raw/images/51a308f9a466cd5582bda5a2d805eb5087745591"
+  },
+  "branding_logo__362x272": {
+    "hash": "524e46745b1a5f281ae4bdc29ede708141e8b425",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/524e46745b1a5f281ae4bdc29ede708141e8b425"
+  },
+  "enemy_bomb_goblin__402x391": {
+    "hash": "52d69f67d2853fb40f3a6ba2c0ed076c4c83d5a8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/52d69f67d2853fb40f3a6ba2c0ed076c4c83d5a8"
+  },
+  "hero_inferno_dragon__1886x1748": {
+    "hash": "531d002be7c9fa402b324aebc0597b2e89bbe538",
+    "nodes": [
+      "I30:1297;30:1265",
+      "32:1312",
+      "39:1359"
+    ],
+    "source": "analysis/figma/raw/images/531d002be7c9fa402b324aebc0597b2e89bbe538"
+  },
+  "equipment_lion_knight_hammer__255x348": {
+    "hash": "539492df93df8197e8f1b570ecab39a53d0e666c",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/539492df93df8197e8f1b570ecab39a53d0e666c"
+  },
+  "ui_icon_battle_swords__1402x1456": {
+    "hash": "54e166b2a97ba055bfa15f4e10479466ce5068d4",
+    "nodes": [
+      "I19:1211;19:1193",
+      "I89:1321;19:1193",
+      "I80:1120;19:1193",
+      "I71:290;19:1193",
+      "I75:754;19:1193",
+      "80:1099",
+      "80:1106",
+      "19:1193"
+    ],
+    "source": "analysis/figma/raw/images/54e166b2a97ba055bfa15f4e10479466ce5068d4"
+  },
+  "enemy_iron_beetle__459x410": {
+    "hash": "5533571eb13bd14e6e984313dd1eb34b0c22b8f9",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/5533571eb13bd14e6e984313dd1eb34b0c22b8f9"
+  },
+  "ui_button_gold__298x163": {
+    "hash": "5562b5751773f0255e1623439b57c83d7fa00216",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/5562b5751773f0255e1623439b57c83d7fa00216"
+  },
+  "equipment_fox_sorcerer_ring_mask__231x258": {
+    "hash": "55bb45a83917dbb44725acd3ca9524d42f4ecab8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/55bb45a83917dbb44725acd3ca9524d42f4ecab8"
+  },
+  "ui_icon_blue_triangle__1484x1322": {
+    "hash": "55e08f61b7b03b548c7fb448d55988a1a7e71930",
+    "nodes": [
+      "I91:576;2:663",
+      "I91:582;2:663",
+      "I91:570;2:663",
+      "2:663",
+      "I2:671;2:663"
+    ],
+    "source": "analysis/figma/raw/images/55e08f61b7b03b548c7fb448d55988a1a7e71930"
+  },
+  "background_dungeon_frost_strip__272x91": {
+    "hash": "56f804b8b337c8ec30e0cdbd468141660a13ffac",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/56f804b8b337c8ec30e0cdbd468141660a13ffac"
+  },
+  "equipment_raccoon_engineer_coat__651x566": {
+    "hash": "56fefa41ce54478df42e9635270a205cf710f713",
+    "nodes": [
+      "80:1061"
+    ],
+    "source": "analysis/figma/raw/images/56fefa41ce54478df42e9635270a205cf710f713"
+  },
+  "relic_blue_crescent__253x290": {
+    "hash": "581b34804874a6010bcb4cf42ec8bca715ba5c27",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/581b34804874a6010bcb4cf42ec8bca715ba5c27"
+  },
+  "ui_panel_plain_navy__1126x2000": {
+    "hash": "5976164c9088d9f3322d497bbf2c3c76b9211e1f",
+    "nodes": [
+      "I2:116;2:535",
+      "I2:173;2:535",
+      "I2:420;2:535",
+      "I106:555;2:535",
+      "I89:1604;89:1436",
+      "89:1436",
+      "89:1733",
+      "I88:1291;81:1252",
+      "81:1252",
+      "2:535"
+    ],
+    "source": "analysis/figma/raw/images/5976164c9088d9f3322d497bbf2c3c76b9211e1f"
+  },
+  "equipment_inferno_dragon_ring_gem__328x398": {
+    "hash": "5977fb8357d809397ef4e35cfd9cdef06a3f5c9e",
+    "nodes": [
+      "80:1070"
+    ],
+    "source": "analysis/figma/raw/images/5977fb8357d809397ef4e35cfd9cdef06a3f5c9e"
+  },
+  "relic_infernal_mask__407x440": {
+    "hash": "597ec45d22678bda09402fee655a352ec2439e73",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/597ec45d22678bda09402fee655a352ec2439e73"
+  },
+  "equipment_raccoon_engineer_chest_machine__668x500": {
+    "hash": "599dab42cfb75937f7a1b9fc111ccb283886ac49",
+    "nodes": [
+      "80:1064"
+    ],
+    "source": "analysis/figma/raw/images/599dab42cfb75937f7a1b9fc111ccb283886ac49"
+  },
+  "relic_leaf_crescent__470x571": {
+    "hash": "59fabe382ec32d1dfedf9b053ba7bf9bf5355a65",
+    "nodes": [
+      "I73:442;73:436",
+      "73:498"
+    ],
+    "source": "analysis/figma/raw/images/59fabe382ec32d1dfedf9b053ba7bf9bf5355a65"
+  },
+  "equipment_elf_archer_ring_leaf__529x544": {
+    "hash": "5a5f49a12405c47385e182776d35af1e3809f250",
+    "nodes": [
+      "I80:945;80:911",
+      "80:1013"
+    ],
+    "source": "analysis/figma/raw/images/5a5f49a12405c47385e182776d35af1e3809f250"
+  },
+  "ui_frame_equipment_gold__1035x1545": {
+    "hash": "5b2fb629c36746c86adbb8f7460d1770ae270cdc",
+    "nodes": [
+      "73:407"
+    ],
+    "source": "analysis/figma/raw/images/5b2fb629c36746c86adbb8f7460d1770ae270cdc"
+  },
+  "equipment_ice_fairy_robe__670x754": {
+    "hash": "5bb94d24b5701250d51a9f5999e913cb4657055c",
+    "nodes": [
+      "80:1038"
+    ],
+    "source": "analysis/figma/raw/images/5bb94d24b5701250d51a9f5999e913cb4657055c"
+  },
+  "enemy_dark_bat_mage__472x383": {
+    "hash": "5d7e96c8d3236bfc5c2add7121fb26f2b6b510b1",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/5d7e96c8d3236bfc5c2add7121fb26f2b6b510b1"
+  },
+  "ui_icon_sword__525x536": {
+    "hash": "5dcc8f91b17f1226f0c012df0135ae09f03678b0",
+    "nodes": [
+      "I89:1604;89:1499",
+      "I89:1604;89:1542",
+      "I89:1604;89:1558",
+      "I89:1604;89:1574",
+      "I89:1604;89:1589",
+      "89:1499",
+      "89:1542",
+      "89:1558",
+      "89:1574",
+      "89:1589",
+      "89:1718",
+      "110:1229",
+      "I109:602;110:1229",
+      "I109:604;110:1229",
+      "I109:606;110:1229",
+      "I109:608;110:1229",
+      "I109:610;110:1229",
+      "I109:612;110:1229"
+    ],
+    "source": "analysis/figma/raw/images/5dcc8f91b17f1226f0c012df0135ae09f03678b0"
+  },
+  "ui_nav_heroes_helmet__476x388": {
+    "hash": "5dd930ff66d91d0edfd2480e1de8ce59b7b71c98",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/5dd930ff66d91d0edfd2480e1de8ce59b7b71c98"
+  },
+  "relic_fire_dragon_head__203x288": {
+    "hash": "5ecf8359d5ef62bda32ceb060cf8039ccf50ec82",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/5ecf8359d5ef62bda32ceb060cf8039ccf50ec82"
+  },
+  "ui_icon_sword__263x268": {
+    "hash": "5eeab04b88a09db3ffecc36435ced37c4b0afa6f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/5eeab04b88a09db3ffecc36435ced37c4b0afa6f"
+  },
+  "equipment_elf_archer_coat__663x625": {
+    "hash": "5fa746afd3d5fd77d9d6feb3916a29828e85188f",
+    "nodes": [
+      "80:1057"
+    ],
+    "source": "analysis/figma/raw/images/5fa746afd3d5fd77d9d6feb3916a29828e85188f"
+  },
+  "equipment_ice_fairy_staff_snowflake__583x881": {
+    "hash": "5fe747f63bc0c20354a03a39f34d22bf172c5757",
+    "nodes": [
+      "80:1039"
+    ],
+    "source": "analysis/figma/raw/images/5fe747f63bc0c20354a03a39f34d22bf172c5757"
+  },
+  "ui_panel_blue_square__362x404": {
+    "hash": "627bd3ee8f9578ceef394a482d97ac1e57fba7fa",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/627bd3ee8f9578ceef394a482d97ac1e57fba7fa"
+  },
+  "ui_icon_upgrade_arrow__326x354": {
+    "hash": "6383c14fef9a588040445156d17871feae1021aa",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6383c14fef9a588040445156d17871feae1021aa"
+  },
+  "relic_green_disc__242x274": {
+    "hash": "64bc704a021064c000e04ee27fdc1f9c185bebe7",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/64bc704a021064c000e04ee27fdc1f9c185bebe7"
+  },
+  "equipment_owl_mage_staff_owl__478x836": {
+    "hash": "65cd524b7292d59bfce6b1d95c03bb73cf72ebc1",
+    "nodes": [
+      "80:1032"
+    ],
+    "source": "analysis/figma/raw/images/65cd524b7292d59bfce6b1d95c03bb73cf72ebc1"
+  },
+  "equipment_lion_knight_hammer__509x696": {
+    "hash": "668c3a9a2ae00999798a24b7ba79bc4702ce62bd",
+    "nodes": [
+      "80:1040"
+    ],
+    "source": "analysis/figma/raw/images/668c3a9a2ae00999798a24b7ba79bc4702ce62bd"
+  },
+  "background_dungeon_shadow_strip__2172x724": {
+    "hash": "66b36f8823daa26c49439008b7247fb72caf8fb6",
+    "nodes": [
+      "86:1271"
+    ],
+    "source": "analysis/figma/raw/images/66b36f8823daa26c49439008b7247fb72caf8fb6"
+  },
+  "relic_leaf_crescent__235x286": {
+    "hash": "672e9ee6972d00950355511e004ea13cac508184",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/672e9ee6972d00950355511e004ea13cac508184"
+  },
+  "equipment_turtle_warrior_hammer__281x323": {
+    "hash": "677f461376f4eb79e91a01e0859936fbe5b3279e",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/677f461376f4eb79e91a01e0859936fbe5b3279e"
+  },
+  "branding_welcome_text__272x91": {
+    "hash": "67cdd7734b2176cf091d7505901539412e9727a3",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/67cdd7734b2176cf091d7505901539412e9727a3"
+  },
+  "equipment_owl_mage_staff_crescent__394x792": {
+    "hash": "696dd30a73d5d2e2c929303afd4a5ba32e3332f3",
+    "nodes": [
+      "80:1027"
+    ],
+    "source": "analysis/figma/raw/images/696dd30a73d5d2e2c929303afd4a5ba32e3332f3"
+  },
+  "ui_frame_purple_shield__1628x1719": {
+    "hash": "69745b8d9f7ddc33f8e3dd7fcd00b87039fd3eed",
+    "nodes": [
+      "I73:460;73:532",
+      "I73:461;73:532",
+      "I73:462;73:532",
+      "I73:463;73:532"
+    ],
+    "source": "analysis/figma/raw/images/69745b8d9f7ddc33f8e3dd7fcd00b87039fd3eed"
+  },
+  "hero_owl_mage__454x440": {
+    "hash": "6a64125f8dc9693f40703fbaf4fe85b7759d80af",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6a64125f8dc9693f40703fbaf4fe85b7759d80af"
+  },
+  "background_floating_islands__941x1672": {
+    "hash": "6b0fe4f85adb51efb23cdd45f201e502c0686cd1",
+    "nodes": [
+      "I2:3;2:8",
+      "2:8",
+      "I2:115;2:8",
+      "I2:172;2:8",
+      "I2:187;2:8",
+      "I2:266;2:8",
+      "I2:277;2:8",
+      "I2:288;2:8",
+      "I2:407;2:8",
+      "I2:419;2:8",
+      "I106:554;2:8",
+      "I2:427;2:8",
+      "I89:1311;2:8",
+      "I80:1110;2:8"
+    ],
+    "source": "analysis/figma/raw/images/6b0fe4f85adb51efb23cdd45f201e502c0686cd1"
+  },
+  "enemy_stone_gargoyle__1789x1558": {
+    "hash": "6b23891eb8e67567c8677d78a892c054f1fe5f21",
+    "nodes": [
+      "37:1344"
+    ],
+    "source": "analysis/figma/raw/images/6b23891eb8e67567c8677d78a892c054f1fe5f21"
+  },
+  "currency_blue_orb__273x277": {
+    "hash": "6b619134c83e85858b3483bc16a80bc6b91dcea2",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6b619134c83e85858b3483bc16a80bc6b91dcea2"
+  },
+  "equipment_turtle_warrior_chest_shell__608x522": {
+    "hash": "6bc34dd104e58e77958567e48e5459e94a81e695",
+    "nodes": [
+      "80:1077"
+    ],
+    "source": "analysis/figma/raw/images/6bc34dd104e58e77958567e48e5459e94a81e695"
+  },
+  "ui_icon_hourglass__1343x1364": {
+    "hash": "6bda5ce4aa2a6848a588f2f906891a7356a6b28b",
+    "nodes": [
+      "45:1430",
+      "45:1436"
+    ],
+    "source": "analysis/figma/raw/images/6bda5ce4aa2a6848a588f2f906891a7356a6b28b"
+  },
+  "background_dungeon_goblin_strip__272x91": {
+    "hash": "6c938c6f880b0cccecab051181158b9261e313c4",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6c938c6f880b0cccecab051181158b9261e313c4"
+  },
+  "ui_icon_battle_swords__351x364": {
+    "hash": "6cafbbc403628666824c3537dd354e81fc8bf517",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6cafbbc403628666824c3537dd354e81fc8bf517"
+  },
+  "background_dungeon_infernal_strip__272x91": {
+    "hash": "6e1d9f5aef9515eef69c96c0c505479d1da0d80b",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6e1d9f5aef9515eef69c96c0c505479d1da0d80b"
+  },
+  "background_floating_islands__236x418": {
+    "hash": "6e559698a8b3cecee291e0308c0730d4d11beecc",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6e559698a8b3cecee291e0308c0730d4d11beecc"
+  },
+  "portrait_inferno_dragon__311x295": {
+    "hash": "6ef0339dd30a9f38bd3dd0ae17011aa50f2f5708",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/6ef0339dd30a9f38bd3dd0ae17011aa50f2f5708"
+  },
+  "background_dungeon_infernal_strip__2172x724": {
+    "hash": "7276c1544b69adce858414a636fc63bbad7714ec",
+    "nodes": [
+      "I88:1291;86:1260",
+      "86:1260",
+      "86:1265"
+    ],
+    "source": "analysis/figma/raw/images/7276c1544b69adce858414a636fc63bbad7714ec"
+  },
+  "equipment_fox_sorcerer_staff_orb__535x811": {
+    "hash": "732d97e3ef064419ae0f5906ed9868ea45cab4ea",
+    "nodes": [
+      "80:1053"
+    ],
+    "source": "analysis/figma/raw/images/732d97e3ef064419ae0f5906ed9868ea45cab4ea"
+  },
+  "equipment_fox_sorcerer_ring_mask__461x515": {
+    "hash": "73470e7fcaf52e7d7e796c4160a597fa91217860",
+    "nodes": [
+      "80:1056"
+    ],
+    "source": "analysis/figma/raw/images/73470e7fcaf52e7d7e796c4160a597fa91217860"
+  },
+  "equipment_fox_sorcerer_staff_orb__268x406": {
+    "hash": "738f59e3122928950a1bc9b956e1bfb867cfe8b1",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/738f59e3122928950a1bc9b956e1bfb867cfe8b1"
+  },
+  "equipment_elf_archer_boots__249x268": {
+    "hash": "73efa90b29fc0fd6c80b77c7c64fa09649518957",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/73efa90b29fc0fd6c80b77c7c64fa09649518957"
+  },
+  "decoration_raccoon_castle__1254x1254_variant2": {
+    "hash": "741e1dae868073fa4c6d79284c652a31207b2e69",
+    "nodes": [
+      "I2:119;2:124",
+      "2:124"
+    ],
+    "source": "analysis/figma/raw/images/741e1dae868073fa4c6d79284c652a31207b2e69"
+  },
+  "currency_blue_orb__545x554": {
+    "hash": "777e17cf85e51215e2caaff22ebb334b17be469a",
+    "nodes": [
+      "I89:1604;89:1521",
+      "I89:1604;89:1554",
+      "I89:1604;89:1570",
+      "I89:1604;89:1586",
+      "I89:1604;89:1601",
+      "89:1521",
+      "89:1554",
+      "89:1570",
+      "89:1586",
+      "89:1601",
+      "89:1722",
+      "110:1201",
+      "I109:602;110:1201",
+      "I109:604;110:1201",
+      "I109:606;110:1201",
+      "I109:608;110:1201",
+      "I109:610;110:1201",
+      "I109:612;110:1201"
+    ],
+    "source": "analysis/figma/raw/images/777e17cf85e51215e2caaff22ebb334b17be469a"
+  },
+  "equipment_owl_mage_staff_owl__239x418": {
+    "hash": "778ed44d4ffac3c67ec16d188e7a76a0f7f77aae",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/778ed44d4ffac3c67ec16d188e7a76a0f7f77aae"
+  },
+  "portrait_owl_mage__311x296": {
+    "hash": "782c9ef205e984f78f9b0c449e5c06742c661cc3",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/782c9ef205e984f78f9b0c449e5c06742c661cc3"
+  },
+  "equipment_inferno_dragon_robe__521x524": {
+    "hash": "78bfa38b717308ddd2622ef3c8676cf9bd328b52",
+    "nodes": [
+      "80:1071"
+    ],
+    "source": "analysis/figma/raw/images/78bfa38b717308ddd2622ef3c8676cf9bd328b52"
+  },
+  "reference_screen_start__213x462": {
+    "hash": "7a1da81a8dae2e997e861677021e0dc93c0aa0f4",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/7a1da81a8dae2e997e861677021e0dc93c0aa0f4"
+  },
+  "branding_welcome_text__2172x724": {
+    "hash": "7b964ceeade5e1566bf7ecb69061bac17843cb8a",
+    "nodes": [
+      "90:1779",
+      "90:1780"
+    ],
+    "source": "analysis/figma/raw/images/7b964ceeade5e1566bf7ecb69061bac17843cb8a"
+  },
+  "hero_inferno_dragon__472x437": {
+    "hash": "7cbd10b7e6c71969b257cb4c6e4e8a393c7545d0",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/7cbd10b7e6c71969b257cb4c6e4e8a393c7545d0"
+  },
+  "ui_button_orange__2542x1359": {
+    "hash": "7d0289c641e46bae1b62d4fe28ea11d184302d26",
+    "nodes": [
+      "I2:269;2:490",
+      "I2:278;2:490",
+      "I2:292;2:490",
+      "I2:424;2:493",
+      "I106:559;2:493",
+      "I75:607;75:582",
+      "I80:926;75:582",
+      "75:582",
+      "2:490",
+      "2:493"
+    ],
+    "source": "analysis/figma/raw/images/7d0289c641e46bae1b62d4fe28ea11d184302d26"
+  },
+  "equipment_owl_mage_robe_crescent__306x337": {
+    "hash": "7d1531028cb997d099014cdc8ae9f417c7cc5248",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/7d1531028cb997d099014cdc8ae9f417c7cc5248"
+  },
+  "hero_ice_fairy__1718x1740": {
+    "hash": "7d89a5b1428ce1d8664a5023c0bd4a196292688c",
+    "nodes": [
+      "I30:1296;30:1265",
+      "32:1313",
+      "I89:1604;89:1451",
+      "89:1451",
+      "89:1525",
+      "39:1379"
+    ],
+    "source": "analysis/figma/raw/images/7d89a5b1428ce1d8664a5023c0bd4a196292688c"
+  },
+  "portrait_turtle_warrior__660x592": {
+    "hash": "7db345e2f56a2a40ba912d41a5724b3e8d3b888e",
+    "nodes": [
+      "80:1087"
+    ],
+    "source": "analysis/figma/raw/images/7db345e2f56a2a40ba912d41a5724b3e8d3b888e"
+  },
+  "ui_icon_settings__369x374": {
+    "hash": "7de89c5429f37aa45c08a77de458feaa8b1ff2fe",
+    "nodes": [
+      "I2:432;2:578",
+      "I89:1315;2:578",
+      "I80:1114;2:578",
+      "I71:284;2:578",
+      "I75:748;2:578",
+      "2:578"
+    ],
+    "source": "analysis/figma/raw/images/7de89c5429f37aa45c08a77de458feaa8b1ff2fe"
+  },
+  "ui_icon_hourglass__336x341": {
+    "hash": "7e32ef894094511eb4a2998cfd764989c3ecaecd",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/7e32ef894094511eb4a2998cfd764989c3ecaecd"
+  },
+  "branding_app_icon__1254x1254": {
+    "hash": "7eab4efc82b52ab4e650af14a157246a7fddc75e",
+    "nodes": [
+      "109:579"
+    ],
+    "source": "analysis/figma/raw/images/7eab4efc82b52ab4e650af14a157246a7fddc75e"
+  },
+  "boss_frost_dragon__1995x1925": {
+    "hash": "7f00e6a27e7f7b619d84155ace2e04e6f6feca26",
+    "nodes": [
+      "37:1353"
+    ],
+    "source": "analysis/figma/raw/images/7f00e6a27e7f7b619d84155ace2e04e6f6feca26"
+  },
+  "enemy_dark_bat_mage__1888x1531": {
+    "hash": "7f8265d92f3025e60df9ea6f8476fc8de4c9c427",
+    "nodes": [
+      "37:1349"
+    ],
+    "source": "analysis/figma/raw/images/7f8265d92f3025e60df9ea6f8476fc8de4c9c427"
+  },
+  "ui_panel_gold_navy_wide__293x104": {
+    "hash": "7f8aa69b5a0a082d157efc135643718e4b8b0ad8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/7f8aa69b5a0a082d157efc135643718e4b8b0ad8"
+  },
+  "ui_frame_purple_shield__407x430": {
+    "hash": "7ff0d2d75783cc3d58aba9d755a5375e74d5b133",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/7ff0d2d75783cc3d58aba9d755a5375e74d5b133"
+  },
+  "background_battle_panorama__1916x821": {
+    "hash": "8544522e43d61d581e55ff6f96a24cec53d8a1c8",
+    "nodes": [
+      "109:581",
+      "109:602",
+      "109:604",
+      "109:606",
+      "109:608",
+      "109:610",
+      "109:612"
+    ],
+    "source": "analysis/figma/raw/images/8544522e43d61d581e55ff6f96a24cec53d8a1c8"
+  },
+  "ui_frame_orange_wings__1714x1662": {
+    "hash": "860072ba61d2da15aed7f6e0c717fbf9b0c3b359",
+    "nodes": [
+      "I73:473;73:532",
+      "I73:474;73:532",
+      "I73:475;73:532",
+      "I73:476;73:532",
+      "I73:477;73:532",
+      "I73:478;73:532",
+      "I73:479;73:532",
+      "I73:480;73:532"
+    ],
+    "source": "analysis/figma/raw/images/860072ba61d2da15aed7f6e0c717fbf9b0c3b359"
+  },
+  "ui_panel_gold_navy_wide__2339x828": {
+    "hash": "86ef8ab88fddc7cd5fabacfd628f8c0ae4ef4876",
+    "nodes": [
+      "I89:1604;89:1438",
+      "I89:1604;89:1439",
+      "I89:1604;89:1441",
+      "I89:1604;89:1442",
+      "I89:1604;89:1444",
+      "89:1438",
+      "89:1439",
+      "89:1441",
+      "89:1442",
+      "89:1444",
+      "89:1730"
+    ],
+    "source": "analysis/figma/raw/images/86ef8ab88fddc7cd5fabacfd628f8c0ae4ef4876"
+  },
+  "branding_logo__1448x1086_variant2": {
+    "hash": "86f1d78db7ee1bc4e9fcd896e80eb926280b29c8",
+    "nodes": [
+      "I2:4;2:15",
+      "2:15",
+      "I90:1757;2:15",
+      "I110:1151;2:15",
+      "I109:602;110:1151;2:15",
+      "I109:604;110:1151;2:15",
+      "I109:606;110:1151;2:15",
+      "I109:608;110:1151;2:15",
+      "I109:610;110:1151;2:15",
+      "I109:612;110:1151;2:15"
+    ],
+    "source": "analysis/figma/raw/images/86f1d78db7ee1bc4e9fcd896e80eb926280b29c8"
+  },
+  "equipment_turtle_warrior_mace__583x649": {
+    "hash": "876530f5deabec9047682bec53678c43368897b6",
+    "nodes": [
+      "80:1073"
+    ],
+    "source": "analysis/figma/raw/images/876530f5deabec9047682bec53678c43368897b6"
+  },
+  "equipment_elf_archer_boots__497x535": {
+    "hash": "87c433c12114f926b8c045009192d958e224b1b4",
+    "nodes": [
+      "I80:950;80:911",
+      "80:1010"
+    ],
+    "source": "analysis/figma/raw/images/87c433c12114f926b8c045009192d958e224b1b4"
+  },
+  "enemy_shadow_wolf__1783x1677": {
+    "hash": "884e4a53f27c509c9e0d910c99e8eeb37b3764e0",
+    "nodes": [
+      "37:1346"
+    ],
+    "source": "analysis/figma/raw/images/884e4a53f27c509c9e0d910c99e8eeb37b3764e0"
+  },
+  "hero_raccoon_engineer__1617x1662": {
+    "hash": "88cdae02ce87495159d9dc9940267c2a906f5100",
+    "nodes": [
+      "I30:1278;30:1265",
+      "39:1367"
+    ],
+    "source": "analysis/figma/raw/images/88cdae02ce87495159d9dc9940267c2a906f5100"
+  },
+  "ui_banner_stage_blue__485x76": {
+    "hash": "89add8e481d0fc4ce89a2cb4b71a84454e9c272a",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/89add8e481d0fc4ce89a2cb4b71a84454e9c272a"
+  },
+  "equipment_elf_archer_hood_fur__684x714": {
+    "hash": "8a0a4b69bf5c0394c572cfdd62de6728f266a29d",
+    "nodes": [
+      "80:1054"
+    ],
+    "source": "analysis/figma/raw/images/8a0a4b69bf5c0394c572cfdd62de6728f266a29d"
+  },
+  "ui_banner_name_purple__480x88": {
+    "hash": "8a880bdca1d66d9fe429ebb1694d85612e725d1e",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/8a880bdca1d66d9fe429ebb1694d85612e725d1e"
+  },
+  "currency_gold_coin__254x262": {
+    "hash": "8b1c44fd757fb629498188807b520d0ce3fcca3b",
+    "nodes": [
+      "I2:433;2:435",
+      "I45:1451;45:1441;2:435",
+      "I45:1447;2:435",
+      "I89:1316;2:435",
+      "I89:1350;2:435",
+      "I80:1115;2:435",
+      "I71:285;2:435",
+      "I75:607;75:595",
+      "I80:926;75:595",
+      "I75:749;2:435",
+      "75:595",
+      "I45:1441;2:435",
+      "2:435"
+    ],
+    "source": "analysis/figma/raw/images/8b1c44fd757fb629498188807b520d0ce3fcca3b"
+  },
+  "hero_lion_knight__404x447": {
+    "hash": "8c0677f080887f3f13ce4f92dc2577bb83f649d5",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/8c0677f080887f3f13ce4f92dc2577bb83f649d5"
+  },
+  "reference_screen_battle__852x1846": {
+    "hash": "8c59d2219764c76310cc8748366221d6333bb21a",
+    "nodes": [
+      "I109:592;203:12",
+      "I109:602;109:592;203:12",
+      "I109:604;109:592;203:12",
+      "I109:606;109:592;203:12",
+      "I109:608;109:592;203:12",
+      "I109:610;109:592;203:12",
+      "I109:612;109:592;203:12"
+    ],
+    "source": "analysis/figma/raw/images/8c59d2219764c76310cc8748366221d6333bb21a"
+  },
+  "relic_blue_crescent__505x579": {
+    "hash": "8c7153dc6d86cc3b3063d4b6c9d0602ed36ed4f5",
+    "nodes": [
+      "I73:454;73:436",
+      "73:500"
+    ],
+    "source": "analysis/figma/raw/images/8c7153dc6d86cc3b3063d4b6c9d0602ed36ed4f5"
+  },
+  "reference_screen_wheel__213x462": {
+    "hash": "8ca3a7cb9b4642a086c622d22b58dd7c3024006a",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/8ca3a7cb9b4642a086c622d22b58dd7c3024006a"
+  },
+  "relic_rabbit_mask__245x322": {
+    "hash": "8cc86c4df778ca895066827e797cbc37b7e6ee8c",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/8cc86c4df778ca895066827e797cbc37b7e6ee8c"
+  },
+  "ui_bar_cyan_fill__2680x420": {
+    "hash": "8da3d328eab24eef9e35927c9eadf0f95e706219",
+    "nodes": [
+      "51:1471"
+    ],
+    "source": "analysis/figma/raw/images/8da3d328eab24eef9e35927c9eadf0f95e706219"
+  },
+  "equipment_lion_knight_chest__610x541": {
+    "hash": "8eda2a1c335c6e7da64e69651e4729b17bfb7283",
+    "nodes": [
+      "80:1041"
+    ],
+    "source": "analysis/figma/raw/images/8eda2a1c335c6e7da64e69651e4729b17bfb7283"
+  },
+  "equipment_elf_archer_bow__561x739": {
+    "hash": "8fe532c9489c2b4f3e5f78a7e778a04b2e61cace",
+    "nodes": [
+      "I80:937;80:911",
+      "80:1009",
+      "80:911"
+    ],
+    "source": "analysis/figma/raw/images/8fe532c9489c2b4f3e5f78a7e778a04b2e61cace"
+  },
+  "equipment_panda_monk_staff__312x313": {
+    "hash": "8ff66404b1cca40c94b979481380dfddfacccc38",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/8ff66404b1cca40c94b979481380dfddfacccc38"
+  },
+  "equipment_turtle_warrior_ring_orb__511x435": {
+    "hash": "904a4fff4b7a8b6f5a323e4933dd9a4b694cbb0f",
+    "nodes": [
+      "80:1048"
+    ],
+    "source": "analysis/figma/raw/images/904a4fff4b7a8b6f5a323e4933dd9a4b694cbb0f"
+  },
+  "ui_nav_crystal_relic__1407x1332": {
+    "hash": "90eefb1e52086c29646b1818471aac90bd76ee2d",
+    "nodes": [
+      "I19:1216;19:1193",
+      "I89:1323;19:1193",
+      "I80:1122;19:1193",
+      "I71:292;19:1193",
+      "I75:756;19:1193",
+      "32:1322"
+    ],
+    "source": "analysis/figma/raw/images/90eefb1e52086c29646b1818471aac90bd76ee2d"
+  },
+  "ui_nav_dungeon__374x285": {
+    "hash": "9288f249db012598b4c876c6c9ef71abdf9cdce1",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/9288f249db012598b4c876c6c9ef71abdf9cdce1"
+  },
+  "portrait_raccoon_engineer__662x592": {
+    "hash": "92c7c1a40b6d91df365479d07454de0f4f0e1184",
+    "nodes": [
+      "80:1083"
+    ],
+    "source": "analysis/figma/raw/images/92c7c1a40b6d91df365479d07454de0f4f0e1184"
+  },
+  "ui_panel_gold_black_wide__477x200": {
+    "hash": "92dfa3eff1e51dc9f73ac6181d1210bada7d7dbd",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/92dfa3eff1e51dc9f73ac6181d1210bada7d7dbd"
+  },
+  "equipment_bunny_assassin_ring_band__455x424": {
+    "hash": "9355b0ed05fd564e8f931254fc1b6f0eae0f1779",
+    "nodes": [
+      "80:1022"
+    ],
+    "source": "analysis/figma/raw/images/9355b0ed05fd564e8f931254fc1b6f0eae0f1779"
+  },
+  "relic_shadow_crystal__469x599": {
+    "hash": "93fa637f8aa66f4a0334d8839745c3cd8e6d2ccc",
+    "nodes": [
+      "I73:476;73:436",
+      "73:508"
+    ],
+    "source": "analysis/figma/raw/images/93fa637f8aa66f4a0334d8839745c3cd8e6d2ccc"
+  },
+  "relic_blue_shard__354x641": {
+    "hash": "94534c1dbc61e3e10d88c1a61483c905d127f04b",
+    "nodes": [
+      "I73:473;73:436",
+      "73:505"
+    ],
+    "source": "analysis/figma/raw/images/94534c1dbc61e3e10d88c1a61483c905d127f04b"
+  },
+  "background_forest_glade__236x418": {
+    "hash": "9583db82bed0574f7943f7d641276eff4034fe90",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/9583db82bed0574f7943f7d641276eff4034fe90"
+  },
+  "background_grass_platform__377x165": {
+    "hash": "95c9e69dbe78bebf4a17a84b83fc1119bd4150e7",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/95c9e69dbe78bebf4a17a84b83fc1119bd4150e7"
+  },
+  "equipment_lion_knight_helmet__246x314": {
+    "hash": "964d9a820c68f3814c91fca0868c79cefcdc8740",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/964d9a820c68f3814c91fca0868c79cefcdc8740"
+  },
+  "relic_blue_shard__177x321": {
+    "hash": "96e07357096f272b667928f793af8dd40f65ff27",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/96e07357096f272b667928f793af8dd40f65ff27"
+  },
+  "reference_screen_start__852x1846": {
+    "hash": "97223130f8475c1ed982680308fdc5bdf68c8b8c",
+    "nodes": [
+      "I109:590;203:12",
+      "I109:602;109:590;203:12",
+      "I109:604;109:590;203:12",
+      "I109:606;109:590;203:12",
+      "I109:608;109:590;203:12",
+      "I109:610;109:590;203:12",
+      "I109:612;109:590;203:12"
+    ],
+    "source": "analysis/figma/raw/images/97223130f8475c1ed982680308fdc5bdf68c8b8c"
+  },
+  "hero_bunny_assassin__428x457": {
+    "hash": "972aeff153e8e30977db2daeb9ce123062a01c6b",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/972aeff153e8e30977db2daeb9ce123062a01c6b"
+  },
+  "relic_shadow_crystal__235x300": {
+    "hash": "972e039866c2fe5ba80ce49832458f07ed7bfb14",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/972e039866c2fe5ba80ce49832458f07ed7bfb14"
+  },
+  "equipment_panda_monk_pants__537x568": {
+    "hash": "9887c23fae59d8e27878791c157c9f3a050e62b0",
+    "nodes": [
+      "80:1047"
+    ],
+    "source": "analysis/figma/raw/images/9887c23fae59d8e27878791c157c9f3a050e62b0"
+  },
+  "background_dungeon_gargoyle_strip__2172x724": {
+    "hash": "993edd1c8a640a43e0fb87cc37079f5765605e95",
+    "nodes": [
+      "86:1268"
+    ],
+    "source": "analysis/figma/raw/images/993edd1c8a640a43e0fb87cc37079f5765605e95"
+  },
+  "equipment_raccoon_engineer_chest_machine__334x250": {
+    "hash": "9ac723b1f182093d5f39012ef3f94c689e9e7978",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/9ac723b1f182093d5f39012ef3f94c689e9e7978"
+  },
+  "reference_gradient_wallpaper__184x379": {
+    "hash": "9b0cf33621b6360ebfb1823457ec9af3caa04003",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/9b0cf33621b6360ebfb1823457ec9af3caa04003"
+  },
+  "equipment_turtle_warrior_hammer__562x646": {
+    "hash": "9b939242dd505c0f5e83127ef26368c906d5b6ef",
+    "nodes": [
+      "80:1078"
+    ],
+    "source": "analysis/figma/raw/images/9b939242dd505c0f5e83127ef26368c906d5b6ef"
+  },
+  "equipment_ice_fairy_ring_snowflake__242x273": {
+    "hash": "9cd4bf1eb5c27b97be2cbf505269c248cc1f0e22",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/9cd4bf1eb5c27b97be2cbf505269c248cc1f0e22"
+  },
+  "equipment_raccoon_engineer_ring_gem__497x460": {
+    "hash": "9d5f5141fd61d21842fe70ddb0c792239ccc64b7",
+    "nodes": [
+      "80:1063"
+    ],
+    "source": "analysis/figma/raw/images/9d5f5141fd61d21842fe70ddb0c792239ccc64b7"
+  },
+  "relic_green_disc__483x547": {
+    "hash": "9d8b7302f90725a0d24c86b0988b2ac3b8459fa5",
+    "nodes": [
+      "I73:453;73:436",
+      "73:499"
+    ],
+    "source": "analysis/figma/raw/images/9d8b7302f90725a0d24c86b0988b2ac3b8459fa5"
+  },
+  "branding_welcome_text__2172x724_variant2": {
+    "hash": "9dede4c77553cb20489fce8bf0e8e3d7b3525e2c",
+    "nodes": [
+      "90:1779",
+      "90:1780"
+    ],
+    "source": "analysis/figma/raw/images/9dede4c77553cb20489fce8bf0e8e3d7b3525e2c"
+  },
+  "relic_frost_dragon_head__471x629": {
+    "hash": "9ebda7e54059edd527fc1bfc703f79dad100f93e",
+    "nodes": [
+      "I73:479;73:436",
+      "73:511"
+    ],
+    "source": "analysis/figma/raw/images/9ebda7e54059edd527fc1bfc703f79dad100f93e"
+  },
+  "background_dungeon_crocodile_strip__272x91": {
+    "hash": "9f215f72f221b6819ef74209b82cb5c1c8e15a41",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/9f215f72f221b6819ef74209b82cb5c1c8e15a41"
+  },
+  "ui_wheel_reward_illustration__444x460": {
+    "hash": "9fe0e969554eedc1f254711edba06ac797a392a2",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/9fe0e969554eedc1f254711edba06ac797a392a2"
+  },
+  "ui_button_red_square__395x395": {
+    "hash": "a04bf9621c7f811d0151555310b2d579ced170f5",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a04bf9621c7f811d0151555310b2d579ced170f5"
+  },
+  "equipment_lion_knight_helmet__491x628": {
+    "hash": "a0db91f0ccb8af63ed5624c6dbb0308322fa761c",
+    "nodes": [
+      "80:1044"
+    ],
+    "source": "analysis/figma/raw/images/a0db91f0ccb8af63ed5624c6dbb0308322fa761c"
+  },
+  "reference_screen_equipment__213x462": {
+    "hash": "a0fda84647f252f9edff32fb5c67d0032b846319",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a0fda84647f252f9edff32fb5c67d0032b846319"
+  },
+  "hero_panda_monk__427x444": {
+    "hash": "a192ae07b93e6226feab1e230c9e924ca1f06cd0",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a192ae07b93e6226feab1e230c9e924ca1f06cd0"
+  },
+  "ui_banner_stage_blue__3876x605": {
+    "hash": "a1f74786b99af092f75c99c17ed49d98da9b6d7e",
+    "nodes": [
+      "I88:1291;80:1247",
+      "80:1247"
+    ],
+    "source": "analysis/figma/raw/images/a1f74786b99af092f75c99c17ed49d98da9b6d7e"
+  },
+  "equipment_fox_sorcerer_ring__226x272": {
+    "hash": "a356d3d3524680b6cb33a00680be441e7b89ef9b",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a356d3d3524680b6cb33a00680be441e7b89ef9b"
+  },
+  "enemy_swamp_crocodile__1895x1429": {
+    "hash": "a38f01991256368e852469e9bb54e5105d0707a9",
+    "nodes": [
+      "37:1341"
+    ],
+    "source": "analysis/figma/raw/images/a38f01991256368e852469e9bb54e5105d0707a9"
+  },
+  "equipment_inferno_dragon_robe__261x262": {
+    "hash": "a51232156df7dca8f5390a744ae6b992e5886be9",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a51232156df7dca8f5390a744ae6b992e5886be9"
+  },
+  "equipment_owl_mage_ring_orb__499x469": {
+    "hash": "a61c6732dfa030bd0337ac9a2d5644d8d89ee6dc",
+    "nodes": [
+      "80:1029"
+    ],
+    "source": "analysis/figma/raw/images/a61c6732dfa030bd0337ac9a2d5644d8d89ee6dc"
+  },
+  "relic_fire_crystal__224x318": {
+    "hash": "a626da99d963c34d6e8dfe41dd94a38f42ea2bc0",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a626da99d963c34d6e8dfe41dd94a38f42ea2bc0"
+  },
+  "equipment_inferno_dragon_spear__314x392": {
+    "hash": "a659f48c34ea336dd6824d192f1b8a06c7f158cb",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a659f48c34ea336dd6824d192f1b8a06c7f158cb"
+  },
+  "branding_logo__362x272_variant2": {
+    "hash": "a700463306d06b0a5ebe99e8fd7732effdf23e1a",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a700463306d06b0a5ebe99e8fd7732effdf23e1a"
+  },
+  "equipment_lion_knight_sword__243x375": {
+    "hash": "a7c0d5934d543c424ba34af5454291998cd42fb1",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/a7c0d5934d543c424ba34af5454291998cd42fb1"
+  },
+  "portrait_ice_fairy__660x590": {
+    "hash": "a84946304b6fa220e60816032915bcf106cca10f",
+    "nodes": [
+      "80:1241",
+      "80:1094"
+    ],
+    "source": "analysis/figma/raw/images/a84946304b6fa220e60816032915bcf106cca10f"
+  },
+  "branding_banner__418x236": {
+    "hash": "aad6bcff54dc8785395e8211f76f92d08719e05b",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/aad6bcff54dc8785395e8211f76f92d08719e05b"
+  },
+  "equipment_bunny_assassin_crescent_axes__350x294": {
+    "hash": "aaf5520732eaab6b4c39eab5eb81000a747b5e92",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/aaf5520732eaab6b4c39eab5eb81000a747b5e92"
+  },
+  "ui_button_orange__318x170": {
+    "hash": "ad1a7ca03365f40fe383d93f8dae66bd92bf2935",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ad1a7ca03365f40fe383d93f8dae66bd92bf2935"
+  },
+  "equipment_panda_monk_chest__619x555": {
+    "hash": "ae3fad983d1da3a5633348e3f3da0d24d85e4640",
+    "nodes": [
+      "80:1050"
+    ],
+    "source": "analysis/figma/raw/images/ae3fad983d1da3a5633348e3f3da0d24d85e4640"
+  },
+  "ui_nav_heroes_helmet__1902x1550": {
+    "hash": "af53d16704846b72a83658d911681ade819709cc",
+    "nodes": [
+      "I19:1207;19:1193",
+      "I89:1320;19:1193",
+      "I80:1119;19:1193",
+      "I71:289;19:1193",
+      "I75:753;19:1193",
+      "32:1320"
+    ],
+    "source": "analysis/figma/raw/images/af53d16704846b72a83658d911681ade819709cc"
+  },
+  "equipment_bunny_assassin_pants__522x580": {
+    "hash": "b15c2e9daa94bf85f0aa6d2aaaae908e6b6d08b6",
+    "nodes": [
+      "80:1021"
+    ],
+    "source": "analysis/figma/raw/images/b15c2e9daa94bf85f0aa6d2aaaae908e6b6d08b6"
+  },
+  "portrait_bunny_assassin__662x590": {
+    "hash": "b189751a75be3e3dfa86c100def27e27de3224b8",
+    "nodes": [
+      "80:1239",
+      "80:1092"
+    ],
+    "source": "analysis/figma/raw/images/b189751a75be3e3dfa86c100def27e27de3224b8"
+  },
+  "portrait_inferno_dragon__621x590": {
+    "hash": "b1b56615c66dd10cc8bf457700c9e699ba06f3fb",
+    "nodes": [
+      "80:1095"
+    ],
+    "source": "analysis/figma/raw/images/b1b56615c66dd10cc8bf457700c9e699ba06f3fb"
+  },
+  "equipment_bunny_assassin_crescent_axes__699x588": {
+    "hash": "b2283bb24e654f4b176d187df3638df2e322db20",
+    "nodes": [
+      "80:1020"
+    ],
+    "source": "analysis/figma/raw/images/b2283bb24e654f4b176d187df3638df2e322db20"
+  },
+  "ui_icon_shield__296x362": {
+    "hash": "b2a8de085ef159db19dbcdfde64f4cf2c34e0f83",
+    "nodes": [
+      "110:1208",
+      "I109:602;110:1208",
+      "I109:604;110:1208",
+      "I109:606;110:1208",
+      "I109:608;110:1208",
+      "I109:610;110:1208",
+      "I109:612;110:1208"
+    ],
+    "source": "analysis/figma/raw/images/b2a8de085ef159db19dbcdfde64f4cf2c34e0f83"
+  },
+  "portrait_bunny_assassin__331x295": {
+    "hash": "b2b7bbe04d95ecd660eb40a679b4c15430eb5baa",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/b2b7bbe04d95ecd660eb40a679b4c15430eb5baa"
+  },
+  "relic_gold_hammer__474x528": {
+    "hash": "b35dc8c846480c0a60816360c9b124e065b8284a",
+    "nodes": [
+      "I73:460;73:436",
+      "73:501"
+    ],
+    "source": "analysis/figma/raw/images/b35dc8c846480c0a60816360c9b124e065b8284a"
+  },
+  "hero_lion_knight__1616x1788": {
+    "hash": "b4005f1aa7994a120176ed0c22354d7bdbad2131",
+    "nodes": [
+      "I30:1295;30:1265",
+      "32:1314",
+      "I89:1604;89:1450",
+      "89:1450",
+      "89:1534",
+      "39:1361",
+      "110:1194",
+      "I109:602;110:1194",
+      "I109:604;110:1194",
+      "I109:606;110:1194",
+      "I109:608;110:1194",
+      "I109:610;110:1194",
+      "I109:612;110:1194"
+    ],
+    "source": "analysis/figma/raw/images/b4005f1aa7994a120176ed0c22354d7bdbad2131"
+  },
+  "ui_wheel_outer_ring__485x481": {
+    "hash": "b4dd10219a850c45ff56e984075fe2890c5fe7e2",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/b4dd10219a850c45ff56e984075fe2890c5fe7e2"
+  },
+  "ui_emblem_gold_gem__504x376": {
+    "hash": "b6080ed60ce0cffede7c4e16262909d2cf4cf677",
+    "nodes": [
+      "80:1042"
+    ],
+    "source": "analysis/figma/raw/images/b6080ed60ce0cffede7c4e16262909d2cf4cf677"
+  },
+  "background_castle_platform__941x1672": {
+    "hash": "b6843d342c36233c46c287371205642516d4824e",
+    "nodes": [
+      "90:1763",
+      "I75:745;2:8"
+    ],
+    "source": "analysis/figma/raw/images/b6843d342c36233c46c287371205642516d4824e"
+  },
+  "ui_panel_dark_square__394x399": {
+    "hash": "b70c9b90c05886930140ce22312dfb67a5748d11",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/b70c9b90c05886930140ce22312dfb67a5748d11"
+  },
+  "ui_icon_blue_triangle__371x331": {
+    "hash": "b7506e7f0f1c8e3a1f00d75f6ab13123fdcb0066",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/b7506e7f0f1c8e3a1f00d75f6ab13123fdcb0066"
+  },
+  "equipment_elf_archer_quiver__519x688": {
+    "hash": "b7871533ccf92b11eb63cc67f7daca1ff14283c6",
+    "nodes": [
+      "I80:949;80:911",
+      "80:1008"
+    ],
+    "source": "analysis/figma/raw/images/b7871533ccf92b11eb63cc67f7daca1ff14283c6"
+  },
+  "hero_panda_monk__1705x1775": {
+    "hash": "b7d79aea43cb644cba83ab14923ec3deba9efa51",
+    "nodes": [
+      "I30:1293;30:1265",
+      "39:1363"
+    ],
+    "source": "analysis/figma/raw/images/b7d79aea43cb644cba83ab14923ec3deba9efa51"
+  },
+  "background_dungeon_lizard_strip__2172x724": {
+    "hash": "b7ee52e2ee43b5a41d6ba1b65fd2e1679a76826e",
+    "nodes": [
+      "86:1269"
+    ],
+    "source": "analysis/figma/raw/images/b7ee52e2ee43b5a41d6ba1b65fd2e1679a76826e"
+  },
+  "branding_welcome_text__272x91_variant2": {
+    "hash": "b7eec5627e7a722297c85e3c6da74d7b76f997f0",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/b7eec5627e7a722297c85e3c6da74d7b76f997f0"
+  },
+  "equipment_inferno_dragon_chest__305x298": {
+    "hash": "b856d3f6a2b90f86fa9c4e72f33c0fce961889c7",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/b856d3f6a2b90f86fa9c4e72f33c0fce961889c7"
+  },
+  "relic_compass_gold__269x301": {
+    "hash": "b885c32ce7bfdf7da8e8d7a54556852baf038873",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/b885c32ce7bfdf7da8e8d7a54556852baf038873"
+  },
+  "equipment_elf_archer_ring__268x258": {
+    "hash": "bb40f34e86cb54fe88277b803971ec231672aef2",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/bb40f34e86cb54fe88277b803971ec231672aef2"
+  },
+  "relic_blue_feather__237x333": {
+    "hash": "bb8cf73327286cf7387a10f2ef945c457968067a",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/bb8cf73327286cf7387a10f2ef945c457968067a"
+  },
+  "equipment_panda_monk_ring__442x374": {
+    "hash": "bba70ea31d80ee161052eee9611b4a4f11863ee9",
+    "nodes": [
+      "80:1049"
+    ],
+    "source": "analysis/figma/raw/images/bba70ea31d80ee161052eee9611b4a4f11863ee9"
+  },
+  "reward_gold_chest__314x314": {
+    "hash": "bbeec6374442143a2907d3223f185595cecb3f65",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/bbeec6374442143a2907d3223f185595cecb3f65"
+  },
+  "enemy_ironhide_boar__1862x1681": {
+    "hash": "be919953e9369e0760e17392af8208f311c8d51d",
+    "nodes": [
+      "37:1350",
+      "37:1340",
+      "110:1222",
+      "I109:602;110:1222",
+      "I109:604;110:1222",
+      "I109:606;110:1222",
+      "I109:608;110:1222",
+      "I109:610;110:1222",
+      "I109:612;110:1222"
+    ],
+    "source": "analysis/figma/raw/images/be919953e9369e0760e17392af8208f311c8d51d"
+  },
+  "equipment_elf_archer_hood__622x656": {
+    "hash": "beff88aa48a1e86f0b673d200d39b1c0b5e5884a",
+    "nodes": [
+      "I80:941;80:911",
+      "80:1011"
+    ],
+    "source": "analysis/figma/raw/images/beff88aa48a1e86f0b673d200d39b1c0b5e5884a"
+  },
+  "enemy_shadow_wolf__446x420": {
+    "hash": "bf3a8d2882381a05bcfc5a95bb044adaa0134a6c",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/bf3a8d2882381a05bcfc5a95bb044adaa0134a6c"
+  },
+  "equipment_elf_archer_ring_leaf__265x272": {
+    "hash": "bff63fd7bce098b91cb7fb0a0ee260017c225b71",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/bff63fd7bce098b91cb7fb0a0ee260017c225b71"
+  },
+  "equipment_panda_monk_orbs__669x551": {
+    "hash": "c17e7a2cd41a2faf6d5397f6c46465f14a155f47",
+    "nodes": [
+      "80:1046"
+    ],
+    "source": "analysis/figma/raw/images/c17e7a2cd41a2faf6d5397f6c46465f14a155f47"
+  },
+  "equipment_bunny_assassin_chest__284x328": {
+    "hash": "c223ed9392ca9740274d1ead08b100e56cf841c8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/c223ed9392ca9740274d1ead08b100e56cf841c8"
+  },
+  "reward_gold_chest__314x314_variant2": {
+    "hash": "c27f6968fb5b4981d97fc335a9e14e8130ce3f0f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/c27f6968fb5b4981d97fc335a9e14e8130ce3f0f"
+  },
+  "relic_boar_mask__255x272": {
+    "hash": "c30fa8e2f2b7e6bb7fd8b6f13923923e47e0d9a8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/c30fa8e2f2b7e6bb7fd8b6f13923923e47e0d9a8"
+  },
+  "portrait_lion_knight__331x303": {
+    "hash": "c31a5b960ff491544afc4a5eb9ab45a1875375e9",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/c31a5b960ff491544afc4a5eb9ab45a1875375e9"
+  },
+  "background_dungeon_boar_strip__2172x724": {
+    "hash": "c3bb5b04a28a7fc0637833cebb26c995f2a2ba35",
+    "nodes": [
+      "86:1273"
+    ],
+    "source": "analysis/figma/raw/images/c3bb5b04a28a7fc0637833cebb26c995f2a2ba35"
+  },
+  "relic_gold_dragon_head__455x633": {
+    "hash": "c42133ee7cd54223392c66dd68a93e297727e007",
+    "nodes": [
+      "I73:478;73:436",
+      "73:510"
+    ],
+    "source": "analysis/figma/raw/images/c42133ee7cd54223392c66dd68a93e297727e007"
+  },
+  "equipment_turtle_warrior_ring_shell__514x487": {
+    "hash": "c4302483db5ca38f3b1037e4b34f73a7c6c10ea7",
+    "nodes": [
+      "80:1076"
+    ],
+    "source": "analysis/figma/raw/images/c4302483db5ca38f3b1037e4b34f73a7c6c10ea7"
+  },
+  "relic_gold_bird_mask__264x296": {
+    "hash": "c712c453b12993dbed32769c8bcbd7d9532edd5f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/c712c453b12993dbed32769c8bcbd7d9532edd5f"
+  },
+  "background_dungeon_crocodile_strip__2172x724": {
+    "hash": "c91ed48dc9e2c77f90e8847b3f39f4c00ee57f02",
+    "nodes": [
+      "86:1272"
+    ],
+    "source": "analysis/figma/raw/images/c91ed48dc9e2c77f90e8847b3f39f4c00ee57f02"
+  },
+  "ui_icon_star__478x497": {
+    "hash": "c9a965e48a3fb7a4655e491e3d20c69288f9294c",
+    "nodes": [
+      "I89:1604;89:1502",
+      "I89:1604;89:1544",
+      "I89:1604;89:1560",
+      "I89:1604;89:1576",
+      "I89:1604;89:1591",
+      "89:1502",
+      "89:1544",
+      "89:1560",
+      "89:1576",
+      "89:1591",
+      "89:1720"
+    ],
+    "source": "analysis/figma/raw/images/c9a965e48a3fb7a4655e491e3d20c69288f9294c"
+  },
+  "background_battle_panorama__479x206": {
+    "hash": "ca8471e35d0e957f40e7fad14b2688313205d7cf",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ca8471e35d0e957f40e7fad14b2688313205d7cf"
+  },
+  "ui_bar_dark_track__3646x435": {
+    "hash": "cb797fee92f1088c3c33582adbf7a598e3fbce45",
+    "nodes": [
+      "I2:428;2:487",
+      "I57:260;2:487",
+      "51:1470",
+      "I89:1313;2:487",
+      "I89:1317;2:487",
+      "I80:1112;2:487",
+      "I80:1116;2:487",
+      "I71:282;2:487",
+      "I71:286;2:487",
+      "I75:746;2:487",
+      "I75:750;2:487",
+      "2:487"
+    ],
+    "source": "analysis/figma/raw/images/cb797fee92f1088c3c33582adbf7a598e3fbce45"
+  },
+  "background_dungeon_shadow_bright_strip__2172x724": {
+    "hash": "cba31e4d7c053dc337a3bd11c0eb0828ef59fcff",
+    "nodes": [
+      "I88:1291;81:1256",
+      "81:1256",
+      "86:1263"
+    ],
+    "source": "analysis/figma/raw/images/cba31e4d7c053dc337a3bd11c0eb0828ef59fcff"
+  },
+  "ui_bar_dark_track__456x55": {
+    "hash": "cbcb8ee6d391afd1b0eea80da49ec64dad6b17f8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/cbcb8ee6d391afd1b0eea80da49ec64dad6b17f8"
+  },
+  "equipment_raccoon_engineer_cannon_small__313x283": {
+    "hash": "cbeb22c66d2cd87e9fbf5ba621e1bd01f1001ee3",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/cbeb22c66d2cd87e9fbf5ba621e1bd01f1001ee3"
+  },
+  "equipment_owl_mage_robe_orb__533x651": {
+    "hash": "cd3cbe77729a836949def618d21d5d38454f11b3",
+    "nodes": [
+      "80:1028"
+    ],
+    "source": "analysis/figma/raw/images/cd3cbe77729a836949def618d21d5d38454f11b3"
+  },
+  "enemy_iron_beetle__1835x1638": {
+    "hash": "cdfb9c342d6d2e1ad70593ecdbdf2217bffb2b80",
+    "nodes": [
+      "37:1348"
+    ],
+    "source": "analysis/figma/raw/images/cdfb9c342d6d2e1ad70593ecdbdf2217bffb2b80"
+  },
+  "enemy_poison_mushroom__399x394": {
+    "hash": "ce742e29a93cdbd2335fff8884bb95a41d26ec75",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ce742e29a93cdbd2335fff8884bb95a41d26ec75"
+  },
+  "branding_hero_collage__384x256": {
+    "hash": "ce9aa0e6e027f719ff5673bb8e5545a9e1d0415a",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ce9aa0e6e027f719ff5673bb8e5545a9e1d0415a"
+  },
+  "ui_button_gold__2378x1300": {
+    "hash": "cf6c639c3e529ac1e9d99a5365b691ec8aeb271b",
+    "nodes": [
+      "I2:408;2:481",
+      "I2:425;2:484",
+      "I106:560;2:484",
+      "I89:1604;89:1519",
+      "I89:1604;89:1552",
+      "I89:1604;89:1568",
+      "I89:1604;89:1584",
+      "I89:1604;89:1599",
+      "89:1519",
+      "89:1552",
+      "89:1568",
+      "89:1584",
+      "89:1599",
+      "89:1721",
+      "I75:606;75:583",
+      "I80:925;75:583",
+      "I80:970;79:897",
+      "I80:971;76:892",
+      "79:897",
+      "76:892",
+      "75:583",
+      "2:481",
+      "2:484"
+    ],
+    "source": "analysis/figma/raw/images/cf6c639c3e529ac1e9d99a5365b691ec8aeb271b"
+  },
+  "equipment_turtle_warrior_ring__267x219": {
+    "hash": "cfd017e05e8869ee397c42f6c2756469fa8160e2",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/cfd017e05e8869ee397c42f6c2756469fa8160e2"
+  },
+  "equipment_turtle_warrior_chest_shell__304x261": {
+    "hash": "cfd0b21fb7907c5c236289f07384b4408ec62576",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/cfd0b21fb7907c5c236289f07384b4408ec62576"
+  },
+  "ui_banner_name_purple__959x176": {
+    "hash": "d10ae70ea2eadf857579c47b9a7d19320377df71",
+    "nodes": [
+      "I89:1604;89:1468",
+      "I89:1604;89:1469",
+      "I89:1604;89:1472",
+      "I89:1604;89:1475",
+      "I89:1604;89:1478",
+      "89:1468",
+      "89:1469",
+      "89:1472",
+      "89:1475",
+      "89:1478",
+      "89:1717"
+    ],
+    "source": "analysis/figma/raw/images/d10ae70ea2eadf857579c47b9a7d19320377df71"
+  },
+  "hero_elf_archer__450x465": {
+    "hash": "d14baf955dea9d9e57dd3f2ab436e02ef051b210",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/d14baf955dea9d9e57dd3f2ab436e02ef051b210"
+  },
+  "equipment_inferno_dragon_sword__557x803": {
+    "hash": "d18f0813e1506969d5d4fe925b78267b3f855a1c",
+    "nodes": [
+      "80:1072"
+    ],
+    "source": "analysis/figma/raw/images/d18f0813e1506969d5d4fe925b78267b3f855a1c"
+  },
+  "enemy_ironhide_boar__466x421": {
+    "hash": "d1b7891fe95835e875d3725cbd939b0c3a23c9d1",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/d1b7891fe95835e875d3725cbd939b0c3a23c9d1"
+  },
+  "ui_panel_gold_black_wide__3815x1593": {
+    "hash": "d1c66e4f6f13868503b1c7fd7d0fe2e02ce7756b",
+    "nodes": [
+      "79:896"
+    ],
+    "source": "analysis/figma/raw/images/d1c66e4f6f13868503b1c7fd7d0fe2e02ce7756b"
+  },
+  "boss_shadow_dragon__494x415": {
+    "hash": "d2bea10309b84732c2ce9aafd9111211d7ee3039",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/d2bea10309b84732c2ce9aafd9111211d7ee3039"
+  },
+  "portrait_ice_fairy__330x295": {
+    "hash": "d2ef5f15388f7d280372253ad5cf1181b298bec4",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/d2ef5f15388f7d280372253ad5cf1181b298bec4"
+  },
+  "background_dungeon_lizard_strip__272x91": {
+    "hash": "d6306a81adbcdd41bf2f68eb940ea4462bf329d5",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/d6306a81adbcdd41bf2f68eb940ea4462bf329d5"
+  },
+  "reward_gold_chest__1254x1254_variant2": {
+    "hash": "d734bdbd0bdc894f78da40d7d9ccabe4052477c9",
+    "nodes": [
+      "I2:421;2:437",
+      "I106:556;2:437",
+      "2:437"
+    ],
+    "source": "analysis/figma/raw/images/d734bdbd0bdc894f78da40d7d9ccabe4052477c9"
+  },
+  "equipment_panda_monk_orbs__335x276": {
+    "hash": "d7d3ae289966dbb8dd830edc7dc33a9cb463aef7",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/d7d3ae289966dbb8dd830edc7dc33a9cb463aef7"
+  },
+  "ui_icon_crystal_snowflake__1318x1341": {
+    "hash": "d93c344388dd40c56bc46e5846a16ef36d8b9028",
+    "nodes": [
+      "45:1431",
+      "45:1437"
+    ],
+    "source": "analysis/figma/raw/images/d93c344388dd40c56bc46e5846a16ef36d8b9028"
+  },
+  "decoration_raccoon_castle__314x314_variant2": {
+    "hash": "da52b92b4e92865dafe7970d68c49cedf2c8dc46",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/da52b92b4e92865dafe7970d68c49cedf2c8dc46"
+  },
+  "portrait_fox_sorcerer__642x592": {
+    "hash": "da5cf38a904fd000dde487a9bca7da41e9c9e7d2",
+    "nodes": [
+      "80:1085"
+    ],
+    "source": "analysis/figma/raw/images/da5cf38a904fd000dde487a9bca7da41e9c9e7d2"
+  },
+  "ui_icon_dragon_red__385x391": {
+    "hash": "db0d3824599b4a1ebcbf793cd20b391235f43a83",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/db0d3824599b4a1ebcbf793cd20b391235f43a83"
+  },
+  "hero_owl_mage__1813x1760": {
+    "hash": "db498372af9d5b4323316175984ae19604bd2d28",
+    "nodes": [
+      "I30:1289;30:1265",
+      "39:1364"
+    ],
+    "source": "analysis/figma/raw/images/db498372af9d5b4323316175984ae19604bd2d28"
+  },
+  "background_dungeon_gargoyle_strip__272x91": {
+    "hash": "dbd30cfc59162b4ed2edaa345f666a4172e59aec",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/dbd30cfc59162b4ed2edaa345f666a4172e59aec"
+  },
+  "ui_icon_gold_pile__1134x1163": {
+    "hash": "dd6154c91ef336f7d22730ba2c8d43d966f6d772",
+    "nodes": [
+      "45:1433",
+      "45:1438"
+    ],
+    "source": "analysis/figma/raw/images/dd6154c91ef336f7d22730ba2c8d43d966f6d772"
+  },
+  "equipment_lion_knight_sword__486x750": {
+    "hash": "de43cd8317bf721a4af4086201add657a5f6f9a7",
+    "nodes": [
+      "80:1045"
+    ],
+    "source": "analysis/figma/raw/images/de43cd8317bf721a4af4086201add657a5f6f9a7"
+  },
+  "ui_frame_heart_wings__1728x1616": {
+    "hash": "e0304b45fa52b9fc2fbbded5924c9465b727bd67",
+    "nodes": [
+      "I73:438;73:532",
+      "I73:442;73:532",
+      "I73:453;73:532",
+      "I73:454;73:532",
+      "73:532"
+    ],
+    "source": "analysis/figma/raw/images/e0304b45fa52b9fc2fbbded5924c9465b727bd67"
+  },
+  "equipment_turtle_warrior_chest_plate__343x278": {
+    "hash": "e0a31f4a2bdccde332a11957baada3405943f6b7",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/e0a31f4a2bdccde332a11957baada3405943f6b7"
+  },
+  "equipment_raccoon_engineer_cannon_small__333x269": {
+    "hash": "e0f463810878fe169493ddf02ec4df5c4928e501",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/e0f463810878fe169493ddf02ec4df5c4928e501"
+  },
+  "relic_wolf_mask__479x633": {
+    "hash": "e0ff11fea283b5be86103c5bca2e580ca43e0345",
+    "nodes": [
+      "I73:461;73:436",
+      "73:502"
+    ],
+    "source": "analysis/figma/raw/images/e0ff11fea283b5be86103c5bca2e580ca43e0345"
+  },
+  "ui_frame_magic_gold__1289x1762": {
+    "hash": "e1310f45216dcfc68e7aa2c7a50f78993b3534da",
+    "nodes": [
+      "I73:438;73:409",
+      "I73:442;73:409",
+      "I73:453;73:409",
+      "I73:454;73:409",
+      "I73:460;73:409",
+      "I73:461;73:409",
+      "I73:462;73:409",
+      "I73:463;73:409",
+      "I73:473;73:409",
+      "I73:474;73:409",
+      "I73:475;73:409",
+      "I73:476;73:409",
+      "I73:477;73:409",
+      "I73:478;73:409",
+      "I73:479;73:409",
+      "I73:480;73:409",
+      "I80:937;80:910",
+      "I80:941;80:910",
+      "I80:945;80:910",
+      "I80:949;80:910",
+      "I80:950;80:910",
+      "I80:951;80:910",
+      "80:910",
+      "73:409"
+    ],
+    "source": "analysis/figma/raw/images/e1310f45216dcfc68e7aa2c7a50f78993b3534da"
+  },
+  "relic_rabbit_mask__490x644": {
+    "hash": "e1ba2111414e527aa13403387739146a0ed72760",
+    "nodes": [
+      "I73:477;73:436",
+      "73:509"
+    ],
+    "source": "analysis/figma/raw/images/e1ba2111414e527aa13403387739146a0ed72760"
+  },
+  "relic_blue_feather__473x665": {
+    "hash": "e220a2021af266373f84d2debda5a126e2de789c",
+    "nodes": [
+      "I73:438;73:436",
+      "73:436"
+    ],
+    "source": "analysis/figma/raw/images/e220a2021af266373f84d2debda5a126e2de789c"
+  },
+  "equipment_turtle_warrior_mace__292x325": {
+    "hash": "e32cf14de40e6845abea4c30539cdd036fb57566",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/e32cf14de40e6845abea4c30539cdd036fb57566"
+  },
+  "equipment_bunny_assassin_chest__567x656": {
+    "hash": "e36b43bafc8a1e7bd67010d450107f258c5c8959",
+    "nodes": [
+      "80:1024"
+    ],
+    "source": "analysis/figma/raw/images/e36b43bafc8a1e7bd67010d450107f258c5c8959"
+  },
+  "equipment_owl_mage_robe_orb__267x326": {
+    "hash": "e3c42ea62fa5a498dff6ff428ee756fcf8f33ed9",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/e3c42ea62fa5a498dff6ff428ee756fcf8f33ed9"
+  },
+  "relic_frost_dragon_head__236x315": {
+    "hash": "e3ebc1ab7c4a9ff9d473d96c13b7c7b5255ed05d",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/e3ebc1ab7c4a9ff9d473d96c13b7c7b5255ed05d"
+  },
+  "reference_screen_daily__213x462": {
+    "hash": "e473674f5859b12f1818af7afa02684269005ee3",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/e473674f5859b12f1818af7afa02684269005ee3"
+  },
+  "hero_fox_sorcerer__1828x1679": {
+    "hash": "e5183844bfdb30bb2d3a1c81ae1474e29643daba",
+    "nodes": [
+      "I30:1282;30:1265",
+      "I45:1451;32:1309",
+      "I89:1604;89:1448",
+      "89:1448",
+      "89:1528",
+      "32:1309",
+      "39:1366"
+    ],
+    "source": "analysis/figma/raw/images/e5183844bfdb30bb2d3a1c81ae1474e29643daba"
+  },
+  "equipment_turtle_warrior_chest_plate__686x555": {
+    "hash": "e6dae6bc9d0e728fa4f6c122d163581182d6440e",
+    "nodes": [
+      "80:1074"
+    ],
+    "source": "analysis/figma/raw/images/e6dae6bc9d0e728fa4f6c122d163581182d6440e"
+  },
+  "relic_fire_dragon_head__406x576": {
+    "hash": "e89da6990c77495006b21f0ccfb9772084adcbb6",
+    "nodes": [
+      "I73:463;73:436",
+      "73:504"
+    ],
+    "source": "analysis/figma/raw/images/e89da6990c77495006b21f0ccfb9772084adcbb6"
+  },
+  "reference_screen_daily__852x1846": {
+    "hash": "e9c612edfc3a21532efd27a241496c8119d8e7f5",
+    "nodes": [
+      "I109:591;203:12",
+      "I109:602;109:591;203:12",
+      "I109:604;109:591;203:12",
+      "I109:606;109:591;203:12",
+      "I109:608;109:591;203:12",
+      "I109:610;109:591;203:12",
+      "I109:612;109:591;203:12"
+    ],
+    "source": "analysis/figma/raw/images/e9c612edfc3a21532efd27a241496c8119d8e7f5"
+  },
+  "equipment_raccoon_engineer_cannon_large__666x538": {
+    "hash": "ea87345e76b21aa6327ddb1202842962c4ecc595",
+    "nodes": [
+      "80:1065"
+    ],
+    "source": "analysis/figma/raw/images/ea87345e76b21aa6327ddb1202842962c4ecc595"
+  },
+  "equipment_bunny_assassin_axes__715x516": {
+    "hash": "eb8c311ae23995ada50296a0eedfdad03cbb395a",
+    "nodes": [
+      "80:1025"
+    ],
+    "source": "analysis/figma/raw/images/eb8c311ae23995ada50296a0eedfdad03cbb395a"
+  },
+  "reference_gradient_wallpaper__736x1513": {
+    "hash": "ecb1a4835638a80d8eb318b4438f6c822a60df4a",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ecb1a4835638a80d8eb318b4438f6c822a60df4a"
+  },
+  "ui_panel_stats_black__483x213": {
+    "hash": "ecba3638bda2025a1f9cd22c2ff1fd7f5378bc0f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ecba3638bda2025a1f9cd22c2ff1fd7f5378bc0f"
+  },
+  "equipment_ice_fairy_staff_spear__218x450": {
+    "hash": "ed069adba8caa6fa4cd55a4eb4bda39477b059fd",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ed069adba8caa6fa4cd55a4eb4bda39477b059fd"
+  },
+  "background_dungeon_shadow_bright_strip__272x91": {
+    "hash": "ede636ef3ba86eb880c9f796bf569b823b11ff9b",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ede636ef3ba86eb880c9f796bf569b823b11ff9b"
+  },
+  "relic_gold_dragon_head__228x317": {
+    "hash": "efb2435c48519149dc204b0be1afee580cceacdc",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/efb2435c48519149dc204b0be1afee580cceacdc"
+  },
+  "equipment_elf_archer_quiver__260x344": {
+    "hash": "f017c2d2adaafdce29cc30616066e4e638b23500",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/f017c2d2adaafdce29cc30616066e4e638b23500"
+  },
+  "portrait_panda_monk__324x295": {
+    "hash": "f08aeb6d28395291a90839febda591a846c83fa7",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/f08aeb6d28395291a90839febda591a846c83fa7"
+  },
+  "enemy_stone_gargoyle__448x390": {
+    "hash": "f10a8d4677a5ac173b0c0086c5adfdede660d594",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/f10a8d4677a5ac173b0c0086c5adfdede660d594"
+  },
+  "ui_panel_stats_black__966x425": {
+    "hash": "f114a4c886b5b51ac42b3ffe94ebe8bb12661366",
+    "nodes": [
+      "I2:190;2:539",
+      "I2:191;2:537",
+      "I89:1604;89:1497",
+      "I89:1604;89:1541",
+      "I89:1604;89:1557",
+      "I89:1604;89:1573",
+      "I89:1604;89:1588",
+      "89:1497",
+      "89:1541",
+      "89:1557",
+      "89:1573",
+      "89:1588",
+      "2:537",
+      "2:539"
+    ],
+    "source": "analysis/figma/raw/images/f114a4c886b5b51ac42b3ffe94ebe8bb12661366"
+  },
+  "hero_turtle_warrior__1815x1620": {
+    "hash": "f123b258ee3365da347c09a0e172003fe3c78520",
+    "nodes": [
+      "I30:1283;30:1265",
+      "32:1310",
+      "39:1365"
+    ],
+    "source": "analysis/figma/raw/images/f123b258ee3365da347c09a0e172003fe3c78520"
+  },
+  "portrait_turtle_warrior__330x296": {
+    "hash": "f3fbca764b386d8d2e91da13da85ea037cb4d2d8",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/f3fbca764b386d8d2e91da13da85ea037cb4d2d8"
+  },
+  "ui_frame_purple_orb__1428x1440": {
+    "hash": "f4759d36c20f4d5406b3dfa5473651c47b84fdc9",
+    "nodes": [
+      "I91:574;2:661",
+      "I91:580;2:661",
+      "I91:568;2:661",
+      "2:661",
+      "I2:669;2:661"
+    ],
+    "source": "analysis/figma/raw/images/f4759d36c20f4d5406b3dfa5473651c47b84fdc9"
+  },
+  "ui_nav_dungeon__1494x1139": {
+    "hash": "f4cb8b25c50df3defb06b5d0fee4c2b311098774",
+    "nodes": [
+      "I19:1215;19:1193",
+      "I89:1322;19:1193",
+      "I80:1121;19:1193",
+      "I71:291;19:1193",
+      "I75:755;19:1193",
+      "32:1321"
+    ],
+    "source": "analysis/figma/raw/images/f4cb8b25c50df3defb06b5d0fee4c2b311098774"
+  },
+  "portrait_lion_knight__661x606": {
+    "hash": "f515249df249bb0eb674f85bb698f0a08e16de1e",
+    "nodes": [
+      "80:1093"
+    ],
+    "source": "analysis/figma/raw/images/f515249df249bb0eb674f85bb698f0a08e16de1e"
+  },
+  "background_dungeon_boar_strip__272x91": {
+    "hash": "f5f6f1cfaed144a8b9a28db81a7a3b14a09fd9d3",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/f5f6f1cfaed144a8b9a28db81a7a3b14a09fd9d3"
+  },
+  "enemy_toxic_slime__414x347": {
+    "hash": "f6342356b4085c635152a6b01871c29546cf5150",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/f6342356b4085c635152a6b01871c29546cf5150"
+  },
+  "equipment_panda_monk_chest__310x278": {
+    "hash": "f6a052ebe198b716628da05eca724ad97d656774",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/f6a052ebe198b716628da05eca724ad97d656774"
+  },
+  "background_dungeon_frost_strip__2172x724": {
+    "hash": "f942f214c1087b5af4bfea18e4808a749cdfc2fe",
+    "nodes": [
+      "I88:1291;86:1258",
+      "86:1258",
+      "86:1264"
+    ],
+    "source": "analysis/figma/raw/images/f942f214c1087b5af4bfea18e4808a749cdfc2fe"
+  },
+  "equipment_raccoon_engineer_cannon_large__625x565": {
+    "hash": "fb130201864a4e9776cc84c0735297c96c741912",
+    "nodes": [
+      "80:1060"
+    ],
+    "source": "analysis/figma/raw/images/fb130201864a4e9776cc84c0735297c96c741912"
+  },
+  "hero_bunny_assassin__1711x1827": {
+    "hash": "fb3d4b7bdcf5505797f86cffd17d04e5fc32f3ab",
+    "nodes": [
+      "I30:1294;30:1265",
+      "I89:1604;89:1449",
+      "89:1449",
+      "89:1537",
+      "39:1362"
+    ],
+    "source": "analysis/figma/raw/images/fb3d4b7bdcf5505797f86cffd17d04e5fc32f3ab"
+  },
+  "ui_icon_dragon_red__1540x1564": {
+    "hash": "fc1cc64139c8c276f0575a4ede022749b073a75c",
+    "nodes": [
+      "51:1473",
+      "110:1187",
+      "I109:602;110:1187",
+      "I109:604;110:1187",
+      "I109:606;110:1187",
+      "I109:608;110:1187",
+      "I109:610;110:1187",
+      "I109:612;110:1187"
+    ],
+    "source": "analysis/figma/raw/images/fc1cc64139c8c276f0575a4ede022749b073a75c"
+  },
+  "branding_hero_collage__384x256_variant2": {
+    "hash": "fc52b4b7e95a3cce76c415a98144008fa17c304f",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/fc52b4b7e95a3cce76c415a98144008fa17c304f"
+  },
+  "equipment_panda_monk_staff__623x626": {
+    "hash": "fcb06634e345c076cd030ae74ed295778eaf95c2",
+    "nodes": [
+      "80:1051"
+    ],
+    "source": "analysis/figma/raw/images/fcb06634e345c076cd030ae74ed295778eaf95c2"
+  },
+  "relic_gold_hammer__237x264": {
+    "hash": "fcde5112810dcc9a0455991ee80c16b8e547857e",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/fcde5112810dcc9a0455991ee80c16b8e547857e"
+  },
+  "portrait_panda_monk__648x590": {
+    "hash": "fe138567268deb1ce754c3226b89ef06cb95c1e6",
+    "nodes": [
+      "80:1091"
+    ],
+    "source": "analysis/figma/raw/images/fe138567268deb1ce754c3226b89ef06cb95c1e6"
+  },
+  "relic_gold_bird_mask__527x591": {
+    "hash": "fe361baf447b5629369e3a85a3dd3b7a1229c26e",
+    "nodes": [
+      "I73:480;73:436",
+      "73:512"
+    ],
+    "source": "analysis/figma/raw/images/fe361baf447b5629369e3a85a3dd3b7a1229c26e"
+  },
+  "equipment_lion_knight_shield__458x423": {
+    "hash": "fee263da58d83039825169394584a69fd9f99f5f",
+    "nodes": [
+      "80:1043"
+    ],
+    "source": "analysis/figma/raw/images/fee263da58d83039825169394584a69fd9f99f5f"
+  },
+  "equipment_raccoon_engineer_ring_clock__279x246": {
+    "hash": "ff5ce2c23792a21cc93445e282419d3ec5af9162",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ff5ce2c23792a21cc93445e282419d3ec5af9162"
+  },
+  "ui_nav_crystal_relic__352x333": {
+    "hash": "ff9f96b2ace9f7383bac0ca086da85cef7840773",
+    "nodes": [],
+    "source": "analysis/figma/raw/images/ff9f96b2ace9f7383bac0ca086da85cef7840773"
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "purpose": "TASK-0229 reviewed runtime-only sizes. Preserve full source canvas and all source files. Larger composed art/backgrounds unchanged.",
+  "caps": [
+    {
+      "id": "equipment_bunny_assassin_axes__715x516",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_bunny_assassin_chest__567x656",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_bunny_assassin_crescent_axes__699x588",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_bunny_assassin_pants__522x580",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_bunny_assassin_ring__506x452",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_bunny_assassin_ring_band__455x424",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_boots__497x535",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_bow__561x739",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_coat__663x625",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_hood__622x656",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_hood_fur__684x714",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_quiver__519x688",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_ring__536x516",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_elf_archer_ring_leaf__529x544",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_fox_sorcerer_ring__452x543",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_fox_sorcerer_ring_mask__461x515",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_fox_sorcerer_staff__462x747",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_fox_sorcerer_staff_orb__535x811",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_ice_fairy_boots__578x556",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_ice_fairy_ring_gem__465x536",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_ice_fairy_ring_snowflake__484x545",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_ice_fairy_robe__670x754",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_ice_fairy_staff_snowflake__583x881",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_ice_fairy_staff_spear__435x899",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_inferno_dragon_chest__610x596",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_inferno_dragon_ring__306x425",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_inferno_dragon_ring_gem__328x398",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_inferno_dragon_robe__521x524",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_inferno_dragon_spear__628x784",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_inferno_dragon_sword__557x803",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_lion_knight_chest__610x541",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_lion_knight_hammer__509x696",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_lion_knight_helmet__491x628",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_lion_knight_shield__458x423",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_lion_knight_sword__486x750",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_owl_mage_ring_crescent__413x553",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_owl_mage_ring_orb__499x469",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_owl_mage_robe_crescent__611x673",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_owl_mage_robe_orb__533x651",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_owl_mage_staff_crescent__394x792",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_owl_mage_staff_owl__478x836",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_panda_monk_chest__619x555",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_panda_monk_orbs__669x551",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_panda_monk_pants__537x568",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_panda_monk_ring__442x374",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_panda_monk_staff__623x626",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_raccoon_engineer_cannon_large__625x565",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_raccoon_engineer_cannon_large__666x538",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_raccoon_engineer_chest_machine__668x500",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_raccoon_engineer_coat__651x566",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_raccoon_engineer_ring_clock__558x491",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_raccoon_engineer_ring_gem__497x460",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_turtle_warrior_chest_plate__686x555",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_turtle_warrior_chest_shell__608x522",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_turtle_warrior_hammer__562x646",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_turtle_warrior_mace__583x649",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_turtle_warrior_ring__534x437",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_turtle_warrior_ring_orb__511x435",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "equipment_turtle_warrior_ring_shell__514x487",
+      "maxEdge": 384,
+      "maxLogicalEdge": 76,
+      "reason": "Only equipment slot/inventory icon; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_bunny_assassin__662x590",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_elf_archer__647x592",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_fox_sorcerer__642x592",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_ice_fairy__660x590",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_inferno_dragon__621x590",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_lion_knight__661x606",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_owl_mage__621x592",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_panda_monk__648x590",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_raccoon_engineer__662x592",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    },
+    {
+      "id": "portrait_turtle_warrior__660x592",
+      "maxEdge": 448,
+      "maxLogicalEdge": 91,
+      "reason": "Only compact equipment hero selector portrait; 4x density plus motion margin"
+    }
+  ],
+  "density512": [
+    "boss_frost_dragon__1995x1925",
+    "boss_infernal_dragon__1968x1659",
+    "boss_shadow_dragon__1974x1657",
+    "ui_frame_magic_gold__1289x1762",
+    "ui_button_gold__2378x1300",
+    "ui_button_orange__2542x1359",
+    "reward_gold_chest__1254x1254_variant2",
+    "decoration_raccoon_castle__1254x1254",
+    "ui_wheel_reward_illustration__1774x1837"
+  ]
+}

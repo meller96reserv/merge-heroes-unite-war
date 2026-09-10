@@ -1,0 +1,17 @@
+{
+  "task": "TASK-0253",
+  "status": "PASS",
+  "checks": {
+    "identity": true,
+    "wheelCooldown": true,
+    "wheelCompletionDependency": true,
+    "nativeAdReleaseGate": true,
+    "appmetricaSelected": true,
+    "noCooldownShop": true,
+    "noInterstitials": true,
+    "notGenericCasino": true,
+    "noKeyValues": true,
+    "wheelIndependentOfDaily": true
+  },
+  "nativeSDKAcceptance": "NOT_RUN"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "counts": {
+    "docsMarkdownGenerated": 139,
+    "phasePlans": 21,
+    "plansTotal": 24,
+    "tasks": 251,
+    "priorities": {
+      "P0": 184,
+      "P1": 54,
+      "P2": 13
+    },
+    "schemas": 29,
+    "assets": 351,
+    "screens": 15,
+    "animationEvents": 64,
+    "audioEvents": 35,
+    "captures": 60,
+    "evidenceClaims": 32,
+    "unknowns": 35
+  },
+  "checks": 32,
+  "errors": []
+}

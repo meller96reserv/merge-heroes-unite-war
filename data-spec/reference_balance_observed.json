@@ -1,0 +1,133 @@
+{
+  "status": "OBSERVED_DISPLAY_ONLY",
+  "platform": "CrazyGames web",
+  "captureDate": "2026-09-08",
+  "runtimeVersion": "LIVE_CRAZY3.16.2",
+  "samples": [
+    {
+      "sampleId": "BAL-001",
+      "kind": "initial_gold",
+      "value": "100",
+      "source": "analysis/reference/screenshots/web_ready.png"
+    },
+    {
+      "sampleId": "BAL-002",
+      "kind": "purchase_quote",
+      "purchaseIndex": 0,
+      "value": "1",
+      "source": "analysis/reference/screenshots/web_ready.png"
+    },
+    {
+      "sampleId": "BAL-003",
+      "kind": "purchase_quote",
+      "purchaseIndex": 1,
+      "value": "1",
+      "source": "analysis/reference/screenshots/tutorial_after_1.png"
+    },
+    {
+      "sampleId": "BAL-004",
+      "kind": "first_tier2_discovery_gold",
+      "value": "10",
+      "source": "analysis/reference/screenshots/run2_reverse_merge.png"
+    },
+    {
+      "sampleId": "BAL-005",
+      "kind": "first_tier2_discovery_gem",
+      "value": "100",
+      "source": "analysis/reference/screenshots/run2_reverse_merge.png"
+    }
+  ],
+  "formulas": [],
+  "additionalSamples": [
+    {
+      "sampleId": "BAL-005",
+      "stage": "1-2",
+      "tier": 2,
+      "attackDisplay": "5",
+      "enemyHpDisplay": "4",
+      "damageDisplay": null,
+      "rewardGoldDisplay": null,
+      "notes": "enemyHPdisplay;EV012"
+    },
+    {
+      "sampleId": "BAL-006",
+      "stage": "1-4",
+      "tier": 2,
+      "attackDisplay": "5",
+      "enemyHpDisplay": "16",
+      "damageDisplay": null,
+      "rewardGoldDisplay": null,
+      "notes": "normalstageHPdisplay;notformula"
+    },
+    {
+      "sampleId": "BAL-007",
+      "stage": "1-9",
+      "tier": 2,
+      "attackDisplay": "5",
+      "enemyHpDisplay": "81",
+      "damageDisplay": "5",
+      "rewardGoldDisplay": null,
+      "notes": "farmstage;singlehitdisplay;noarmor/critmodelinferred"
+    },
+    {
+      "sampleId": "BAL-008",
+      "stage": "1-9",
+      "tier": 3,
+      "attackDisplay": "13",
+      "enemyHpDisplay": "81",
+      "damageDisplay": null,
+      "rewardGoldDisplay": "1000",
+      "notes": "tier3discoverygold1000/gems100;othericons52/2.5;EV020"
+    },
+    {
+      "sampleId": "BAL-009",
+      "stage": "1-10",
+      "tier": 3,
+      "attackDisplay": "13",
+      "enemyHpDisplay": "70",
+      "damageDisplay": "13",
+      "rewardGoldDisplay": "10000",
+      "notes": "bossgold8389→18389;singleobservedwin;timerdurationunknown;EV021"
+    },
+    {
+      "sampleId": "BAL-010",
+      "stage": "1-11",
+      "tier": 3,
+      "attackDisplay": "13",
+      "enemyHpDisplay": "121",
+      "damageDisplay": null,
+      "rewardGoldDisplay": null,
+      "notes": "normalstageHPdisplay;EV022"
+    },
+    {
+      "sampleId": "BAL-011",
+      "stage": "1-12",
+      "tier": 4,
+      "attackDisplay": "16",
+      "enemyHpDisplay": "144",
+      "damageDisplay": "32",
+      "rewardGoldDisplay": "1440",
+      "notes": "tier4discoverygold1440/gems100;crit32singlecase;othericons106/1.5;EV023"
+    },
+    {
+      "sampleId": "BAL-012",
+      "stage": "1-14",
+      "tier": 4,
+      "attackDisplay": "16",
+      "enemyHpDisplay": "196",
+      "damageDisplay": null,
+      "rewardGoldDisplay": "1510",
+      "notes": "accountlevel2rewardgold1510/gems100,+1platform,+5%goldicon;notkillreward;EV024"
+    },
+    {
+      "sampleId": "BAL-013",
+      "stage": "UNKNOWN_RETURN",
+      "tier": 4,
+      "attackDisplay": null,
+      "enemyHpDisplay": null,
+      "damageDisplay": null,
+      "rewardGoldDisplay": "247K",
+      "notes": "offline3:34display;roundedgold247Kplus4othericons;notexact247000;EV025"
+    }
+  ]
+}

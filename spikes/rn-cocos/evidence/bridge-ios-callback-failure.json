@@ -1,0 +1,66 @@
+{
+  "procName": "KiselNativeProbe",
+  "captureTime": "2026-09-08 22:15:05.6396 +0300",
+  "exception": {
+    "codes": "0x0000000000000001, 0x0000000000000000",
+    "rawCodes": [
+      1,
+      0
+    ],
+    "type": "EXC_BAD_ACCESS",
+    "signal": "SIGSEGV",
+    "subtype": "KERN_INVALID_ADDRESS at 0x0000000000000000"
+  },
+  "termination": {
+    "flags": 0,
+    "code": 11,
+    "namespace": "SIGNAL",
+    "indicator": "Segmentation fault: 11",
+    "byProc": "exc handler",
+    "byPid": 57709
+  },
+  "faultingThread": 0,
+  "sourceDiagnostic": "KiselNativeProbe-2026-09-08-221655.ips",
+  "frames": [
+    {
+      "imageOffset": 0,
+      "imageIndex": 12
+    },
+    {
+      "imageOffset": 6877572,
+      "sourceLine": 36,
+      "sourceFile": "JsbBridge.mm",
+      "symbol": "callPlatformStringMethod(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> const&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> const&)",
+      "imageIndex": 2,
+      "symbolLocation": 156
+    },
+    {
+      "imageOffset": 2806508,
+      "sourceLine": 384,
+      "sourceFile": "JavaScriptObjCBridge.mm",
+      "symbol": "ScriptNativeBridge_sendToNative(se::State&)",
+      "imageIndex": 2,
+      "symbolLocation": 644
+    },
+    {
+      "imageOffset": 2318120,
+      "sourceLine": 99,
+      "sourceFile": "HelperMacros.cpp",
+      "symbol": "jsbFunctionWrapper(v8::FunctionCallbackInfo<v8::Value> const&, bool (*)(se::State&), char const*)",
+      "imageIndex": 2,
+      "symbolLocation": 532
+    },
+    {
+      "imageOffset": 2805852,
+      "sourceLine": 391,
+      "sourceFile": "JavaScriptObjCBridge.mm",
+      "symbol": "ScriptNativeBridge_sendToNativeRegistry(v8::FunctionCallbackInfo<v8::Value> const&)",
+      "imageIndex": 2,
+      "symbolLocation": 48
+    }
+  ],
+  "status": "FAIL",
+  "cause": "Cocos 3.8.8 non-ARC JsbBridge.setCallback assigns a block without copy/retain; host supplied a capturing block without owning it.",
+  "fix": "KiselCocosRuntime copy property retains the callback for the retained engine lifetime; weak runtime capture avoids a cycle. Vendor source remains unchanged.",
+  "retest": "PASS: native exchange on PID58739; see bridge-results.json and logs/bridge-ios-runtime-attempt2.log"
+}

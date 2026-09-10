@@ -1,0 +1,3975 @@
+{
+  "taskId": "TASK-0032",
+  "status": "PASS",
+  "packing": "Planned 2048 pages with 2px padding/extrusion; initial Skia import uses individual semantic images. Physical atlas packing awaits measured texture cost.",
+  "records": [
+    {
+      "semanticId": "background_battle_panorama__1916x821",
+      "sourceFile": "analysis/figma/raw/images/8544522e43d61d581e55ff6f96a24cec53d8a1c8",
+      "sourceSha256": "2fd957f5e04b3aaa140b7f34146a874171e73cdf6877d970f5c9650880b59ad1",
+      "runtimeSize": [
+        1536,
+        658
+      ],
+      "decodedBytes": 4042752,
+      "group": "standalone",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_battle_panorama__1916x821"
+    },
+    {
+      "semanticId": "background_castle_platform__941x1672",
+      "sourceFile": "analysis/figma/raw/images/b6843d342c36233c46c287371205642516d4824e",
+      "sourceSha256": "e06ac3ab5089d40a6fb5368d79c6742c77dc58df504753279a40886a91e8b77f",
+      "runtimeSize": [
+        864,
+        1536
+      ],
+      "decodedBytes": 5308416,
+      "group": "standalone",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_castle_platform__941x1672"
+    },
+    {
+      "semanticId": "background_dungeon_boar_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/c3bb5b04a28a7fc0637833cebb26c995f2a2ba35",
+      "sourceSha256": "2f6ad69f446e42bbcc8234476364678c74d2e667a12b35134e62b91e2dba4996",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_boar_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_crocodile_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/c91ed48dc9e2c77f90e8847b3f39f4c00ee57f02",
+      "sourceSha256": "ede70744b9a8c7defbe8168e88934320c821245c27fb96f2aefa073c6b64c275",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_crocodile_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_frost_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/f942f214c1087b5af4bfea18e4808a749cdfc2fe",
+      "sourceSha256": "695a0db3c21e3ac7dc18e08a9ad9e3824187d28c004555bf2e725039e511bbcb",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [
+        "SCREEN-006"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_frost_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_gargoyle_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/993edd1c8a640a43e0fb87cc37079f5765605e95",
+      "sourceSha256": "e2b047509863564d6dd636354433d20a55b861eeb91a9ed330a81186d44dfd83",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_gargoyle_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_goblin_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/3117bbf2ea8e080c3c460da6edb2f28b6ac59544",
+      "sourceSha256": "b92b190517d730b27bba0316be20e7504fe1deeed7520cc7d308dc954d339900",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_goblin_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_infernal_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/7276c1544b69adce858414a636fc63bbad7714ec",
+      "sourceSha256": "bed40ad56e5b0c33cc1e573b37cd36deb5b1862983da0d2b9ffa2ca9428ed92f",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [
+        "SCREEN-006"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_infernal_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_lizard_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/b7ee52e2ee43b5a41d6ba1b65fd2e1679a76826e",
+      "sourceSha256": "1bf7a67f5307f70247412ef441257fba214ccec47559ea931bca80b98afaba2b",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_lizard_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_shadow_bright_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/cba31e4d7c053dc337a3bd11c0eb0828ef59fcff",
+      "sourceSha256": "87d500f26a3797076183c64e1a15bd93c5513e83bfe744253e6d2aecd425c649",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [
+        "SCREEN-006"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_shadow_bright_strip__2172x724"
+    },
+    {
+      "semanticId": "background_dungeon_shadow_strip__2172x724",
+      "sourceFile": "analysis/figma/raw/images/66b36f8823daa26c49439008b7247fb72caf8fb6",
+      "sourceSha256": "1f7ab0bebbb3ed3b21331dcc86d4ac14024723a2d1efa65137a91fc5614cbfb9",
+      "runtimeSize": [
+        1536,
+        512
+      ],
+      "decodedBytes": 3145728,
+      "group": "standalone",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_dungeon_shadow_strip__2172x724"
+    },
+    {
+      "semanticId": "background_floating_islands__941x1672",
+      "sourceFile": "analysis/figma/raw/images/6b0fe4f85adb51efb23cdd45f201e502c0686cd1",
+      "sourceSha256": "ec5c23fbb04b3ee8647540f5e87334d9d109114d3c73cf7d20119c3b86ec2c74",
+      "runtimeSize": [
+        864,
+        1536
+      ],
+      "decodedBytes": 5308416,
+      "group": "standalone",
+      "screens": [
+        "SCREEN-001",
+        "SCREEN-002",
+        "SCREEN-003",
+        "SCREEN-006",
+        "SCREEN-007",
+        "SCREEN-008",
+        "SCREEN-009",
+        "SCREEN-010",
+        "SCREEN-011",
+        "SCREEN-012",
+        "SCREEN-013",
+        "SCREEN-014",
+        "SCREEN-015"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_floating_islands__941x1672"
+    },
+    {
+      "semanticId": "background_forest_glade__941x1672",
+      "sourceFile": "analysis/figma/raw/images/4cc88a1fa76bcfc927baf7aa055edcfd32dd0130",
+      "sourceSha256": "f3bbc4875317fad9598975b77346e2513741531b22dfa467c777e005eaba8109",
+      "runtimeSize": [
+        864,
+        1536
+      ],
+      "decodedBytes": 5308416,
+      "group": "standalone",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_forest_glade__941x1672"
+    },
+    {
+      "semanticId": "background_grass_platform__754x329",
+      "sourceFile": "analysis/figma/raw/images/27498cd527af92b2768eef17c1e5cd6a9454328a",
+      "sourceSha256": "c82b2020a1a80aa6f3468574256a11d2ab83ce0f72b8980d5866357d38b97dd0",
+      "runtimeSize": [
+        754,
+        329
+      ],
+      "decodedBytes": 992264,
+      "group": "standalone",
+      "screens": [
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "background_grass_platform__754x329"
+    },
+    {
+      "semanticId": "background_stone_slot__348x265",
+      "sourceFile": "analysis/figma/raw/images/3e90c264d05d2f38863dee69a57bad0835294298",
+      "sourceSha256": "e9014dadf9f3bbd5e7c34db7e7586bcf8243d2142e6d7912a31469d161ea5ff5",
+      "runtimeSize": [
+        348,
+        265
+      ],
+      "decodedBytes": 368880,
+      "group": "backgrounds",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "backgrounds_0",
+      "plannedRect": [
+        2,
+        2,
+        348,
+        265
+      ]
+    },
+    {
+      "semanticId": "boss_frost_dragon__1995x1925",
+      "sourceFile": "analysis/figma/raw/images/7f00e6a27e7f7b619d84155ace2e04e6f6feca26",
+      "sourceSha256": "39e0df703351086f18db825f78e516d6c51258604fa2a471c3029f7709431e51",
+      "runtimeSize": [
+        768,
+        741
+      ],
+      "decodedBytes": 2276352,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        2,
+        2,
+        768,
+        741
+      ]
+    },
+    {
+      "semanticId": "boss_infernal_dragon__1968x1659",
+      "sourceFile": "analysis/figma/raw/images/24e7b4b661c7ee64dfa762ed3c11611dc92191b0",
+      "sourceSha256": "2d060451d45ab5b82785cec7a77472d9cc21f1ff19de2fc5856379d96b24ae12",
+      "runtimeSize": [
+        768,
+        647
+      ],
+      "decodedBytes": 1987584,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        774,
+        2,
+        768,
+        647
+      ]
+    },
+    {
+      "semanticId": "boss_shadow_dragon__1974x1657",
+      "sourceFile": "analysis/figma/raw/images/399835a2248bc008049911515ada1858ec75cf7b",
+      "sourceSha256": "e2953ae77e9a51b37e90cd4b86f351b2feb6afc31fcc3e3cfb6495436125c2c5",
+      "runtimeSize": [
+        768,
+        645
+      ],
+      "decodedBytes": 1981440,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        2,
+        747,
+        768,
+        645
+      ]
+    },
+    {
+      "semanticId": "branding_hero_collage__1536x1024",
+      "sourceFile": "analysis/figma/raw/images/0776e9c3b4670521067e7b4d5751c86deac1e358",
+      "sourceSha256": "701846984cec94771523267c0425b1600a935382acb03e4e7b8b038c70f9bf43",
+      "runtimeSize": [
+        768,
+        512
+      ],
+      "decodedBytes": 1572864,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-002"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        2,
+        2,
+        768,
+        512
+      ]
+    },
+    {
+      "semanticId": "branding_hero_collage__1536x1024_variant2",
+      "sourceFile": "analysis/figma/raw/images/361e1bf843e69fc4acc10557b15117a84f05362f",
+      "sourceSha256": "669960464d41fa191f0e7d967f1e0f73af8cb16b139591bbb616e84333f1c88f",
+      "runtimeSize": [
+        768,
+        512
+      ],
+      "decodedBytes": 1572864,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-002"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        774,
+        2,
+        768,
+        512
+      ]
+    },
+    {
+      "semanticId": "branding_logo__1448x1086",
+      "sourceFile": "analysis/figma/raw/images/0af28b86d0bf4dd07dcc86106fa47288eb5e449c",
+      "sourceSha256": "28d32483760d5025b9137c076d5532188ce549439202f00740ba027f2e8fea7d",
+      "runtimeSize": [
+        768,
+        576
+      ],
+      "decodedBytes": 1769472,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-001",
+        "SCREEN-002"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        2,
+        518,
+        768,
+        576
+      ]
+    },
+    {
+      "semanticId": "branding_logo__1448x1086_variant2",
+      "sourceFile": "analysis/figma/raw/images/86f1d78db7ee1bc4e9fcd896e80eb926280b29c8",
+      "sourceSha256": "82a2f6d6dc2d9b8b2cf57cfce5d39d6003e07ab542f4bb0c5ef7cfe2c227edcf",
+      "runtimeSize": [
+        768,
+        576
+      ],
+      "decodedBytes": 1769472,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-001",
+        "SCREEN-002"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        774,
+        518,
+        768,
+        576
+      ]
+    },
+    {
+      "semanticId": "branding_welcome_text__2172x724",
+      "sourceFile": "analysis/figma/raw/images/7b964ceeade5e1566bf7ecb69061bac17843cb8a",
+      "sourceSha256": "9de33e14e820794e8cde868cd5225b233a3e99f4d98985d1a314690fa9e180dc",
+      "runtimeSize": [
+        768,
+        256
+      ],
+      "decodedBytes": 786432,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-001"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        2,
+        1098,
+        768,
+        256
+      ]
+    },
+    {
+      "semanticId": "branding_welcome_text__2172x724_variant2",
+      "sourceFile": "analysis/figma/raw/images/9dede4c77553cb20489fce8bf0e8e3d7b3525e2c",
+      "sourceSha256": "fd8d59b382f3b3c3f933f17b7a7dd18fb7b536d12eb2142d33ff72125be4179d",
+      "runtimeSize": [
+        768,
+        256
+      ],
+      "decodedBytes": 786432,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-001"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        774,
+        1098,
+        768,
+        256
+      ]
+    },
+    {
+      "semanticId": "currency_blue_orb__545x554",
+      "sourceFile": "analysis/figma/raw/images/777e17cf85e51215e2caaff22ebb334b17be469a",
+      "sourceSha256": "3e6d03439c83df7e7e7a73172c38427c6bd0794568a411bf943309904e270042",
+      "runtimeSize": [
+        545,
+        554
+      ],
+      "decodedBytes": 1207720,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        2,
+        1358,
+        545,
+        554
+      ]
+    },
+    {
+      "semanticId": "currency_gem_blue__300x252",
+      "sourceFile": "analysis/figma/raw/images/027fb1a160a836ad27c008214bdd44046699c6b3",
+      "sourceSha256": "98f748832c288eca96aa9b561cf92c4514f4764cf7ddc08ec03cdcf886d79fd9",
+      "runtimeSize": [
+        300,
+        252
+      ],
+      "decodedBytes": 302400,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        551,
+        1358,
+        300,
+        252
+      ]
+    },
+    {
+      "semanticId": "currency_gold_coin__254x262",
+      "sourceFile": "analysis/figma/raw/images/8b1c44fd757fb629498188807b520d0ce3fcca3b",
+      "sourceSha256": "9bdf3b94708e0c8b9ae5660f2f254d8ebb31ea2a8694019dee7408a0180ab119",
+      "runtimeSize": [
+        254,
+        262
+      ],
+      "decodedBytes": 266192,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_0",
+      "plannedRect": [
+        855,
+        1358,
+        254,
+        262
+      ]
+    },
+    {
+      "semanticId": "decoration_raccoon_castle__1254x1254",
+      "sourceFile": "analysis/figma/raw/images/1ae552b846d2cd9a35035f2b16555df744df4a32",
+      "sourceSha256": "18e4da1c4e7254a0be2f85a77b5f16886969d81094bbef60211d016baabe052d",
+      "runtimeSize": [
+        768,
+        768
+      ],
+      "decodedBytes": 2359296,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-012"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        2,
+        2,
+        768,
+        768
+      ]
+    },
+    {
+      "semanticId": "decoration_raccoon_castle__1254x1254_variant2",
+      "sourceFile": "analysis/figma/raw/images/741e1dae868073fa4c6d79284c652a31207b2e69",
+      "sourceSha256": "ab0ddb1af853d6d13b16fb3d2aadfe1b71daf55ee00f0ed26040ba3d8964ff9e",
+      "runtimeSize": [
+        768,
+        768
+      ],
+      "decodedBytes": 2359296,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-012"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        774,
+        2,
+        768,
+        768
+      ]
+    },
+    {
+      "semanticId": "enemy_bomb_goblin__1606x1561",
+      "sourceFile": "analysis/figma/raw/images/4043fe7b5bb26d9a56eb46d369dd44a7bea0355b",
+      "sourceSha256": "5c8e84e8451eb51aaf077f1be720af1c8344c4328334f2c809fc33724bedbc99",
+      "runtimeSize": [
+        384,
+        373
+      ],
+      "decodedBytes": 572928,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        774,
+        747,
+        384,
+        373
+      ]
+    },
+    {
+      "semanticId": "enemy_dark_bat_mage__1888x1531",
+      "sourceFile": "analysis/figma/raw/images/7f8265d92f3025e60df9ea6f8476fc8de4c9c427",
+      "sourceSha256": "f118f2c0887a3c7d9e3ade50c1fa7443169166c6a94c4cc86d5cab8a64ee7183",
+      "runtimeSize": [
+        384,
+        311
+      ],
+      "decodedBytes": 477696,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        1162,
+        747,
+        384,
+        311
+      ]
+    },
+    {
+      "semanticId": "enemy_fire_lizard__1562x1651",
+      "sourceFile": "analysis/figma/raw/images/36f8f6f7a7d0c7e0ae4e20f0b737fad9bba67716",
+      "sourceSha256": "a077a6307dd25d102c917f5c6f8585d6e8de991942805716c81e9e96cd3212d1",
+      "runtimeSize": [
+        363,
+        384
+      ],
+      "decodedBytes": 557568,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        1550,
+        747,
+        363,
+        384
+      ]
+    },
+    {
+      "semanticId": "enemy_iron_beetle__1835x1638",
+      "sourceFile": "analysis/figma/raw/images/cdfb9c342d6d2e1ad70593ecdbdf2217bffb2b80",
+      "sourceSha256": "a700c124e81fbedc1330d5894e493eae5869a138d59f9f58111e48b874f1cc51",
+      "runtimeSize": [
+        384,
+        343
+      ],
+      "decodedBytes": 526848,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        2,
+        1396,
+        384,
+        343
+      ]
+    },
+    {
+      "semanticId": "enemy_ironhide_boar__1862x1681",
+      "sourceFile": "analysis/figma/raw/images/be919953e9369e0760e17392af8208f311c8d51d",
+      "sourceSha256": "f4a011a953e9d21b58200c7f8ffdf23b81dcfbcf8f022b77baa7ae5337329237",
+      "runtimeSize": [
+        384,
+        347
+      ],
+      "decodedBytes": 532992,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        390,
+        1396,
+        384,
+        347
+      ]
+    },
+    {
+      "semanticId": "enemy_poison_mushroom__1596x1576",
+      "sourceFile": "analysis/figma/raw/images/05a04461351d086a16a2c9b63bc7c05772867132",
+      "sourceSha256": "41aa0e1ac6e0eb6205846f41196a20372274580c3b45ffe5733bdbf86ee0a0b7",
+      "runtimeSize": [
+        384,
+        379
+      ],
+      "decodedBytes": 582144,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        778,
+        1396,
+        384,
+        379
+      ]
+    },
+    {
+      "semanticId": "enemy_shadow_wolf__1783x1677",
+      "sourceFile": "analysis/figma/raw/images/884e4a53f27c509c9e0d910c99e8eeb37b3764e0",
+      "sourceSha256": "c71995cce8a8c0efd10ef6bd19923ddb06756503f4a0eef4f396b9f5f1f677f3",
+      "runtimeSize": [
+        384,
+        361
+      ],
+      "decodedBytes": 554496,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        1166,
+        1396,
+        384,
+        361
+      ]
+    },
+    {
+      "semanticId": "enemy_stone_gargoyle__1789x1558",
+      "sourceFile": "analysis/figma/raw/images/6b23891eb8e67567c8677d78a892c054f1fe5f21",
+      "sourceSha256": "0884660aeb4e4650f68f218a89143280903c84bd20d4adefe231cfe3bef994d5",
+      "runtimeSize": [
+        384,
+        334
+      ],
+      "decodedBytes": 513024,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_0",
+      "plannedRect": [
+        1554,
+        1396,
+        384,
+        334
+      ]
+    },
+    {
+      "semanticId": "enemy_swamp_crocodile__1895x1429",
+      "sourceFile": "analysis/figma/raw/images/a38f01991256368e852469e9bb54e5105d0707a9",
+      "sourceSha256": "ff94cd486f51ec02d99911341d145c24d7edceb40acc48b3c1a601fb7897c980",
+      "runtimeSize": [
+        384,
+        290
+      ],
+      "decodedBytes": 445440,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        2,
+        2,
+        384,
+        290
+      ]
+    },
+    {
+      "semanticId": "enemy_toxic_slime__1654x1388",
+      "sourceFile": "analysis/figma/raw/images/27d3ca679aff035f5275fb0758710d482bf2f399",
+      "sourceSha256": "8a5c6aaa363f8decbf070b5f41175355efc664ec509bb8f4b45fe03dcf0cce7a",
+      "runtimeSize": [
+        384,
+        322
+      ],
+      "decodedBytes": 494592,
+      "group": "battle_common",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        390,
+        2,
+        384,
+        322
+      ]
+    },
+    {
+      "semanticId": "equipment_bunny_assassin_axes__715x516",
+      "sourceFile": "analysis/figma/raw/images/eb8c311ae23995ada50296a0eedfdad03cbb395a",
+      "sourceSha256": "4d2217119003dfcd282ea5e0638373e1aa888e6b32e718060abb28d9251fa50f",
+      "runtimeSize": [
+        715,
+        516
+      ],
+      "decodedBytes": 1475760,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        2,
+        2,
+        715,
+        516
+      ]
+    },
+    {
+      "semanticId": "equipment_bunny_assassin_chest__567x656",
+      "sourceFile": "analysis/figma/raw/images/e36b43bafc8a1e7bd67010d450107f258c5c8959",
+      "sourceSha256": "4c42b1ec55c1bed86ef710ea7dba12a26753949dea260c30480bb0aadded0d34",
+      "runtimeSize": [
+        567,
+        656
+      ],
+      "decodedBytes": 1487808,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        721,
+        2,
+        567,
+        656
+      ]
+    },
+    {
+      "semanticId": "equipment_bunny_assassin_crescent_axes__699x588",
+      "sourceFile": "analysis/figma/raw/images/b2283bb24e654f4b176d187df3638df2e322db20",
+      "sourceSha256": "e6142cef21b9d73308106be6ba7acd8f42079d476b502321a177eb6fcf700059",
+      "runtimeSize": [
+        699,
+        588
+      ],
+      "decodedBytes": 1644048,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        1292,
+        2,
+        699,
+        588
+      ]
+    },
+    {
+      "semanticId": "equipment_bunny_assassin_pants__522x580",
+      "sourceFile": "analysis/figma/raw/images/b15c2e9daa94bf85f0aa6d2aaaae908e6b6d08b6",
+      "sourceSha256": "789cd6730a51e652cdd6be69c8945e90064a4cd49b97b1a8538234e4a30e0c7f",
+      "runtimeSize": [
+        522,
+        580
+      ],
+      "decodedBytes": 1211040,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        2,
+        662,
+        522,
+        580
+      ]
+    },
+    {
+      "semanticId": "equipment_bunny_assassin_ring__506x452",
+      "sourceFile": "analysis/figma/raw/images/43d5300cde4ec04b5352a0762d9e21c53a8370f2",
+      "sourceSha256": "eaafc4c09d944e7cc7688f78c51f77e3986f565ec3eef7f2889ec3bd19ded400",
+      "runtimeSize": [
+        506,
+        452
+      ],
+      "decodedBytes": 914848,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        528,
+        662,
+        506,
+        452
+      ]
+    },
+    {
+      "semanticId": "equipment_bunny_assassin_ring_band__455x424",
+      "sourceFile": "analysis/figma/raw/images/9355b0ed05fd564e8f931254fc1b6f0eae0f1779",
+      "sourceSha256": "4fc325ce905e04c957cd18f81106e21482119c349152c069019f9aafa1055f29",
+      "runtimeSize": [
+        455,
+        424
+      ],
+      "decodedBytes": 771680,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        1038,
+        662,
+        455,
+        424
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_boots__497x535",
+      "sourceFile": "analysis/figma/raw/images/87c433c12114f926b8c045009192d958e224b1b4",
+      "sourceSha256": "9cbfe54df96df48f35833cfafa5104d11b03384a1a32c0491a9dcfada6d3eece",
+      "runtimeSize": [
+        497,
+        535
+      ],
+      "decodedBytes": 1063580,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        1497,
+        662,
+        497,
+        535
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_bow__561x739",
+      "sourceFile": "analysis/figma/raw/images/8fe532c9489c2b4f3e5f78a7e778a04b2e61cace",
+      "sourceSha256": "a30e81404c3dc97b2ee68f6c5fbd3b32eab1920b1a513ad314e6a01eb4193b05",
+      "runtimeSize": [
+        561,
+        739
+      ],
+      "decodedBytes": 1658316,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        2,
+        1246,
+        561,
+        739
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_coat__663x625",
+      "sourceFile": "analysis/figma/raw/images/5fa746afd3d5fd77d9d6feb3916a29828e85188f",
+      "sourceSha256": "f7f0b8d7d8d072b23a6ee37e49447af51fa9adff7eb096c83bea3a574ec6b102",
+      "runtimeSize": [
+        663,
+        625
+      ],
+      "decodedBytes": 1657500,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        567,
+        1246,
+        663,
+        625
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_hood__622x656",
+      "sourceFile": "analysis/figma/raw/images/beff88aa48a1e86f0b673d200d39b1c0b5e5884a",
+      "sourceSha256": "06edf2dafd622adc1b9a07d4a2e56f5179d097bbbb3a857ab9994decfad013e6",
+      "runtimeSize": [
+        622,
+        656
+      ],
+      "decodedBytes": 1632128,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_0",
+      "plannedRect": [
+        1234,
+        1246,
+        622,
+        656
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_hood_fur__684x714",
+      "sourceFile": "analysis/figma/raw/images/8a0a4b69bf5c0394c572cfdd62de6728f266a29d",
+      "sourceSha256": "424fcfc05250385e412f7b4425c4536406f829f2579bf480032be484d3dbbb87",
+      "runtimeSize": [
+        684,
+        714
+      ],
+      "decodedBytes": 1953504,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_1",
+      "plannedRect": [
+        2,
+        2,
+        684,
+        714
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_quiver__519x688",
+      "sourceFile": "analysis/figma/raw/images/b7871533ccf92b11eb63cc67f7daca1ff14283c6",
+      "sourceSha256": "3acc70845a2056e0bd60299afd0fe2f885aa8a119a04ca3c3cc21e081546451e",
+      "runtimeSize": [
+        519,
+        688
+      ],
+      "decodedBytes": 1428288,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_1",
+      "plannedRect": [
+        690,
+        2,
+        519,
+        688
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_ring__536x516",
+      "sourceFile": "analysis/figma/raw/images/2d2da51be9deeded3d9b9f07d6af7fb93015e94c",
+      "sourceSha256": "98b9a5ab596a9221fe731017d363a2fc1ac9114b1f788d025318907f938e98f5",
+      "runtimeSize": [
+        536,
+        516
+      ],
+      "decodedBytes": 1106304,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_1",
+      "plannedRect": [
+        1213,
+        2,
+        536,
+        516
+      ]
+    },
+    {
+      "semanticId": "equipment_elf_archer_ring_leaf__529x544",
+      "sourceFile": "analysis/figma/raw/images/5a5f49a12405c47385e182776d35af1e3809f250",
+      "sourceSha256": "26aeb77ab5fa7c4ca3473a2993d3bb1c87cec7d3cab7a9885244010fd5d1edee",
+      "runtimeSize": [
+        529,
+        544
+      ],
+      "decodedBytes": 1151104,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_1",
+      "plannedRect": [
+        2,
+        720,
+        529,
+        544
+      ]
+    },
+    {
+      "semanticId": "equipment_fox_sorcerer_ring__452x543",
+      "sourceFile": "analysis/figma/raw/images/0c6ccea79d2675660a690d1fbf6aff624f31024a",
+      "sourceSha256": "11c9ff5cadf10515512147fcd58535b9c445de1fcb624cf5a5bf19c8c2fdc4ff",
+      "runtimeSize": [
+        452,
+        543
+      ],
+      "decodedBytes": 981744,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_1",
+      "plannedRect": [
+        535,
+        720,
+        452,
+        543
+      ]
+    },
+    {
+      "semanticId": "equipment_fox_sorcerer_ring_mask__461x515",
+      "sourceFile": "analysis/figma/raw/images/73470e7fcaf52e7d7e796c4160a597fa91217860",
+      "sourceSha256": "85448c224627bec7ff919696f00184e966fc66ee6d4f2f26d183f74a0c09e9d6",
+      "runtimeSize": [
+        461,
+        515
+      ],
+      "decodedBytes": 949660,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_1",
+      "plannedRect": [
+        991,
+        720,
+        461,
+        515
+      ]
+    },
+    {
+      "semanticId": "equipment_fox_sorcerer_staff__462x747",
+      "sourceFile": "analysis/figma/raw/images/02a4dde377213241fff0dc579b2094999cc76847",
+      "sourceSha256": "79721ca5ecb40c17dd507586c745450d238c1232b7bd035367575b0224605552",
+      "runtimeSize": [
+        462,
+        747
+      ],
+      "decodedBytes": 1380456,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_1",
+      "plannedRect": [
+        1456,
+        720,
+        462,
+        747
+      ]
+    },
+    {
+      "semanticId": "equipment_fox_sorcerer_staff_orb__535x811",
+      "sourceFile": "analysis/figma/raw/images/732d97e3ef064419ae0f5906ed9868ea45cab4ea",
+      "sourceSha256": "71e3d20a6c9d11d768c68f291d42acc25c715a7d57403ab70871cce07ed9e18c",
+      "runtimeSize": [
+        507,
+        768
+      ],
+      "decodedBytes": 1557504,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_2",
+      "plannedRect": [
+        2,
+        2,
+        507,
+        768
+      ]
+    },
+    {
+      "semanticId": "equipment_ice_fairy_boots__578x556",
+      "sourceFile": "analysis/figma/raw/images/26136bc5cc95a7230b2b40e0333a783605c4cd2d",
+      "sourceSha256": "c13e7e70598dff3947a946a6c7578c31e79d136b4a51113ca94df2546ae03894",
+      "runtimeSize": [
+        578,
+        556
+      ],
+      "decodedBytes": 1285472,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_2",
+      "plannedRect": [
+        513,
+        2,
+        578,
+        556
+      ]
+    },
+    {
+      "semanticId": "equipment_ice_fairy_ring_gem__465x536",
+      "sourceFile": "analysis/figma/raw/images/167b955bffaeeb6cc65e384a90dbe8318b6469eb",
+      "sourceSha256": "4f9daeb4f0172bf2bb87046c67ad376f31b71ec2b4fb7864a18a8bbbfe9ae6b2",
+      "runtimeSize": [
+        465,
+        536
+      ],
+      "decodedBytes": 996960,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_2",
+      "plannedRect": [
+        1095,
+        2,
+        465,
+        536
+      ]
+    },
+    {
+      "semanticId": "equipment_ice_fairy_ring_snowflake__484x545",
+      "sourceFile": "analysis/figma/raw/images/3f7661b751fc2f8c82ca6e3dae34a25b87a1ba6b",
+      "sourceSha256": "a1243c7cf24ce5647fb8790becc3adffd6977128fc1065e7553a4d9ef01063ff",
+      "runtimeSize": [
+        484,
+        545
+      ],
+      "decodedBytes": 1055120,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_2",
+      "plannedRect": [
+        2,
+        774,
+        484,
+        545
+      ]
+    },
+    {
+      "semanticId": "equipment_ice_fairy_robe__670x754",
+      "sourceFile": "analysis/figma/raw/images/5bb94d24b5701250d51a9f5999e913cb4657055c",
+      "sourceSha256": "7cef3018bc159a7895deff14b1772ef17ddc3920c3700f4135b261509b28f60e",
+      "runtimeSize": [
+        670,
+        754
+      ],
+      "decodedBytes": 2020720,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_2",
+      "plannedRect": [
+        490,
+        774,
+        670,
+        754
+      ]
+    },
+    {
+      "semanticId": "equipment_ice_fairy_staff_snowflake__583x881",
+      "sourceFile": "analysis/figma/raw/images/5fe747f63bc0c20354a03a39f34d22bf172c5757",
+      "sourceSha256": "ebb4bd85aed8cef85c92334c2eccdd7c2a6cb94a423cce02cb14d0d2fb51e74e",
+      "runtimeSize": [
+        508,
+        768
+      ],
+      "decodedBytes": 1560576,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_2",
+      "plannedRect": [
+        1164,
+        774,
+        508,
+        768
+      ]
+    },
+    {
+      "semanticId": "equipment_ice_fairy_staff_spear__435x899",
+      "sourceFile": "analysis/figma/raw/images/0cfd855bcdef93e33e3e68babd5866bcf2fa4162",
+      "sourceSha256": "32388b31042b8f382df34a8e8e511e2e4f5b5e020c2be1ee72222e32890e1c46",
+      "runtimeSize": [
+        372,
+        768
+      ],
+      "decodedBytes": 1142784,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_3",
+      "plannedRect": [
+        2,
+        2,
+        372,
+        768
+      ]
+    },
+    {
+      "semanticId": "equipment_inferno_dragon_chest__610x596",
+      "sourceFile": "analysis/figma/raw/images/4ef146a3161fd460450196d7a049be935a2ed028",
+      "sourceSha256": "cf224973a8cc35466a4e3d7e98198f7d2fe026d401cfddd02d52eba01761c92a",
+      "runtimeSize": [
+        610,
+        596
+      ],
+      "decodedBytes": 1454240,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_3",
+      "plannedRect": [
+        378,
+        2,
+        610,
+        596
+      ]
+    },
+    {
+      "semanticId": "equipment_inferno_dragon_ring__306x425",
+      "sourceFile": "analysis/figma/raw/images/0e5e63d6d0df4a896df8e9e3731dfe440e0360d3",
+      "sourceSha256": "a2135ea0283ce501c3f5282bf63e9049626bc24424fe234f244ded1a77d7bd09",
+      "runtimeSize": [
+        306,
+        425
+      ],
+      "decodedBytes": 520200,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_3",
+      "plannedRect": [
+        992,
+        2,
+        306,
+        425
+      ]
+    },
+    {
+      "semanticId": "equipment_inferno_dragon_ring_gem__328x398",
+      "sourceFile": "analysis/figma/raw/images/5977fb8357d809397ef4e35cfd9cdef06a3f5c9e",
+      "sourceSha256": "2d3f325cceb897b09c2201adfa9e748e41339972cedf981c2a51d057e7ea1bd3",
+      "runtimeSize": [
+        328,
+        398
+      ],
+      "decodedBytes": 522176,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_3",
+      "plannedRect": [
+        1302,
+        2,
+        328,
+        398
+      ]
+    },
+    {
+      "semanticId": "equipment_inferno_dragon_robe__521x524",
+      "sourceFile": "analysis/figma/raw/images/78bfa38b717308ddd2622ef3c8676cf9bd328b52",
+      "sourceSha256": "8af27cd5f91702b07a67a42889daa6859f861b53d5c102c974d74fb7727a875a",
+      "runtimeSize": [
+        521,
+        524
+      ],
+      "decodedBytes": 1092016,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_3",
+      "plannedRect": [
+        2,
+        774,
+        521,
+        524
+      ]
+    },
+    {
+      "semanticId": "equipment_inferno_dragon_spear__628x784",
+      "sourceFile": "analysis/figma/raw/images/3d9e65afef836d103767896dee052022ccc13984",
+      "sourceSha256": "fb0282768904c95ee2865418a040b3436651d06460ef2057bf5136a7e9985f26",
+      "runtimeSize": [
+        615,
+        768
+      ],
+      "decodedBytes": 1889280,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_3",
+      "plannedRect": [
+        527,
+        774,
+        615,
+        768
+      ]
+    },
+    {
+      "semanticId": "equipment_inferno_dragon_sword__557x803",
+      "sourceFile": "analysis/figma/raw/images/d18f0813e1506969d5d4fe925b78267b3f855a1c",
+      "sourceSha256": "eb9bad111646f83f89189a98531c92a13e8413fdfa0070a0167460ee122635d2",
+      "runtimeSize": [
+        533,
+        768
+      ],
+      "decodedBytes": 1637376,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_3",
+      "plannedRect": [
+        1146,
+        774,
+        533,
+        768
+      ]
+    },
+    {
+      "semanticId": "equipment_lion_knight_chest__610x541",
+      "sourceFile": "analysis/figma/raw/images/8eda2a1c335c6e7da64e69651e4729b17bfb7283",
+      "sourceSha256": "598c4d7bc8280446fda255b9e9eda3d479c834f5fa9c0734acdda7d19e71bfdd",
+      "runtimeSize": [
+        610,
+        541
+      ],
+      "decodedBytes": 1320040,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_4",
+      "plannedRect": [
+        2,
+        2,
+        610,
+        541
+      ]
+    },
+    {
+      "semanticId": "equipment_lion_knight_hammer__509x696",
+      "sourceFile": "analysis/figma/raw/images/668c3a9a2ae00999798a24b7ba79bc4702ce62bd",
+      "sourceSha256": "4dc6c1c5b0a424ccf7b567d1aa5c5dd654f87ee5fa7ec8d80f3eac99570868be",
+      "runtimeSize": [
+        509,
+        696
+      ],
+      "decodedBytes": 1417056,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_4",
+      "plannedRect": [
+        616,
+        2,
+        509,
+        696
+      ]
+    },
+    {
+      "semanticId": "equipment_lion_knight_helmet__491x628",
+      "sourceFile": "analysis/figma/raw/images/a0db91f0ccb8af63ed5624c6dbb0308322fa761c",
+      "sourceSha256": "1cb0b8528546ae1efae6207a6380cfcc37503fa9434806de621928d5b635e943",
+      "runtimeSize": [
+        491,
+        628
+      ],
+      "decodedBytes": 1233392,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_4",
+      "plannedRect": [
+        1129,
+        2,
+        491,
+        628
+      ]
+    },
+    {
+      "semanticId": "equipment_lion_knight_shield__458x423",
+      "sourceFile": "analysis/figma/raw/images/fee263da58d83039825169394584a69fd9f99f5f",
+      "sourceSha256": "f5bb046adbe70954cf268550b8a36bd1e56f265b92d7bc1b917ad7a93ed1ae4b",
+      "runtimeSize": [
+        458,
+        423
+      ],
+      "decodedBytes": 774936,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_4",
+      "plannedRect": [
+        2,
+        702,
+        458,
+        423
+      ]
+    },
+    {
+      "semanticId": "equipment_lion_knight_sword__486x750",
+      "sourceFile": "analysis/figma/raw/images/de43cd8317bf721a4af4086201add657a5f6f9a7",
+      "sourceSha256": "18a04ecdd84829f898a72d264ab040146b142977c7aea546aae01bc541890c7b",
+      "runtimeSize": [
+        486,
+        750
+      ],
+      "decodedBytes": 1458000,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_4",
+      "plannedRect": [
+        464,
+        702,
+        486,
+        750
+      ]
+    },
+    {
+      "semanticId": "equipment_owl_mage_ring_crescent__413x553",
+      "sourceFile": "analysis/figma/raw/images/0d8dfc1da087dbdb043b08faed0eb0b12b49c371",
+      "sourceSha256": "5652b9fb3db25e09b142ff050ce4fd27d1eb37c52ed6b95dea1931cd3d8c09c0",
+      "runtimeSize": [
+        413,
+        553
+      ],
+      "decodedBytes": 913556,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_4",
+      "plannedRect": [
+        954,
+        702,
+        413,
+        553
+      ]
+    },
+    {
+      "semanticId": "equipment_owl_mage_ring_orb__499x469",
+      "sourceFile": "analysis/figma/raw/images/a61c6732dfa030bd0337ac9a2d5644d8d89ee6dc",
+      "sourceSha256": "0cb3346bd47d219125c0dd1275a9a420892cf4c66cf0508dc865a7862aa8126c",
+      "runtimeSize": [
+        499,
+        469
+      ],
+      "decodedBytes": 936124,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_4",
+      "plannedRect": [
+        1371,
+        702,
+        499,
+        469
+      ]
+    },
+    {
+      "semanticId": "equipment_owl_mage_robe_crescent__611x673",
+      "sourceFile": "analysis/figma/raw/images/2a448a50e985e72af9e22c1145c95b359c87b74a",
+      "sourceSha256": "5c2251775dd57dc972cb0f98e9b52764c97a863303375f9d857b2d41ca192ac3",
+      "runtimeSize": [
+        611,
+        673
+      ],
+      "decodedBytes": 1644812,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        2,
+        2,
+        611,
+        673
+      ]
+    },
+    {
+      "semanticId": "equipment_owl_mage_robe_orb__533x651",
+      "sourceFile": "analysis/figma/raw/images/cd3cbe77729a836949def618d21d5d38454f11b3",
+      "sourceSha256": "ca798a6b9b072b2b0965ec129b2badb11270428fd63221c5dd73a1d17b44abbb",
+      "runtimeSize": [
+        533,
+        651
+      ],
+      "decodedBytes": 1387932,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        617,
+        2,
+        533,
+        651
+      ]
+    },
+    {
+      "semanticId": "equipment_owl_mage_staff_crescent__394x792",
+      "sourceFile": "analysis/figma/raw/images/696dd30a73d5d2e2c929303afd4a5ba32e3332f3",
+      "sourceSha256": "aba0caa7ea277efe4f57e292d7ba07b5a9e22c493a36b612dc37024be32d7321",
+      "runtimeSize": [
+        382,
+        768
+      ],
+      "decodedBytes": 1173504,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        1154,
+        2,
+        382,
+        768
+      ]
+    },
+    {
+      "semanticId": "equipment_owl_mage_staff_owl__478x836",
+      "sourceFile": "analysis/figma/raw/images/65cd524b7292d59bfce6b1d95c03bb73cf72ebc1",
+      "sourceSha256": "363f9dfc08389657906da5269755aa2068bb50467797f359c9948bd93f27d60d",
+      "runtimeSize": [
+        439,
+        768
+      ],
+      "decodedBytes": 1348608,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        1540,
+        2,
+        439,
+        768
+      ]
+    },
+    {
+      "semanticId": "equipment_panda_monk_chest__619x555",
+      "sourceFile": "analysis/figma/raw/images/ae3fad983d1da3a5633348e3f3da0d24d85e4640",
+      "sourceSha256": "249e50b473a57a60823a0d0904f5cdd578210f9b26fd26fe9bd90f1fcc921cec",
+      "runtimeSize": [
+        619,
+        555
+      ],
+      "decodedBytes": 1374180,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        2,
+        774,
+        619,
+        555
+      ]
+    },
+    {
+      "semanticId": "equipment_panda_monk_orbs__669x551",
+      "sourceFile": "analysis/figma/raw/images/c17e7a2cd41a2faf6d5397f6c46465f14a155f47",
+      "sourceSha256": "aadc9c3dcd6ec50a6dffb1e1d3c4b69e9e96a3f93e0fa476d1f04364f4d96927",
+      "runtimeSize": [
+        669,
+        551
+      ],
+      "decodedBytes": 1474476,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        625,
+        774,
+        669,
+        551
+      ]
+    },
+    {
+      "semanticId": "equipment_panda_monk_pants__537x568",
+      "sourceFile": "analysis/figma/raw/images/9887c23fae59d8e27878791c157c9f3a050e62b0",
+      "sourceSha256": "12b71755e44073179e9ce43ff6c826f1acf7944a17eb736712d270cc7d22c9e1",
+      "runtimeSize": [
+        537,
+        568
+      ],
+      "decodedBytes": 1220064,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        1298,
+        774,
+        537,
+        568
+      ]
+    },
+    {
+      "semanticId": "equipment_panda_monk_ring__442x374",
+      "sourceFile": "analysis/figma/raw/images/bba70ea31d80ee161052eee9611b4a4f11863ee9",
+      "sourceSha256": "365134db3518fd26b09b0b6a397be2fe99581737ed342dc5d050c9ef1eb59dd4",
+      "runtimeSize": [
+        442,
+        374
+      ],
+      "decodedBytes": 661232,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        2,
+        1346,
+        442,
+        374
+      ]
+    },
+    {
+      "semanticId": "equipment_panda_monk_staff__623x626",
+      "sourceFile": "analysis/figma/raw/images/fcb06634e345c076cd030ae74ed295778eaf95c2",
+      "sourceSha256": "75071d4d2bfc1534c8f436de3a73b93da1beface1625f3e98e4a9acdc6978ff9",
+      "runtimeSize": [
+        623,
+        626
+      ],
+      "decodedBytes": 1559992,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        448,
+        1346,
+        623,
+        626
+      ]
+    },
+    {
+      "semanticId": "equipment_raccoon_engineer_cannon_large__625x565",
+      "sourceFile": "analysis/figma/raw/images/fb130201864a4e9776cc84c0735297c96c741912",
+      "sourceSha256": "a08ebe08664eb17c3106d57d1469fe393df1080105b8b60869ea3a1d82a626ce",
+      "runtimeSize": [
+        625,
+        565
+      ],
+      "decodedBytes": 1412500,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_5",
+      "plannedRect": [
+        1075,
+        1346,
+        625,
+        565
+      ]
+    },
+    {
+      "semanticId": "equipment_raccoon_engineer_cannon_large__666x538",
+      "sourceFile": "analysis/figma/raw/images/ea87345e76b21aa6327ddb1202842962c4ecc595",
+      "sourceSha256": "e722a1c4159721b339b310d2e2b03b1aea575f6818735f6ff6596cd4f5c32989",
+      "runtimeSize": [
+        666,
+        538
+      ],
+      "decodedBytes": 1433232,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        2,
+        2,
+        666,
+        538
+      ]
+    },
+    {
+      "semanticId": "equipment_raccoon_engineer_chest_machine__668x500",
+      "sourceFile": "analysis/figma/raw/images/599dab42cfb75937f7a1b9fc111ccb283886ac49",
+      "sourceSha256": "a0b74f4a855a2dd00d085fda4d9098e997d0eafa3e28f703fab2c06d6d97f967",
+      "runtimeSize": [
+        668,
+        500
+      ],
+      "decodedBytes": 1336000,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        672,
+        2,
+        668,
+        500
+      ]
+    },
+    {
+      "semanticId": "equipment_raccoon_engineer_coat__651x566",
+      "sourceFile": "analysis/figma/raw/images/56fefa41ce54478df42e9635270a205cf710f713",
+      "sourceSha256": "3102a68ae72c58f976ed0c8e934dce5ca1a90808458a65918b0857eb3e0c901e",
+      "runtimeSize": [
+        651,
+        566
+      ],
+      "decodedBytes": 1473864,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        1344,
+        2,
+        651,
+        566
+      ]
+    },
+    {
+      "semanticId": "equipment_raccoon_engineer_ring_clock__558x491",
+      "sourceFile": "analysis/figma/raw/images/13562fe59895c6ec439ecf556040bd2e2f4f25a7",
+      "sourceSha256": "8af4b9bba0ca46968282c9b4dca048bce055fc3c5276952b59e91fc2c4996bf0",
+      "runtimeSize": [
+        558,
+        491
+      ],
+      "decodedBytes": 1095912,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        2,
+        572,
+        558,
+        491
+      ]
+    },
+    {
+      "semanticId": "equipment_raccoon_engineer_ring_gem__497x460",
+      "sourceFile": "analysis/figma/raw/images/9d5f5141fd61d21842fe70ddb0c792239ccc64b7",
+      "sourceSha256": "9bbd36837d37d7a9a2bd95fba730830da982bf651fdd897090af47556855c80c",
+      "runtimeSize": [
+        497,
+        460
+      ],
+      "decodedBytes": 914480,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        564,
+        572,
+        497,
+        460
+      ]
+    },
+    {
+      "semanticId": "equipment_turtle_warrior_chest_plate__686x555",
+      "sourceFile": "analysis/figma/raw/images/e6dae6bc9d0e728fa4f6c122d163581182d6440e",
+      "sourceSha256": "57dfb7cf4d036ef662ab304fe74845bd16469d380565dcad9316652c09117662",
+      "runtimeSize": [
+        686,
+        555
+      ],
+      "decodedBytes": 1522920,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        1065,
+        572,
+        686,
+        555
+      ]
+    },
+    {
+      "semanticId": "equipment_turtle_warrior_chest_shell__608x522",
+      "sourceFile": "analysis/figma/raw/images/6bc34dd104e58e77958567e48e5459e94a81e695",
+      "sourceSha256": "53a8ca645c3e720207a3b6b3eed6d1296a1ef90179812d9b6ae857689f0ba895",
+      "runtimeSize": [
+        608,
+        522
+      ],
+      "decodedBytes": 1269504,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        2,
+        1131,
+        608,
+        522
+      ]
+    },
+    {
+      "semanticId": "equipment_turtle_warrior_hammer__562x646",
+      "sourceFile": "analysis/figma/raw/images/9b939242dd505c0f5e83127ef26368c906d5b6ef",
+      "sourceSha256": "a6507fa05f567e30990e93cfd2a882eb469bb1bb429fcac35a5fce6dcab76aab",
+      "runtimeSize": [
+        562,
+        646
+      ],
+      "decodedBytes": 1452208,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        614,
+        1131,
+        562,
+        646
+      ]
+    },
+    {
+      "semanticId": "equipment_turtle_warrior_mace__583x649",
+      "sourceFile": "analysis/figma/raw/images/876530f5deabec9047682bec53678c43368897b6",
+      "sourceSha256": "e8e001ac6dc3f7a9944120a1f633cbd7a86af1aaa2d01dab024f7c315d43f277",
+      "runtimeSize": [
+        583,
+        649
+      ],
+      "decodedBytes": 1513468,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_6",
+      "plannedRect": [
+        1180,
+        1131,
+        583,
+        649
+      ]
+    },
+    {
+      "semanticId": "equipment_turtle_warrior_ring__534x437",
+      "sourceFile": "analysis/figma/raw/images/0b2bf358d7101831113c0546963d06e71534f4cb",
+      "sourceSha256": "88668671dc6a6233c8618a4dd8eb256cc82bcbb378c3926b460bf41404e63c18",
+      "runtimeSize": [
+        534,
+        437
+      ],
+      "decodedBytes": 933432,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        2,
+        2,
+        534,
+        437
+      ]
+    },
+    {
+      "semanticId": "equipment_turtle_warrior_ring_orb__511x435",
+      "sourceFile": "analysis/figma/raw/images/904a4fff4b7a8b6f5a323e4933dd9a4b694cbb0f",
+      "sourceSha256": "b67f622ab2b47e54ed5e7d0ca2389d342a130a9b7c7314dcd43df8e4312efe35",
+      "runtimeSize": [
+        511,
+        435
+      ],
+      "decodedBytes": 889140,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        540,
+        2,
+        511,
+        435
+      ]
+    },
+    {
+      "semanticId": "equipment_turtle_warrior_ring_shell__514x487",
+      "sourceFile": "analysis/figma/raw/images/c4302483db5ca38f3b1037e4b34f73a7c6c10ea7",
+      "sourceSha256": "e8576841f93893ab28ad689536d7f90abe030c0c7bbeefb5782cf33d934e573b",
+      "runtimeSize": [
+        514,
+        487
+      ],
+      "decodedBytes": 1001272,
+      "group": "equipment_icons",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        1055,
+        2,
+        514,
+        487
+      ]
+    },
+    {
+      "semanticId": "hero_bunny_assassin__1711x1827",
+      "sourceFile": "analysis/figma/raw/images/fb3d4b7bdcf5505797f86cffd17d04e5fc32f3ab",
+      "sourceSha256": "c6d31753476eefb819839e82e6771e5af8769ee4a1a4dd1e4b72b7c001f04679",
+      "runtimeSize": [
+        360,
+        384
+      ],
+      "decodedBytes": 552960,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        778,
+        2,
+        360,
+        384
+      ]
+    },
+    {
+      "semanticId": "hero_elf_archer__1797x1858",
+      "sourceFile": "analysis/figma/raw/images/1e615ffee51f6045a4682a21538b096f62e47134",
+      "sourceSha256": "f66d72d08e1210eafa306471c8867f9b06ae849ff9fd77eae6df7604525c0be7",
+      "runtimeSize": [
+        371,
+        384
+      ],
+      "decodedBytes": 569856,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-004",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        1142,
+        2,
+        371,
+        384
+      ]
+    },
+    {
+      "semanticId": "hero_fox_sorcerer__1828x1679",
+      "sourceFile": "analysis/figma/raw/images/e5183844bfdb30bb2d3a1c81ae1474e29643daba",
+      "sourceSha256": "865ed674fc801e56a8a5aefd4ca5a8206c45bcc68bd98edf35e8d46d831b8f06",
+      "runtimeSize": [
+        384,
+        353
+      ],
+      "decodedBytes": 542208,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        1517,
+        2,
+        384,
+        353
+      ]
+    },
+    {
+      "semanticId": "hero_ice_fairy__1718x1740",
+      "sourceFile": "analysis/figma/raw/images/7d89a5b1428ce1d8664a5023c0bd4a196292688c",
+      "sourceSha256": "c5bca6b0f0bdea1962f2f1882f0457b8dd53cc27c6e90edd9c25573d25929579",
+      "runtimeSize": [
+        379,
+        384
+      ],
+      "decodedBytes": 582144,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        2,
+        390,
+        379,
+        384
+      ]
+    },
+    {
+      "semanticId": "hero_inferno_dragon__1886x1748",
+      "sourceFile": "analysis/figma/raw/images/531d002be7c9fa402b324aebc0597b2e89bbe538",
+      "sourceSha256": "98edc841daa5099456253acb15c58dcfd13ec3e3b665c88a97560f9e251d778f",
+      "runtimeSize": [
+        384,
+        356
+      ],
+      "decodedBytes": 546816,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        385,
+        390,
+        384,
+        356
+      ]
+    },
+    {
+      "semanticId": "hero_lion_knight__1616x1788",
+      "sourceFile": "analysis/figma/raw/images/b4005f1aa7994a120176ed0c22354d7bdbad2131",
+      "sourceSha256": "16dd368f0784fcd8000f08bc001998e8e043123123487605f5a9eafafc6916fc",
+      "runtimeSize": [
+        347,
+        384
+      ],
+      "decodedBytes": 532992,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        773,
+        390,
+        347,
+        384
+      ]
+    },
+    {
+      "semanticId": "hero_owl_mage__1813x1760",
+      "sourceFile": "analysis/figma/raw/images/db498372af9d5b4323316175984ae19604bd2d28",
+      "sourceSha256": "36a86bab0a33a6123120197a3737429812d8581fc4f153fa05636a1642197f50",
+      "runtimeSize": [
+        384,
+        373
+      ],
+      "decodedBytes": 572928,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        1124,
+        390,
+        384,
+        373
+      ]
+    },
+    {
+      "semanticId": "hero_panda_monk__1705x1775",
+      "sourceFile": "analysis/figma/raw/images/b7d79aea43cb644cba83ab14923ec3deba9efa51",
+      "sourceSha256": "43f57af8c76b8db945eb4493b5d941aa86f2f69eba999b6baa410451164d178b",
+      "runtimeSize": [
+        369,
+        384
+      ],
+      "decodedBytes": 566784,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        1512,
+        390,
+        369,
+        384
+      ]
+    },
+    {
+      "semanticId": "hero_raccoon_engineer__1617x1662",
+      "sourceFile": "analysis/figma/raw/images/88cdae02ce87495159d9dc9940267c2a906f5100",
+      "sourceSha256": "800cd6f6e5c013bc35dbda41e27964de388aaf62c5d2892c4ab02d8f80805799",
+      "runtimeSize": [
+        374,
+        384
+      ],
+      "decodedBytes": 574464,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        2,
+        778,
+        374,
+        384
+      ]
+    },
+    {
+      "semanticId": "hero_turtle_warrior__1815x1620",
+      "sourceFile": "analysis/figma/raw/images/f123b258ee3365da347c09a0e172003fe3c78520",
+      "sourceSha256": "1c237ea3661612276711c5bb4548ebc78e58f176f0ce15edf1e3b2275338b1ca",
+      "runtimeSize": [
+        384,
+        343
+      ],
+      "decodedBytes": 526848,
+      "group": "battle_common",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "battle_common_1",
+      "plannedRect": [
+        380,
+        778,
+        384,
+        343
+      ]
+    },
+    {
+      "semanticId": "portrait_bunny_assassin__662x590",
+      "sourceFile": "analysis/figma/raw/images/b189751a75be3e3dfa86c100def27e27de3224b8",
+      "sourceSha256": "dec077664924569c976bc66ace90cd40dfb7e81cb062fc041b34fe69e51f22d0",
+      "runtimeSize": [
+        662,
+        590
+      ],
+      "decodedBytes": 1562320,
+      "group": "hero_portraits",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        2,
+        2,
+        662,
+        590
+      ]
+    },
+    {
+      "semanticId": "portrait_elf_archer__647x592",
+      "sourceFile": "analysis/figma/raw/images/29d71879d7ca4f81f849d09d382caabbee442d6a",
+      "sourceSha256": "bef3295f46a703605063c0b01fb5234778ce8ebba9df2a2405e1f5555482e184",
+      "runtimeSize": [
+        647,
+        592
+      ],
+      "decodedBytes": 1532096,
+      "group": "hero_portraits",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        668,
+        2,
+        647,
+        592
+      ]
+    },
+    {
+      "semanticId": "portrait_fox_sorcerer__642x592",
+      "sourceFile": "analysis/figma/raw/images/da5cf38a904fd000dde487a9bca7da41e9c9e7d2",
+      "sourceSha256": "d608c9d77717224204b70af21c17a289e31ce75f95f9c06630f4e366fb42513d",
+      "runtimeSize": [
+        642,
+        592
+      ],
+      "decodedBytes": 1520256,
+      "group": "hero_portraits",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        1319,
+        2,
+        642,
+        592
+      ]
+    },
+    {
+      "semanticId": "portrait_ice_fairy__660x590",
+      "sourceFile": "analysis/figma/raw/images/a84946304b6fa220e60816032915bcf106cca10f",
+      "sourceSha256": "b6bf6522834ca3197497149f45f9397d21fae2b1e80fbaeb5bcc70ca6844c4d2",
+      "runtimeSize": [
+        660,
+        590
+      ],
+      "decodedBytes": 1557600,
+      "group": "hero_portraits",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        2,
+        598,
+        660,
+        590
+      ]
+    },
+    {
+      "semanticId": "portrait_inferno_dragon__621x590",
+      "sourceFile": "analysis/figma/raw/images/b1b56615c66dd10cc8bf457700c9e699ba06f3fb",
+      "sourceSha256": "abbd1cb924c2530f2aea43bd42350159835cd080846d5d572d2bbed9a8f9cf5c",
+      "runtimeSize": [
+        621,
+        590
+      ],
+      "decodedBytes": 1465560,
+      "group": "hero_portraits",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        666,
+        598,
+        621,
+        590
+      ]
+    },
+    {
+      "semanticId": "portrait_lion_knight__661x606",
+      "sourceFile": "analysis/figma/raw/images/f515249df249bb0eb674f85bb698f0a08e16de1e",
+      "sourceSha256": "0bf7cf58458260b6643ce47d8744e11253d570f36eb7ca8f6415b0c18a081d9c",
+      "runtimeSize": [
+        661,
+        606
+      ],
+      "decodedBytes": 1602264,
+      "group": "hero_portraits",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        1291,
+        598,
+        661,
+        606
+      ]
+    },
+    {
+      "semanticId": "portrait_owl_mage__621x592",
+      "sourceFile": "analysis/figma/raw/images/45e7b2da1606b82d39f929c61e5f1cbcfa932627",
+      "sourceSha256": "256497d52f68a33ea62f2c07598065fef6d34f9753b5f1b89fa0dd70448274d1",
+      "runtimeSize": [
+        621,
+        592
+      ],
+      "decodedBytes": 1470528,
+      "group": "hero_portraits",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        2,
+        1208,
+        621,
+        592
+      ]
+    },
+    {
+      "semanticId": "portrait_panda_monk__648x590",
+      "sourceFile": "analysis/figma/raw/images/fe138567268deb1ce754c3226b89ef06cb95c1e6",
+      "sourceSha256": "9d7745bbacaa81655615cd4a9fc071879c4ad2e0cbb6e62ba53c16cb36975390",
+      "runtimeSize": [
+        648,
+        590
+      ],
+      "decodedBytes": 1529280,
+      "group": "hero_portraits",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        627,
+        1208,
+        648,
+        590
+      ]
+    },
+    {
+      "semanticId": "portrait_raccoon_engineer__662x592",
+      "sourceFile": "analysis/figma/raw/images/92c7c1a40b6d91df365479d07454de0f4f0e1184",
+      "sourceSha256": "83b8e3ce29db413e5f1d0bb6f2846f65255dc01a23262a3b17bc436fd31827d5",
+      "runtimeSize": [
+        662,
+        592
+      ],
+      "decodedBytes": 1567616,
+      "group": "hero_portraits",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_0",
+      "plannedRect": [
+        1279,
+        1208,
+        662,
+        592
+      ]
+    },
+    {
+      "semanticId": "portrait_turtle_warrior__660x592",
+      "sourceFile": "analysis/figma/raw/images/7db345e2f56a2a40ba912d41a5724b3e8d3b888e",
+      "sourceSha256": "4508b65d9bba20e222d9400b7e5a839e19212f309153ded7ce4880da7f840d9a",
+      "runtimeSize": [
+        660,
+        592
+      ],
+      "decodedBytes": 1562880,
+      "group": "hero_portraits",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "hero_portraits_1",
+      "plannedRect": [
+        2,
+        2,
+        660,
+        592
+      ]
+    },
+    {
+      "semanticId": "relic_blue_crescent__505x579",
+      "sourceFile": "analysis/figma/raw/images/8c7153dc6d86cc3b3063d4b6c9d0602ed36ed4f5",
+      "sourceSha256": "f9199ea9a97a96c800489f8f9b4bc2766044b5f065017830bfe54c9f8246805e",
+      "runtimeSize": [
+        505,
+        579
+      ],
+      "decodedBytes": 1169580,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        2,
+        493,
+        505,
+        579
+      ]
+    },
+    {
+      "semanticId": "relic_blue_feather__473x665",
+      "sourceFile": "analysis/figma/raw/images/e220a2021af266373f84d2debda5a126e2de789c",
+      "sourceSha256": "373d45ba94b8ec41c1cd73bba7d96e4fd52ee421aa8c9ca622d5ad90971e750b",
+      "runtimeSize": [
+        473,
+        665
+      ],
+      "decodedBytes": 1258180,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        511,
+        493,
+        473,
+        665
+      ]
+    },
+    {
+      "semanticId": "relic_blue_shard__354x641",
+      "sourceFile": "analysis/figma/raw/images/94534c1dbc61e3e10d88c1a61483c905d127f04b",
+      "sourceSha256": "040257bff29a6a29ee565b3fcb51a208ee75f9be24e54aa6d6c2ff636ed10d20",
+      "runtimeSize": [
+        354,
+        641
+      ],
+      "decodedBytes": 907656,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        988,
+        493,
+        354,
+        641
+      ]
+    },
+    {
+      "semanticId": "relic_boar_mask__510x544",
+      "sourceFile": "analysis/figma/raw/images/4f1125faf2ec52a33420ac28a147aa4afb24a78f",
+      "sourceSha256": "4abd512905df1157258b66dc26f8561d140310942eb281c1f924034eebde9585",
+      "runtimeSize": [
+        510,
+        544
+      ],
+      "decodedBytes": 1109760,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        1346,
+        493,
+        510,
+        544
+      ]
+    },
+    {
+      "semanticId": "relic_compass_gold__538x602",
+      "sourceFile": "analysis/figma/raw/images/02cacfc26701953eb11a6dfc5b4e46ff4b8f6d75",
+      "sourceSha256": "83addef0f4fb65cfceff32bab38c40c1dd758fe4b2d8f0dcc35329487cbb008f",
+      "runtimeSize": [
+        538,
+        602
+      ],
+      "decodedBytes": 1295504,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        2,
+        1162,
+        538,
+        602
+      ]
+    },
+    {
+      "semanticId": "relic_fire_crystal__447x635",
+      "sourceFile": "analysis/figma/raw/images/1adf237e14b08e2b9e68c12ebdc0f77382c34b17",
+      "sourceSha256": "32f8e12519e194908bb48f850b086d016f9636a02667035141bf8b87fe10c6c6",
+      "runtimeSize": [
+        447,
+        635
+      ],
+      "decodedBytes": 1135380,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        544,
+        1162,
+        447,
+        635
+      ]
+    },
+    {
+      "semanticId": "relic_fire_dragon_head__406x576",
+      "sourceFile": "analysis/figma/raw/images/e89da6990c77495006b21f0ccfb9772084adcbb6",
+      "sourceSha256": "3da2745ec746d5777f47ea89562c27a1d8666377c8148aa2b54be9b7e325d184",
+      "runtimeSize": [
+        406,
+        576
+      ],
+      "decodedBytes": 935424,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        995,
+        1162,
+        406,
+        576
+      ]
+    },
+    {
+      "semanticId": "relic_frost_dragon_head__471x629",
+      "sourceFile": "analysis/figma/raw/images/9ebda7e54059edd527fc1bfc703f79dad100f93e",
+      "sourceSha256": "9553922b344bb1e1fec72bb3ee2d4b02119b7ccc139802785432780b4e04e391",
+      "runtimeSize": [
+        471,
+        629
+      ],
+      "decodedBytes": 1185036,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_7",
+      "plannedRect": [
+        1405,
+        1162,
+        471,
+        629
+      ]
+    },
+    {
+      "semanticId": "relic_gold_bird_mask__527x591",
+      "sourceFile": "analysis/figma/raw/images/fe361baf447b5629369e3a85a3dd3b7a1229c26e",
+      "sourceSha256": "6b2643af8d76215892416fcb7481549875d9dc41e2ee58bec942e303ef4cfaac",
+      "runtimeSize": [
+        527,
+        591
+      ],
+      "decodedBytes": 1245828,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        2,
+        2,
+        527,
+        591
+      ]
+    },
+    {
+      "semanticId": "relic_gold_dragon_head__455x633",
+      "sourceFile": "analysis/figma/raw/images/c42133ee7cd54223392c66dd68a93e297727e007",
+      "sourceSha256": "d38bd926d27f67c12668b9a2596cc84f0ad816854cb1ae667610dadc37d9fd6d",
+      "runtimeSize": [
+        455,
+        633
+      ],
+      "decodedBytes": 1152060,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        533,
+        2,
+        455,
+        633
+      ]
+    },
+    {
+      "semanticId": "relic_gold_hammer__474x528",
+      "sourceFile": "analysis/figma/raw/images/b35dc8c846480c0a60816360c9b124e065b8284a",
+      "sourceSha256": "ec9e081a48cf10a8773bcde6a5d3a111b710f3d8f43cc67c89ddf7e33df3b703",
+      "runtimeSize": [
+        474,
+        528
+      ],
+      "decodedBytes": 1001088,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        992,
+        2,
+        474,
+        528
+      ]
+    },
+    {
+      "semanticId": "relic_green_disc__483x547",
+      "sourceFile": "analysis/figma/raw/images/9d8b7302f90725a0d24c86b0988b2ac3b8459fa5",
+      "sourceSha256": "f68e6b52f10d37e8acb7b7a94eba0a5af1818e17a80951f170a33f507051fd49",
+      "runtimeSize": [
+        483,
+        547
+      ],
+      "decodedBytes": 1056804,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        1470,
+        2,
+        483,
+        547
+      ]
+    },
+    {
+      "semanticId": "relic_infernal_mask__1628x1757",
+      "sourceFile": "analysis/figma/raw/images/0431d4a4bcacc5183a9b0f2d3c635e4eb47856b9",
+      "sourceSha256": "562460c20896f47952619b5aa3afe1d0135d3b177e9cb0b9e0b58fa28ea08e93",
+      "runtimeSize": [
+        712,
+        768
+      ],
+      "decodedBytes": 2187264,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        2,
+        639,
+        712,
+        768
+      ]
+    },
+    {
+      "semanticId": "relic_leaf_crescent__470x571",
+      "sourceFile": "analysis/figma/raw/images/59fabe382ec32d1dfedf9b053ba7bf9bf5355a65",
+      "sourceSha256": "dee381fa4b917cefb8f27501870deecba240b0d8a44d124b1d79c3baefcd677c",
+      "runtimeSize": [
+        470,
+        571
+      ],
+      "decodedBytes": 1073480,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        718,
+        639,
+        470,
+        571
+      ]
+    },
+    {
+      "semanticId": "relic_rabbit_mask__490x644",
+      "sourceFile": "analysis/figma/raw/images/e1ba2111414e527aa13403387739146a0ed72760",
+      "sourceSha256": "708e9313d655bf0c14647ac958bc779b7d42b1be14a585aa6849e5006a42e341",
+      "runtimeSize": [
+        490,
+        644
+      ],
+      "decodedBytes": 1262240,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        1192,
+        639,
+        490,
+        644
+      ]
+    },
+    {
+      "semanticId": "relic_shadow_crystal__469x599",
+      "sourceFile": "analysis/figma/raw/images/93fa637f8aa66f4a0334d8839745c3cd8e6d2ccc",
+      "sourceSha256": "d9661cb52c28c39a69ccaad4324bcbe9770c8470c0f7b409ca6a5880d93b04b9",
+      "runtimeSize": [
+        469,
+        599
+      ],
+      "decodedBytes": 1123724,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        2,
+        1411,
+        469,
+        599
+      ]
+    },
+    {
+      "semanticId": "relic_wolf_mask__479x633",
+      "sourceFile": "analysis/figma/raw/images/e0ff11fea283b5be86103c5bca2e580ca43e0345",
+      "sourceSha256": "ddb67360680d9e622da735cd1b60c3975e1a963911f32b78e9f1e20ad7186df3",
+      "runtimeSize": [
+        479,
+        633
+      ],
+      "decodedBytes": 1212828,
+      "group": "equipment_icons",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "equipment_icons_8",
+      "plannedRect": [
+        475,
+        1411,
+        479,
+        633
+      ]
+    },
+    {
+      "semanticId": "reward_gift_box__335x371",
+      "sourceFile": "analysis/figma/raw/images/51a308f9a466cd5582bda5a2d805eb5087745591",
+      "sourceSha256": "163cc8fa5eeccd88e499e6396a8024ef33ad6e5942644e535afc1c6a823a357a",
+      "runtimeSize": [
+        335,
+        371
+      ],
+      "decodedBytes": 497140,
+      "group": "meta_daily_wheel",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "meta_daily_wheel_0",
+      "plannedRect": [
+        2,
+        2,
+        335,
+        371
+      ]
+    },
+    {
+      "semanticId": "reward_gold_chest__1254x1254",
+      "sourceFile": "analysis/figma/raw/images/07938c8d6fff7ef8f5f691688e4860a8e46ddffa",
+      "sourceSha256": "188b86dcf82eefca301f55c9cd4a012c6522c731810b73d11757ed5c5c263ab0",
+      "runtimeSize": [
+        768,
+        768
+      ],
+      "decodedBytes": 2359296,
+      "group": "meta_daily_wheel",
+      "screens": [
+        "SCREEN-008",
+        "SCREEN-009"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "meta_daily_wheel_0",
+      "plannedRect": [
+        341,
+        2,
+        768,
+        768
+      ]
+    },
+    {
+      "semanticId": "reward_gold_chest__1254x1254_variant2",
+      "sourceFile": "analysis/figma/raw/images/d734bdbd0bdc894f78da40d7d9ccabe4052477c9",
+      "sourceSha256": "88bff839ec65a4e657f10bcd19c9ff26c329edac788669c5b2f4e95245a203ad",
+      "runtimeSize": [
+        768,
+        768
+      ],
+      "decodedBytes": 2359296,
+      "group": "meta_daily_wheel",
+      "screens": [
+        "SCREEN-008",
+        "SCREEN-009"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "meta_daily_wheel_0",
+      "plannedRect": [
+        1113,
+        2,
+        768,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_banner_name_purple__959x176",
+      "sourceFile": "analysis/figma/raw/images/d10ae70ea2eadf857579c47b9a7d19320377df71",
+      "sourceSha256": "4924b8e68e5de2bf206105f343cd176490fec6219aa8f67f14dbfacd9d70e423",
+      "runtimeSize": [
+        768,
+        141
+      ],
+      "decodedBytes": 433152,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        2,
+        774,
+        768,
+        141
+      ]
+    },
+    {
+      "semanticId": "ui_banner_stage_blue__3876x605",
+      "sourceFile": "analysis/figma/raw/images/a1f74786b99af092f75c99c17ed49d98da9b6d7e",
+      "sourceSha256": "f312dde3683ec7ab1ce9def13088acc093bba17f6ab2760ba0f2ef01eeb67318",
+      "runtimeSize": [
+        768,
+        120
+      ],
+      "decodedBytes": 368640,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-006"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        774,
+        774,
+        768,
+        120
+      ]
+    },
+    {
+      "semanticId": "ui_bar_cyan_fill__2680x420",
+      "sourceFile": "analysis/figma/raw/images/8da3d328eab24eef9e35927c9eadf0f95e706219",
+      "sourceSha256": "e42e47f11e949ac6e19f7903eedec919dcaf9b88e88966aaee52126603c3c289",
+      "runtimeSize": [
+        768,
+        120
+      ],
+      "decodedBytes": 368640,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        2,
+        919,
+        768,
+        120
+      ]
+    },
+    {
+      "semanticId": "ui_bar_dark_track__3646x435",
+      "sourceFile": "analysis/figma/raw/images/cb797fee92f1088c3c33582adbf7a598e3fbce45",
+      "sourceSha256": "8dfc7fb23c4c2c64ee8971134c0ac20172f9ce57323b38cf966aa22ad4c4cda0",
+      "runtimeSize": [
+        768,
+        92
+      ],
+      "decodedBytes": 282624,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        774,
+        919,
+        768,
+        92
+      ]
+    },
+    {
+      "semanticId": "ui_button_gold__2378x1300",
+      "sourceFile": "analysis/figma/raw/images/cf6c639c3e529ac1e9d99a5365b691ec8aeb271b",
+      "sourceSha256": "61d5be2b18a8882ca75e666feb312c53680eb6dca700942708314cabffb04e83",
+      "runtimeSize": [
+        768,
+        420
+      ],
+      "decodedBytes": 1290240,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-002",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-007",
+        "SCREEN-008",
+        "SCREEN-009"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        2,
+        1043,
+        768,
+        420
+      ]
+    },
+    {
+      "semanticId": "ui_button_orange__2542x1359",
+      "sourceFile": "analysis/figma/raw/images/7d0289c641e46bae1b62d4fe28ea11d184302d26",
+      "sourceSha256": "f09a6fa7466d5ca352e1b5be84a02119f860fb5527dcd1941ca19f3b97103622",
+      "runtimeSize": [
+        768,
+        411
+      ],
+      "decodedBytes": 1262592,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-005",
+        "SCREEN-008",
+        "SCREEN-009",
+        "SCREEN-013",
+        "SCREEN-014",
+        "SCREEN-015"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_1",
+      "plannedRect": [
+        774,
+        1043,
+        768,
+        411
+      ]
+    },
+    {
+      "semanticId": "ui_button_red_square__1580x1579",
+      "sourceFile": "analysis/figma/raw/images/08b1bc2751f3b6f0d6d9b634e5c8a9bb021199ef",
+      "sourceSha256": "552ce9ca7d9a4168248e9f2b1af9c6ad9fa2413ec80bd798abe4d8ef179c616f",
+      "runtimeSize": [
+        768,
+        768
+      ],
+      "decodedBytes": 2359296,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_2",
+      "plannedRect": [
+        2,
+        2,
+        768,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_emblem_gold_gem__504x376",
+      "sourceFile": "analysis/figma/raw/images/b6080ed60ce0cffede7c4e16262909d2cf4cf677",
+      "sourceSha256": "17afa3e79746463def1caaac87b05e8c9d630ba4261092a65cc0423cc2aa64c8",
+      "runtimeSize": [
+        504,
+        376
+      ],
+      "decodedBytes": 758016,
+      "group": "core_ui",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_2",
+      "plannedRect": [
+        774,
+        2,
+        504,
+        376
+      ]
+    },
+    {
+      "semanticId": "ui_frame_board_slot__244x219",
+      "sourceFile": "analysis/figma/raw/images/289edf8d7d4cc89271745df76c84e59a84441d75",
+      "sourceSha256": "0d3c6287b32fd09d6a0dab7045ce740ea3058151b2627c3e13f2365c2f61063b",
+      "runtimeSize": [
+        244,
+        219
+      ],
+      "decodedBytes": 213744,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_2",
+      "plannedRect": [
+        1282,
+        2,
+        244,
+        219
+      ]
+    },
+    {
+      "semanticId": "ui_frame_equipment_gold__1035x1545",
+      "sourceFile": "analysis/figma/raw/images/5b2fb629c36746c86adbb8f7460d1770ae270cdc",
+      "sourceSha256": "bbffc23e9dcc5da6a4f6f2f85680798c25877faccba3562f2c5b0c841909d56d",
+      "runtimeSize": [
+        514,
+        768
+      ],
+      "decodedBytes": 1579008,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_2",
+      "plannedRect": [
+        1530,
+        2,
+        514,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_frame_heart_wings__1728x1616",
+      "sourceFile": "analysis/figma/raw/images/e0304b45fa52b9fc2fbbded5924c9465b727bd67",
+      "sourceSha256": "9a76acac1af48f889b2a628ce5c42abd2be75c1c130e41c682b4b2c2889334b0",
+      "runtimeSize": [
+        768,
+        718
+      ],
+      "decodedBytes": 2205696,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_2",
+      "plannedRect": [
+        2,
+        774,
+        768,
+        718
+      ]
+    },
+    {
+      "semanticId": "ui_frame_magic_gold__1289x1762",
+      "sourceFile": "analysis/figma/raw/images/e1310f45216dcfc68e7aa2c7a50f78993b3534da",
+      "sourceSha256": "d4ac12cc66fd394d20cf6dcb518b86cf39361fdd4b97b276dcec36e54bf75482",
+      "runtimeSize": [
+        562,
+        768
+      ],
+      "decodedBytes": 1726464,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-004",
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_2",
+      "plannedRect": [
+        774,
+        774,
+        562,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_frame_orange_wings__1714x1662",
+      "sourceFile": "analysis/figma/raw/images/860072ba61d2da15aed7f6e0c717fbf9b0c3b359",
+      "sourceSha256": "77c70023fca9fd7d6d619691e50f3156f58cf80ed37f05597e2fc6d22752c05e",
+      "runtimeSize": [
+        768,
+        745
+      ],
+      "decodedBytes": 2288640,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_3",
+      "plannedRect": [
+        2,
+        2,
+        768,
+        745
+      ]
+    },
+    {
+      "semanticId": "ui_frame_purple_orb__1428x1440",
+      "sourceFile": "analysis/figma/raw/images/f4759d36c20f4d5406b3dfa5473651c47b84fdc9",
+      "sourceSha256": "975f5f6b97ce1c4516840be13d8b04fb3079fb07cac65e5780c3769f5866e848",
+      "runtimeSize": [
+        762,
+        768
+      ],
+      "decodedBytes": 2340864,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-013",
+        "SCREEN-014",
+        "SCREEN-015"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_3",
+      "plannedRect": [
+        774,
+        2,
+        762,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_frame_purple_shield__1628x1719",
+      "sourceFile": "analysis/figma/raw/images/69745b8d9f7ddc33f8e3dd7fcd00b87039fd3eed",
+      "sourceSha256": "3a981b702c791b1154957731cd72842ebc2364f518e1ffda5e12a1f8596fa3a0",
+      "runtimeSize": [
+        727,
+        768
+      ],
+      "decodedBytes": 2233344,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-005"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_3",
+      "plannedRect": [
+        2,
+        774,
+        727,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_icon_battle_swords__1402x1456",
+      "sourceFile": "analysis/figma/raw/images/54e166b2a97ba055bfa15f4e10479466ce5068d4",
+      "sourceSha256": "786b978db44f3144fed66330f7c9b1f8dae205d47b798beaf555b52bbbf93573",
+      "runtimeSize": [
+        740,
+        768
+      ],
+      "decodedBytes": 2273280,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_3",
+      "plannedRect": [
+        733,
+        774,
+        740,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_icon_blue_triangle__1484x1322",
+      "sourceFile": "analysis/figma/raw/images/55e08f61b7b03b548c7fb448d55988a1a7e71930",
+      "sourceSha256": "81eba1816d5e924a18928f5b44e2036580d298c778b8e1fa5b9d73f6fb2fe0b6",
+      "runtimeSize": [
+        768,
+        684
+      ],
+      "decodedBytes": 2101248,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-013",
+        "SCREEN-014",
+        "SCREEN-015"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_4",
+      "plannedRect": [
+        2,
+        2,
+        768,
+        684
+      ]
+    },
+    {
+      "semanticId": "ui_icon_crown__353x325",
+      "sourceFile": "analysis/figma/raw/images/0340666bee1059d8aef76d0dc38c26ba9429cc3d",
+      "sourceSha256": "f4e10b4aae9f5b7ed63d5ca974a86cfbaf9ad917a911e659e94612df76dab518",
+      "runtimeSize": [
+        353,
+        325
+      ],
+      "decodedBytes": 458900,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_4",
+      "plannedRect": [
+        774,
+        2,
+        353,
+        325
+      ]
+    },
+    {
+      "semanticId": "ui_icon_crystal_snowflake__1318x1341",
+      "sourceFile": "analysis/figma/raw/images/d93c344388dd40c56bc46e5846a16ef36d8b9028",
+      "sourceSha256": "897a7ce25731c7e2aabf27807d9dc0dada59078ae11a31fd82bdd3ebe313eb6e",
+      "runtimeSize": [
+        755,
+        768
+      ],
+      "decodedBytes": 2319360,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_4",
+      "plannedRect": [
+        1131,
+        2,
+        755,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_icon_dragon_red__1540x1564",
+      "sourceFile": "analysis/figma/raw/images/fc1cc64139c8c276f0575a4ede022749b073a75c",
+      "sourceSha256": "f319037f91057ff360e32f5019ce054dc5d4c47c9a076addcd136ac868df2e21",
+      "runtimeSize": [
+        756,
+        768
+      ],
+      "decodedBytes": 2322432,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_4",
+      "plannedRect": [
+        2,
+        774,
+        756,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_icon_gold_pile__1134x1163",
+      "sourceFile": "analysis/figma/raw/images/dd6154c91ef336f7d22730ba2c8d43d966f6d772",
+      "sourceSha256": "f373ee26848c020b27dfec819733065e3f89a2f648d93600d9f31843054d785d",
+      "runtimeSize": [
+        749,
+        768
+      ],
+      "decodedBytes": 2300928,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_4",
+      "plannedRect": [
+        762,
+        774,
+        749,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_icon_heart__474x437",
+      "sourceFile": "analysis/figma/raw/images/2e6532461095a06c2911e42ee8acd8ec351883ee",
+      "sourceSha256": "c7131f28b541bab97712955f39763cbeda823a27630a8fc713d5e4ee681e185c",
+      "runtimeSize": [
+        474,
+        437
+      ],
+      "decodedBytes": 828552,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_4",
+      "plannedRect": [
+        1515,
+        774,
+        474,
+        437
+      ]
+    },
+    {
+      "semanticId": "ui_icon_hourglass__1343x1364",
+      "sourceFile": "analysis/figma/raw/images/6bda5ce4aa2a6848a588f2f906891a7356a6b28b",
+      "sourceSha256": "40dbf7885c870b6b5c616043e34e2e3b72852389564bed936a1a37f0be3e74df",
+      "runtimeSize": [
+        756,
+        768
+      ],
+      "decodedBytes": 2322432,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_5",
+      "plannedRect": [
+        2,
+        2,
+        756,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_icon_settings__369x374",
+      "sourceFile": "analysis/figma/raw/images/7de89c5429f37aa45c08a77de458feaa8b1ff2fe",
+      "sourceSha256": "de98eb4c4ba59f9c20dc8b1d3c81b5567615cc01242420c0767cddc44aba84c0",
+      "runtimeSize": [
+        369,
+        374
+      ],
+      "decodedBytes": 552024,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_5",
+      "plannedRect": [
+        762,
+        2,
+        369,
+        374
+      ]
+    },
+    {
+      "semanticId": "ui_icon_shield__296x362",
+      "sourceFile": "analysis/figma/raw/images/b2a8de085ef159db19dbcdfde64f4cf2c34e0f83",
+      "sourceSha256": "84e4ba9a9cd97cb57c74f06fb68ae8b745c8920054eeadc2d95a0fff2530266c",
+      "runtimeSize": [
+        296,
+        362
+      ],
+      "decodedBytes": 428608,
+      "group": "core_ui",
+      "screens": [],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_5",
+      "plannedRect": [
+        1135,
+        2,
+        296,
+        362
+      ]
+    },
+    {
+      "semanticId": "ui_icon_star__478x497",
+      "sourceFile": "analysis/figma/raw/images/c9a965e48a3fb7a4655e491e3d20c69288f9294c",
+      "sourceSha256": "ef45d9ad535f4eb2a304caeef071998a3037507fe8646a68cee2c2a4ac22534e",
+      "runtimeSize": [
+        478,
+        497
+      ],
+      "decodedBytes": 950264,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_5",
+      "plannedRect": [
+        1435,
+        2,
+        478,
+        497
+      ]
+    },
+    {
+      "semanticId": "ui_icon_sword__525x536",
+      "sourceFile": "analysis/figma/raw/images/5dcc8f91b17f1226f0c012df0135ae09f03678b0",
+      "sourceSha256": "5742eb59c3aab5fa28e82c25c48570f6d0b499d8caac8ee7c31abc5b7efc004a",
+      "runtimeSize": [
+        525,
+        536
+      ],
+      "decodedBytes": 1125600,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_5",
+      "plannedRect": [
+        2,
+        774,
+        525,
+        536
+      ]
+    },
+    {
+      "semanticId": "ui_icon_upgrade_arrow__1302x1413",
+      "sourceFile": "analysis/figma/raw/images/0cf9cf29b984c58a7af8eb8b445cdbb1123a44c8",
+      "sourceSha256": "a8a64e50da1df1b2c132f7a485d0215271425520362047a3a542fa213fa5bfde",
+      "runtimeSize": [
+        708,
+        768
+      ],
+      "decodedBytes": 2174976,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-004",
+        "SCREEN-010",
+        "SCREEN-013",
+        "SCREEN-014",
+        "SCREEN-015"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_5",
+      "plannedRect": [
+        531,
+        774,
+        708,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_nav_crystal_relic__1407x1332",
+      "sourceFile": "analysis/figma/raw/images/90eefb1e52086c29646b1818471aac90bd76ee2d",
+      "sourceSha256": "3087dcd30815885e579da52808d56f66d8fc1f5f310675f80756b117dca2c99a",
+      "runtimeSize": [
+        768,
+        727
+      ],
+      "decodedBytes": 2233344,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_5",
+      "plannedRect": [
+        1243,
+        774,
+        768,
+        727
+      ]
+    },
+    {
+      "semanticId": "ui_nav_dungeon__1494x1139",
+      "sourceFile": "analysis/figma/raw/images/f4cb8b25c50df3defb06b5d0fee4c2b311098774",
+      "sourceSha256": "43a4d7323cd336871a977e8166b83421b81c72f117cf0ab64fe1884f494152d6",
+      "runtimeSize": [
+        768,
+        586
+      ],
+      "decodedBytes": 1800192,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_6",
+      "plannedRect": [
+        2,
+        2,
+        768,
+        586
+      ]
+    },
+    {
+      "semanticId": "ui_nav_heroes_helmet__1902x1550",
+      "sourceFile": "analysis/figma/raw/images/af53d16704846b72a83658d911681ade819709cc",
+      "sourceSha256": "49e5635f7dd1c321ddd25491b61931e373167e566b8f457f011973e9e48f90e1",
+      "runtimeSize": [
+        768,
+        626
+      ],
+      "decodedBytes": 1923072,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_6",
+      "plannedRect": [
+        774,
+        2,
+        768,
+        626
+      ]
+    },
+    {
+      "semanticId": "ui_nav_shop__438x436",
+      "sourceFile": "analysis/figma/raw/images/373d77e6b8229fd322f1eaf0a04dc6569d9a690b",
+      "sourceSha256": "98f2540eeb471b789d175541337419f3e25cd1cf1b24ef8d8a315db1e987ed65",
+      "runtimeSize": [
+        438,
+        436
+      ],
+      "decodedBytes": 763872,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_6",
+      "plannedRect": [
+        1546,
+        2,
+        438,
+        436
+      ]
+    },
+    {
+      "semanticId": "ui_panel_blue_square__1448x1614",
+      "sourceFile": "analysis/figma/raw/images/1bec326d67982d2b37b0bf94fdceb5e11c18095d",
+      "sourceSha256": "3c6d4b076f85591581f834359f293c58b9555b73db070f15b6c6a78c28a92158",
+      "runtimeSize": [
+        689,
+        768
+      ],
+      "decodedBytes": 2116608,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_6",
+      "plannedRect": [
+        2,
+        632,
+        689,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_panel_dark_square__1576x1595",
+      "sourceFile": "analysis/figma/raw/images/4262bc5b52ccf861ee9cf940d4000bafcffdc84b",
+      "sourceSha256": "f403a505a25fafb7ccec28a4c3cbfb24b3bcfbfc34bc2e7426e59e6cfc5cf803",
+      "runtimeSize": [
+        759,
+        768
+      ],
+      "decodedBytes": 2331648,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_6",
+      "plannedRect": [
+        695,
+        632,
+        759,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_panel_gold_black_wide__3815x1593",
+      "sourceFile": "analysis/figma/raw/images/d1c66e4f6f13868503b1c7fd7d0fe2e02ce7756b",
+      "sourceSha256": "5f0ddb510bb29055a5a506e282270d3f8ac7426d98ac7b6cd359a6cbf88493fd",
+      "runtimeSize": [
+        768,
+        321
+      ],
+      "decodedBytes": 986112,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-004"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_6",
+      "plannedRect": [
+        2,
+        1404,
+        768,
+        321
+      ]
+    },
+    {
+      "semanticId": "ui_panel_gold_navy_wide__2339x828",
+      "sourceFile": "analysis/figma/raw/images/86ef8ab88fddc7cd5fabacfd628f8c0ae4ef4876",
+      "sourceSha256": "ad746089526366da7b40518acaf091ad7979878c0ad7b8aad7dfb22bcbf0780c",
+      "runtimeSize": [
+        768,
+        272
+      ],
+      "decodedBytes": 835584,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_6",
+      "plannedRect": [
+        774,
+        1404,
+        768,
+        272
+      ]
+    },
+    {
+      "semanticId": "ui_panel_plain_navy__1126x2000",
+      "sourceFile": "analysis/figma/raw/images/5976164c9088d9f3322d497bbf2c3c76b9211e1f",
+      "sourceSha256": "549d0c779f2822144d7764a6310959f442e5da74f168bc99f656dd25e1c86f68",
+      "runtimeSize": [
+        432,
+        768
+      ],
+      "decodedBytes": 1327104,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-006",
+        "SCREEN-007",
+        "SCREEN-008",
+        "SCREEN-009",
+        "SCREEN-011",
+        "SCREEN-012"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_7",
+      "plannedRect": [
+        2,
+        2,
+        432,
+        768
+      ]
+    },
+    {
+      "semanticId": "ui_panel_stats_black__966x425",
+      "sourceFile": "analysis/figma/raw/images/f114a4c886b5b51ac42b3ffe94ebe8bb12661366",
+      "sourceSha256": "ca6d322b1a3fe254be49230e897597e09656d936c459f91391436c5a8beae2bf",
+      "runtimeSize": [
+        768,
+        338
+      ],
+      "decodedBytes": 1038336,
+      "group": "core_ui",
+      "screens": [
+        "SCREEN-007",
+        "SCREEN-010"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "core_ui_7",
+      "plannedRect": [
+        438,
+        2,
+        768,
+        338
+      ]
+    },
+    {
+      "semanticId": "ui_wheel_outer_ring__1940x1924",
+      "sourceFile": "analysis/figma/raw/images/506e2c442ef14cc3433543f99131e6d33c63ac0c",
+      "sourceSha256": "697e6fa6a8e039fe065106cd1d0c56c894a34aff3c375effdd7f7b4b06c22eb8",
+      "runtimeSize": [
+        768,
+        762
+      ],
+      "decodedBytes": 2340864,
+      "group": "meta_daily_wheel",
+      "screens": [
+        "SCREEN-013",
+        "SCREEN-014",
+        "SCREEN-015"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "meta_daily_wheel_0",
+      "plannedRect": [
+        2,
+        774,
+        768,
+        762
+      ]
+    },
+    {
+      "semanticId": "ui_wheel_reward_illustration__1774x1837",
+      "sourceFile": "analysis/figma/raw/images/2fe539a12c7c857eabe1150073d8c7250f8b4e7c",
+      "sourceSha256": "c757cb792bc8baf2a2c615553f16fb3847dcfcee9e398932a0102b1bdcf5e35d",
+      "runtimeSize": [
+        742,
+        768
+      ],
+      "decodedBytes": 2279424,
+      "group": "meta_daily_wheel",
+      "screens": [
+        "SCREEN-003",
+        "SCREEN-004",
+        "SCREEN-005",
+        "SCREEN-006",
+        "SCREEN-007"
+      ],
+      "trimApplied": false,
+      "distributionAllowed": false,
+      "plannedPage": "meta_daily_wheel_0",
+      "plannedRect": [
+        774,
+        774,
+        742,
+        768
+      ]
+    }
+  ],
+  "routeDecodedBytesIndividualImages": {
+    "SCREEN-012": 11354112,
+    "SCREEN-005": 53143652,
+    "SCREEN-004": 42331380,
+    "SCREEN-008": 13906944,
+    "SCREEN-010": 8521728,
+    "SCREEN-013": 15528960,
+    "SCREEN-015": 15528960,
+    "SCREEN-011": 6635520,
+    "SCREEN-003": 42727208,
+    "SCREEN-007": 35242072,
+    "SCREEN-014": 15528960,
+    "SCREEN-006": 33566024,
+    "SCREEN-002": 13283328,
+    "SCREEN-009": 13906944,
+    "SCREEN-001": 10420224
+  },
+  "pageCounts": {
+    "backgrounds": 1,
+    "battle_common": 2,
+    "core_ui": 8,
+    "equipment_icons": 9,
+    "hero_portraits": 2,
+    "meta_daily_wheel": 1
+  },
+  "rights": "Local development authorized; distribution proof remains release gate."
+}

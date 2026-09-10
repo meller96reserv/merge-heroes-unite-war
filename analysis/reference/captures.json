@@ -1,0 +1,482 @@
+[
+  {
+    "captureId": "CAP-001",
+    "name": "web_initial",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 29.364,
+    "file": "analysis/reference/screenshots/web_initial.png",
+    "sha256": "116c48520401c6099d37cc76fb23b3ceed822ad79ac78750e7c3985f4b1f2d1d"
+  },
+  {
+    "captureId": "CAP-002",
+    "name": "web_loaded",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 42.046,
+    "file": "analysis/reference/screenshots/web_loaded.png",
+    "sha256": "9b12d3a8e94fe4227453224db22b2cb29bec39fa7a587344ab73f97543fe1998"
+  },
+  {
+    "captureId": "CAP-003",
+    "name": "web_fullscreen",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 160.069,
+    "file": "analysis/reference/screenshots/web_fullscreen.png",
+    "sha256": "807191e8b56a60b449145131b7d40a408a5efbcec9d63c94379643f35c8c8fb5"
+  },
+  {
+    "captureId": "CAP-004",
+    "name": "web_ready",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 168.726,
+    "file": "analysis/reference/screenshots/web_ready.png",
+    "sha256": "c204e6d5ad83f206c140225a0f4384cd5627da03aa7dd08c302ff4f26af6eab5"
+  },
+  {
+    "captureId": "CAP-005",
+    "name": "tutorial_buy_1",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 194.464,
+    "file": "analysis/reference/screenshots/tutorial_buy_1.png",
+    "sha256": "60f2c69b97cccb5d31a56888676c7a3dea3967f66c8a140befbf4d7ac25b6ed3"
+  },
+  {
+    "captureId": "CAP-006",
+    "name": "tutorial_after_1",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 195.594,
+    "file": "analysis/reference/screenshots/tutorial_after_1.png",
+    "sha256": "6d30d3945b46b83c1c1e04e3f10717154409f4525aa2dde0fe32656a690f50cb"
+  },
+  {
+    "captureId": "CAP-007",
+    "name": "tutorial_buy_2_immediate",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 279.012,
+    "file": "analysis/reference/screenshots/tutorial_buy_2_immediate.png",
+    "sha256": "19614393fe045540fbcc7f7a8f8dc13279d94adbcc1f3dccfe28c532e06c630c"
+  },
+  {
+    "captureId": "CAP-008",
+    "name": "tutorial_buy_2_600ms",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 279.727,
+    "file": "analysis/reference/screenshots/tutorial_buy_2_600ms.png",
+    "sha256": "f3ab5588e9d028efbe3c73dae891e85c05801843dd0f5154c00bcb408a23a450"
+  },
+  {
+    "captureId": "CAP-009",
+    "name": "tutorial_merge_result",
+    "sessionId": "RUN-01",
+    "elapsedSeconds": 280.839,
+    "file": "analysis/reference/screenshots/tutorial_merge_result.png",
+    "sha256": "34c342fdc02a1d8bc06e8beff7c9adf9405f3f51981aaa73aa4678bd714d0ed5"
+  },
+  {
+    "captureId": "CAP-010",
+    "name": "run2_launch",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 35.245,
+    "file": "analysis/reference/screenshots/run2_launch.png",
+    "sha256": "774835d10d8b711431c939d6e7c5f3437e7aba069b9c12bb6c99c977a44167f3"
+  },
+  {
+    "captureId": "CAP-011",
+    "name": "run2_merge_1",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 48.638,
+    "file": "analysis/reference/screenshots/run2_merge_1.png",
+    "sha256": "b2a8a19c169111e5bd74d929363670d25de11a0d71d214457b26cf60b0a8c44b"
+  },
+  {
+    "captureId": "CAP-012",
+    "name": "run2_two_units",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 96.405,
+    "file": "analysis/reference/screenshots/run2_two_units.png",
+    "sha256": "8de0412a6baf04f6beb4f907af26d4a67d3d9927850fcbec45f9148c3d7b34b3"
+  },
+  {
+    "captureId": "CAP-013",
+    "name": "run2_drag_result",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 98.39,
+    "file": "analysis/reference/screenshots/run2_drag_result.png",
+    "sha256": "298482e4a26b9c87ddbf889b27351f4918e5615bdf4e42b1fcbf846111f44753"
+  },
+  {
+    "captureId": "CAP-014",
+    "name": "run2_merge_target_slot",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 276.184,
+    "file": "analysis/reference/screenshots/run2_merge_target_slot.png",
+    "sha256": "8cd4c17d28129672e84a4f1dc02cd24d1d492f8cadd12e9c1434ee59e83e4f6a"
+  },
+  {
+    "captureId": "CAP-015",
+    "name": "run2_reverse_merge",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 315.261,
+    "file": "analysis/reference/screenshots/run2_reverse_merge.png",
+    "sha256": "88b57dc425c5ff732675eee8530f9c5a1ed58cc839256fdbff00c611c320361b"
+  },
+  {
+    "captureId": "CAP-016",
+    "name": "run2_tap_merge_test",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 329.243,
+    "file": "analysis/reference/screenshots/run2_tap_merge_test.png",
+    "sha256": "357c8d5c0ac1a2355904c8f1d63158fec75f72c3f05e977ae833fd28d103ae23"
+  },
+  {
+    "captureId": "CAP-017",
+    "name": "tutorial_deploy_prompt",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 342.644,
+    "file": "analysis/reference/screenshots/tutorial_deploy_prompt.png",
+    "sha256": "431f50746a7ff6b54eb7b2e7decd641048b6942d70b68294b7c32a505d314878"
+  },
+  {
+    "captureId": "CAP-018",
+    "name": "first_combat",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 384.623,
+    "file": "analysis/reference/screenshots/first_combat.png",
+    "sha256": "25f95ea625bd877be4c89e0f52443d84d1b1bf32e00b0e697684e0b65ebf01c0"
+  },
+  {
+    "captureId": "CAP-019",
+    "name": "combat_after_8s",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 392.759,
+    "file": "analysis/reference/screenshots/combat_after_8s.png",
+    "sha256": "460b2fee2f6c906d55d0efbc45d59b2e19205bf4e47bbc8c96d6854deb3bb2f6"
+  },
+  {
+    "captureId": "CAP-020",
+    "name": "tutorial_next",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 415.971,
+    "file": "analysis/reference/screenshots/tutorial_next.png",
+    "sha256": "cc98646223054492981bc0c81614e611339c3189e028512472c8d71de42be25b"
+  },
+  {
+    "captureId": "CAP-021",
+    "name": "tutorial_withdraw",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 533.741,
+    "file": "analysis/reference/screenshots/tutorial_withdraw.png",
+    "sha256": "07ab83654b56c7eca9e1d50a5a3bdb096d8579f296b6e13268c3a6716be91881"
+  },
+  {
+    "captureId": "CAP-022",
+    "name": "tutorial_redeploy",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 547.908,
+    "file": "analysis/reference/screenshots/tutorial_redeploy.png",
+    "sha256": "4a75ecb1dda576a15b10422937f712217d17d2a50997da55d60988d1240ebca8"
+  },
+  {
+    "captureId": "CAP-023",
+    "name": "tutorial_redeploy_drag",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 675.428,
+    "file": "analysis/reference/screenshots/tutorial_redeploy_drag.png",
+    "sha256": "73edb6c9fa97088f4b899e4868e3b70849df7f78aa0d9ed47a2f77d0780661a8"
+  },
+  {
+    "captureId": "CAP-024",
+    "name": "tutorial_quest_prompt",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 681.543,
+    "file": "analysis/reference/screenshots/tutorial_quest_prompt.png",
+    "sha256": "307b60659ce03ae52c5e91dc13203a49449f63333a8cce51f394bbebfdfdc480"
+  },
+  {
+    "captureId": "CAP-025",
+    "name": "quest_claimed",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 693.902,
+    "file": "analysis/reference/screenshots/quest_claimed.png",
+    "sha256": "e602f26a7160e7f7e85d127a46105172813a705e5bcba6e29e1b00bbf856a3b6"
+  },
+  {
+    "captureId": "CAP-026",
+    "name": "tutorial_complete",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 804.154,
+    "file": "analysis/reference/screenshots/tutorial_complete.png",
+    "sha256": "cf6ad62dad60fce2ba537ebf1b971c807a6fd05d3f29c79192f9460144ca7861"
+  },
+  {
+    "captureId": "CAP-027",
+    "name": "first_quest_reward",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 805.726,
+    "file": "analysis/reference/screenshots/first_quest_reward.png",
+    "sha256": "9a6d262f1cdaa2bda6dc867abba8b253c1ff5821916bb4ddd5cf2d8538040469"
+  },
+  {
+    "captureId": "CAP-028",
+    "name": "hold_buy_board",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 809.375,
+    "file": "analysis/reference/screenshots/hold_buy_board.png",
+    "sha256": "ade9f785e77d5a8131ab55910cd9d642692984b35f0a6fef3b38836276edceab"
+  },
+  {
+    "captureId": "CAP-029",
+    "name": "reference_settings",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 970.771,
+    "file": "analysis/reference/screenshots/reference_settings.png",
+    "sha256": "ec9f1db41c836d1ed982e558f91b161385f5b46478c0055ad01c81e36b2b6510"
+  },
+  {
+    "captureId": "CAP-030",
+    "name": "after_launch_event",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1081.132,
+    "file": "analysis/reference/screenshots/after_launch_event.png",
+    "sha256": "c7c495b91e8cbf7e4f9f5993e5cdd7658020e62325a1b02d56d8c3ac59c07906"
+  },
+  {
+    "captureId": "CAP-031",
+    "name": "freeplay_before",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1099.103,
+    "file": "analysis/reference/screenshots/freeplay_before.png",
+    "sha256": "a88e9ed3d0adcc5e5914a2bc9bef60ebd0f4330605f664a3feaaec28dd7b4ef8"
+  },
+  {
+    "captureId": "CAP-032",
+    "name": "freeplay_hold",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1102.765,
+    "file": "analysis/reference/screenshots/freeplay_hold.png",
+    "sha256": "8e337c94fe1f642a466f4baad539529c225ebe7c836c3c4d89201bc2547219ed"
+  },
+  {
+    "captureId": "CAP-033",
+    "name": "quest_actual_claim",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1298.555,
+    "file": "analysis/reference/screenshots/quest_actual_claim.png",
+    "sha256": "93de4fb5b684c64aa31060bcaee356c3d399077bb53a56d463db9d76b5025403"
+  },
+  {
+    "captureId": "CAP-034",
+    "name": "settings_actual",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1299.684,
+    "file": "analysis/reference/screenshots/settings_actual.png",
+    "sha256": "5b025dbff31c7bbf2febda94e09030255173cf25d4b3e21a1ffdd198ae829422"
+  },
+  {
+    "captureId": "CAP-035",
+    "name": "settings_after_10s",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1411.851,
+    "file": "analysis/reference/screenshots/settings_after_10s.png",
+    "sha256": "72e01e14ead12138cb08a4799e6aeb28c56bd64ac22c832953f6948cdc796424"
+  },
+  {
+    "captureId": "CAP-036",
+    "name": "quest_hint_closed",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1536.597,
+    "file": "analysis/reference/screenshots/quest_hint_closed.png",
+    "sha256": "95d0a67e490f8fef3401a417ddc41d9326d50baae09b3bf3f35120137f656f71"
+  },
+  {
+    "captureId": "CAP-037",
+    "name": "settings_open_confirmed",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1537.726,
+    "file": "analysis/reference/screenshots/settings_open_confirmed.png",
+    "sha256": "a90451121e5ad69b2c1221b038fde6ca40b84c62abb2a1d21a55a63147658742"
+  },
+  {
+    "captureId": "CAP-038",
+    "name": "settings_before_wait",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1685.796,
+    "file": "analysis/reference/screenshots/settings_before_wait.png",
+    "sha256": "8beb73f11451d3a03502ad9802fe9eadec0b66a8e7b31f44129e8754edcb410d"
+  },
+  {
+    "captureId": "CAP-039",
+    "name": "settings_continuity",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1695.989,
+    "file": "analysis/reference/screenshots/settings_continuity.png",
+    "sha256": "3ade430cf4e630cd66fa877561b355f7248338b9740df8cb51b2aec16fa2c237"
+  },
+  {
+    "captureId": "CAP-040",
+    "name": "how_to_play",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1930.962,
+    "file": "analysis/reference/screenshots/how_to_play.png",
+    "sha256": "f57dfaf74b05490f0d34bd50e603b7f4cac0917502f383067eadbfd488122986"
+  },
+  {
+    "captureId": "CAP-041",
+    "name": "how_to_play_2",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1946.566,
+    "file": "analysis/reference/screenshots/how_to_play_2.png",
+    "sha256": "740f16be16e7b457107c7ce6e9620b891a8f61d644fcad8e6ac9c443adff1cef"
+  },
+  {
+    "captureId": "CAP-042",
+    "name": "how_to_play_3",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1946.651,
+    "file": "analysis/reference/screenshots/how_to_play_3.png",
+    "sha256": "4816e518d4b26205363ecc4514ed52beaa82f94ac121ee02d9df9fda2ca1ec2d"
+  },
+  {
+    "captureId": "CAP-043",
+    "name": "reserve_merge",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1964.026,
+    "file": "analysis/reference/screenshots/reserve_merge.png",
+    "sha256": "c32ed221ad751295a407090cd28a48e781699b0ce4eee8a833587918ef509aad"
+  },
+  {
+    "captureId": "CAP-044",
+    "name": "reserve_merge_2",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 1965.457,
+    "file": "analysis/reference/screenshots/reserve_merge_2.png",
+    "sha256": "dd66e50aeb834fda13a830d609fdbf00e06f270e1573acc944e5128e3e16f3ab"
+  },
+  {
+    "captureId": "CAP-045",
+    "name": "reserve_merge_actual",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 2383.621,
+    "file": "analysis/reference/screenshots/reserve_merge_actual.png",
+    "sha256": "21609c88c7d700537d257d4ba76cb3181a3efe2d7b83656fa3a3f2a6826ca368"
+  },
+  {
+    "captureId": "CAP-046",
+    "name": "reserve_merge_actual_2",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 2384.97,
+    "file": "analysis/reference/screenshots/reserve_merge_actual_2.png",
+    "sha256": "098376a96882d10e2d0757c4c54a088c4e86e7591f145fa63b6d3e90c9fdffa0"
+  },
+  {
+    "captureId": "CAP-047",
+    "name": "tier3_discovery",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 2386.259,
+    "file": "analysis/reference/screenshots/tier3_discovery.png",
+    "sha256": "c5cef99af56db6be3c0c0d06e1ae8cd0531f187f08009b859612d701467975a9"
+  },
+  {
+    "captureId": "CAP-048",
+    "name": "tier3_popup",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 2860.044,
+    "file": "analysis/reference/screenshots/tier3_popup.png",
+    "sha256": "29f02ca726b0249b295f6080c2e97ed97db66d66a624850593285196ba17e5db"
+  },
+  {
+    "captureId": "CAP-049",
+    "name": "boss_retry_attempt",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 2863.238,
+    "file": "analysis/reference/screenshots/boss_retry_attempt.png",
+    "sha256": "7dca396357025269eeb9548c035d4c8e214796d63d6c450e750d65bd9338878f"
+  },
+  {
+    "captureId": "CAP-050",
+    "name": "boss_retry_after10",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3119.386,
+    "file": "analysis/reference/screenshots/boss_retry_after10.png",
+    "sha256": "f66e922a26bcdcb0b7c579b5b5d35d999dde6956d8526016784af2f201508104"
+  },
+  {
+    "captureId": "CAP-051",
+    "name": "boss_retry_after20",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3129.481,
+    "file": "analysis/reference/screenshots/boss_retry_after20.png",
+    "sha256": "34d08f49ea471eafec40996d45243a44521111538cd04cc7b8c517c6210fcc4c"
+  },
+  {
+    "captureId": "CAP-052",
+    "name": "after_boss_unlock",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3432.501,
+    "file": "analysis/reference/screenshots/after_boss_unlock.png",
+    "sha256": "aef60ca422013896b75a731a4247000525ee33b4e6a1a9316104adefb736be90"
+  },
+  {
+    "captureId": "CAP-053",
+    "name": "auto_free_activation",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3787.031,
+    "file": "analysis/reference/screenshots/auto_free_activation.png",
+    "sha256": "ecbc1fb9ed63305f1e7843cf177fd828fb4aec23dd6931d4c8800f4b966a374b"
+  },
+  {
+    "captureId": "CAP-054",
+    "name": "auto_pair_cascade",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3811.499,
+    "file": "analysis/reference/screenshots/auto_pair_cascade.png",
+    "sha256": "3f9ee2a41e17f5bc8987b691f525425c3b76715b7fbd4af0e0a84f0174e0a1b0"
+  },
+  {
+    "captureId": "CAP-055",
+    "name": "auto_cascade_settled",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3816.639,
+    "file": "analysis/reference/screenshots/auto_cascade_settled.png",
+    "sha256": "d2168f89ecc6d67d2a348872b559beeb23c737c1122d35c740c794b4cfc644c6"
+  },
+  {
+    "captureId": "CAP-056",
+    "name": "before_offline_departure",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3836.48,
+    "file": "analysis/reference/screenshots/before_offline_departure.png",
+    "sha256": "772a1ae4d5add0b7c914799b8afcaf9ffa7e49f912b1d1ed9ebc7a89c8f82875"
+  },
+  {
+    "captureId": "CAP-057",
+    "name": "offline_return_portal",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3936.845,
+    "file": "analysis/reference/screenshots/offline_return_portal.png",
+    "sha256": "071f7509ec3c7da4d4e9aaaf045dc5f25251153444d454fa63f6b4f62270ac85"
+  },
+  {
+    "captureId": "CAP-058",
+    "name": "offline_return_loaded",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 3958.705,
+    "file": "analysis/reference/screenshots/offline_return_loaded.png",
+    "sha256": "32c915f1af5f1f43f43ff073ece6f735ebb7707c0670a26cd8d15a65445544f4"
+  },
+  {
+    "captureId": "CAP-059",
+    "name": "offline_return_game",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 4054.856,
+    "file": "analysis/reference/screenshots/offline_return_game.png",
+    "sha256": "f8f56729277f9c1015731256e8fcbd7fce3d46a7680cfe97d0c41ec1f8edb5e9"
+  },
+  {
+    "captureId": "CAP-060",
+    "name": "offline_restored_board",
+    "sessionId": "RUN-02",
+    "elapsedSeconds": 4090.63,
+    "file": "analysis/reference/screenshots/offline_restored_board.png",
+    "sha256": "52929bfe5a7841745c171729e496d00c1fac85c334e8cdb2126e5803e58d79d4"
+  }
+]

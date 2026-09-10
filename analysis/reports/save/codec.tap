@@ -1,0 +1,55 @@
+TAP version 13
+# Subtest: definition stays immutable and separate from independently owned instances
+ok 1 - definition stays immutable and separate from independently owned instances
+  ---
+  duration_ms: 0.70925
+  ...
+# Subtest: quotes expose exact funds, full/locked/table-end reasons with no mutation
+ok 2 - quotes expose exact funds, full/locked/table-end reasons with no mutation
+  ---
+  duration_ms: 0.954916
+  ...
+# Subtest: 20 queued purchases accept exactly five slots, no negative balance, and survive duplicate after reload
+ok 3 - 20 queued purchases accept exactly five slots, no negative balance, and survive duplicate after reload
+  ---
+  duration_ms: 15.616083
+  ...
+# Subtest: equal price buys once; one less and failed save leave every authoritative field unchanged
+ok 4 - equal price buys once; one less and failed save leave every authoritative field unchanged
+  ---
+  duration_ms: 1.618375
+  ...
+# Subtest: mixed grants are exact, atomic and source-idempotent even with another command ID
+ok 5 - mixed grants are exact, atomic and source-idempotent even with another command ID
+  ---
+  duration_ms: 1.978583
+  ...
+# Subtest: failed durable reward emits nothing; retry and reentrant duplicate pay once
+ok 6 - failed durable reward emits nothing; retry and reentrant duplicate pay once
+  ---
+  duration_ms: 2.9415
+  ...
+# Subtest: canonical roundtrip validates entire schema, corruption, future data and malformed nested state
+ok 7 - canonical roundtrip validates entire schema, corruption, future data and malformed nested state
+  ---
+  duration_ms: 8.170333
+  ...
+# Subtest: TASK-0073 write/read/flush failure preserves authoritative state/RNG/events and stable retry
+ok 8 - TASK-0073 write/read/flush failure preserves authoritative state/RNG/events and stable retry
+  ---
+  duration_ms: 6.917959
+  ...
+# Subtest: TASK-0073 pending durability barrier publishes nothing before acknowledgement
+ok 9 - TASK-0073 pending durability barrier publishes nothing before acknowledgement
+  ---
+  duration_ms: 0.444
+  ...
+1..9
+# tests 9
+# suites 0
+# pass 9
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 304.833416

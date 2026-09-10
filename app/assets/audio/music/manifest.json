@@ -1,0 +1,44 @@
+{
+  "version": "original-score-v1",
+  "creator": "Project / Codex-assisted original composition and synthesis",
+  "source": "tooling/audio/compose-music.py",
+  "provenance": "app/assets/audio/PROVENANCE.md",
+  "tracks": [
+    {
+      "id": "music.main",
+      "path": "app/assets/audio/music/music_main.mp3",
+      "sha256": "94b1e3066e1e232c1aac89afd0a2c1e365db2515924215b80e6817d1510db9c9",
+      "masterSha256": "c36c4dc67122154f6427758bde8ba478dcf05927d326ae00b38ed729387df5f5",
+      "durationMs": 100000.0,
+      "sampleRate": 32000,
+      "channels": 2,
+      "bpm": 96,
+      "bars": 40,
+      "loop": true,
+      "loopStartFrame": 0,
+      "loopEndFrame": 3200000,
+      "boundaryDelta": 0.00482433,
+      "peakDbFS": -1.51,
+      "gainDb": -16,
+      "status": "PROJECT_ORIGINAL"
+    },
+    {
+      "id": "music.boss",
+      "path": "app/assets/audio/music/music_boss.mp3",
+      "sha256": "dc4391383f61ebded21cb5dd8e72b2dd47437121ec2096acd4238ee7a449239c",
+      "masterSha256": "c62864d388d46015191ebb3a992383fb9b461fdeca934db94852fece725945c1",
+      "durationMs": 60000.0,
+      "sampleRate": 32000,
+      "channels": 2,
+      "bpm": 96,
+      "bars": 24,
+      "loop": true,
+      "loopStartFrame": 0,
+      "loopEndFrame": 1920000,
+      "boundaryDelta": 0.00529104,
+      "peakDbFS": -1.51,
+      "gainDb": -14,
+      "status": "PROJECT_ORIGINAL"
+    }
+  ]
+}

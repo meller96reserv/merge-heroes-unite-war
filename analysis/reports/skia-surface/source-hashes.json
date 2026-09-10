@@ -1,0 +1,10 @@
+{
+  "app/src/App.tsx": "c42c71b488fba9c49e8fbac7fe0e206192ae1dfdff2972405486bfd914b51f3e",
+  "app/src/WebRoot.tsx": "95931f92ddceb083ed0c07d9bb411e8b0f349bfdaeca20d271fec58fd8f67fcd",
+  "app/src/rendering/GameSurface.tsx": "5e9f277a78a4071a014003d69c911254ac7c70f7c70f48d1e90d2259e3c119a5",
+  "index.ts": "c3f25ee498f5d7617fc18b27fbaa3093e50b7e6791145053b1edac00e92edecc",
+  "index.web.ts": "f899136450dfaa0da6e40a86e67cf9aad4f7752513a0788024e5e08cf2be04bf",
+  "package-lock.json": "36eb3ade8234314dc04d25abe3cfcccf1c5f16e1787733cf1e0e2de70071a028",
+  "tests/browser/skia-surface.py": "c78256b2515fc2ae9b6973c80f852639d235c6c64777205ce1f19b0ca1b50c47",
+  "tests/browser/foundation.py": "7b618c5eb49390d8c8cc6280984d082d779d2bc216dbeb22d73688359921406e"
+}

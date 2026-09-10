@@ -1,0 +1,12 @@
+{
+  "task": "TASK-0039",
+  "target": "Android API36 arm64 emulator",
+  "expected": "One UI tap increments the displayed RN counter by one",
+  "before": "RN taps: 2",
+  "after": "RN taps: 4",
+  "tap": [
+    540,
+    1382
+  ],
+  "passed": false
+}

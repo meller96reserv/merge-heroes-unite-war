@@ -1,0 +1,82 @@
+[
+  {
+    "family": "passionone",
+    "file": "analysis/figma/fonts/source/passionone/METADATA.pb",
+    "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+    "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/METADATA.pb",
+    "sha256": "d1b45f657cf89206ca0cb575f7afbd81702ed817efbea294d8c5055024f3d811",
+    "bytes": 1164
+  },
+  {
+    "family": "passionone",
+    "file": "analysis/figma/fonts/source/passionone/OFL.txt",
+    "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+    "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/OFL.txt",
+    "sha256": "36c285c5472c625901d4a13da7e31c5ea6126678d31d56cf95572c49f27c8950",
+    "bytes": 4390
+  },
+  {
+    "family": "passionone",
+    "file": "analysis/figma/fonts/source/passionone/PassionOne-Bold.ttf",
+    "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+    "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/PassionOne-Bold.ttf",
+    "sha256": "3a7249909b2e56e831f8a357a4ee549e9c5945cd003f0e5e3bd8791a76d98b7e",
+    "bytes": 24716
+  },
+  {
+    "family": "passionone",
+    "file": "analysis/figma/fonts/source/passionone/PassionOne-Regular.ttf",
+    "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+    "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/PassionOne-Regular.ttf",
+    "sha256": "86fea5001e5d751cf5696f0ecd4754db80918adbb12658add959f5bcdc92b09b",
+    "bytes": 24940
+  },
+  {
+    "family": "roboto",
+    "file": "analysis/figma/fonts/source/roboto/METADATA.pb",
+    "revision": "1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c",
+    "url": "https://raw.githubusercontent.com/google/fonts/1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c/ofl/roboto/METADATA.pb",
+    "sha256": "6fef19da54fb62d152f0c7b21710e6849950db7ecf852ea29511c593dad462f0",
+    "bytes": 1463
+  },
+  {
+    "family": "roboto",
+    "file": "analysis/figma/fonts/source/roboto/OFL.txt",
+    "revision": "1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c",
+    "url": "https://raw.githubusercontent.com/google/fonts/1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c/ofl/roboto/OFL.txt",
+    "sha256": "061402327a96aadb0bfb694a960ed289ecd38d383e396243831ab81feb109c41",
+    "bytes": 4394
+  },
+  {
+    "family": "roboto",
+    "file": "analysis/figma/fonts/source/roboto/Roboto[wdth,wght].ttf",
+    "revision": "1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c",
+    "url": "https://raw.githubusercontent.com/google/fonts/1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c/ofl/roboto/Roboto%5Bwdth%2Cwght%5D.ttf",
+    "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134",
+    "bytes": 488584
+  },
+  {
+    "family": "nunito",
+    "file": "analysis/figma/fonts/source/nunito/METADATA.pb",
+    "revision": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+    "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/nunito/METADATA.pb",
+    "sha256": "3e20743c7ddab54c6ac57d79a6be522d4bae795223855ce90a1b13c4132f0754",
+    "bytes": 1306
+  },
+  {
+    "family": "nunito",
+    "file": "analysis/figma/fonts/source/nunito/Nunito[wght].ttf",
+    "revision": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+    "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/nunito/Nunito%5Bwght%5D.ttf",
+    "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+    "bytes": 276932
+  },
+  {
+    "family": "nunito",
+    "file": "analysis/figma/fonts/source/nunito/OFL.txt",
+    "revision": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+    "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/nunito/OFL.txt",
+    "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65",
+    "bytes": 4385
+  }
+]

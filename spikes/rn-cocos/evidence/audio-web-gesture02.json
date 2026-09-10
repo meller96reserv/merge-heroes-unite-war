@@ -1,0 +1,131 @@
+{
+  "status": "PASS",
+  "events": [
+    {
+      "event": "host-state",
+      "starts": 0,
+      "shots": 0,
+      "loopPlaying": false,
+      "shotPlaying": false,
+      "focus": true,
+      "muted": false
+    },
+    {
+      "event": "loop-request",
+      "starts": 1,
+      "shots": 0,
+      "loopPlaying": false,
+      "shotPlaying": false
+    },
+    {
+      "event": "assets-ready",
+      "starts": 1,
+      "shots": 0,
+      "loopPlaying": false,
+      "shotPlaying": false
+    },
+    {
+      "event": "loop-started",
+      "starts": 1,
+      "shots": 0,
+      "loopPlaying": true,
+      "shotPlaying": false
+    },
+    {
+      "event": "oneshot-request",
+      "starts": 1,
+      "shots": 1,
+      "loopPlaying": true,
+      "shotPlaying": false
+    },
+    {
+      "event": "oneshot-started",
+      "starts": 1,
+      "shots": 1,
+      "loopPlaying": true,
+      "shotPlaying": true
+    },
+    {
+      "event": "oneshot-ended",
+      "starts": 1,
+      "shots": 1,
+      "loopPlaying": true,
+      "shotPlaying": true
+    },
+    {
+      "event": "stop-all",
+      "starts": 1,
+      "shots": 1,
+      "loopPlaying": false,
+      "shotPlaying": false
+    },
+    {
+      "event": "host-state",
+      "starts": 1,
+      "shots": 1,
+      "loopPlaying": false,
+      "shotPlaying": false,
+      "focus": true,
+      "muted": true
+    },
+    {
+      "event": "oneshot-suppressed",
+      "starts": 1,
+      "shots": 1,
+      "loopPlaying": false,
+      "shotPlaying": false
+    },
+    {
+      "event": "loop-request",
+      "starts": 2,
+      "shots": 1,
+      "loopPlaying": true,
+      "shotPlaying": false
+    },
+    {
+      "event": "host-state",
+      "starts": 2,
+      "shots": 1,
+      "loopPlaying": true,
+      "shotPlaying": false,
+      "focus": true,
+      "muted": false
+    },
+    {
+      "event": "loop-started",
+      "starts": 2,
+      "shots": 1,
+      "loopPlaying": true,
+      "shotPlaying": false
+    },
+    {
+      "event": "oneshot-request",
+      "starts": 2,
+      "shots": 2,
+      "loopPlaying": true,
+      "shotPlaying": false
+    },
+    {
+      "event": "oneshot-started",
+      "starts": 2,
+      "shots": 2,
+      "loopPlaying": true,
+      "shotPlaying": true
+    },
+    {
+      "event": "oneshot-ended",
+      "starts": 2,
+      "shots": 2,
+      "loopPlaying": true,
+      "shotPlaying": true
+    }
+  ],
+  "errors": [],
+  "error": null,
+  "url": "http://127.0.0.1:7457",
+  "viewport": [
+    430,
+    932
+  ],
+  "limits": "Same Cocos export; browser development transport, not native focus evidence"
+}

@@ -1,0 +1,1218 @@
+{
+  "version": "original-sfx-v1",
+  "creator": "Project / Codex-assisted original synthesis",
+  "provenance": "app/assets/audio/PROVENANCE.md",
+  "source": "tooling/audio/synthesize-sfx.py",
+  "events": [
+    {
+      "id": "ui.soft",
+      "bus": "ui",
+      "brief": "Soft woody click20–70ms with rounded top end.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/ui_soft_1.wav",
+          "sha256": "fc33f6223332aee81d873cbd2268ec27ee558b26f5e80901f944fd8f2138294b",
+          "durationMs": 64.989,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.53
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_soft_2.wav",
+          "sha256": "97e65914bc2a92f2db9581560da691a2ecfb58c11a0b1190f5e0b5a764887bff",
+          "durationMs": 64.989,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.74
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_soft_3.wav",
+          "sha256": "e162539f7a5947da57d52f71587503cf5570f7fc21c2ce83129789a23fa71e6c",
+          "durationMs": 64.989,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.04
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -14.0,
+      "cooldownMs": 40,
+      "maxConcurrent": 3,
+      "pitchRange": 0.03,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "ui.primary",
+      "bus": "ui",
+      "brief": "Confident rounded tap60–100ms, short magical tail.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/ui_primary_1.wav",
+          "sha256": "833a866c8d5543aaf56c92b6d95d5c15af7ce2f12c6cfa1ef67b8da85118ea39",
+          "durationMs": 95.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.06
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_primary_2.wav",
+          "sha256": "dd489865daa5d4e6587d217e3d6177a9494bf8cbad1719ff6be882d315e08d37",
+          "durationMs": 95.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.46
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_primary_3.wav",
+          "sha256": "a0a18d6e95dcb3a6a5ba5094ff284f26078b3c15c30e318e87f2d7c829264d8d",
+          "durationMs": 95.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.02
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -11.0,
+      "cooldownMs": 60,
+      "maxConcurrent": 2,
+      "pitchRange": 0.02,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "ui.popupOpen",
+      "bus": "ui",
+      "brief": "Soft air rise120–200ms, no harsh zipper.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/ui_popupOpen_1.wav",
+          "sha256": "5c32ca040ceb1ad8635a9a72f90617ae37a598738265fcac216ce474be2a437f",
+          "durationMs": 200.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.98
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_popupOpen_2.wav",
+          "sha256": "870fe2314c941dc3d4e30ff72053deb263aa02ba63a491b87333d07ba6e11c85",
+          "durationMs": 200.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.78
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -14.0,
+      "cooldownMs": 120,
+      "maxConcurrent": 2,
+      "pitchRange": 0.02,
+      "duckMusicDb": -2.0
+    },
+    {
+      "id": "ui.popupClose",
+      "bus": "ui",
+      "brief": "Short downward air80–140ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/ui_popupClose_1.wav",
+          "sha256": "05710dc5e4391f83f6693dd2141d2a7d303a8f8c70c978d7931b955f16fe50fa",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.53
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_popupClose_2.wav",
+          "sha256": "9f37ea970a34aed60b11aaba039639a67153c7d40128f7b263ac3c8987c9de56",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.81
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -16.0,
+      "cooldownMs": 120,
+      "maxConcurrent": 2,
+      "pitchRange": 0.02,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "ui.tab",
+      "bus": "ui",
+      "brief": "Small wooden/plucked switch50–90ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/ui_tab_1.wav",
+          "sha256": "d21ea961935d84e5582697255ecce9228f5d4219e017e6441d00c3808fd14aac",
+          "durationMs": 85.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.52
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_tab_2.wav",
+          "sha256": "2b3b307b06e1be00a28da71e4ea0c5b331073e893c9a4a2ef62a11350b61f0ae",
+          "durationMs": 85.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.55
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_tab_3.wav",
+          "sha256": "2e51e71153fc7fe1bc1c0e8f3b487e6d8d345fc73fefb175bf107e5006b7cf7e",
+          "durationMs": 85.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.32
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -14.0,
+      "cooldownMs": 80,
+      "maxConcurrent": 2,
+      "pitchRange": 0.02,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "ui.error",
+      "bus": "ui",
+      "brief": "Friendly low double tick120ms; avoid punitive buzzer.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/ui_error_1.wav",
+          "sha256": "ea519f4d2e8c36855cb9575348531e5541b470ad410df9d71eae72421659baf8",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -16.15
+        },
+        {
+          "path": "app/assets/audio/sfx/ui_error_2.wav",
+          "sha256": "ea519f4d2e8c36855cb9575348531e5541b470ad410df9d71eae72421659baf8",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -16.15
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -14.0,
+      "cooldownMs": 250,
+      "maxConcurrent": 1,
+      "pitchRange": 0.01,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "economy.goldGain",
+      "bus": "sfx",
+      "brief": "Small bright coin tinkle80–180ms; varied to avoid repetition.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/economy_goldGain_1.wav",
+          "sha256": "15c55cf90cf721e854bc1621a290fdc17ede4f44ddb48d9bc92fc064765def40",
+          "durationMs": 180.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.31
+        },
+        {
+          "path": "app/assets/audio/sfx/economy_goldGain_2.wav",
+          "sha256": "b94398fbe8a59b28e81700028b973773536bf1864c5bcbfc2535b722dc055e52",
+          "durationMs": 180.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.94
+        },
+        {
+          "path": "app/assets/audio/sfx/economy_goldGain_3.wav",
+          "sha256": "d07b8d2bce6acbf3c9ebb86e533e935b8b265d23394d8408cded8cdeeec552da",
+          "durationMs": 180.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.23
+        },
+        {
+          "path": "app/assets/audio/sfx/economy_goldGain_4.wav",
+          "sha256": "23fd7488f2c40bc91d4791177a11b7b99163365406505a4248560554f6fe7785",
+          "durationMs": 180.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.68
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -15.0,
+      "cooldownMs": 70,
+      "maxConcurrent": 3,
+      "pitchRange": 0.06,
+      "duckMusicDb": -1.0
+    },
+    {
+      "id": "economy.goldSpend",
+      "bus": "sfx",
+      "brief": "Dry purse/coin tick70ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/economy_goldSpend_1.wav",
+          "sha256": "c32dccee70043dc259571a14632ebb9993431aad2a0a4e46b45d408f2406cbb3",
+          "durationMs": 85.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.52
+        },
+        {
+          "path": "app/assets/audio/sfx/economy_goldSpend_2.wav",
+          "sha256": "b17df744d5b4c649e50c740720ae4ecb85c3547408ffe4e95ada3fc226d7100b",
+          "durationMs": 85.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.69
+        },
+        {
+          "path": "app/assets/audio/sfx/economy_goldSpend_3.wav",
+          "sha256": "bc4b599b612cab6b01ce7e74db3436786c8db71ca8e02e4294dfd6f66c170634",
+          "durationMs": 85.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.96
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -17.0,
+      "cooldownMs": 90,
+      "maxConcurrent": 2,
+      "pitchRange": 0.03,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "economy.gemGain",
+      "bus": "sfx",
+      "brief": "Glassy high sparkle180–300ms with soft attack.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/economy_gemGain_1.wav",
+          "sha256": "bc79fe8f76bdce4c277d419b6dba444bb49b5c1ad404d47c2ce87e8f0fb92306",
+          "durationMs": 300.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.3
+        },
+        {
+          "path": "app/assets/audio/sfx/economy_gemGain_2.wav",
+          "sha256": "31d84073f917aadc98b599575a7d6c17785e4c04b5265ca3c3ed02253e86f3f1",
+          "durationMs": 300.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.16
+        },
+        {
+          "path": "app/assets/audio/sfx/economy_gemGain_3.wav",
+          "sha256": "c9d1b0f3460fa63fd854be250a12e2ee6dfcae565d093128d1cd7c3480f631b6",
+          "durationMs": 300.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.13
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -13.0,
+      "cooldownMs": 100,
+      "maxConcurrent": 2,
+      "pitchRange": 0.04,
+      "duckMusicDb": -2.0
+    },
+    {
+      "id": "hero.spawn",
+      "bus": "sfx",
+      "brief": "Soft magical poof100–180ms, warm low body.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/hero_spawn_1.wav",
+          "sha256": "8f58f16fdffd48636d019be27e67df40f58cb3f3fb8568c3b8840f25b1d2dd0f",
+          "durationMs": 180.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.23
+        },
+        {
+          "path": "app/assets/audio/sfx/hero_spawn_2.wav",
+          "sha256": "74933dec1634c35a5d3cccc0ae8196863f9cf510a4c6723d519708695af586b3",
+          "durationMs": 180.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.75
+        },
+        {
+          "path": "app/assets/audio/sfx/hero_spawn_3.wav",
+          "sha256": "c989c2da847ef2adb17ce0dc481291b3292ca1935544450dfc70d5f49ecb96ca",
+          "durationMs": 180.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.14
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -14.0,
+      "cooldownMs": 80,
+      "maxConcurrent": 3,
+      "pitchRange": 0.04,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "merge.low",
+      "bus": "sfx",
+      "brief": "Two soft inputs converge into round pop and tiny chime250–450ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/merge_low_1.wav",
+          "sha256": "cf1e2a2f954883904c9ac0dabfe2be51b4b075ac4ccd4241a0ad2434165a4bca",
+          "durationMs": 430.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.59
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_low_2.wav",
+          "sha256": "26bbcefeb32e59a9f7d981ec009b5401a083e7caf67b53d207cd48e97dd8d48c",
+          "durationMs": 430.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.96
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_low_3.wav",
+          "sha256": "54da4f78ca033176c697f5163983247008f84d8d5187b53c062f3bcf387eb4c7",
+          "durationMs": 430.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.59
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_low_4.wav",
+          "sha256": "1c8cb3e9a283c5e546340368d947149a0d58487866b09e4d454e8bc42ef1bf6f",
+          "durationMs": 430.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.83
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -12.0,
+      "cooldownMs": 90,
+      "maxConcurrent": 3,
+      "pitchRange": 0.04,
+      "duckMusicDb": -2.0
+    },
+    {
+      "id": "merge.mid",
+      "bus": "sfx",
+      "brief": "Converging whoosh with richer chord350–550ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/merge_mid_1.wav",
+          "sha256": "e3e175ce6e3499b8e07115aba8a61ddbf8032559211e0b40b90a06847b3ccaee",
+          "durationMs": 550.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.91
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_mid_2.wav",
+          "sha256": "89ebcf3a47d8f3f69c50514a701970716dca8ef44586a35c3b867b85a0a7f30b",
+          "durationMs": 550.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.49
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_mid_3.wav",
+          "sha256": "3667e7f2afb868f4607f4501dc5f7516742fcdf71247e5cfff0b2e895c1b5ce0",
+          "durationMs": 550.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.44
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_mid_4.wav",
+          "sha256": "5e6864ab779e45284a8d149bbad466784eb75e446f771944336ec169858065fb",
+          "durationMs": 550.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.44
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -11.0,
+      "cooldownMs": 120,
+      "maxConcurrent": 2,
+      "pitchRange": 0.03,
+      "duckMusicDb": -3.0
+    },
+    {
+      "id": "merge.high",
+      "bus": "sfx",
+      "brief": "Wide magical bloom500–800ms; strong but soft peak.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/merge_high_1.wav",
+          "sha256": "dced9860e3079e6e453de30bcc9e8b33223f2c247d35a873b173a3e44f77530a",
+          "durationMs": 800.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.98
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_high_2.wav",
+          "sha256": "c4ae4948e6c429ba2e062ab9c3b4749d60f527d7c6bc5adbede9cb3251a5984c",
+          "durationMs": 800.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.21
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_high_3.wav",
+          "sha256": "6f11cebbfee540afb6d3dcdd2614110c3e5a07be4c5fc70d04916ac10d47b184",
+          "durationMs": 800.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.62
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -9.0,
+      "cooldownMs": 250,
+      "maxConcurrent": 1,
+      "pitchRange": 0.02,
+      "duckMusicDb": -5.0
+    },
+    {
+      "id": "merge.cascade",
+      "bus": "sfx",
+      "brief": "Escalating chime degrees, capped fourth step; avoid unlimited pitch rise.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/merge_cascade_1.wav",
+          "sha256": "568d2f38d2038711c3a4fc9a871edae47ba1f8b055876f3ca5e5d60973d35038",
+          "durationMs": 400.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.61
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_cascade_2.wav",
+          "sha256": "ca80c8e97d3d08ac95ebd1d631fc9d0efb9a18558a622ecbd28178f230e7fc11",
+          "durationMs": 400.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.51
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_cascade_3.wav",
+          "sha256": "cb758c15446d8b19c1c5edc596785ccd1816b9505786a8f5ea8ee1b740c34f79",
+          "durationMs": 400.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.45
+        },
+        {
+          "path": "app/assets/audio/sfx/merge_cascade_4.wav",
+          "sha256": "c3a98c89d11a3ff5b5c7f278a291e2297c68b2aad66d6bf162e589c66f7c2c54",
+          "durationMs": 400.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.54
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -13.0,
+      "cooldownMs": 100,
+      "maxConcurrent": 2,
+      "pitchRange": 0.02,
+      "duckMusicDb": -2.0
+    },
+    {
+      "id": "combat.melee",
+      "bus": "sfx",
+      "brief": "Short cloth/blade whoosh80–140ms, no heavy gore.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/combat_melee_1.wav",
+          "sha256": "041e0d6f6b53bed061bf2a5a799c09b871702f32d5d5e433ea567e5608f0ba71",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -5.16
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_melee_2.wav",
+          "sha256": "ffd5053a62bbcd74d1820505e22f755a6997c249012bc2767be9ff939323497f",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.65
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_melee_3.wav",
+          "sha256": "d410cf1d8c49304fdc427638f265739d2627d83c2d09c89e04bc75cc533df1d0",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.81
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_melee_4.wav",
+          "sha256": "190f5247905a02282011ab5570b63876af34845f65bd9912c6c7a2e98256effd",
+          "durationMs": 140.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.25
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -18.0,
+      "cooldownMs": 60,
+      "maxConcurrent": 4,
+      "pitchRange": 0.05,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "combat.ranged",
+      "bus": "sfx",
+      "brief": "Light bow/string release70–120ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/combat_ranged_1.wav",
+          "sha256": "1cf96f8efb8d2d3f084e726dcbeae03f063f8734b381e50a80e3c7ca2d05d0db",
+          "durationMs": 120.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.25
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_ranged_2.wav",
+          "sha256": "b89ba670597c36c2c7a84c4a9ad06bbe3074d0a5417fb26b385bc8212db0bc04",
+          "durationMs": 120.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.23
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_ranged_3.wav",
+          "sha256": "3837f55d43cb297dc18e073bdc213b5b066a26cd36d3681adba518d39ce6169b",
+          "durationMs": 120.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.71
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_ranged_4.wav",
+          "sha256": "f895a1931ac60b1b2faf1214e875349c028a3f445f4b863133e6d71f20c3db4f",
+          "durationMs": 120.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.47
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -17.0,
+      "cooldownMs": 70,
+      "maxConcurrent": 4,
+      "pitchRange": 0.04,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "combat.magic",
+      "bus": "sfx",
+      "brief": "Airy magical pulse120–200ms, controlled high end.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/combat_magic_1.wav",
+          "sha256": "a7ce87098d5cfe4c3dd7f6018a890ab4ab0c2da2d4954f8353be1ed36cfd49a0",
+          "durationMs": 200.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.45
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_magic_2.wav",
+          "sha256": "60c004268cda54ee66fab0cc86e1d294172cfcdc18921dad30093a19016638de",
+          "durationMs": 200.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.2
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_magic_3.wav",
+          "sha256": "efb0bad37f51d525ecb861d212616ee07116f374ccec217dbd31461fb56dd793",
+          "durationMs": 200.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.7
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_magic_4.wav",
+          "sha256": "4af1f3ac24dd8189fc957a9b55a49756fc03204efe97300d203eff055d04bb1b",
+          "durationMs": 200.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.59
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -17.0,
+      "cooldownMs": 80,
+      "maxConcurrent": 3,
+      "pitchRange": 0.05,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "combat.hit",
+      "bus": "sfx",
+      "brief": "Soft rounded impact45–100ms; choose wood/stone/magic variants.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/combat_hit_1.wav",
+          "sha256": "b9c93376d4e4b52c41d9668e2977aa388b8ba6bdd2e042d9199544ee741c4cc0",
+          "durationMs": 90.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.74
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_hit_2.wav",
+          "sha256": "049e2d7b6b9fc95d7228e8ce641bf0f686062351dd3c8b427070b9eb49b42608",
+          "durationMs": 90.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.91
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_hit_3.wav",
+          "sha256": "1f3c43578563fda99d479ccc82ed745aab36aaa9a6ff2831965afec458b4fcbc",
+          "durationMs": 90.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.52
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_hit_4.wav",
+          "sha256": "4777628883d6bde006b638ef2497c8fc77c800fa15848cc5395f34922c9b23f8",
+          "durationMs": 90.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.66
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_hit_5.wav",
+          "sha256": "6db8ebe01c1fc622d1ce24c635aa877253e9620fc7f7563d5e6e8cfc6f5f9173",
+          "durationMs": 90.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.63
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -19.0,
+      "cooldownMs": 45,
+      "maxConcurrent": 6,
+      "pitchRange": 0.06,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "combat.crit",
+      "bus": "sfx",
+      "brief": "Stronger impact plus restrained bright accent100–180ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/combat_crit_1.wav",
+          "sha256": "97ba0cf22b41b257072ba852b6ff6c147a12d88a661f78f55dbd5461b7f43805",
+          "durationMs": 170.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.16
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_crit_2.wav",
+          "sha256": "b08d104e6b667693f20a873f1150a0ea0d5a11d5f29b4aeac0d798088e7ad400",
+          "durationMs": 170.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -5.78
+        },
+        {
+          "path": "app/assets/audio/sfx/combat_crit_3.wav",
+          "sha256": "bcb7b23285099967a77cbd1748ae19440831cd5ea1a804b631359fe12d3c36e1",
+          "durationMs": 170.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.59
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -13.0,
+      "cooldownMs": 120,
+      "maxConcurrent": 2,
+      "pitchRange": 0.03,
+      "duckMusicDb": -2.0
+    },
+    {
+      "id": "enemy.deathSmall",
+      "bus": "sfx",
+      "brief": "Friendly creature poof120–240ms, no vocal pain.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/enemy_deathSmall_1.wav",
+          "sha256": "d9af1cb419aed3f9172f548caeda0ae0c1c4934614035bd1cfb3a1c05a537ad7",
+          "durationMs": 230.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.11
+        },
+        {
+          "path": "app/assets/audio/sfx/enemy_deathSmall_2.wav",
+          "sha256": "44dbc7ed29f0d4d76aae2d0f4a2334db47da6ea30495d98600e0cc871f77144a",
+          "durationMs": 230.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.76
+        },
+        {
+          "path": "app/assets/audio/sfx/enemy_deathSmall_3.wav",
+          "sha256": "b5566945fcf46fa0c927ea1af3d2a9f3916e90995068160df65982306bfd5ccf",
+          "durationMs": 230.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.75
+        },
+        {
+          "path": "app/assets/audio/sfx/enemy_deathSmall_4.wav",
+          "sha256": "73f6e34e99800e46431e0c542fc8793f83988a964a1e2ca59b8f426170c16467",
+          "durationMs": 230.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.68
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -17.0,
+      "cooldownMs": 90,
+      "maxConcurrent": 3,
+      "pitchRange": 0.05,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "enemy.deathLarge",
+      "bus": "sfx",
+      "brief": "Low soft crumble200–350ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/enemy_deathLarge_1.wav",
+          "sha256": "b78b588de011ad94e79e22fbefbfa0d314939e325ad9487f4dffacd209025158",
+          "durationMs": 340.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -7.15
+        },
+        {
+          "path": "app/assets/audio/sfx/enemy_deathLarge_2.wav",
+          "sha256": "c6364dbe6ee6db28a453b8d0d71d9b095a7f696ae56a3afb4bab086f89e84d0a",
+          "durationMs": 340.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -5.73
+        },
+        {
+          "path": "app/assets/audio/sfx/enemy_deathLarge_3.wav",
+          "sha256": "472f75a4f1cb744036f4457798c8fe111e12b8790d6013767c59acfaec8040c0",
+          "durationMs": 340.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.48
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -15.0,
+      "cooldownMs": 140,
+      "maxConcurrent": 2,
+      "pitchRange": 0.03,
+      "duckMusicDb": -1.0
+    },
+    {
+      "id": "boss.intro",
+      "bus": "sfx",
+      "brief": "Low drum and magical breath600–900ms, clear anticipation.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/boss_intro_1.wav",
+          "sha256": "794ac7aee4afd70fdc2e2fdaf37ca079c92ffe50ff8d15f1b8677643b17f3f62",
+          "durationMs": 850.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -5.83
+        },
+        {
+          "path": "app/assets/audio/sfx/boss_intro_2.wav",
+          "sha256": "80c542c7510d1865538157d68499260c49c218205ee63b56c358e8ef18d9e9e4",
+          "durationMs": 850.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.02
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -11.0,
+      "cooldownMs": 1500,
+      "maxConcurrent": 1,
+      "pitchRange": 0.01,
+      "duckMusicDb": -5.0
+    },
+    {
+      "id": "boss.death",
+      "bus": "sfx",
+      "brief": "Broad soft impact then reward sparkle700–1100ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/boss_death_1.wav",
+          "sha256": "9c8fff0afa8d4865fd33b1acdc14111a091852b0feb2674825ba42e88a609e9f",
+          "durationMs": 1050.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.04
+        },
+        {
+          "path": "app/assets/audio/sfx/boss_death_2.wav",
+          "sha256": "6bb2bfa0a2b9d0da8e5bb3e43d728508f75020356612897237f58e2f59e8bc95",
+          "durationMs": 1050.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -5.37
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -10.0,
+      "cooldownMs": 1500,
+      "maxConcurrent": 1,
+      "pitchRange": 0.01,
+      "duckMusicDb": -6.0
+    },
+    {
+      "id": "progress.stageClear",
+      "bus": "sfx",
+      "brief": "Short rising three-note reward figure300–500ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/progress_stageClear_1.wav",
+          "sha256": "e7a3dfc057aa5ef0aae3912923ad1960e8a0686cd6d20cdd1cf53477ffbfc0df",
+          "durationMs": 500.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.36
+        },
+        {
+          "path": "app/assets/audio/sfx/progress_stageClear_2.wav",
+          "sha256": "7d837d521456cf9275155f7a02b15818b41d64590018a1f905b19c0c1a0ce1ac",
+          "durationMs": 500.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.62
+        },
+        {
+          "path": "app/assets/audio/sfx/progress_stageClear_3.wav",
+          "sha256": "90feb9961321a619f66393f765025d8fb5936b79d47a4547098d02796121f619",
+          "durationMs": 500.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.52
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -13.0,
+      "cooldownMs": 400,
+      "maxConcurrent": 1,
+      "pitchRange": 0.02,
+      "duckMusicDb": -3.0
+    },
+    {
+      "id": "progress.unlock",
+      "bus": "sfx",
+      "brief": "Warm discovery chord450–700ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/progress_unlock_1.wav",
+          "sha256": "c5edd945c1f120d000e16e22fda1768329476bbaa8fb786146a77f00e45aa07c",
+          "durationMs": 700.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.37
+        },
+        {
+          "path": "app/assets/audio/sfx/progress_unlock_2.wav",
+          "sha256": "06db08c43212fffa33a39ee9e3004a18f8f4bbcd77c72077bc24452465fab1bf",
+          "durationMs": 700.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.93
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -12.0,
+      "cooldownMs": 500,
+      "maxConcurrent": 1,
+      "pitchRange": 0.01,
+      "duckMusicDb": -4.0
+    },
+    {
+      "id": "wheel.tick",
+      "bus": "ui",
+      "brief": "Tiny mechanical click15–40ms, throttle at high speed.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/wheel_tick_1.wav",
+          "sha256": "69d1ab4158f4894ae99e1b7746210fcb3b737dfed06c53b5de0a42d0b13dec53",
+          "durationMs": 35.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -12.32
+        },
+        {
+          "path": "app/assets/audio/sfx/wheel_tick_2.wav",
+          "sha256": "91ea93a659ecfd086366d7df1b0256abeac576981ba6c64d60baf04b1ae13083",
+          "durationMs": 35.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -11.29
+        },
+        {
+          "path": "app/assets/audio/sfx/wheel_tick_3.wav",
+          "sha256": "d0ef7a27be398a61a6375631218a455bf12a6cb870e07164a0664e3d885b39d6",
+          "durationMs": 35.011,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -12.83
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -19.0,
+      "cooldownMs": 45,
+      "maxConcurrent": 1,
+      "pitchRange": 0.02,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "wheel.result",
+      "bus": "sfx",
+      "brief": "Reward chime400–700ms; neutral short variant for empty result.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/wheel_result_1.wav",
+          "sha256": "f95de880d7a5a05173b72c50ea2cb8227acfd62880bec06875fedd92d6ab137b",
+          "durationMs": 650.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.27
+        },
+        {
+          "path": "app/assets/audio/sfx/wheel_result_2.wav",
+          "sha256": "7e15dfafad08a855a2fad8d545ffe934605693354d78b0ad6e0d10e65ae7faaa",
+          "durationMs": 650.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.99
+        },
+        {
+          "path": "app/assets/audio/sfx/wheel_result_3.wav",
+          "sha256": "d7ba226438f594e2d7807ffe3ab9d1eec60bace224e1a64823f8fd6d033279c4",
+          "durationMs": 240.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -16.07
+        }
+      ],
+      "neutralVariant": 2,
+      "gainDb": -11.0,
+      "cooldownMs": 500,
+      "maxConcurrent": 1,
+      "pitchRange": 0.02,
+      "duckMusicDb": -4.0
+    },
+    {
+      "id": "reward.daily",
+      "bus": "sfx",
+      "brief": "Warm coin/chime flourish350–600ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/reward_daily_1.wav",
+          "sha256": "f6ee4681e4cb4d35345ce2c1b9d5869fc2249f5aaa188efc413339343e0029af",
+          "durationMs": 600.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.54
+        },
+        {
+          "path": "app/assets/audio/sfx/reward_daily_2.wav",
+          "sha256": "f798efbfe424cc7b2c826e44e1596656ae95ad25fc1a2be89d060cfd14fd22c2",
+          "durationMs": 600.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.45
+        },
+        {
+          "path": "app/assets/audio/sfx/reward_daily_3.wav",
+          "sha256": "5371106c153954a4b6f019a34924f169e19bb6f3840a240202a5f88f8d697739",
+          "durationMs": 600.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -8.68
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -12.0,
+      "cooldownMs": 500,
+      "maxConcurrent": 1,
+      "pitchRange": 0.02,
+      "duckMusicDb": -3.0
+    },
+    {
+      "id": "reward.chest",
+      "bus": "sfx",
+      "brief": "Wood creak then magical sparkle400–650ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/reward_chest_1.wav",
+          "sha256": "341094fe80e6c4a516ab015eab796a974419cab21d4a7c8fd0d76c15a5fbdf9d",
+          "durationMs": 650.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.34
+        },
+        {
+          "path": "app/assets/audio/sfx/reward_chest_2.wav",
+          "sha256": "6ae7d795e94cf0a2422435381a7ba9e2fb6f180e2ad5091fc411d596a01d11a5",
+          "durationMs": 650.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -10.41
+        },
+        {
+          "path": "app/assets/audio/sfx/reward_chest_3.wav",
+          "sha256": "4682fdb12c2344ffa3d931f4400c8642875e4a4e0932d4cfda8284f79602f571",
+          "durationMs": 650.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.0
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -12.0,
+      "cooldownMs": 400,
+      "maxConcurrent": 1,
+      "pitchRange": 0.03,
+      "duckMusicDb": -3.0
+    },
+    {
+      "id": "equipment.equip",
+      "bus": "sfx",
+      "brief": "Satisfying cloth/metal fit100–170ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/equipment_equip_1.wav",
+          "sha256": "e35c393db35eb30b74f6d33b6c957a94bd6927db4d9d92dbb50a8abab334e74b",
+          "durationMs": 170.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.38
+        },
+        {
+          "path": "app/assets/audio/sfx/equipment_equip_2.wav",
+          "sha256": "5f11eaf11eb561abade72a950eb3b1b32263971b6bf14f67356b6f27fcbed3d3",
+          "durationMs": 170.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.33
+        },
+        {
+          "path": "app/assets/audio/sfx/equipment_equip_3.wav",
+          "sha256": "d201b5d2201dc32260c73c5f16e00b63b41dfb8ea81ea60266afb77c16c8fad9",
+          "durationMs": 170.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -6.35
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -15.0,
+      "cooldownMs": 100,
+      "maxConcurrent": 2,
+      "pitchRange": 0.03,
+      "duckMusicDb": 0.0
+    },
+    {
+      "id": "equipment.upgrade",
+      "bus": "sfx",
+      "brief": "Short ascending forge sparkle300–500ms.",
+      "status": "PROJECT_ORIGINAL",
+      "files": [
+        {
+          "path": "app/assets/audio/sfx/equipment_upgrade_1.wav",
+          "sha256": "bd11ef6fbc046431e96908813268940ed2516940e1ecf78df56f22e2800bcc3a",
+          "durationMs": 500.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.71
+        },
+        {
+          "path": "app/assets/audio/sfx/equipment_upgrade_2.wav",
+          "sha256": "4bccdcc2d0235ae326136d50edcebb52ace86fbdaf4757291549a2003bea83f2",
+          "durationMs": 500.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.68
+        },
+        {
+          "path": "app/assets/audio/sfx/equipment_upgrade_3.wav",
+          "sha256": "56925700528ae584cc5ebe7a54b022cef5289477fea20676f8601280ddfe8de7",
+          "durationMs": 500.0,
+          "sampleRate": 44100,
+          "channels": 1,
+          "peakDbFS": -9.39
+        }
+      ],
+      "neutralVariant": null,
+      "gainDb": -12.0,
+      "cooldownMs": 250,
+      "maxConcurrent": 1,
+      "pitchRange": 0.02,
+      "duckMusicDb": -3.0
+    }
+  ]
+}

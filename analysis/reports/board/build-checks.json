@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "typescript": true,
+  "coreBoundary": true,
+  "productionWebExport": true,
+  "sourceAssets": 33,
+  "densityVariants": 63,
+  "figmaViewportFixtures": 10,
+  "fullPixelGate": "NEEDS_CALIBRATION_TASK_0069",
+  "native": "NOT_RUN"
+}

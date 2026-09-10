@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "durationMs": 650,
+  "markerChangedPixels": 3256,
+  "visibleRevealRingPixels": 571,
+  "committedBeforeMotion": true,
+  "secondMergeIntensity": 2,
+  "secondMergePitch": 1.06,
+  "cancelReconcilesTier3": true,
+  "reloadPreservesGold195": true,
+  "runtimeErrors": 0,
+  "native": "NOT_RUN"
+}

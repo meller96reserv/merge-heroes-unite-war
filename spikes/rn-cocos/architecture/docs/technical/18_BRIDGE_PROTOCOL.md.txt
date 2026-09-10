@@ -1,0 +1,17 @@
+# Bridge protocol
+
+[PROPOSED protocol v1]. Envelope: version, type, requestId (nullable for notifications), sessionId, generation, sequence, timestamp and typed payload. All messages validate against bridge.schema.json plus bridge-payloads.schema.json. UTF-8 JSON maximum64 KiB; sequence is monotonic per sender/session. Timestamp is diagnostic, never a trusted reward clock.
+
+Handshake: Cocos creates session generation and emits game.ready with supported protocol/build capabilities. Host sends app.initialize with same session/generation, environment, safe areas, settings and optional initial route. Game validates exactly once; duplicate initialize with identical requestId returns cached status. A changed account requires closing old session, clearing callbacks and a fresh initialization. Unsupported major version returns game.error and prevents economic commands.
+
+Game→host: game.ready, game.error, game.exitRequested, progress.stageChanged, currency.changed, reward.claimed, purchase.requested, ad.rewardRequested, analytics.event, save.changed, player.levelChanged. Host→game: app.initialize, app.userChanged, app.purchaseResult, app.rewardGranted, app.pause, app.resume, app.settingsChanged, app.deepLink, app.notificationOpened. See the machine-readable protocol catalogue for payloads, direction and retry/ordering policy. Purchases/ads are disabled in MVP; message boundaries are reserved, not production integrations.
+
+Requests get stable requestId. Side-effect result callbacks include an operationId/transactionId bound to the pending request. Duplicate results reuse an existing receipt; stale session/generation is rejected. Missing/out-of-order control messages trigger state resynchronization, not replay of arbitrary economic actions. Only app.rewardGranted from an authorized pending operation can request a grant; arbitrary host input cannot name unrestricted currencies/amounts.
+
+Timeouts: proposed handshake10 s, pause flush2 s, external purchase/ad120 s with cancel/pending reconciliation. Transport can retry idempotent initialize/settings/control with same requestId and bounded backoff. Never retry a purchase charge by minting a new ID. During background, queue bounded summaries and coalesce by revision; discard old presentation notifications.
+
+Acceptance: schema rejection includes field path; unknown type/version, oversize, duplicate, stale generation, reordered callbacks and teardown are covered in the native harness; no per-frame bridge traffic.
+
+## Traceability
+
+[00_TECH_INDEX.md](00_TECH_INDEX.md) · [17_GAME_STATE_MODEL.md](../17_GAME_STATE_MODEL.md) · [04_UNKNOWNS_REGISTER.md](../04_UNKNOWNS_REGISTER.md) · [README.md](../../data-spec/README.md) · [TASK_INDEX.md](../../tasks/TASK_INDEX.md) · [01_TEST_STRATEGY.md](../qa/01_TEST_STRATEGY.md)

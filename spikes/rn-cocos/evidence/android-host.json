@@ -1,0 +1,124 @@
+{
+  "taskId": "TASK-0040",
+  "status": "PASS",
+  "scope": "Debug arm64 Android API36 emulator full-screen host only",
+  "date": "2026-09-08",
+  "toolchain": "spikes/rn-cocos/toolchain.json",
+  "target": {
+    "avd": "kisel_native_api36",
+    "serial": "emulator-5556",
+    "image": "system-images;android-36;google_apis_playstore;arm64-v8a",
+    "ramMiB": 2048,
+    "dataPartition": "8G",
+    "resolution": [
+      1080,
+      2400
+    ],
+    "gpu": "host",
+    "physicalDevice": "NOT_RUN"
+  },
+  "apk": {
+    "path": "spikes/rn-cocos/rn-probe/android/app/build/outputs/apk/debug/app-debug.apk",
+    "bytes": 112834218,
+    "sha256": "36e61d51598a2e773c3224d710fc03bd970e947f9ed5ec6d0eca384fde22eb5f"
+  },
+  "video": {
+    "path": "spikes/rn-cocos/evidence/videos/android-host-isolated-70s.mp4",
+    "bytes": 1465699,
+    "sha256": "92780e607b906e0430c2323f4ee15b9fe203d004497941f26eb2b7434e2ebf48",
+    "durationSeconds": 68.7462,
+    "gitIgnored": true
+  },
+  "checks": [
+    {
+      "case": "RN and Cocos same process",
+      "expected": "single app process and one Activity owner",
+      "actual": {
+        "pid": 2727,
+        "creations": 2,
+        "liveOnCreate": [
+          1,
+          1
+        ],
+        "liveAfterDestroy": [
+          0,
+          0
+        ]
+      },
+      "status": "PASS"
+    },
+    {
+      "case": "continuous visible rendering",
+      "expected": "at least60 seconds, increasing counters, no leave/recreate",
+      "actual": {
+        "videoSeconds": 68.7462,
+        "samplePTS": [
+          1,
+          62
+        ],
+        "visibleFrames": [
+          17065,
+          18248
+        ],
+        "visibleSeconds": [
+          482,
+          543
+        ],
+        "taps": [
+          2,
+          2
+        ]
+      },
+      "status": "PASS"
+    },
+    {
+      "case": "controlled first-engine touch",
+      "expected": "one increment and color change",
+      "actual": {
+        "androidPoint": [
+          540,
+          1400
+        ],
+        "cocosPoint": [
+          215,
+          386.2037037037037
+        ],
+        "tapsBefore": 1,
+        "tapsAfter": 2,
+        "color": "violet to teal"
+      },
+      "status": "PASS"
+    },
+    {
+      "case": "Back twice with reentry",
+      "expected": "RN restored; new scene receives one touch; max active owners1",
+      "actual": {
+        "secondSceneTaps": [
+          0,
+          1
+        ],
+        "finalActivity": "com.kiselnativeprobe/.MainActivity",
+        "finalOwners": 0
+      },
+      "status": "PASS"
+    }
+  ],
+  "logs": [
+    "spikes/rn-cocos/logs/android-host-build-attempt2.log",
+    "spikes/rn-cocos/logs/android-host-isolated-reenter.log"
+  ],
+  "notPassedHere": [
+    "NAT-01 physical device",
+    "NAT-07 popup dismissal",
+    "NAT-08 ten cycles/memory",
+    "NAT-09 lifecycle",
+    "NAT-10 audio",
+    "NAT-11 full listener/resource baseline",
+    "NAT-13 process death",
+    "NAT-14 protocol robustness"
+  ],
+  "rejectedEvidence": [
+    "attempt1 built but C++ codegen module provider absent; null native module",
+    "shared-emulator recordings interrupted by inputs with unestablished source; no continuous-render claim"
+  ]
+}

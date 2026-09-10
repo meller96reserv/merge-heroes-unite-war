@@ -1,0 +1,66 @@
+[
+  {
+    "case": "valid bridge pause",
+    "passed": true
+  },
+  {
+    "case": "unknown type",
+    "passed": true
+  },
+  {
+    "case": "missing pause payload field",
+    "passed": true
+  },
+  {
+    "case": "arbitrary reward amount",
+    "passed": true
+  },
+  {
+    "case": "wrong version",
+    "passed": true
+  },
+  {
+    "case": "valid hero record",
+    "passed": true
+  },
+  {
+    "case": "local cross-schema hero collection",
+    "passed": true
+  },
+  {
+    "case": "zero attack interval",
+    "passed": true
+  },
+  {
+    "case": "crit over100percent",
+    "passed": true
+  },
+  {
+    "case": "unsafe combat integer",
+    "passed": true
+  },
+  {
+    "case": "valid save including timed auto and RNG",
+    "passed": true
+  },
+  {
+    "case": "negative currency",
+    "passed": true
+  },
+  {
+    "case": "leading zero",
+    "passed": true
+  },
+  {
+    "case": "floating currency",
+    "passed": true
+  },
+  {
+    "case": "scientific notation",
+    "passed": true
+  },
+  {
+    "case": "huge exact decimal save accepted",
+    "passed": true
+  }
+]

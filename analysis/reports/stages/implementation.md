@@ -1,0 +1,7 @@
+# TASK-0117 — shared stage/boss integration
+
+PASS: `node --import tsx --test tests/unit/stage-hud.test.ts tests/unit/combat-runtime.test.ts`; actual application reducer, durable coordinator and battle runtime traverse ordinary waves, first clears, timeout/farm and manual retry. The separate full core/presenter regression passes 88 tests.
+
+PASS: `tests/browser/stage-loop.py` at root `npm run dev:web` (Chromium, 430×932) drives the real RN/Skia application through 1-1, both 1-2 waves, 1-3 timeout/farm, purchase and drag merges to level 3, manual retry, boss victory, five new slots and reload. No page/console errors. See `browser/stage-loop.json` and screenshots. Initial 100 gold becomes 258 after the demonstrated purchases, discoveries, kills and first clears; the boss-clear panel shows the committed +45 gold.
+
+One runtime serves web/native. Platform save bootstrap is separated from the application controller so its actual reducer can run in deterministic integration tests without importing platform modules. Native hardware/build acceptance and performance soak are NOT_RUN. Existing full-screen Figma pixel calibration remains a separate open gate; this checkpoint does not claim pixel-perfect parity. Boss art currently reuses the specified semantic boar family for the explicit proposed content variants. Rewarded boosting/provider callbacks remain their assigned tasks, with no simulated grants.

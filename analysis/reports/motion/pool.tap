@@ -1,0 +1,50 @@
+TAP version 13
+# Subtest: all source matrix events have runtime profiles with explicit reduced/low fallbacks
+ok 1 - all source matrix events have runtime profiles with explicit reduced/low fallbacks
+  ---
+  duration_ms: 2.549625
+  ...
+# Subtest: death interrupts attack once; repeated hits and stale callbacks cannot restart or resurrect a reused target
+ok 2 - death interrupts attack once; repeated hits and stale callbacks cannot restart or resurrect a reused target
+  ---
+  duration_ms: 0.413167
+  ...
+# Subtest: mode switch and scene exit reset every cosmetic resource without changing the core snapshot
+ok 3 - mode switch and scene exit reset every cosmetic resource without changing the core snapshot
+  ---
+  duration_ms: 0.678
+  ...
+# Subtest: synchronous completion and failed starts leave no active handle or retained resource
+ok 4 - synchronous completion and failed starts leave no active handle or retained resource
+  ---
+  duration_ms: 0.148292
+  ...
+# Subtest: saturation drops cosmetic acquisition; recycled lease cannot be released by an old completion
+ok 5 - saturation drops cosmetic acquisition; recycled lease cannot be released by an old completion
+  ---
+  duration_ms: 0.914417
+  ...
+# Subtest: director cancellation midway releases all owned callbacks; repeated scenes return to baseline
+ok 6 - director cancellation midway releases all owned callbacks; repeated scenes return to baseline
+  ---
+  duration_ms: 0.908583
+  ...
+# Subtest: one failing cleanup cannot leak sibling resources or recycle a value before reset finishes
+ok 7 - one failing cleanup cannot leak sibling resources or recycle a value before reset finishes
+  ---
+  duration_ms: 0.25325
+  ...
+# Subtest: failed resets quarantine the slot; scene disposal still cleans sibling effects
+ok 8 - failed resets quarantine the slot; scene disposal still cleans sibling effects
+  ---
+  duration_ms: 0.189625
+  ...
+1..8
+# tests 8
+# suites 0
+# pass 8
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 285.517333

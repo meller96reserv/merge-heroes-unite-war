@@ -1,0 +1,16 @@
+{
+  "name": "KiselCocosProbe",
+  "platform": "web-mobile",
+  "debug": true,
+  "startScene": "17194116-18a0-4edb-a625-b4d1f6d3ed05",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/NativeProbe.scene",
+      "uuid": "17194116-18a0-4edb-a625-b4d1f6d3ed05"
+    }
+  ],
+  "buildPath": "project://build",
+  "outputName": "web-preview",
+  "md5Cache": false,
+  "packages": { "web-mobile": { "orientation": "portrait" } }
+}

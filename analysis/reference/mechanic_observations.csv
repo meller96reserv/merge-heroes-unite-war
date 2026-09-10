@@ -1,0 +1,18 @@
+observation_id,date,version,screen,state,action,before,after,timing_ms,evidence_file,confidence,notes
+OBS-001,2026-09-08,LIVE_CRAZY3.16.2,main,fresh,buy once,gold100;empty5open,gold99;tier1slot1,,analysis/reference/screenshots/tutorial_after_1.png,0.98,EV-009;RUN-01 t=195.594s; CAP-006
+OBS-002,2026-09-08,LIVE_CRAZY3.16.2,main,tutorial,buy second,gold99;oneunit,gold98;two tier1;DragToMerge,,analysis/reference/screenshots/tutorial_buy_2_600ms.png,0.98,EV-009;RUN-01 t=279.727s; CAP-008
+OBS-003,2026-09-08,LIVE_CRAZY3.16.2,main,tutorial,drag slot2→slot1,two tier1,one Archer2;discovery+100gem/+10gold,,analysis/reference/screenshots/run2_reverse_merge.png,0.98,EV-010;RUN-02 t=315.261s; CAP-015
+OBS-004,2026-09-08,LIVE_CRAZY3.16.2,main,tutorial,drag hero to battle,ownedArcher2,deployed;owned slot retained,,analysis/reference/screenshots/first_combat.png,0.98,EV-011;RUN-02 t=384.623s; CAP-018
+OBS-005,2026-09-08,LIVE_CRAZY3.16.2,main,combat,wait,enemyHP1;gold108,nextHP4;gold109,,analysis/reference/screenshots/combat_after_8s.png,0.98,EV-012;RUN-02 t=392.759s; CAP-019
+OBS-006,2026-09-08,LIVE_CRAZY3.16.2,main,tutorial,tap owned hero,deployed,withdrawn;board hero retained,,analysis/reference/screenshots/tutorial_withdraw.png,0.98,EV-011;RUN-02 t=533.741s; CAP-021
+OBS-007,2026-09-08,LIVE_CRAZY3.16.2,main,freeplay,holdBuy2seconds,one deployed +4free slots,five occupied;Hero platform is full,,analysis/reference/screenshots/freeplay_hold.png,0.98,EV-015;RUN-02 t=1102.765s; CAP-032
+OBS-008,2026-09-08,LIVE_CRAZY3.16.2,settings,foreground,wait10seconds,battle behind modal,HP/gold changed;version3.16.2,,analysis/reference/screenshots/settings_continuity.png,0.98,EV-026;RUN-02 t=1695.989s; CAP-039
+OBS-009,2026-09-08,LIVE_CRAZY3.16.2,main,freeplay,merge reservepairs then tier2pair,Archer2deployed+four tier1,Magician3reserve;new-tier reward,,analysis/reference/screenshots/tier3_popup.png,0.98,EV-020;RUN-02 t=2860.044s; CAP-048
+OBS-010,2026-09-08,LIVE_CRAZY3.16.2,boss,retry,tapBoss withMagician3,farm1-9HP81,boss1-10HP70;timer;Giveup,,analysis/reference/screenshots/boss_retry_attempt.png,0.98,EV-021;RUN-02 t=2863.238s; CAP-049
+OBS-011,2026-09-08,LIVE_CRAZY3.16.2,boss,combat,automatic hits,bossHP70;gold8389,HP0;gold18389;tutorialautoicon,,analysis/reference/screenshots/boss_retry_after20.png,0.98,EV-021;RUN-02 t=3129.481s; CAP-051
+OBS-012,2026-09-08,LIVE_CRAZY3.16.2,auto,locked/newlyavailable,openauto,firstbosscomplete,60min;Freevideo/500gems;OFF,,analysis/reference/screenshots/after_boss_unlock.png,0.98,EV-022;RUN-02 t=3432.501s; CAP-052
+OBS-013,2026-09-08,LIVE_CRAZY3.16.2,auto,activation,tapFree,gems200;timer0,gems200;timer59:51,,analysis/reference/screenshots/auto_free_activation.png,0.98,EV-022;RUN-02 t=3787.031s; CAP-053
+OBS-014,2026-09-08,LIVE_CRAZY3.16.2,main,autoactive,buytwo,tier2reserve+tier3deployed,cascade3merges;tier4deployedslot2,,analysis/reference/screenshots/auto_cascade_settled.png,0.98,EV-023;RUN-02 t=3816.639s; CAP-055
+OBS-015,2026-09-08,LIVE_CRAZY3.16.2,main,accountlevelup,cascadeXP,level1,level2;+1platform;+100gems/+1510gold,,analysis/reference/screenshots/before_offline_departure.png,0.98,EV-024;RUN-02 t=3836.480s; CAP-056
+OBS-016,2026-09-08,LIVE_CRAZY3.16.2,offline,return,navigateblankthenreloadsameguest,level2;400gems;21786gold;stage1-14,offline3:34;247Kgold+4rewardicons;HUD269Kbeforeclose,,analysis/reference/screenshots/offline_return_game.png,0.98,EV-025;RUN-02 t=4054.856s; CAP-059
+OBS-017,2026-09-08,LIVE_CRAZY3.16.2,help,settings,openHowToPlay,settings,normal/Legendary distinction and counterattack description,,analysis/reference/screenshots/how_to_play_2.png,0.98,EV-027;RUN-02 t=1946.566s; CAP-041

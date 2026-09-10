@@ -1,0 +1,36 @@
+eventId,trigger,category,variants,pitchRandomPlusMinus,gainDb,cooldownMs,maxConcurrent,duckMusicDb,sourceStatus,brief
+music.main,session.ready,music,1,0,-16,0,1,0,generated,"Warm fantasy loop, celesta/plucked strings, 86–100 BPM; 90–150s seamless, no vocal hook."
+music.boss,boss.spawned,music,1,0,-14,0,1,0,generated,"Same harmonic world with low drums and rising strings; 45–90s loop, avoid alarm fatigue."
+ambience.main,world.entered,ambience,2,0,-30,0,1,0,generated,"Quiet wind/leaves and occasional birds; seamless60–120s, no obvious rhythmic pulse."
+ui.soft,button.secondary,ui,3,0.03,-14,40,3,0,generated,Soft woody click20–70ms with rounded top end.
+ui.primary,button.primary,ui,3,0.02,-11,60,2,0,generated,"Confident rounded tap60–100ms, short magical tail."
+ui.popupOpen,popup.opened,ui,2,0.02,-14,120,2,-2,generated,"Soft air rise120–200ms, no harsh zipper."
+ui.popupClose,popup.closed,ui,2,0.02,-16,120,2,0,generated,Short downward air80–140ms.
+ui.tab,tab.selected,ui,3,0.02,-14,80,2,0,generated,Small wooden/plucked switch50–90ms.
+ui.error,command.rejected,ui,2,0.01,-14,250,1,0,generated,Friendly low double tick120ms; avoid punitive buzzer.
+economy.goldGain,currency.gold.gained,sfx,4,0.06,-15,70,3,-1,generated,Small bright coin tinkle80–180ms; varied to avoid repetition.
+economy.goldSpend,currency.gold.spent,sfx,3,0.03,-17,90,2,0,generated,Dry purse/coin tick70ms.
+economy.gemGain,currency.gem.gained,sfx,3,0.04,-13,100,2,-2,generated,Glassy high sparkle180–300ms with soft attack.
+hero.spawn,hero.spawned,sfx,3,0.04,-14,80,3,0,generated,"Soft magical poof100–180ms, warm low body."
+merge.low,hero.merged.low,sfx,4,0.04,-12,90,3,-2,generated,Two soft inputs converge into round pop and tiny chime250–450ms.
+merge.mid,hero.merged.mid,sfx,4,0.03,-11,120,2,-3,generated,Converging whoosh with richer chord350–550ms.
+merge.high,hero.merged.high,sfx,3,0.02,-9,250,1,-5,generated,Wide magical bloom500–800ms; strong but soft peak.
+merge.cascade,merge.chainStep,sfx,4,0.02,-13,100,2,-2,generated,"Escalating chime degrees, capped fourth step; avoid unlimited pitch rise."
+combat.melee,battle.attack.melee,sfx,4,0.05,-18,60,4,0,generated,"Short cloth/blade whoosh80–140ms, no heavy gore."
+combat.ranged,projectile.arrow.released,sfx,4,0.04,-17,70,4,0,generated,Light bow/string release70–120ms.
+combat.magic,projectile.magic.released,sfx,4,0.05,-17,80,3,0,generated,"Airy magical pulse120–200ms, controlled high end."
+combat.hit,battle.hit,sfx,5,0.06,-19,45,6,0,generated,Soft rounded impact45–100ms; choose wood/stone/magic variants.
+combat.crit,battle.critical,sfx,3,0.03,-13,120,2,-2,generated,Stronger impact plus restrained bright accent100–180ms.
+enemy.deathSmall,enemy.died.small,sfx,4,0.05,-17,90,3,0,generated,"Friendly creature poof120–240ms, no vocal pain."
+enemy.deathLarge,enemy.died.large,sfx,3,0.03,-15,140,2,-1,generated,Low soft crumble200–350ms.
+boss.intro,boss.spawned,sfx,2,0.01,-11,1500,1,-5,generated,"Low drum and magical breath600–900ms, clear anticipation."
+boss.death,boss.defeated,sfx,2,0.01,-10,1500,1,-6,generated,Broad soft impact then reward sparkle700–1100ms.
+progress.stageClear,stage.cleared,sfx,3,0.02,-13,400,1,-3,generated,Short rising three-note reward figure300–500ms.
+progress.unlock,unlock.changed,sfx,2,0.01,-12,500,1,-4,generated,Warm discovery chord450–700ms.
+wheel.tick,wheel.segmentPassed,ui,3,0.02,-19,45,1,0,generated,"Tiny mechanical click15–40ms, throttle at high speed."
+wheel.result,wheel.landed,sfx,3,0.02,-11,500,1,-4,generated,Reward chime400–700ms; neutral short variant for empty result.
+reward.daily,daily.claimed,sfx,3,0.02,-12,500,1,-3,generated,Warm coin/chime flourish350–600ms.
+reward.chest,chest.opened,sfx,3,0.03,-12,400,1,-3,generated,Wood creak then magical sparkle400–650ms.
+equipment.equip,equipment.changed,sfx,3,0.03,-15,100,2,0,generated,Satisfying cloth/metal fit100–170ms.
+equipment.upgrade,upgrade.committed,sfx,3,0.02,-12,250,1,-3,generated,Short ascending forge sparkle300–500ms.
+reward.offline,offline.claimed,sfx,2,0.02,-12,500,1,-3,custom needed,Soft treasure collection flourish400–650ms.

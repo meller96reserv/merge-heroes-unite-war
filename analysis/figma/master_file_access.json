@@ -1,0 +1,26 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Looks like you don't have edit access to this file. The file owner can share it with you and make you an editor."
+    },
+    {
+      "type": "resource_link",
+      "uri": "file://figma/docs/rate-limits-access.md",
+      "name": "rate-limits-access.md",
+      "mimeType": "text/plain",
+      "size": 3928,
+      "_meta": {
+        "size": 3928
+      }
+    },
+    {
+      "type": "text",
+      "text": "Figma Debug UUID: 73941bd0-e562-4fd4-b320-959b633352b2"
+    }
+  ],
+  "structuredContent": {
+    "error_code": "INVALID_ARGUMENT"
+  },
+  "isError": true
+}

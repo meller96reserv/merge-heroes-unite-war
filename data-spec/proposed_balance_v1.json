@@ -1,0 +1,30 @@
+{
+  "status": "PROPOSED_NOT_REFERENCE",
+  "purpose": "isolated development fixture; never production parity import",
+  "initialGold": "100",
+  "purchaseCost": "1",
+  "attack": 1,
+  "attackIntervalMs": 1000,
+  "enemyHp": 4,
+  "killRewardGold": "1",
+  "offlineRatePerSecond": "1",
+  "offlineCapMs": 28800000,
+  "critChanceBp": 0,
+  "critMultiplierBp": 15000,
+  "maxTier": 3,
+  "dailyRewardGold": "10",
+  "wheelWeights": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ]
+}

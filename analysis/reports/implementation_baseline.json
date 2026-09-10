@@ -1,0 +1,65 @@
+{
+  "capturedAt": "2026-09-08T16:16:50.659429+00:00",
+  "head": "b1dfb1196d8fc4df6d3a1aa220fd9a368c39c464",
+  "branch": "main",
+  "userChanges": {
+    "AGENTS.md": {
+      "bytes": 1946,
+      "sha256": "fe94f33821138cf24b5f0a645d9a7fd64a97604cb640a2c40c8bc0a453cab163"
+    },
+    "start_prompt.md": {
+      "bytes": 22456,
+      "sha256": "c2fcd09f627f6841c71bac246d1db2e658cd5c3397002b91e38f02c9519404fd"
+    },
+    "docs/tz/Инструкция для разработчиков.md": {
+      "bytes": 54436,
+      "sha256": "bd48b78a5006f3876a408e2b7b2b068290be4b943e78ed395f9464d2bc2f010d"
+    },
+    "docs/tz/Merge Heroes Unite War тз на разработку.md": {
+      "bytes": 2554,
+      "sha256": "66fe2b5255e22462882218e183357033a7f56e6c0f3e174054f76ba43d7e4d1f"
+    },
+    "docs/tz/Реклама в приложениях.md": {
+      "bytes": 2142,
+      "sha256": "23e92bd28598255b32f9c8e602d17ae71af60e5f08b46a01703b0e9d245f27ca"
+    }
+  },
+  "status": " M AGENTS.md\n?? \"docs/tz/Merge Heroes Unite War тз на разработку.md\"\n?? \"docs/tz/Инструкция для разработчиков.md\"\n?? \"docs/tz/Реклама в приложениях.md\"\n?? start_prompt.md\n",
+  "taskId": "TASK-0002",
+  "implementationBranch": "codex/implementation",
+  "isolation": "New local branch; existing working tree preserved",
+  "historyRestored": false,
+  "userFilesPreserved": true,
+  "verification": {
+    "status": "PASS",
+    "branchExpected": "codex/implementation",
+    "branchActual": "codex/implementation",
+    "headUnchanged": true,
+    "userHashMatches": 5,
+    "consistency": {
+      "status": "PASS",
+      "counts": {
+        "docsMarkdownGenerated": 139,
+        "phasePlans": 21,
+        "plansTotal": 24,
+        "tasks": 251,
+        "priorities": {
+          "P0": 184,
+          "P1": 54,
+          "P2": 13
+        },
+        "schemas": 29,
+        "assets": 351,
+        "screens": 15,
+        "animationEvents": 64,
+        "audioEvents": 35,
+        "captures": 60,
+        "evidenceClaims": 31,
+        "unknowns": 35
+      },
+      "checks": 32,
+      "errors": []
+    },
+    "nativeAcceptance": "NOT_RUN"
+  }
+}

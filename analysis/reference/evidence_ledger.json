@@ -1,0 +1,442 @@
+[
+  {
+    "id": "EV-001",
+    "claim": "Current repository has no production runtime/package manifest; old app removal preserved",
+    "status": "OBSERVED",
+    "source": "analysis/reports/repository_inventory.json",
+    "evidence": "Tracked baseline94fb53a; seven initial local files including ignored inputs",
+    "confidence": 1.0,
+    "needsVerification": "Recheck HEAD at implementation start",
+    "spec": "docs/technical/02_REPOSITORY_STRUCTURE.md"
+  },
+  {
+    "id": "EV-002",
+    "claim": "Local Figma ZIP has351rasters,349PNG/2JPEG,324alpha; source unchanged",
+    "status": "MEASURED",
+    "source": "analysis/figma/inventory_summary.json",
+    "evidence": "SHA/CRC/dimensions;949517472decodedRGBAbytes;0exact duplicate;167near candidate pairs",
+    "confidence": 1.0,
+    "needsVerification": "Runtime import/pivots/rights still gated",
+    "spec": "docs/07_FIGMA_TECHNICAL_AUDIT.md"
+  },
+  {
+    "id": "EV-003",
+    "claim": "Accessible Figma hierarchy matches185local image hashes",
+    "status": "MEASURED",
+    "source": "analysis/figma/node_inventory.json",
+    "evidence": "Page0:1;1801unique nodes;671image-fill nodes;old master key inaccessible",
+    "confidence": 0.99,
+    "needsVerification": "Nested override visibility before production import",
+    "spec": "docs/08_FIGMA_ASSET_MAP.md"
+  },
+  {
+    "id": "EV-004",
+    "claim": "Figma has15portrait430x932artboards in11families",
+    "status": "OBSERVED",
+    "source": "analysis/figma/screen_map.json",
+    "evidence": "Screens001–015; six1080x1920marketing frames classified separately",
+    "confidence": 0.99,
+    "needsVerification": "Functional navigation proposed; no prototype reactions",
+    "spec": "docs/09_SCREEN_CATALOG.md"
+  },
+  {
+    "id": "EV-005",
+    "claim": "Actual Figma characters/fonts differ from some stale layer names",
+    "status": "OBSERVED",
+    "source": "analysis/figma/text_inventory.json",
+    "evidence": "296text nodes;PassionOne/Roboto/Nunito;21style combinations;no local font files",
+    "confidence": 0.99,
+    "needsVerification": "Font version/license and runtime metrics",
+    "spec": "docs/13_DESIGN_TOKENS.md"
+  },
+  {
+    "id": "EV-006",
+    "claim": "Public listing advertises merge,auto,battle contents and idle rewards",
+    "status": "OBSERVED",
+    "source": "https://www.crazygames.com/game/heroes-unite",
+    "evidence": "Marketing/portal metadata;Cocos,portrait;updated2026-08-24",
+    "confidence": 0.95,
+    "needsVerification": "Descriptions are not algorithm/timing evidence",
+    "spec": "docs/06_REFERENCE_GAME_REVERSE_ENGINEERING.md"
+  },
+  {
+    "id": "EV-007",
+    "claim": "Google Play listing belongs to SUPERJOY and notes a newer mobile release",
+    "status": "OBSERVED",
+    "source": "https://play.google.com/store/apps/details?id=com.superjoy.idleheroes",
+    "evidence": "Updated2026-09-01;notesv3.18.0;not the captured web runtime",
+    "confidence": 0.95,
+    "needsVerification": "Mobile live behavior not captured",
+    "spec": "docs/02_SOURCE_OF_TRUTH.md"
+  },
+  {
+    "id": "EV-008",
+    "claim": "App Store listing exists for Heroes Unite Idle Merge",
+    "status": "OBSERVED",
+    "source": "https://apps.apple.com/us/app/heroes-unite-idle-merge/id6755369572",
+    "evidence": "SUPERJOY listing;regional/version history differs;not a native runtime test",
+    "confidence": 0.9,
+    "needsVerification": "Pin actual mobile runtime before cross-platform comparison",
+    "spec": "docs/02_SOURCE_OF_TRUTH.md"
+  },
+  {
+    "id": "EV-009",
+    "claim": "First two tutorial purchases cost1gold each and create tier1units",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/tutorial_after_1.png",
+    "evidence": "RUN-01 t=195.594s; CAP-006;100→99→98;15positions,5initial open",
+    "confidence": 0.99,
+    "needsVerification": "General cost/tier progression and hold cadence",
+    "spec": "docs/gameplay/02_HERO_PURCHASE_SUMMON_SYSTEM.md"
+  },
+  {
+    "id": "EV-010",
+    "claim": "Tutorial manual merge creates Archer tier2 and discovery popup",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/run2_reverse_merge.png",
+    "evidence": "RUN-02 t=315.261s; CAP-015;source slot2→target slot1;display25/5/2.0;+100gem,+10gold",
+    "confidence": 0.99,
+    "needsVerification": "General stat icon meanings and discovery formula",
+    "spec": "docs/gameplay/03_MERGE_SYSTEM.md"
+  },
+  {
+    "id": "EV-011",
+    "claim": "Drag deploy,tap withdraw and redeploy retain owned board instance",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/tutorial_withdraw.png",
+    "evidence": "RUN-02 t=533.741s; CAP-021;first deployment cap1/1;Battle marker retained on occupied slot",
+    "confidence": 0.98,
+    "needsVerification": "All cap/merge-deployed combinations",
+    "spec": "docs/gameplay/05_BOARD_SLOT_SYSTEM.md"
+  },
+  {
+    "id": "EV-012",
+    "claim": "Deployed hero attacks automatically;enemy death rewards and advances stage",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/combat_after_8s.png",
+    "evidence": "RUN-02 t=392.759s; CAP-019;initial enemyHP1,next4;first kill gold108→109;later displayed hit5",
+    "confidence": 0.98,
+    "needsVerification": "Attack/defense/crit formula and target ordering",
+    "spec": "docs/gameplay/06_BATTLE_SYSTEM.md"
+  },
+  {
+    "id": "EV-013",
+    "claim": "Reference has missions,7-day attendance and separate launch login event",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/first_quest_reward.png",
+    "evidence": "RUN-02 t=805.726s; CAP-027;actual screenshot is attendance calendar,despite filename;day1+1000gems",
+    "confidence": 0.98,
+    "needsVerification": "Reset/streak/claim/reward icon semantics",
+    "spec": "docs/progression/08_DAILY_REWARD.md"
+  },
+  {
+    "id": "EV-014",
+    "claim": "Stage1-9 farming and manual boss retry are reachable",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/freeplay_before.png",
+    "evidence": "RUN-02 t=1099.103s; CAP-031;HP81 repeatedly respawns;Boss retry message visible",
+    "confidence": 0.98,
+    "needsVerification": "General cadence and timeout formula",
+    "spec": "docs/gameplay/13_BOSS_SYSTEM.md"
+  },
+  {
+    "id": "EV-015",
+    "claim": "Two-second Buy hold fills four remaining open slots;full-board feedback appears",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/freeplay_hold.png",
+    "evidence": "RUN-02 t=1102.765s; CAP-032;auto inactive,no spontaneous merge during observed wait",
+    "confidence": 0.98,
+    "needsVerification": "Exact repeat interval and full-board cost isolation",
+    "spec": "docs/gameplay/02_HERO_PURCHASE_SUMMON_SYSTEM.md"
+  },
+  {
+    "id": "EV-016",
+    "claim": "Native tools partly present;no Cocos install found in inspected locations",
+    "status": "OBSERVED",
+    "source": "analysis/reports/native_environment.json",
+    "evidence": "Xcode26.3,Node20.19,JDK17.0.20,ADB37.0.1,medium_phone;no native game build",
+    "confidence": 1.0,
+    "needsVerification": "Early spike must install/lock/export/build/run",
+    "spec": "docs/technical/15_REACT_NATIVE_COCOS_INTEGRATION.md"
+  },
+  {
+    "id": "EV-017",
+    "claim": "Official RN/Cocos docs expose native module and reflection primitives",
+    "status": "OBSERVED",
+    "source": "https://docs.cocos.com/creator/3.8/manual/en/advanced-topics/java-reflection.html",
+    "evidence": "Primitives only;not proof of assembled RN+Cocos compatibility",
+    "confidence": 0.98,
+    "needsVerification": "Thread/lifecycle/native export integration spike",
+    "spec": "docs/technical/18_BRIDGE_PROTOCOL.md"
+  },
+  {
+    "id": "EV-018",
+    "claim": "Figma/reference differ in board layout,art,prices and navigation evidence",
+    "status": "OBSERVED",
+    "source": "docs/conflicts.md",
+    "evidence": "10vs15slots;animal vs human heroes;static50/120vsfirstlive1;no prototype reactions",
+    "confidence": 0.99,
+    "needsVerification": "Explicit fidelity decisions and separate fixtures",
+    "spec": "docs/01_PROJECT_SCOPE.md"
+  },
+  {
+    "id": "EV-019",
+    "claim": "Reference audio was not heard/captured as an authorized sound source",
+    "status": "UNKNOWN",
+    "source": "analysis/reference/video_metadata.json",
+    "evidence": "Own browser recording has video only;seedYouTube unavailable due fetch/bot-check",
+    "confidence": 1.0,
+    "needsVerification": "Original audio acquisition/listening notes task",
+    "spec": "docs/audio/06_AUDIO_ASSET_ACQUISITION.md"
+  },
+  {
+    "id": "EV-020",
+    "claim": "Repeated manual merges reach Magician tier3",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/tier3_popup.png",
+    "evidence": "RUN-02 t=2860.044s; CAP-048;display52/13/2.5;+100gem,+1000gold;repeat tier2 had no new discovery popup",
+    "confidence": 0.98,
+    "needsVerification": "General discovery/XP progression",
+    "spec": "docs/gameplay/01_HERO_SYSTEM.md"
+  },
+  {
+    "id": "EV-021",
+    "claim": "Manual retry enters first boss1-10HP70;Magician hits13 and wins",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/boss_retry_attempt.png",
+    "evidence": "RUN-02 t=2863.238s; CAP-049;video2862–2877s shows timer bar,Give up,HP70→0;gold8389→18389 before next-stage tutorial",
+    "confidence": 0.97,
+    "needsVerification": "Exact timer duration,cadence and rewards across bosses",
+    "spec": "docs/gameplay/13_BOSS_SYSTEM.md"
+  },
+  {
+    "id": "EV-022",
+    "claim": "Auto-merge60-minute offer appears after first boss;Free activation starts countdown",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/after_boss_unlock.png",
+    "evidence": "RUN-02 t=3432.501s; CAP-052;Free video option and500gem option;auto_free_activation shows00:59:51;gems200unchanged",
+    "confidence": 0.99,
+    "needsVerification": "Paid flow,expiry/background semantics and unlock generality",
+    "spec": "docs/gameplay/04_AUTO_MERGE_SYSTEM.md"
+  },
+  {
+    "id": "EV-023",
+    "claim": "Two buys with auto active cause three merges through tier4 including deployed hero",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/auto_cascade_settled.png",
+    "evidence": "RUN-02 t=3816.639s; CAP-055;video3808–3811s;Berserkerdisplay106/16/1.5;+100gems,+1440gold;result in slot2 remainsBattle",
+    "confidence": 0.98,
+    "needsVerification": "General pair priority/destination;one cascade is insufficient",
+    "spec": "docs/gameplay/04_AUTO_MERGE_SYSTEM.md"
+  },
+  {
+    "id": "EV-024",
+    "claim": "Account level2 grants an additional board platform",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/before_offline_departure.png",
+    "evidence": "RUN-02 t=3836.480s; CAP-056;Lv.Up2,+1HeroPlatform,+5%gold icon,+100gems,+1510gold;first second-row slot visible unlocked",
+    "confidence": 0.98,
+    "needsVerification": "Further level thresholds and bonus formulas",
+    "spec": "docs/progression/05_UNLOCKS.md"
+  },
+  {
+    "id": "EV-025",
+    "claim": "Reload in same guest context shows offline reward and preserved account/tier progress",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/offline_return_game.png",
+    "evidence": "RUN-02 t=4054.856s; CAP-059;display00:03:34,247Kgold and4other icons×2/100/1/5;HUD269Kgold/400gems before dismissal",
+    "confidence": 0.98,
+    "needsVerification": "Exact rate/cap,reward IDs,grant timing and stage continuity",
+    "spec": "docs/progression/13_OFFLINE_PROGRESS.md"
+  },
+  {
+    "id": "EV-026",
+    "claim": "Settings displays exact web build LIVE_CRAZY3.16.2;combat continues behind it",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/settings_continuity.png",
+    "evidence": "RUN-02 t=1695.989s; CAP-039;HP/gold change across settings_before_wait/settings_continuity",
+    "confidence": 0.99,
+    "needsVerification": "Mobile parity and other route/background behavior",
+    "spec": "docs/18_SESSION_FLOW.md"
+  },
+  {
+    "id": "EV-027",
+    "claim": "In-game help distinguishes normal and Legendary dungeon behavior",
+    "status": "OBSERVED",
+    "source": "analysis/reference/screenshots/how_to_play_2.png",
+    "evidence": "RUN-02 t=1946.566s; CAP-041;help describes Legendary hero HP/DEF and monster counterattack;mode not directly played",
+    "confidence": 0.97,
+    "needsVerification": "Actual mode combat/recovery/entry constraints",
+    "spec": "docs/gameplay/16_BATTLE_CONTENT_MODES.md"
+  },
+  {
+    "id": "EV-028",
+    "claim": "Manual merge and auto cascade have measurable short visual phases",
+    "status": "MEASURED",
+    "source": "analysis/reference/frames/merge_frames.jpg",
+    "evidence": "25fpssource,10fps/5fpsreview sheets;manual converge→result≈0.6s;cascade result spacing≈0.6s,low sample count",
+    "confidence": 0.8,
+    "needsVerification": "More frame-level repeated samples before final motion tuning",
+    "spec": "docs/visual/07_MERGE_ANIMATIONS.md"
+  },
+  {
+    "id": "EV-029",
+    "claim": "Auto result choice in observed cascade appears to prefer a deployed destination at final step",
+    "status": "INFERRED",
+    "source": "analysis/reference/frames/auto_frames.jpg",
+    "evidence": "Finaltier4staysslot2 where tier3was deployed;earlier pair resultpositions differ",
+    "confidence": 0.65,
+    "needsVerification": "Five repeats and independent pairs U002/U023",
+    "spec": "docs/gameplay/04_AUTO_MERGE_SYSTEM.md"
+  },
+  {
+    "id": "EV-030",
+    "claim": "Pure domain,transaction-before-feedback,A/Bsave and typed bridge are our design",
+    "status": "PROPOSED",
+    "source": "docs/technical/01_ARCHITECTURE.md",
+    "evidence": "Architecture contract and6ADRs;not extracted reference implementation",
+    "confidence": 1.0,
+    "needsVerification": "Implement/test under task DAG",
+    "spec": "docs/technical/03_DOMAIN_GAME_CORE.md"
+  },
+  {
+    "id": "EV-031",
+    "claim": "Gold-only8h offline fixture and uniform wheel weights are isolated development choices",
+    "status": "PROPOSED",
+    "source": "data-spec/proposed_balance_v1.json",
+    "evidence": "Never imported as observed balance;live offline has multiple reward kinds",
+    "confidence": 1.0,
+    "needsVerification": "Close U006/U015 or record explicit product scope decision",
+    "spec": "docs/progression/15_BALANCE_REVERSE_ENGINEERING.md"
+  },
+  {
+    "id": "EV-032",
+    "claim": "Current implementation instruction explicitly requires RN host with native Cocos and pure TypeScript domain",
+    "status": "OBSERVED",
+    "source": "start_prompt.md",
+    "evidence": "Sections 6–7; TASK-0003 accepted requirement, U-001 remains open",
+    "confidence": 1.0,
+    "needsVerification": "Native compatibility remains TASK-0046; requirement itself resolved",
+    "spec": "docs/adr/ADR-002-MOBILE-HOST.md"
+  },
+  {
+    "id": "EV-033",
+    "claim": "Primary-source font binaries cover all296 observed text nodes; PassionOne lacks Cyrillic while Roboto/Nunito cover66Russian letters",
+    "status": "MEASURED",
+    "source": "analysis/figma/fonts/metrics.json",
+    "evidence": "TASK-0029; hashes and licenses verified;5faces; visual specimens reviewed",
+    "confidence": 1.0,
+    "needsVerification": "Figma original binary revision remainsUNKNOWN; runtime pixel parity gates phase05",
+    "spec": "docs/08_FIGMA_ASSET_MAP.md"
+  },
+  {
+    "id": "EV-034",
+    "claim": "Fresh RUN-03 displays webLIVE_CRAZY3.16.2; mobile public listings are3.18.0 with separate release dates",
+    "status": "OBSERVED",
+    "source": "analysis/reference/version_lock.json",
+    "evidence": "RUN-03 loading screenshot plus priorRUN-02settings; GooglePlaySep1; ApplelookupSep2T05:54:52Z",
+    "confidence": 1.0,
+    "needsVerification": "Installed mobile runtime behavior/parity remainsUNKNOWN; do not mix formulas",
+    "spec": "docs/02_SOURCE_OF_TRUTH.md"
+  },
+  {
+    "id": "EV-035",
+    "claim": "351 raster geometries measured;8 bounded nine-slice cap selections reviewed;40 pixel cases and6 unsafe selection rejections",
+    "status": "MEASURED",
+    "source": "analysis/figma/import_calibration.json",
+    "evidence": "source hashes/alpha bounds, corner comparisons and light/dark visual sheets;14 padding records;23 source-backed character images reviewed",
+    "confidence": 1.0,
+    "needsVerification": "Exact reference rig pivots remainUNKNOWN; placementPROPOSED; native import and mixed-aspect/final-size visual QA separate; rights gate remains",
+    "spec": "docs/08_FIGMA_ASSET_MAP.md"
+  },
+  {
+    "id": "EV-036",
+    "claim": "RN0.86.3 opens native Cocos3.8.8 host on Android API36 and iOS26.2 simulators; touch/return/reentry observed",
+    "status": "MEASURED",
+    "source": "spikes/rn-cocos/ACCEPTANCE.md",
+    "evidence": "TASK-0040 Android68.7462s video+two Activity lifetimes;TASK-0041 one retained engine/two entries andRNcounter preserved",
+    "confidence": 1.0,
+    "needsVerification": "U-001 staysOPEN;typed bridge,lifecycle,audio,memory,physical devices and finalNAT gate are unpassed",
+    "spec": "docs/technical/15_REACT_NATIVE_COCOS_INTEGRATION.md"
+  },
+  {
+    "id": "EV-037",
+    "claim": "Bidirectional typed native RN/Cocos bridge passes on Android API36 and iOS26.2 simulators; duplicate color applies once; nine invalid code/path cases rejected per receiver",
+    "status": "MEASURED",
+    "source": "spikes/rn-cocos/bridge-results.json",
+    "evidence": "Native Hermes/V8 runtime logs, thread dispatch, UTF8 byte guards, screenshots,15JS tests; iOS capturing block ownership failure repaired and runtime retested",
+    "confidence": 1.0,
+    "needsVerification": "Full native acceptance U-001 remains open; lifecycle/audio/memory/physical and process-death cases remain separate",
+    "spec": "docs/technical/18_BRIDGE_PROTOCOL.md"
+  },
+  {
+    "id": "EV-038",
+    "claim": "40 native lifecycle cycles completed across Android/iOS simulators;30 unchanged pause pairs, same-process owner assertions",
+    "status": "MEASURED",
+    "source": "spikes/rn-cocos/lifecycle-results.json",
+    "evidence": "Ten reopen andten background cycles perplatform; actual engine logs, touch counters andRN return screens",
+    "confidence": 1.0,
+    "needsVerification": "Android mixed-entry routing failure remains TASK-0046; memory/audio/physical/native acceptance remain separate",
+    "spec": "docs/technical/15_REACT_NATIVE_COCOS_INTEGRATION.md"
+  },
+  {
+    "id": "EV-039",
+    "claim": "Thirty sequential accepted tier1 purchases cost15x1,8x2,6x3,1x4 in fresh web3.16.2 capture; all displayed/deducted prices equal",
+    "status": "MEASURED",
+    "source": "analysis/reference/purchase_cost_series.csv",
+    "evidence": "RUN-03 before/input/after screenshots+timestamps+SHA; zero deployed/auto off per interval; residual candidates reported separately",
+    "confidence": 1.0,
+    "needsVerification": "Exact generalized cost function remains U-003; non-identifiable even within floor-exponential family; mobile parity and late-tier extrapolation UNKNOWN",
+    "spec": "docs/gameplay/02_HERO_PURCHASE_SUMMON_SYSTEM.md"
+  },
+  {
+    "id": "EV-040",
+    "claim": "Baseline,warmup andten native memory cycles perplatform captured; Android idle Activity countreturns1/nativeallocationsbelowwarmup",
+    "status": "MEASURED",
+    "source": "spikes/rn-cocos/memory-results.json",
+    "evidence": "44 native samples;one iOSretainedengine;actual slopes andidle recovery reported;no forcedGC duringseries",
+    "confidence": 1.0,
+    "needsVerification": "Physical/release/longsoak NOT_RUN;iOSpostmeasurementXCTestcrash FAILownedTASK0046;nofullgatePASS",
+    "spec": "docs/technical/15_REACT_NATIVE_COCOS_INTEGRATION.md"
+  },
+  {
+    "id": "EV-041",
+    "claim": "Live web input capture counts accepted purchases forone tap,20rapid clicks,2shold,outside release andfullboard;offerremains tier1afterdiscovery6/account3",
+    "status": "OBSERVED",
+    "source": "analysis/reference/purchase_input_cases.csv",
+    "evidence": "RUN03 screenshots+inputtimestamps+hashes;accepted1/6/2/1/0 respectively;zero farming;generalizedtieradvance/cadenceunknown",
+    "confidence": 1.0,
+    "needsVerification": "U032 exactcadence,tiertrigger,nativetouch/pointercancel;productcontractexplicitlyPROPOSED",
+    "spec": "docs/gameplay/02_HERO_PURCHASE_SUMMON_SYSTEM.md"
+  },
+  {
+    "id": "EV-042",
+    "claim": "Bounded Android/iOS simulator audio controls and Android separate-UID transient focus pass; full physical audio acceptance remains partial",
+    "status": "MEASURED",
+    "source": "spikes/rn-cocos/audio-results.json",
+    "evidence": "Android8cases,realfocusLOSS_TRANSIENT/GAIN; iOS4controlledHomecycles and retained mute; sameCocosweb smoke;21tests;failedattemptspreserved",
+    "confidence": 1.0,
+    "needsVerification": "Physicalheadphones andiOSOSinterruption NOT_RUN;productionpivotdirectedbyuser",
+    "spec": "docs/technical/13_AUDIO_RUNTIME.md"
+  },
+  {
+    "id": "EV-043",
+    "claim": "User explicitly requires the game itself in RN/TypeScript with Skia, Expo where compatible, Reanimated and Gesture Handler; browser-first shared implementation and targeted consistency migration.",
+    "status": "OBSERVED",
+    "source": "User architecture corrections in this execution session, 2026-09-09",
+    "evidence": "Explicit instructions preserve current work, retire production native-engine hosting and immediately continue foundation after validator acceptance.",
+    "confidence": 1.0,
+    "needsVerification": "TASK-0252 validates planning consistency; new runtime and physical acceptance require their own execution evidence.",
+    "spec": "docs/adr/ADR-007-RN-SKIA-RUNTIME.md"
+  },
+  {
+    "id": "EV-044",
+    "claim": "User adopts app-specific TZ,applicable rewarded advertising and relevant delivery/UX guidelines; product amendment preserves RN/Skia",
+    "status": "OBSERVED",
+    "source": "User direction2026-09-09 and docs/tz local inputs",
+    "evidence": "Explicit instructions preserve current work, retire production native-engine hosting and immediately continue foundation after validator acceptance.",
+    "confidence": 1.0,
+    "needsVerification": "TASK-0252 validates planning consistency; new runtime and physical acceptance require their own execution evidence.",
+    "spec": "docs/05_PRODUCT_REQUIREMENTS_AMENDMENT.md"
+  }
+]

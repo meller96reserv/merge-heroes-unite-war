@@ -1,0 +1,37 @@
+component,semanticId,state,decision,status,artRequirement
+purchase,ui_frame_board_slot__244x219,normal,Original full-canvas art; close adds PROPOSED text X,OBSERVED_FIGMA,No new artwork required
+purchase,ui_frame_board_slot__244x219,pressed,PROPOSED scale 0.96; 80ms in /120ms out; preserve alpha,PROPOSED,No new artwork required
+purchase,ui_frame_board_slot__244x219,disabled,PROPOSED opacity 0.55 plus reason; input blocked,PROPOSED,No new artwork required
+purchase,ui_frame_board_slot__244x219,loading,PROPOSED progress label overlay; input blocked,PROPOSED,No new artwork required
+purchase,ui_frame_board_slot__244x219,selected,Figma blue panel variant for tab; PROPOSED cyan ring otherwise,PROPOSED,No new artwork required
+purchase,ui_frame_board_slot__244x219,locked,PROPOSED lock text overlay plus condition; info action only,PROPOSED,No new artwork required
+tab,ui_panel_dark_square__1576x1595,normal,Original full-canvas art; close adds PROPOSED text X,OBSERVED_FIGMA,No new artwork required
+tab,ui_panel_dark_square__1576x1595,pressed,PROPOSED scale 0.96; 80ms in /120ms out; preserve alpha,PROPOSED,No new artwork required
+tab,ui_panel_dark_square__1576x1595,disabled,PROPOSED opacity 0.55 plus reason; input blocked,PROPOSED,No new artwork required
+tab,ui_panel_dark_square__1576x1595,loading,PROPOSED progress label overlay; input blocked,PROPOSED,No new artwork required
+tab,ui_panel_dark_square__1576x1595,selected,Figma blue panel variant for tab; PROPOSED cyan ring otherwise,PROPOSED,No new artwork required
+tab,ui_panel_dark_square__1576x1595,locked,PROPOSED lock text overlay plus condition; info action only,PROPOSED,No new artwork required
+icon,ui_icon_settings__369x374,normal,Original full-canvas art; close adds PROPOSED text X,OBSERVED_FIGMA,No new artwork required
+icon,ui_icon_settings__369x374,pressed,PROPOSED scale 0.96; 80ms in /120ms out; preserve alpha,PROPOSED,No new artwork required
+icon,ui_icon_settings__369x374,disabled,PROPOSED opacity 0.55 plus reason; input blocked,PROPOSED,No new artwork required
+icon,ui_icon_settings__369x374,loading,PROPOSED progress label overlay; input blocked,PROPOSED,No new artwork required
+icon,ui_icon_settings__369x374,selected,Figma blue panel variant for tab; PROPOSED cyan ring otherwise,PROPOSED,No new artwork required
+icon,ui_icon_settings__369x374,locked,PROPOSED lock text overlay plus condition; info action only,PROPOSED,No new artwork required
+boss,ui_button_red_square__1580x1579,normal,Original full-canvas art; close adds PROPOSED text X,OBSERVED_FIGMA,No new artwork required
+boss,ui_button_red_square__1580x1579,pressed,PROPOSED scale 0.96; 80ms in /120ms out; preserve alpha,PROPOSED,No new artwork required
+boss,ui_button_red_square__1580x1579,disabled,PROPOSED opacity 0.55 plus reason; input blocked,PROPOSED,No new artwork required
+boss,ui_button_red_square__1580x1579,loading,PROPOSED progress label overlay; input blocked,PROPOSED,No new artwork required
+boss,ui_button_red_square__1580x1579,selected,Figma blue panel variant for tab; PROPOSED cyan ring otherwise,PROPOSED,No new artwork required
+boss,ui_button_red_square__1580x1579,locked,PROPOSED lock text overlay plus condition; info action only,PROPOSED,No new artwork required
+primary,ui_button_orange__2542x1359,normal,Original full-canvas art; close adds PROPOSED text X,OBSERVED_FIGMA,No new artwork required
+primary,ui_button_orange__2542x1359,pressed,PROPOSED scale 0.96; 80ms in /120ms out; preserve alpha,PROPOSED,No new artwork required
+primary,ui_button_orange__2542x1359,disabled,PROPOSED opacity 0.55 plus reason; input blocked,PROPOSED,No new artwork required
+primary,ui_button_orange__2542x1359,loading,PROPOSED progress label overlay; input blocked,PROPOSED,No new artwork required
+primary,ui_button_orange__2542x1359,selected,Figma blue panel variant for tab; PROPOSED cyan ring otherwise,PROPOSED,No new artwork required
+primary,ui_button_orange__2542x1359,locked,PROPOSED lock text overlay plus condition; info action only,PROPOSED,No new artwork required
+close,ui_button_red_square__1580x1579,normal,Original full-canvas art; close adds PROPOSED text X,PROPOSED,No new artwork required
+close,ui_button_red_square__1580x1579,pressed,PROPOSED scale 0.96; 80ms in /120ms out; preserve alpha,PROPOSED,No new artwork required
+close,ui_button_red_square__1580x1579,disabled,PROPOSED opacity 0.55 plus reason; input blocked,PROPOSED,No new artwork required
+close,ui_button_red_square__1580x1579,loading,PROPOSED progress label overlay; input blocked,PROPOSED,No new artwork required
+close,ui_button_red_square__1580x1579,selected,Figma blue panel variant for tab; PROPOSED cyan ring otherwise,PROPOSED,No new artwork required
+close,ui_button_red_square__1580x1579,locked,PROPOSED lock text overlay plus condition; info action only,PROPOSED,No new artwork required

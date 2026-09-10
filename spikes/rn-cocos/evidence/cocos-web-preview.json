@@ -1,0 +1,27 @@
+{
+  "task": "TASK-0038",
+  "target": "Chrome web-mobile Cocos3.8.8",
+  "fixture": "430x932 same NativeProbe.scene as Android/iOS",
+  "checks": {
+    "ready": true,
+    "tap_once": true,
+    "ticks_advance": true,
+    "canvas_fits": true,
+    "no_page_errors": true
+  },
+  "canvasBounds": {
+    "x": 0,
+    "y": 0,
+    "width": 430,
+    "height": 932
+  },
+  "console": [
+    "[kisel-probe] ready {\"version\":1,\"taps\":0}",
+    "[kisel-probe] tick {\"frames\":60,\"seconds\":1.0165000000000002}",
+    "[kisel-probe] tick {\"frames\":120,\"seconds\":2.016500000000001}",
+    "[kisel-probe] touch {\"taps\":1,\"x\":215,\"y\":352}",
+    "[kisel-probe] tick {\"frames\":180,\"seconds\":3.016500000000006}",
+    "[kisel-probe] tick {\"frames\":240,\"seconds\":4.01650000000001}"
+  ],
+  "errors": []
+}

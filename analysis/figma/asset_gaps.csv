@@ -1,0 +1,19 @@
+gapId,category,evidence,canDerive,needsDesign,procedural,cocosPrimitives,imageGeneration,priority,taskKey
+GAP-001,Projectile sprites,No runtime-ready arrow/magic set established,"yes, original primitive shapes",yes if primitives fail,yes,yes,optional,P0,Projectile art task
+GAP-002,Hit/crit/merge particles,No complete effect sequence/atlas,derive color palette only,optional,yes,yes,optional,P0,Effect primitive task
+GAP-003,Ground shadows,Flattened figures lack separate consistent shadow,yes alpha ellipse,no,yes,yes,no,P0,Pivot calibration
+GAP-004,Hero skeletal parts,"Whole raster characters, no rigs",no safe automatic cut,yes if skeletal scope approved,no,no,optional,P2,Custom character motion
+GAP-005,Layered backgrounds,Most scenery flattened,no safe hidden scenery inference,yes for true parallax,limited,static only,optional,P2,Background expansion
+GAP-006,Button pressed/disabled/loading,Not all component states drawn,yes tint/scale/spinner,review,yes,yes,no,P0,Button state task
+GAP-007,Locked/selected variants,"Some lock/nav art available, coverage incomplete",yes existing lock,review,yes,yes,no,P0,Navigation states
+GAP-008,Fonts and licenses,Passion One/Roboto/Nunito referenced; files absent,no,acquire licensed fonts,no,fallback only,no,P0,Font acquisition
+GAP-009,SFX,No authorized audio assets supplied,no reference extraction,yes original/library,yes synthesis,playback only,no,P0,Audio acquisition
+GAP-010,Music/ambience,No authorized loops supplied,no reference extraction,yes original/library,possible,playback only,no,P1,Music acquisition
+GAP-011,9-slice insets,Candidate borders not calibrated,yes pixel inspection,no,no,yes after calibration,no,P0,Asset import calibration
+GAP-012,Full15-slot board layout,Figma shows10 vs reference15,yes existing slot components,adaptation review,yes layout,yes,no,P0,Board layout conflict review
+GAP-013,Offline/quest/boss failure popups,No explicit matching Figma artboards,yes shared panel/button styles,yes composed layout,yes,yes,no,P1,Missing popup designs
+GAP-014,Loading error/retry,Loading art exists; failure state absent,yes loading panel,yes state design,yes,yes,no,P0,Loading states
+GAP-015,Rarity color semantics,UR/SR/SS art badges without full gameplay taxonomy,yes existing frames,semantic mapping review,no,yes labels,no,P1,Content visual mapping
+GAP-016,Localization glyph coverage,No measured Cyrillic/long-string font export,font acquisition,review layout,no,font rasterization,no,P1,Localization QA
+GAP-017,Icon active/inactive meaning,Some image names ambiguous; semantic assignment visual,yes semantic map,review interactions,yes overlays,yes,no,P1,Asset usage review
+GAP-018,Rights evidence,User-supplied fig is not distribution license proof,no,obtain ownership/license confirmation,no,no,no,P0,Asset rights ledger

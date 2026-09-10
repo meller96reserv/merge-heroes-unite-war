@@ -1,0 +1,8 @@
+appId: com.kisel.nativeprobe.cocos
+---
+# Requires the standalone probe already launched with native log capture.
+# Cocos renders into a native surface, so the oracle is its counter/log and image.
+- tapOn:
+    point: "50%,60%"
+    retryTapIfNoChange: false
+- takeScreenshot: cocos-ios-touch

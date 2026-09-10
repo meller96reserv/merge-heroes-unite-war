@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kisel.invalid/schemas/audio-event.schema.json",
+  "title": "audio-event",
+  "description": "PROPOSED planning contract. Validate cross-record references separately. Not reference balance.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "dataVersion": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+    },
+    "evidenceMode": {
+      "enum": [
+        "OBSERVED",
+        "MEASURED",
+        "DERIVED",
+        "PROPOSED"
+      ]
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "trigger": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "bus": {
+            "enum": [
+              "music",
+              "sfx",
+              "ui",
+              "ambience",
+              "voice"
+            ]
+          },
+          "variants": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 9007199254740991
+          },
+          "pitchMin": {
+            "type": "number",
+            "minimum": 0.5,
+            "maximum": 2
+          },
+          "pitchMax": {
+            "type": "number",
+            "minimum": 0.5,
+            "maximum": 2
+          },
+          "gainDb": {
+            "type": "number",
+            "minimum": -96,
+            "maximum": 0
+          },
+          "cooldownMs": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "maxConcurrent": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 9007199254740991
+          },
+          "duckMusicDb": {
+            "type": "number",
+            "minimum": -24,
+            "maximum": 0
+          },
+          "sourceStatus": {
+            "enum": [
+              "placeholder",
+              "custom_needed",
+              "licensed",
+              "generated",
+              "final"
+            ]
+          },
+          "licenseId": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "trigger",
+          "bus",
+          "variants",
+          "pitchMin",
+          "pitchMax",
+          "gainDb",
+          "cooldownMs",
+          "maxConcurrent",
+          "duckMusicDb",
+          "sourceStatus",
+          "licenseId"
+        ]
+      },
+      "minItems": 0
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "dataVersion",
+    "evidenceMode",
+    "entries"
+  ]
+}

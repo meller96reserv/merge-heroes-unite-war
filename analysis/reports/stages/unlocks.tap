@@ -1,0 +1,20 @@
+TAP version 13
+# Subtest: nested allOf/anyOf respects each threshold; invalid/cyclic conditions cannot be enabled
+ok 1 - nested allOf/anyOf respects each threshold; invalid/cyclic conditions cannot be enabled
+  ---
+  duration_ms: 1.078792
+  ...
+# Subtest: stage-three/final clears open rows; announcements survive reload independently and once only
+ok 2 - stage-three/final clears open rows; announcements survive reload independently and once only
+  ---
+  duration_ms: 2.324125
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 619.845542

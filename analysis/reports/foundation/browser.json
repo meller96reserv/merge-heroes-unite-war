@@ -1,0 +1,27 @@
+{
+  "taskId": "TASK-0047",
+  "url": "http://127.0.0.1:8082",
+  "cases": [
+    {
+      "name": "cold RN boot after local CanvasKit",
+      "status": "PASS",
+      "interactiveMs": 1708
+    },
+    {
+      "name": "Fast Refresh preserves entered state without navigation",
+      "status": "PASS",
+      "mainFrameNavigationsDuringEdit": 0
+    },
+    {
+      "name": "compact and tablet viewport without horizontal overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "missing CanvasKit gives error and retry recovers",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "platform": "Chromium Web; native NOT_RUN",
+  "status": "PASS"
+}

@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "buildCommand": "npm run build:web",
+  "exitCode": 0,
+  "javascriptFilesScanned": 2,
+  "fixtureMarkersFound": 0
+}

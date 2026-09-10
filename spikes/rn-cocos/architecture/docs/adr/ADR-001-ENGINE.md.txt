@@ -1,0 +1,19 @@
+# ADR-001 — Engine
+
+## Status
+Accepted planning direction; exact patch pending spike. Recorded2026-09-08. This records planning authorization, not a successful native build.
+
+## Context and evidence
+Native2D rendering, Cocos web preview and one renderer fit the target. Plain RN rendering would split game rendering and simulation concerns. See [evidence](../03_EVIDENCE_LEDGER.md), [unknowns](../04_UNKNOWNS_REGISTER.md) and [architecture](../technical/01_ARCHITECTURE.md).
+
+## Decision
+Cocos Creator3.8 LTS with TypeScript; choose patch only with verified Android/iOS exports.
+
+## Consequences and alternatives
+Cocos native export/toolchain coupling and installation are unresolved. Revisit only if spike proves a blocking incompatibility.
+
+## Verification and revisit trigger
+Complete [PHASE_03_NATIVE_INTEGRATION_SPIKE](../../plans/PHASE_03_NATIVE_INTEGRATION_SPIKE.md), attach acceptance results and update this ADR if measured evidence invalidates its premises. Do not rewrite historical evidence to make the selected approach appear confirmed.
+
+## Tasks
+[Task index](../../tasks/TASK_INDEX.md) · [Documentation index](../00_INDEX.md).

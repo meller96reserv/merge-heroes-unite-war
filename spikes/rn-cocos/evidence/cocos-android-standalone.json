@@ -1,0 +1,50 @@
+{
+  "task": "TASK-0038",
+  "target": "Android API36 arm64 emulator with host Apple M1 GPU",
+  "apkSha256": "54445c5e1883a418fc92090ad68363b50f9b11f5a578cceaf282a905c95cad6c",
+  "checks": {
+    "rendersOver60Seconds": true,
+    "touchCounterIncrements": true
+  },
+  "firstTick": {
+    "frames": 9,
+    "seconds": 1.0030723333333347
+  },
+  "lastTick": {
+    "frames": 17461,
+    "seconds": 416.2625676666644
+  },
+  "touches": [
+    {
+      "taps": 1,
+      "x": 321.68659577546293,
+      "y": 343.2394748263889
+    },
+    {
+      "taps": 2,
+      "x": 215,
+      "y": 386.2037037037037
+    }
+  ],
+  "limitations": [
+    "Standalone probe; integrated NAT cases and physical-device performance are not asserted.",
+    "Initial software GPU renderer was slow; host GPU used for this measurement."
+  ],
+  "video": {
+    "localFile": "spikes/rn-cocos/evidence/videos/cocos-android-standalone.mp4",
+    "sha256": "079aa454b594219c9a6a5fee63cfdf1f22657eea03267c73bd31caee39e51987",
+    "bytes": 1517827,
+    "requestedSeconds": 65,
+    "gitIgnored": true,
+    "measuredDurationSeconds": 64.625533,
+    "decodedFramesReviewedSeconds": [
+      1,
+      60
+    ],
+    "frameCounterAtReviewedFrames": [
+      37482,
+      39358
+    ],
+    "note": "Under concurrent build/simulator load; continuity evidence only, not a physical-device FPS claim"
+  }
+}

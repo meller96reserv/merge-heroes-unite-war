@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "task": "TASK-0009",
+  "boundedResearchOracle": "Tap,20rapid taps,2000ms hold,release outside,fullboard and bounded tier-advance investigation",
+  "cases": 5,
+  "rapidInputSpanSeconds": 0.144,
+  "caseResults": [
+    {
+      "caseId": "tap",
+      "inputCount": 1,
+      "acceptedBuys": 1,
+      "derivedGoldSpent": 4
+    },
+    {
+      "caseId": "full_board",
+      "inputCount": 1,
+      "acceptedBuys": 0,
+      "derivedGoldSpent": 0
+    },
+    {
+      "caseId": "hold_2s",
+      "inputCount": 1,
+      "acceptedBuys": 2,
+      "derivedGoldSpent": 8
+    },
+    {
+      "caseId": "rapid_20",
+      "inputCount": 20,
+      "acceptedBuys": 6,
+      "derivedGoldSpent": 30
+    },
+    {
+      "caseId": "release_outside",
+      "inputCount": 1,
+      "acceptedBuys": 1,
+      "derivedGoldSpent": 6
+    }
+  ],
+  "tierAdvance": {
+    "status": "UNKNOWN_GENERAL_RULE",
+    "observed": "Offer remains tier1 ataccountLv3 andafterWizard tier6 discovery. Subsequent six accepted rapid buys are all visible tier1. Discovering tier6 alone didnotadvance the offer in this captured state.",
+    "boundedInvestigation": "Manual progression to tier6 and account3, samefirstbosslockedstate; no sourcecode extraction or late-content extrapolation.",
+    "productRule": "PROPOSED: offer grants its explicit configured tier; no hidden max-discovery offset or automatic tier advance without configured unlock."
+  },
+  "limits": [
+    "Desktop mouse behavior; native touch/pointercancel delivery remains NOT_RUN",
+    "Exact hold repeat delay/cadence UNKNOWN; free-slot cap limits observed counts",
+    "One hold/full/cancel/rapid fixture each;tap additionally covered by30cost samples",
+    "Release outside is not synthetic OS pointercancel; one first purchase persists after move/release",
+    "No grants/costs inferred from raw filename ordinals or from confounded account/discovery intervals"
+  ],
+  "csvSha256": "139d4fda98101f27b67196947d893081452bc3fca2d0f1b21fda898b79955ccc"
+}

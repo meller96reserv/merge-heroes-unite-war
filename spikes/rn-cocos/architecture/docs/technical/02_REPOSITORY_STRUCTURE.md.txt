@@ -1,0 +1,15 @@
+# Repository structure
+
+[OBSERVED] Current repository contains source documents and an empty AGENTS.md; no current package manifest or runtime exists. The user's removal of the old app is preserved. This planning run creates only documentation, schemas, research captures and analysis scripts.
+
+[PROPOSED] Future roots: game-core/src/{model,commands,systems,events,ports,selectors,config}; game-core/tests/{unit,simulation,fixtures}; cocos-game/assets/{scenes,prefabs,scripts,game-data,art,audio}; mobile-shell/{src,android,ios}; tooling/{assets,config,visual,balance}; tests/{integration,e2e,goldens}; spikes/rn-cocos for the isolated feasibility project. Keep engine-generated build products, private signing assets and node_modules out of version control. Commit source .meta UUID files beside Cocos assets.
+
+Domain modules: currency/Amount, commands/PurchaseHero, commands/MergeHeroes, systems/BattleSystem, systems/StageSystem, systems/RewardService, systems/OfflineService. Adapters: CocosGameController, HeroView, EnemyView, BoardView, InputRouter, AnimationDirector, AudioDirector, SaveCoordinator and HostBridge. RN exposes GameHostScreen plus a typed GameHost native module; it does not duplicate game navigation or battle UI.
+
+Package manager, scripts and exact dependencies are a PHASE_04 decision after the spike. Intended commands build:core, test:core, validate:data, preview:web, capture:visual and test:bridge are contracts to implement, not commands that already work. Each task lists future files explicitly. Generated content must have a generator/source path and deterministic output. Root documentation stays readable without installing Cocos.
+
+Acceptance: dependency lint prevents game-core→cc/RN imports; all configuration has schema validation; production build excludes research images and debug harnesses; clean checkout build is demonstrated in 20_BUILD_AND_CI documentation, with secrets supplied externally.
+
+## Traceability
+
+[00_TECH_INDEX.md](00_TECH_INDEX.md) · [17_GAME_STATE_MODEL.md](../17_GAME_STATE_MODEL.md) · [04_UNKNOWNS_REGISTER.md](../04_UNKNOWNS_REGISTER.md) · [README.md](../../data-spec/README.md) · [TASK_INDEX.md](../../tasks/TASK_INDEX.md) · [01_TEST_STRATEGY.md](../qa/01_TEST_STRATEGY.md)

@@ -1,0 +1,15 @@
+TAP version 13
+# Subtest: modal/tutorial priority, single owner and closing pointer-up consumption
+ok 1 - modal/tutorial priority, single owner and closing pointer-up consumption
+  ---
+  duration_ms: 0.552
+  ...
+1..1
+# tests 1
+# suites 0
+# pass 1
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 176.564292

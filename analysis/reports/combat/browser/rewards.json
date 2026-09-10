@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "fourUniqueKillsGold": 120,
+  "failedSavePreservesGoldAndSequence": true,
+  "retryOnceAndFreshOpponent": true,
+  "reloadDoesNotReplayKills": true,
+  "runtimeErrors": 0,
+  "native": "NOT_RUN"
+}

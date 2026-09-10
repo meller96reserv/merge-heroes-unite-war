@@ -1,0 +1,8 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {createState} from '../src/model/GameState';import {activateAutoMerge,autoMergeActive,setAutoMergeEnabled,type AutoActivation} from '../src/commands/ActivateAutoMerge';
+test('60-minute reservation charges once; disabling preserves expiry; clock rollback cannot extend it',()=>{
+ const s=createState({dataVersion:'test',initialGold:'0',utcMs:0});s.data.currencies.gem='500';const config:AutoActivation={durationMs:3600000,costCurrencyId:'gem',costAmount:'500',freeActivationPolicy:'disabled'};
+ const command={type:'ActivateAutoMerge' as const,commandId:'auto1',mode:'currency' as const,utcMs:1000};assert.equal(activateAutoMerge(s,command,config).ok,true);assert.equal(s.data.currencies.gem,'0');activateAutoMerge(s,command,config);assert.equal(s.data.currencies.gem,'0');assert.equal(autoMergeActive(s,1001),true);
+ setAutoMergeEnabled(s,false,1002);assert.equal(autoMergeActive(s,1003),false);setAutoMergeEnabled(s,true,2000);assert.equal(autoMergeActive(s,1500),true);
+ setAutoMergeEnabled(s,false,3601000);assert.equal(setAutoMergeEnabled(s,true,100).ok,false);assert.equal(autoMergeActive(s,0),false);
+ const fresh=createState({dataVersion:'test',initialGold:'0',utcMs:0}),free={...command,mode:'development' as const};assert.equal(activateAutoMerge(fresh,free,{...config,freeActivationPolicy:'developmentGrant'}).ok,false);assert.equal(activateAutoMerge(fresh,free,{...config,freeActivationPolicy:'verifiedProvider'},true).ok,false);assert.equal(activateAutoMerge(fresh,free,{...config,freeActivationPolicy:'developmentGrant'},true).ok,true);
+});

@@ -1,0 +1,65 @@
+{
+  "task": "TASK-0039",
+  "reactNative": "0.86.3",
+  "checks": [
+    {
+      "case": "Android debug build",
+      "expected": "assembleDebug succeeds and APK exists",
+      "actual": {
+        "logSuccess": true,
+        "apkSha256": "0651c57998974232582ab857976bb4bdcd6a72ba38b5b68580338c942c8a0357"
+      },
+      "status": "PASS"
+    },
+    {
+      "case": "iOS simulator build",
+      "expected": "xcodebuild succeeds and simulator arm64 executable exists",
+      "actual": {
+        "logSuccess": true,
+        "binary": ".tools/rn-ios-derived/Build/Products/Debug-iphonesimulator/KiselNativeProbe.app/KiselNativeProbe",
+        "architecture": "x86_64 arm64",
+        "bundleIdentifier": "org.reactjs.native.example.KiselNativeProbe"
+      },
+      "status": "PASS"
+    },
+    {
+      "case": "Native screens launch",
+      "expected": "RN title, version, counter and button visible on both targets",
+      "actual": [
+        "evidence/rn-android-after.png",
+        "evidence/rn-ios-launch.png"
+      ],
+      "status": "PASS"
+    },
+    {
+      "case": "Android counter",
+      "expected": "Single tap increments once",
+      "actual": {
+        "task": "TASK-0039",
+        "target": "Android API36 arm64 emulator",
+        "expected": "One UI tap increments the displayed RN counter by one",
+        "before": 4,
+        "after": 5,
+        "passed": true,
+        "priorAttempt": "Delayed capture saw +2; repeated with consecutive capture/tap/capture to isolate the input."
+      },
+      "status": "PASS"
+    },
+    {
+      "case": "Jest render test",
+      "expected": "Official RN renderer mounts the probe without error",
+      "actual": "1 test passed, 0 failures; logs/rn-jest.log",
+      "status": "PASS"
+    },
+    {
+      "case": "TypeScript",
+      "expected": "tsc --noEmit exits0",
+      "actual": "Exit0, no diagnostics",
+      "status": "PASS"
+    }
+  ],
+  "limitations": [
+    "Standalone host only. RN-Cocos integration NAT cases are NOT_RUN.",
+    "Physical devices and iOS input automation are not claimed by this standalone build oracle."
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "target": "org.reactjs.native.example.KiselNativeProbe (iPhone 17 Pro)",
+  "events": [
+    {
+      "timestamp": 1788896316399.645,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"game.ready\",\"sequence\":0}"
+      ]
+    },
+    {
+      "timestamp": 1788896316420.912,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316421.035,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.1\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":0}"
+      ]
+    },
+    {
+      "timestamp": 1788896316421.177,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.ping\",\"sequence\":2}"
+      ]
+    },
+    {
+      "timestamp": 1788896316421.92,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-json\",\"expected\":\"INVALID_JSON\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316422.044,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-version\",\"expected\":\"INVALID_ENVELOPE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316422.111,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-type\",\"expected\":\"INVALID_ENVELOPE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316422.169,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-payload\",\"expected\":\"INVALID_PAYLOAD\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316422.223,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"stale-generation\",\"expected\":\"STALE_GENERATION\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316422.283,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"stale-session\",\"expected\":\"STALE_SESSION\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316422.34,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-sequence\",\"expected\":\"SEQUENCE_GAP\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316422.39,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"extra-field\",\"expected\":\"INVALID_ENVELOPE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316423.323,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":3}"
+      ]
+    },
+    {
+      "timestamp": 1788896316423.42,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.2\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":0}"
+      ]
+    },
+    {
+      "timestamp": 1788896316424.181,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":4}"
+      ]
+    },
+    {
+      "timestamp": 1788896316424.279,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.3\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316424.721,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":5}"
+      ]
+    },
+    {
+      "timestamp": 1788896316424.792,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.4\",\"result\":\"duplicate:CACHED_NO_APPLY:$.requestId\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316425.198,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":6}"
+      ]
+    },
+    {
+      "timestamp": 1788896316425.275,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.5\",\"result\":\"rejected:REQUEST_CONFLICT:$.requestId\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316425.859,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":7}"
+      ]
+    },
+    {
+      "timestamp": 1788896316425.97,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.6\",\"result\":\"rejected:INVALID_JSON:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316426.425,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":8}"
+      ]
+    },
+    {
+      "timestamp": 1788896316426.506,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.7\",\"result\":\"rejected:INVALID_ENVELOPE:$.version\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316426.934,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":9}"
+      ]
+    },
+    {
+      "timestamp": 1788896316427.005,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.8\",\"result\":\"rejected:INVALID_ENVELOPE:$.type\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316427.371,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":10}"
+      ]
+    },
+    {
+      "timestamp": 1788896316427.445,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.9\",\"result\":\"rejected:INVALID_PAYLOAD:$.payload.token\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316427.813,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":11}"
+      ]
+    },
+    {
+      "timestamp": 1788896316427.889,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.10\",\"result\":\"rejected:STALE_GENERATION:$.generation\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316428.245,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":12}"
+      ]
+    },
+    {
+      "timestamp": 1788896316428.313,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.11\",\"result\":\"rejected:STALE_SESSION:$.sessionId\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316428.672,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":13}"
+      ]
+    },
+    {
+      "timestamp": 1788896316428.738,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.12\",\"result\":\"rejected:SEQUENCE_GAP:$.sequence\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316429.077,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":14}"
+      ]
+    },
+    {
+      "timestamp": 1788896316429.141,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.13\",\"result\":\"rejected:INVALID_ENVELOPE:$.unexpected\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316487.21,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"transport-check\",\"expected\":\"OVERSIZE\",\"actual\":\"OVERSIZE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316551.212,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":15}"
+      ]
+    },
+    {
+      "timestamp": 1788896316551.498,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.14\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316551.912,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":16}"
+      ]
+    },
+    {
+      "timestamp": 1788896316552.349,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.ping\",\"sequence\":17}"
+      ]
+    },
+    {
+      "timestamp": 1788896316552.813,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"duplicate\",\"code\":\"CACHED_NO_APPLY\",\"path\":\"$.requestId\",\"type\":\"probe.ping\",\"sequence\":17}"
+      ]
+    },
+    {
+      "timestamp": 1788896316553.295,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"REQUEST_CONFLICT\",\"path\":\"$.requestId\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316553.772,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_JSON\",\"path\":\"$\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316553.915,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_ENVELOPE\",\"path\":\"$.version\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.02,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_ENVELOPE\",\"path\":\"$.type\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.138,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_PAYLOAD\",\"path\":\"$.payload.token\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.254,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"STALE_GENERATION\",\"path\":\"$.generation\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.366,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"STALE_SESSION\",\"path\":\"$.sessionId\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.495,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"SEQUENCE_GAP\",\"path\":\"$.sequence\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.612,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_ENVELOPE\",\"path\":\"$.unexpected\"}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.734,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.ping\",\"sequence\":18}"
+      ]
+    },
+    {
+      "timestamp": 1788896316554.815,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"exchange-complete\",\"status\":\"PASS\",\"hostRejected\":9,\"hostDuplicates\":1,\"gameRejected\":9,\"gameDuplicates\":1,\"colorApplications\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316559.025,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":19}"
+      ]
+    },
+    {
+      "timestamp": 1788896316559.167,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.15\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896316559.929,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":20}"
+      ]
+    },
+    {
+      "timestamp": 1788896316560.043,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.16\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896320856.996,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":21}"
+      ]
+    },
+    {
+      "timestamp": 1788896320857.128,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.17\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896320857.276,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":22}"
+      ]
+    },
+    {
+      "timestamp": 1788896320857.347,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.1\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896326173.674,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":23}"
+      ]
+    },
+    {
+      "timestamp": 1788896326173.888,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.18\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896326174.035,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":24}"
+      ]
+    },
+    {
+      "timestamp": 1788896326174.1,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.2\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896331740.633,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":25}"
+      ]
+    },
+    {
+      "timestamp": 1788896331740.779,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.19\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896331740.932,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":26}"
+      ]
+    },
+    {
+      "timestamp": 1788896331741.002,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.3\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896337808.906,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":27}"
+      ]
+    },
+    {
+      "timestamp": 1788896337809.177,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.20\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896337809.427,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":28}"
+      ]
+    },
+    {
+      "timestamp": 1788896337809.507,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.4\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896343458.369,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":29}"
+      ]
+    },
+    {
+      "timestamp": 1788896343458.559,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.21\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896343458.732,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":30}"
+      ]
+    },
+    {
+      "timestamp": 1788896343458.802,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.5\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896351803.783,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":31}"
+      ]
+    },
+    {
+      "timestamp": 1788896351804.202,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.22\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896351804.669,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":32}"
+      ]
+    },
+    {
+      "timestamp": 1788896351805.451,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.6\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896358625.07,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":33}"
+      ]
+    },
+    {
+      "timestamp": 1788896358625.238,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.23\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896358625.399,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":34}"
+      ]
+    },
+    {
+      "timestamp": 1788896358625.474,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.7\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896366161.465,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":35}"
+      ]
+    },
+    {
+      "timestamp": 1788896366162.383,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.24\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896366162.564,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":36}"
+      ]
+    },
+    {
+      "timestamp": 1788896366162.636,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.8\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896373361.689,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":37}"
+      ]
+    },
+    {
+      "timestamp": 1788896373362.418,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.25\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896373362.58,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":38}"
+      ]
+    },
+    {
+      "timestamp": 1788896373362.646,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.9\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    },
+    {
+      "timestamp": 1788896584254.354,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":39}"
+      ]
+    },
+    {
+      "timestamp": 1788896584258.366,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.26\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788896584258.643,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":40}"
+      ]
+    },
+    {
+      "timestamp": 1788896584258.715,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"lifecycle-pong\",\"token\":\"host.lifecycle.10\",\"sessionId\":\"probe.1788896316390\",\"generation\":1788896316390}"
+      ]
+    }
+  ]
+}

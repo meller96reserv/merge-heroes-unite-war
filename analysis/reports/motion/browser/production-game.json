@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "build": "Expo production Web export",
+  "fixtureQueryIgnored": true,
+  "sharedSkiaCanvas": true,
+  "autoBattleStageProgression": true,
+  "buyAndDragMerge": true,
+  "runtimeErrors": 0,
+  "native": "NOT_RUN"
+}

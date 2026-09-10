@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kisel.invalid/schemas/daily-rewards.schema.json",
+  "title": "daily-rewards",
+  "description": "PROPOSED planning contract. Validate cross-record references separately. Not reference balance.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "periodBasis": {
+      "enum": [
+        "utcDay",
+        "verifiedServerDay"
+      ]
+    },
+    "streakPolicy": {
+      "enum": [
+        "independent",
+        "consecutive",
+        "cumulative"
+      ]
+    },
+    "missedDayPolicy": {
+      "enum": [
+        "retain",
+        "reset"
+      ]
+    },
+    "rewardIds": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+      },
+      "minItems": 1
+    },
+    "evidenceMode": {
+      "enum": [
+        "PROPOSED",
+        "OBSERVED"
+      ]
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "periodBasis",
+    "streakPolicy",
+    "missedDayPolicy",
+    "rewardIds",
+    "evidenceMode"
+  ]
+}

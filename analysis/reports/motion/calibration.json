@@ -1,0 +1,8 @@
+{
+  "taskId": "TASK-0158",
+  "status": "PASS",
+  "reviewedCharacters": 23,
+  "sourceHashesVerified": 23,
+  "autoCutAllowed": false,
+  "review": "All character and boss contact sheets plus full battle background visually inspected. Ground contact and long weapons covered. Authored anchor values are proposed, not extracted rig metadata."
+}

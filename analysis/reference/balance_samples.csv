@@ -1,0 +1,14 @@
+sample_id,stage,hero_tier,attack_display,enemy_hp_display,damage_observed,crit,battle_time_ms,reward_gold,purchase_cost,notes
+BAL-001,1-1,1,,1,,,,,1,initialgold100;firstbuyquote1;EV009;web_ready
+BAL-002,1-1,1,,1,,,,,1,secondbuyquote1;100→99→98;EV009;tutorial_after_1
+BAL-003,1-1,2,5,1,,,,10,,tier2discoverygold10 andgems100;displayothericons25/2.0;EV010
+BAL-004,1-1,2,5,1,,,,1,,firstkilldelta108→109;notdiscovery;EV012
+BAL-005,1-2,2,5,4,,,,,,enemyHPdisplay;EV012
+BAL-006,1-4,2,5,16,,,,,,normalstageHPdisplay;notformula
+BAL-007,1-9,2,5,81,5,,,,,farmstage;singlehitdisplay;noarmor/critmodelinferred
+BAL-008,1-9,3,13,81,,,,1000,,tier3discoverygold1000/gems100;othericons52/2.5;EV020
+BAL-009,1-10,3,13,70,13,not_labelled_critical,,10000,,bossgold8389→18389;singleobservedwin;timerdurationunknown;EV021
+BAL-010,1-11,3,13,121,,,,,,normalstageHPdisplay;EV022
+BAL-011,1-12,4,16,144,32,labelled_CRITICAL,,1440,,tier4discoverygold1440/gems100;crit32singlecase;othericons106/1.5;EV023
+BAL-012,1-14,4,16,196,,,,1510,,"accountlevel2rewardgold1510/gems100,+1platform,+5%goldicon;notkillreward;EV024"
+BAL-013,UNKNOWN_RETURN,4,,,,,,247K,,"offline3:34display;roundedgold247Kplus4othericons;notexact247000;EV025;offline_elapsed_display_ms=214000,not battle duration"

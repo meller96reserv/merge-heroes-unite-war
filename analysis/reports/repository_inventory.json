@@ -1,0 +1,36 @@
+{
+  "capturedDate": "2026-09-08",
+  "files": [
+    {
+      "path": ".DS_Store",
+      "bytes": 6148
+    },
+    {
+      "path": "README.md",
+      "bytes": 12
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 46
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 0
+    },
+    {
+      "path": "docs/Merge Heroes Unite War.fig",
+      "bytes": 241954197
+    },
+    {
+      "path": "docs/links.txt",
+      "bytes": 215
+    },
+    {
+      "path": "docs/CODEX_MASTER_PLAN.md",
+      "bytes": 128657
+    }
+  ],
+  "gitHead": "94fb53abe16046ad24e9c14878413f00e91cb62b",
+  "gitStatus": "?? analysis/\n?? tools/\n",
+  "notes": "Initial user deletions became commit 94fb53a during audit. Do not restore deleted old app. No current production runtime."
+}

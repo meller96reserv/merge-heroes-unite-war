@@ -1,0 +1,15 @@
+# Architecture
+
+Decision status: [PROPOSED, conditional native acceptance]. Cocos Creator 3.8 LTS renders the game. A pure TypeScript game-core owns simulation, currency, merges, progression and reward transactions. React Native owns application entry, native lifecycle, system integrations and storage transport. No engine classes cross the domain boundary. Exact Cocos patch, RN version and native toolchain are locked together by PHASE_03; neither the old deleted app nor a fresh React web prototype is a foundation.
+
+Dependency direction: mobile-shell → native host → Cocos adapter → game-core. Domain emits immutable event batches; presenters read selectors and subscribe by mount generation. Infrastructure implements Clock, RNG, SaveStore, Logger and optional Analytics ports. Domain tests use fake ports. Cocos components may animate projected state, never credit currency on tween completion. Game data is versioned and validated before domain creation.
+
+Boot order: RN creates session → Cocos boots assets and bridge → game.ready → app.initialize with configuration, safe area and settings → validate/load/migrate save → reconcile offline entitlement → install state → render → accept commands. Invalid required config stops loading with a retryable diagnostic, not a half-populated scene. Reward/save writes are serialized; native callbacks do not re-enter a transaction.
+
+Single game instance per host session. Opening a meta screen changes the presentation route; application background changes lifecycle separately. A foreground modal can leave battle running, but modal input owns hit testing. Domain tick never crosses the bridge. Currency/stage summaries are coalesced and sent only after commit.
+
+Architecture acceptance: run domain with no cc/RN imports; Cocos web preview uses the same domain; duplicate host callbacks do not duplicate rewards; disposal removes all subscriptions; both mobile hosts pass the spike before production integration.
+
+## Traceability
+
+[00_TECH_INDEX.md](00_TECH_INDEX.md) · [17_GAME_STATE_MODEL.md](../17_GAME_STATE_MODEL.md) · [04_UNKNOWNS_REGISTER.md](../04_UNKNOWNS_REGISTER.md) · [README.md](../../data-spec/README.md) · [TASK_INDEX.md](../../tasks/TASK_INDEX.md) · [01_TEST_STRATEGY.md](../qa/01_TEST_STRATEGY.md)

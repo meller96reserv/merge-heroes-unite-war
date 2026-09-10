@@ -1,0 +1,582 @@
+{
+  "status": "PROPOSED",
+  "policy": "Canonical domain events emitted once after commit. Aliases are documentation/adapter translations, never additional emitted events. Presentation-only triggers are derived by directors; audio variants use independent RNG.",
+  "events": [
+    {
+      "canonical": "app.loading",
+      "consumers": [
+        "animation:app.logo"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "start.ready",
+      "consumers": [
+        "animation:start.idle"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "button.primary",
+      "consumers": [
+        "animation:start.press",
+        "audio:ui.primary"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "route.changed",
+      "consumers": [
+        "animation:screen.transition"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "battle.ready",
+      "consumers": [
+        "animation:hud.enter"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.spawned",
+      "consumers": [
+        "animation:hero.spawn",
+        "audio:hero.spawn"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.visible",
+      "consumers": [
+        "animation:hero.idle"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "battle.attackStarted",
+      "consumers": [
+        "animation:hero.attack"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.damaged",
+      "consumers": [
+        "animation:hero.hit"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "upgrade.committed",
+      "consumers": [
+        "animation:hero.upgrade",
+        "animation:equipment.enhance",
+        "audio:equipment.upgrade"
+      ],
+      "aliases": [
+        "equipment.enhanced",
+        "hero.upgraded"
+      ]
+    },
+    {
+      "canonical": "hero.merged",
+      "consumers": [
+        "animation:hero.mergeOut",
+        "animation:hero.mergeIn"
+      ],
+      "aliases": [
+        "merge.completed"
+      ]
+    },
+    {
+      "canonical": "enemy.spawned",
+      "consumers": [
+        "animation:enemy.spawn"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "enemy.visible",
+      "consumers": [
+        "animation:enemy.idle"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "enemy.attackStarted",
+      "consumers": [
+        "animation:enemy.attack"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "battle.hit",
+      "consumers": [
+        "animation:enemy.hit",
+        "animation:damage.normal",
+        "audio:combat.hit"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "enemy.died",
+      "consumers": [
+        "animation:enemy.death"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "boss.spawned",
+      "consumers": [
+        "animation:boss.intro",
+        "audio:music.boss",
+        "audio:boss.intro"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "boss.damaged",
+      "consumers": [
+        "animation:boss.hit"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "boss.defeated",
+      "consumers": [
+        "animation:boss.death",
+        "audio:boss.death"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "projectile.released",
+      "consumers": [
+        "animation:projectile.launch"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "projectile.inFlight",
+      "consumers": [
+        "animation:projectile.travel"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "projectile.impacted",
+      "consumers": [
+        "animation:projectile.impact"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "battle.critical",
+      "consumers": [
+        "animation:damage.crit",
+        "audio:combat.crit"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "currency.gold.gained",
+      "consumers": [
+        "animation:reward.coin",
+        "audio:economy.goldGain"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "currency.gem.gained",
+      "consumers": [
+        "animation:reward.gem",
+        "audio:economy.gemGain"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "currency.changed",
+      "consumers": [
+        "animation:currency.bump"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.purchased",
+      "consumers": [
+        "animation:purchase.success"
+      ],
+      "aliases": [
+        "purchase.succeeded"
+      ]
+    },
+    {
+      "canonical": "purchase.rejected",
+      "consumers": [
+        "animation:purchase.failure"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "board.slotUnlocked",
+      "consumers": [
+        "animation:slot.unlock"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "merge.chainStep",
+      "consumers": [
+        "animation:merge.cascade",
+        "audio:merge.cascade"
+      ],
+      "aliases": [
+        "cascade.step"
+      ]
+    },
+    {
+      "canonical": "stage.changed",
+      "consumers": [
+        "animation:stage.progress"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "boss.approaching",
+      "consumers": [
+        "animation:boss.warning"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "stage.cleared",
+      "consumers": [
+        "animation:stage.clear",
+        "audio:progress.stageClear"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "unlock.changed",
+      "consumers": [
+        "animation:feature.unlock",
+        "audio:progress.unlock"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "popup.opened",
+      "consumers": [
+        "animation:popup.open",
+        "audio:ui.popupOpen"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "popup.closed",
+      "consumers": [
+        "animation:popup.close",
+        "audio:ui.popupClose"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "tab.selected",
+      "consumers": [
+        "animation:tab.switch",
+        "audio:ui.tab"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "claimability.changed",
+      "consumers": [
+        "animation:redDot.appear"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "daily.claimed",
+      "consumers": [
+        "animation:daily.claim",
+        "audio:reward.daily"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "wheel.reserved",
+      "consumers": [
+        "animation:wheel.accelerate"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "wheel.segmentPassed",
+      "consumers": [
+        "animation:wheel.tick",
+        "audio:wheel.tick"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "wheel.braking",
+      "consumers": [
+        "animation:wheel.decelerate"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "wheel.landed",
+      "consumers": [
+        "animation:wheel.land",
+        "audio:wheel.result"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "chest.opened",
+      "consumers": [
+        "animation:chest.open",
+        "audio:reward.chest"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "equipment.changed",
+      "consumers": [
+        "animation:equipment.equip",
+        "audio:equipment.equip"
+      ],
+      "aliases": [
+        "equipment.equipped",
+        "equipment.unequipped"
+      ]
+    },
+    {
+      "canonical": "command.insufficientFunds",
+      "consumers": [
+        "animation:currency.insufficient"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "command.locked",
+      "consumers": [
+        "animation:feature.locked"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "offline.pending",
+      "consumers": [
+        "animation:offline.popup"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "button.secondary",
+      "consumers": [
+        "animation:button.secondary",
+        "audio:ui.soft"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "settings.previewChanged",
+      "consumers": [
+        "animation:settings.slider"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "settings.changed",
+      "consumers": [
+        "animation:settings.toggle"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "loading.changed",
+      "consumers": [
+        "animation:loading.progress"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "maintenance.visible",
+      "consumers": [
+        "animation:maintenance.idle"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.deployed",
+      "consumers": [
+        "animation:hero.deploy"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.withdrawn",
+      "consumers": [
+        "animation:hero.withdraw"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "tutorial.stepShown",
+      "consumers": [
+        "animation:tutorial.hand"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "quest.claimed",
+      "consumers": [
+        "animation:quest.claim"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "battle.majorImpact",
+      "consumers": [
+        "animation:battle.camera"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "session.ready",
+      "consumers": [
+        "audio:music.main"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "world.entered",
+      "consumers": [
+        "audio:ambience.main"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "command.rejected",
+      "consumers": [
+        "audio:ui.error"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "currency.gold.spent",
+      "consumers": [
+        "audio:economy.goldSpend"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.merged.low",
+      "consumers": [
+        "audio:merge.low"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.merged.mid",
+      "consumers": [
+        "audio:merge.mid"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.merged.high",
+      "consumers": [
+        "audio:merge.high"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "battle.attack.melee",
+      "consumers": [
+        "audio:combat.melee"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "projectile.arrow.released",
+      "consumers": [
+        "audio:combat.ranged"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "projectile.magic.released",
+      "consumers": [
+        "audio:combat.magic"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "enemy.died.small",
+      "consumers": [
+        "audio:enemy.deathSmall"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "enemy.died.large",
+      "consumers": [
+        "audio:enemy.deathLarge"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "offline.claimed",
+      "consumers": [
+        "audio:reward.offline"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "reward.committed",
+      "consumers": [],
+      "aliases": [
+        "reward.granted"
+      ]
+    },
+    {
+      "canonical": "merge.cascadeCompleted",
+      "consumers": [],
+      "aliases": [
+        "cascade.completed"
+      ]
+    },
+    {
+      "canonical": "hero.discovered",
+      "consumers": [],
+      "aliases": [
+        "tier.discovered"
+      ]
+    },
+    {
+      "canonical": "hero.died",
+      "consumers": [
+        "animation:hero.death"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "hero.recovered",
+      "consumers": [
+        "animation:hero.recover"
+      ],
+      "aliases": []
+    },
+    {
+      "canonical": "quest.progressed",
+      "consumers": [
+        "animation:quest.progress"
+      ],
+      "aliases": []
+    }
+  ]
+}

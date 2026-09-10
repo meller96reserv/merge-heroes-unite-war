@@ -1,0 +1,33 @@
+# ADR-002 — Mobile host
+
+## Status
+Accepted host requirement, native feasibility NOT_VERIFIED. Recorded 2026-09-08 for TASK-0003. [start_prompt.md](../../start_prompt.md), sections 6–7, explicitly requires React Native as the mobile host and Cocos as native game presentation. U-011 is resolved by this user instruction; U-001 remains open.
+
+## Context and evidence
+Shell handles application/system surfaces while game remains in Cocos. Embedded surface adds lifecycle/touch complexity. WebView is only an evaluated alternative requiring a separate explicit architecture decision. See [evidence](../03_EVIDENCE_LEDGER.md), [unknowns](../04_UNKNOWNS_REGISTER.md) and [architecture](../technical/01_ARCHITECTURE.md).
+
+## Decision
+React Native shell with full-screen Cocos native host strategy A.
+
+RN owns entry, native lifecycle, system integration and storage transport. Cocos owns rendering/input; pure TypeScript owns deterministic domain rules. Both Android and iOS must pass the native spike. Browser preview uses the same Cocos scene and contracts with a development-only bridge adapter. Browser success does not close native acceptance.
+
+## Consequences and alternatives
+No existing RN app is retained. Do not begin production shell integration until both host outcomes are recorded. Flutter requires a new decision, not a quiet substitution.
+
+The newly supplied general developer document lists Flutter/React/Unity as examples, without requiring one of them for this game. It does not override the explicit implementation instruction. No host exception is taken. SDK/provider requests in the new brief are tracked for their existing analytics/release/scope tasks and do not enable purchases or payouts in this spike.
+
+## TASK-0003 acceptance evidence
+
+| Input / check | Expected | Actual |
+| --- | --- | --- |
+| TASK-0002 baseline | Isolated branch, unchanged user inputs | COMPLETED; [baseline](../../analysis/reports/implementation_baseline.json), five user hashes preserved |
+| start prompt sections 6–7 | Explicit current host requirement | RN host + native Cocos + pure TS required |
+| Deleted application history | Not used as authority/foundation | No restoration; baseline HEAD preserved |
+| U-011 versus U-001 | Requirement may close; feasibility needs execution | U-011 RESOLVED_REQUIREMENT; U-001 OPEN; NAT cases NOT_RUN |
+| Source and consistency checks | Original hashes intact; coherent DAG/status | `python tools/analysis/validate_planning.py --implementation`, PASS, 32 checks; result stored in `analysis/reports/host_decision_checks.json` |
+
+## Verification and revisit trigger
+Complete [PHASE_03_NATIVE_INTEGRATION_SPIKE](../../plans/PHASE_03_NATIVE_INTEGRATION_SPIKE.md), attach acceptance results and update this ADR if measured evidence invalidates its premises. Do not rewrite historical evidence to make the selected approach appear confirmed.
+
+## Tasks
+[Task index](../../tasks/TASK_INDEX.md) · [Documentation index](../00_INDEX.md).

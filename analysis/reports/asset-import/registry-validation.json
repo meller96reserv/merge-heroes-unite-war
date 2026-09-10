@@ -1,0 +1,14 @@
+{
+  "task": "TASK-0034",
+  "status": "PASS",
+  "records": 170,
+  "negativeCases": 6,
+  "checks": [
+    "duplicate IDs",
+    "missing semantic refs",
+    "out-of-range pivot",
+    "unreviewed trim",
+    "changed bytes",
+    "reference-only selection"
+  ]
+}

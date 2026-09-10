@@ -1,0 +1,15 @@
+# Performance budget
+
+All budgets are [PROPOSED acceptance targets], not measured outcomes. Target60 fps on representative mid/high devices and stable30 fps on the low tier. At60 fps, p95 frame time≤16.7 ms and p99≤33.3 ms during the core stress fixture; low-tier p95≤33.3 ms. Measure native release builds after warmup, record thermal state and device/OS/build identifiers.
+
+Initial ceilings: resident textures≤128 MiB in battle, total process resident memory≤350 MiB on low-tier target, draw calls≤150 for battle and≤220 during reward overlay, active nodes≤1000, steady-state per-hit node allocations zero. Cold interactive launch≤5 s on mid-tier local install; warm host re-entry≤1.5 s. These numbers must be revised with evidence if engine baseline alone exceeds them, not silently ignored.
+
+Bridge carries control and summaries only: no per-frame transform traffic, normal summary rate≤4 messages/s, maximum encoded message64 KiB, batched events≤32. Save commit p95 target≤50 ms on device; queue length and oldest age are visible. If persistence throughput cannot sustain combat rewards, redesign the journal/barrier with crash tests before relaxing durability.
+
+Collect Cocos profiler, Android Perfetto/memory and iOS Instruments allocations/time profiler with release symbols where available. RN JS/UI thread and Cocos render/simulation thread measurements are separate. FPS alone cannot detect growing native heaps or bridge stalls.
+
+Acceptance: ten host reopen cycles and 30-minute stress session show no monotonic memory slope after warmup; record raw traces and percentile method; low-quality fallback preserves state hash for identical input/seed.
+
+## Traceability
+
+[00_TECH_INDEX.md](00_TECH_INDEX.md) · [17_GAME_STATE_MODEL.md](../17_GAME_STATE_MODEL.md) · [04_UNKNOWNS_REGISTER.md](../04_UNKNOWNS_REGISTER.md) · [README.md](../../data-spec/README.md) · [TASK_INDEX.md](../../tasks/TASK_INDEX.md) · [01_TEST_STRATEGY.md](../qa/01_TEST_STRATEGY.md)

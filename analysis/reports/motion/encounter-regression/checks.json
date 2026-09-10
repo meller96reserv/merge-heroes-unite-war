@@ -1,0 +1,43 @@
+{
+  "task": "TASK-0162",
+  "kind": "encounter-motion-regression",
+  "typecheck": {
+    "status": "PASS",
+    "exitCode": 0
+  },
+  "unitAndCoreTests": {
+    "status": "PASS",
+    "passed": 115,
+    "failed": 0
+  },
+  "coreBoundary": {
+    "status": "PASS",
+    "exitCode": 0
+  },
+  "assetRegistry": {
+    "status": "PASS",
+    "exitCode": 0
+  },
+  "webExport": {
+    "status": "PASS",
+    "exitCode": 0,
+    "summary": "web-export-summary.json"
+  },
+  "browserAttacks": {
+    "status": "PASS",
+    "attacks": 18,
+    "families": 3,
+    "encountersPerFamily": 3,
+    "evidence": "results.json"
+  },
+  "stageLoop": {
+    "status": "PASS",
+    "evidence": "stages/stage-loop.json"
+  },
+  "native": "NOT_RUN",
+  "fastRefresh": {
+    "status": "PASS",
+    "exitCode": 0,
+    "evidence": "fast-refresh.json"
+  }
+}

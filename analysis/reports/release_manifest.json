@@ -1,0 +1,40 @@
+{
+  "package": "com.mergeheroes.unitewar",
+  "version": "0.2.1",
+  "build": 3,
+  "sourceCommit": "38f58a8442bc9029d9bc24c186bddda88cff8d16",
+  "sourceArchiveExcludes": "historical spikes, raw Figma research copies, reference clips and logs; runtime assets and semantic mappings retained",
+  "signing": {
+    "android": "local development certificate / Release variant, candidate only",
+    "ios": "unsigned arm64 Simulator"
+  },
+  "artifacts": {
+    "apk": {
+      "path": ".tools/delivery/0.2.1-3/com.mergeheroes.unitewar.apk",
+      "bytes": 132687364,
+      "sha256": "eb90d3aabe3189d2a5f85a04df16f4431a74e9cc3720ae03b0ae391e94c743db"
+    },
+    "aab": {
+      "path": ".tools/delivery/0.2.1-3/com.mergeheroes.unitewar.aab",
+      "bytes": 121499433,
+      "sha256": "d817041ce129cf5378e5e76219c05a903a6b85154e6f09135e88467b4bc1058b"
+    },
+    "iosSimulator": {
+      "path": ".tools/delivery/0.2.1-3/com.mergeheroes.unitewar.ios-simulator.zip",
+      "bytes": 128930235,
+      "sha256": "e6100597709ba502ae5d5144dee2e09095e5c4ef1fa220c462c139f81d5ecb35"
+    },
+    "projectSource": {
+      "path": ".tools/delivery/0.2.1-3/com.mergeheroes.unitewar.zip",
+      "bytes": 269705648,
+      "sha256": "65ee0e95d6d34f37304338f600e080f834f21053960277d5e49e2825dc60592a"
+    }
+  },
+  "externalInputs": [
+    "owner Start.io Android/iOS application IDs and live completion acceptance",
+    "owner-approved Terms/Privacy HTTPS URLs",
+    "owner distribution accounts/signing and GitLab publication where required"
+  ],
+  "deliveryComplete": false,
+  "projectSettings": "project-settings.private.json (owner handoff; never log contents)"
+}

@@ -1,0 +1,5236 @@
+{
+  "taskId": "TASK-0029",
+  "classification": "MEASURED_SOURCE_FONTS",
+  "fontTools": "4.59.2",
+  "raqm": true,
+  "referenceBinaryRevision": "UNKNOWN: Figma inventory gives family/style/axes, no font binary hash/version",
+  "sourceIntegrity": "PASS",
+  "sourceFiles": [
+    {
+      "family": "passionone",
+      "file": "analysis/figma/fonts/source/passionone/METADATA.pb",
+      "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+      "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/METADATA.pb",
+      "sha256": "d1b45f657cf89206ca0cb575f7afbd81702ed817efbea294d8c5055024f3d811",
+      "bytes": 1164
+    },
+    {
+      "family": "passionone",
+      "file": "analysis/figma/fonts/source/passionone/OFL.txt",
+      "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+      "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/OFL.txt",
+      "sha256": "36c285c5472c625901d4a13da7e31c5ea6126678d31d56cf95572c49f27c8950",
+      "bytes": 4390
+    },
+    {
+      "family": "passionone",
+      "file": "analysis/figma/fonts/source/passionone/PassionOne-Bold.ttf",
+      "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+      "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/PassionOne-Bold.ttf",
+      "sha256": "3a7249909b2e56e831f8a357a4ee549e9c5945cd003f0e5e3bd8791a76d98b7e",
+      "bytes": 24716
+    },
+    {
+      "family": "passionone",
+      "file": "analysis/figma/fonts/source/passionone/PassionOne-Regular.ttf",
+      "revision": "c68f53b1e0d109b2b36587807d39648cf609b014",
+      "url": "https://raw.githubusercontent.com/google/fonts/c68f53b1e0d109b2b36587807d39648cf609b014/ofl/passionone/PassionOne-Regular.ttf",
+      "sha256": "86fea5001e5d751cf5696f0ecd4754db80918adbb12658add959f5bcdc92b09b",
+      "bytes": 24940
+    },
+    {
+      "family": "roboto",
+      "file": "analysis/figma/fonts/source/roboto/METADATA.pb",
+      "revision": "1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c",
+      "url": "https://raw.githubusercontent.com/google/fonts/1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c/ofl/roboto/METADATA.pb",
+      "sha256": "6fef19da54fb62d152f0c7b21710e6849950db7ecf852ea29511c593dad462f0",
+      "bytes": 1463
+    },
+    {
+      "family": "roboto",
+      "file": "analysis/figma/fonts/source/roboto/OFL.txt",
+      "revision": "1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c",
+      "url": "https://raw.githubusercontent.com/google/fonts/1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c/ofl/roboto/OFL.txt",
+      "sha256": "061402327a96aadb0bfb694a960ed289ecd38d383e396243831ab81feb109c41",
+      "bytes": 4394
+    },
+    {
+      "family": "roboto",
+      "file": "analysis/figma/fonts/source/roboto/Roboto[wdth,wght].ttf",
+      "revision": "1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c",
+      "url": "https://raw.githubusercontent.com/google/fonts/1c627bfa375fc51cf86fabeca4f6e08a95f0aa5c/ofl/roboto/Roboto%5Bwdth%2Cwght%5D.ttf",
+      "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134",
+      "bytes": 488584
+    },
+    {
+      "family": "nunito",
+      "file": "analysis/figma/fonts/source/nunito/METADATA.pb",
+      "revision": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+      "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/nunito/METADATA.pb",
+      "sha256": "3e20743c7ddab54c6ac57d79a6be522d4bae795223855ce90a1b13c4132f0754",
+      "bytes": 1306
+    },
+    {
+      "family": "nunito",
+      "file": "analysis/figma/fonts/source/nunito/Nunito[wght].ttf",
+      "revision": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+      "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/nunito/Nunito%5Bwght%5D.ttf",
+      "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+      "bytes": 276932
+    },
+    {
+      "family": "nunito",
+      "file": "analysis/figma/fonts/source/nunito/OFL.txt",
+      "revision": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+      "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/nunito/OFL.txt",
+      "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65",
+      "bytes": 4385
+    }
+  ],
+  "faces": [
+    {
+      "family": "Passion One",
+      "style": "Bold",
+      "sourceFile": "analysis/figma/fonts/source/passionone/PassionOne-Bold.ttf",
+      "sourceNames": {
+        "1": "Passion One",
+        "2": "Bold",
+        "5": "Version 1.002",
+        "6": "PassionOne-Bold"
+      },
+      "axes": {},
+      "sourceAxes": {},
+      "unitsPerEm": 1000,
+      "hhea": {
+        "ascent": 835,
+        "descent": -266,
+        "lineGap": 0
+      },
+      "cyrillic": {
+        "tested": 66,
+        "present": 0,
+        "missing": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+      },
+      "observedNodeCount": 198,
+      "missingObservedCharacters": "",
+      "samplesAt32px": [
+        {
+          "text": "0123456789 1 000 10 000 +1000 00:21:19",
+          "advancePx": 515.140625,
+          "inkBoundsPx": [
+            0,
+            7,
+            516,
+            27
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Loading... BOSS STAGE CLAIM",
+          "advancePx": 382.1875,
+          "inkBoundsPx": [
+            0,
+            5,
+            382,
+            31
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "ELF archer Ice Fairy Settings",
+          "advancePx": 368.34375,
+          "inkBoundsPx": [
+            0,
+            5,
+            369,
+            31
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Привет! Герой ёжик 1000 золота",
+          "advancePx": 224.671875,
+          "inkBoundsPx": [
+            0,
+            7,
+            225,
+            27
+          ],
+          "missingChars": "ГПавежзийклортё"
+        }
+      ]
+    },
+    {
+      "family": "Passion One",
+      "style": "Regular",
+      "sourceFile": "analysis/figma/fonts/source/passionone/PassionOne-Regular.ttf",
+      "sourceNames": {
+        "1": "Passion One",
+        "2": "Regular",
+        "5": "Version 1.002",
+        "6": "PassionOne-Regular"
+      },
+      "axes": {},
+      "sourceAxes": {},
+      "unitsPerEm": 1000,
+      "hhea": {
+        "ascent": 835,
+        "descent": -266,
+        "lineGap": 0
+      },
+      "cyrillic": {
+        "tested": 66,
+        "present": 0,
+        "missing": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+      },
+      "observedNodeCount": 67,
+      "missingObservedCharacters": "",
+      "samplesAt32px": [
+        {
+          "text": "0123456789 1 000 10 000 +1000 00:21:19",
+          "advancePx": 474.359375,
+          "inkBoundsPx": [
+            0,
+            7,
+            475,
+            27
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Loading... BOSS STAGE CLAIM",
+          "advancePx": 344.796875,
+          "inkBoundsPx": [
+            0,
+            5,
+            345,
+            31
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "ELF archer Ice Fairy Settings",
+          "advancePx": 325.59375,
+          "inkBoundsPx": [
+            0,
+            5,
+            327,
+            31
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Привет! Герой ёжик 1000 золота",
+          "advancePx": 233.15625,
+          "inkBoundsPx": [
+            0,
+            7,
+            233,
+            27
+          ],
+          "missingChars": "ГПавежзийклортё"
+        }
+      ]
+    },
+    {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sourceFile": "analysis/figma/fonts/source/roboto/Roboto[wdth,wght].ttf",
+      "sourceNames": {
+        "1": "Roboto",
+        "2": "Regular",
+        "5": "Version 3.015; 2026",
+        "6": "Roboto-Regular"
+      },
+      "axes": {
+        "wght": 600,
+        "wdth": 100
+      },
+      "sourceAxes": {
+        "wght": [
+          100.0,
+          400.0,
+          900.0
+        ],
+        "wdth": [
+          75.0,
+          100.0,
+          100.0
+        ]
+      },
+      "unitsPerEm": 2048,
+      "hhea": {
+        "ascent": 1900,
+        "descent": -500,
+        "lineGap": 0
+      },
+      "cyrillic": {
+        "tested": 66,
+        "present": 66,
+        "missing": ""
+      },
+      "observedNodeCount": 7,
+      "missingObservedCharacters": "",
+      "samplesAt32px": [
+        {
+          "text": "0123456789 1 000 10 000 +1000 00:21:19",
+          "advancePx": 612.90625,
+          "inkBoundsPx": [
+            0,
+            7,
+            613,
+            30
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Loading... BOSS STAGE CLAIM",
+          "advancePx": 443.265625,
+          "inkBoundsPx": [
+            0,
+            6,
+            443,
+            37
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "ELF archer Ice Fairy Settings",
+          "advancePx": 408.890625,
+          "inkBoundsPx": [
+            0,
+            6,
+            409,
+            37
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Привет! Герой ёжик 1000 золота",
+          "advancePx": 493.515625,
+          "inkBoundsPx": [
+            0,
+            6,
+            494,
+            37
+          ],
+          "missingChars": ""
+        }
+      ]
+    },
+    {
+      "family": "Roboto",
+      "style": "Regular",
+      "sourceFile": "analysis/figma/fonts/source/roboto/Roboto[wdth,wght].ttf",
+      "sourceNames": {
+        "1": "Roboto",
+        "2": "Regular",
+        "5": "Version 3.015; 2026",
+        "6": "Roboto-Regular"
+      },
+      "axes": {
+        "wght": 400,
+        "wdth": 100
+      },
+      "sourceAxes": {
+        "wght": [
+          100.0,
+          400.0,
+          900.0
+        ],
+        "wdth": [
+          75.0,
+          100.0,
+          100.0
+        ]
+      },
+      "unitsPerEm": 2048,
+      "hhea": {
+        "ascent": 1900,
+        "descent": -500,
+        "lineGap": 0
+      },
+      "cyrillic": {
+        "tested": 66,
+        "present": 66,
+        "missing": ""
+      },
+      "observedNodeCount": 6,
+      "missingObservedCharacters": "",
+      "samplesAt32px": [
+        {
+          "text": "0123456789 1 000 10 000 +1000 00:21:19",
+          "advancePx": 602.828125,
+          "inkBoundsPx": [
+            0,
+            7,
+            603,
+            30
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Loading... BOSS STAGE CLAIM",
+          "advancePx": 436.859375,
+          "inkBoundsPx": [
+            0,
+            6,
+            437,
+            37
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "ELF archer Ice Fairy Settings",
+          "advancePx": 402.875,
+          "inkBoundsPx": [
+            0,
+            6,
+            403,
+            37
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Привет! Герой ёжик 1000 золота",
+          "advancePx": 488.65625,
+          "inkBoundsPx": [
+            0,
+            7,
+            489,
+            37
+          ],
+          "missingChars": ""
+        }
+      ]
+    },
+    {
+      "family": "Nunito",
+      "style": "Regular",
+      "sourceFile": "analysis/figma/fonts/source/nunito/Nunito[wght].ttf",
+      "sourceNames": {
+        "1": "Nunito ExtraLight",
+        "2": "Regular",
+        "5": "Version 3.602",
+        "6": "Nunito-ExtraLight",
+        "16": "Nunito",
+        "17": "ExtraLight"
+      },
+      "axes": {
+        "wght": 400
+      },
+      "sourceAxes": {
+        "wght": [
+          200.0,
+          200.0,
+          1000.0
+        ]
+      },
+      "unitsPerEm": 1000,
+      "hhea": {
+        "ascent": 1011,
+        "descent": -353,
+        "lineGap": 0
+      },
+      "cyrillic": {
+        "tested": 66,
+        "present": 66,
+        "missing": ""
+      },
+      "observedNodeCount": 18,
+      "missingObservedCharacters": "",
+      "samplesAt32px": [
+        {
+          "text": "0123456789 1 000 10 000 +1000 00:21:19",
+          "advancePx": 640.1875,
+          "inkBoundsPx": [
+            0,
+            10,
+            640,
+            33
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Loading... BOSS STAGE CLAIM",
+          "advancePx": 445.1875,
+          "inkBoundsPx": [
+            0,
+            10,
+            445,
+            39
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "ELF archer Ice Fairy Settings",
+          "advancePx": 404.75,
+          "inkBoundsPx": [
+            0,
+            10,
+            405,
+            39
+          ],
+          "missingChars": ""
+        },
+        {
+          "text": "Привет! Герой ёжик 1000 золота",
+          "advancePx": 494.203125,
+          "inkBoundsPx": [
+            0,
+            9,
+            494,
+            39
+          ],
+          "missingChars": ""
+        }
+      ]
+    }
+  ],
+  "nodeMetrics": [
+    {
+      "nodeId": "I2:6;2:10",
+      "text": "Loading...",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        328,
+        43
+      ],
+      "unwrappedLineAdvancesPx": [
+        99.91015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:10",
+      "text": "Loading...",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        328,
+        43
+      ],
+      "unwrappedLineAdvancesPx": [
+        99.91015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:117",
+      "text": "Please wait",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        125,
+        26
+      ],
+      "unwrappedLineAdvancesPx": [
+        113.23046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:178",
+      "text": "Settings",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        94,
+        26
+      ],
+      "unwrappedLineAdvancesPx": [
+        82.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "90:1739",
+      "text": "Settings",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 48,
+      "layoutBox": [
+        187,
+        53
+      ],
+      "unwrappedLineAdvancesPx": [
+        165.30859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:267;2:511",
+      "text": "WHEEL OF LUCK",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        149,
+        26
+      ],
+      "unwrappedLineAdvancesPx": [
+        148.1640625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:269;2:491",
+      "text": "SPIN",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        314,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        69.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:644",
+      "text": "Mega Win!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        65,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.03125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:645",
+      "text": "3 FREE SPINS",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        73,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.44921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:646",
+      "text": "300",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:647",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        20,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.9921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:648",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:649",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:650",
+      "text": "5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        33,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        32.47265625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:651",
+      "text": "500",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.0859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:652",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        19,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.0390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:653",
+      "text": "1 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        31,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        30.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:654",
+      "text": "800",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        23,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:655",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:573;2:656",
+      "text": "10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 11.795893669128418,
+      "layoutBox": [
+        32,
+        13
+      ],
+      "unwrappedLineAdvancesPx": [
+        31.3828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:278;2:491",
+      "text": "FREE SPIN",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        314,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        145.1875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:279;2:511",
+      "text": "WHEEL OF LUCK",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        149,
+        26
+      ],
+      "unwrappedLineAdvancesPx": [
+        148.1640625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:644",
+      "text": "Mega Win!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        65,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.03125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:645",
+      "text": "3 FREE SPINS",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        73,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.44921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:646",
+      "text": "300",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:647",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        20,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.9921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:648",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:649",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:650",
+      "text": "5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        33,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        32.47265625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:651",
+      "text": "500",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.0859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:652",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        19,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.0390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:653",
+      "text": "1 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        31,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        30.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:654",
+      "text": "800",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        23,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:655",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:579;2:656",
+      "text": "10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 11.795893669128418,
+      "layoutBox": [
+        32,
+        13
+      ],
+      "unwrappedLineAdvancesPx": [
+        31.3828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:290;2:511",
+      "text": "WHEEL OF LUCK",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        149,
+        26
+      ],
+      "unwrappedLineAdvancesPx": [
+        148.1640625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:292;2:491",
+      "text": "FREE SPIN",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        314,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        145.1875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:644",
+      "text": "Mega Win!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        65,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.03125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:645",
+      "text": "3 FREE SPINS",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        73,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.44921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:646",
+      "text": "300",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:647",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        20,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.9921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:648",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:649",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:650",
+      "text": "5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        33,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        32.47265625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:651",
+      "text": "500",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.0859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:652",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        19,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.0390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:653",
+      "text": "1 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        31,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        30.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:654",
+      "text": "800",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        23,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:655",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I91:567;2:656",
+      "text": "10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 11.795893669128418,
+      "layoutBox": [
+        32,
+        13
+      ],
+      "unwrappedLineAdvancesPx": [
+        31.3828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:408;2:482",
+      "text": "LET'S PLAY",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        328,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        155.23046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:422",
+      "text": "daily bonus!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        210,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        184.9296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:423",
+      "text": "We give you daily bonus!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        246,
+        26
+      ],
+      "unwrappedLineAdvancesPx": [
+        247.28515625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:424;2:494",
+      "text": "GET FREE GOLD",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        291,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        217.69921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:425;2:485",
+      "text": "+1000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        195,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        87.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "106:557",
+      "text": "daily bonus!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        210,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        184.9296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "106:558",
+      "text": "We give you daily bonus!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 24,
+      "layoutBox": [
+        246,
+        26
+      ],
+      "unwrappedLineAdvancesPx": [
+        247.28515625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I106:559;2:494",
+      "text": "CLAIM",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        291,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        89.92578125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I106:560;2:485",
+      "text": "+1000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        195,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        87.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:428;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I57:260;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1313;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1317;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1466",
+      "text": "Ice Fairy",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        62,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        55.8515625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1470",
+      "text": "fox sorcer",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        80,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        65.51953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1473",
+      "text": "ELF archer",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        76,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.1328125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1476",
+      "text": "lion knight",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        85,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.66796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1479",
+      "text": "assasin",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        56,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        48.30859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1504",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1506",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1508",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1510",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1511",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1512",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1545",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1546",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1547",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1548",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1549",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1550",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1561",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1562",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1563",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1564",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1565",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1566",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1577",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1578",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1579",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1580",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1581",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1582",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1592",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1593",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1594",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1595",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1596",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1597",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1466",
+      "text": "Ice Fairy",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        62,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        55.8515625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1470",
+      "text": "fox sorcer",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        80,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        65.51953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1473",
+      "text": "ELF archer",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        76,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.1328125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1476",
+      "text": "lion knight",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        85,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.66796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1479",
+      "text": "assasin",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        56,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        48.30859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1504",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1506",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1508",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1510",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1511",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1512",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1545",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1546",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1547",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1548",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1549",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1550",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1561",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1562",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1563",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1564",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1565",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1566",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1577",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1578",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1579",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1580",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1581",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1582",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1592",
+      "text": "atk",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        23,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.3046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1593",
+      "text": "hp",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        16,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.85546875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1594",
+      "text": "lvl",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        20,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        14.953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1595",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        22,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        21.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1596",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.70703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1597",
+      "text": "1",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        5,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        4.55078125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:1112;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:1116;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I88:1291;80:1248",
+      "text": "DUNGEON",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        148,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        147.16796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I88:1291;86:1275",
+      "text": "Infernal dragon",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        123,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        104.44140625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I88:1291;86:1277",
+      "text": "frost dragon",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        101,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        82.4609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I88:1291;86:1279",
+      "text": "shadow dragon",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        118,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        101.23046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I88:1291;87:1281",
+      "text": "hp 5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        58,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        56.48046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I88:1291;87:1282",
+      "text": "hp 10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        65,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I88:1291;87:1283",
+      "text": "hp 15 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        63,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        61.6796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "80:1248",
+      "text": "DUNGEON",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        148,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        147.16796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "86:1275",
+      "text": "Infernal dragon",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        123,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        104.44140625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "86:1277",
+      "text": "frost dragon",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        101,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        82.4609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "86:1279",
+      "text": "shadow dragon",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        118,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        101.23046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "87:1281",
+      "text": "hp 5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        58,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        56.48046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "87:1282",
+      "text": "hp 10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        65,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "87:1283",
+      "text": "hp 15 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        63,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        61.6796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1461",
+      "text": "hp 15 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 16,
+      "layoutBox": [
+        63,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        61.6796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I71:282;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I71:286;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I75:746;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I75:750;2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:482",
+      "text": "LET'S PLAY",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        328,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        155.23046875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:485",
+      "text": "+1000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        195,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        87.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:488",
+      "text": "1.569",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 32,
+      "layoutBox": [
+        100,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.48828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:491",
+      "text": "FREE SPIN",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        314,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        145.1875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:494",
+      "text": "GET FREE GOLD",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 36,
+      "layoutBox": [
+        291,
+        40
+      ],
+      "unwrappedLineAdvancesPx": [
+        217.69921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:644",
+      "text": "Mega Win!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        65,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.03125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:645",
+      "text": "3 FREE SPINS",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        73,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.44921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:646",
+      "text": "300",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:647",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        20,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.9921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:648",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:649",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:650",
+      "text": "5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        33,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        32.47265625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:651",
+      "text": "500",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.0859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:652",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        19,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.0390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:653",
+      "text": "1 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        31,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        30.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:654",
+      "text": "800",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        23,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:655",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:656",
+      "text": "10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 11.795893669128418,
+      "layoutBox": [
+        32,
+        13
+      ],
+      "unwrappedLineAdvancesPx": [
+        31.3828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:644",
+      "text": "Mega Win!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        65,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.03125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:645",
+      "text": "3 FREE SPINS",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        73,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.44921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:646",
+      "text": "300",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:647",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        20,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.9921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:648",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:649",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:650",
+      "text": "5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        33,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        32.47265625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:651",
+      "text": "500",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.0859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:652",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        19,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.0390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:653",
+      "text": "1 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        31,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        30.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:654",
+      "text": "800",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        23,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:655",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:659;2:656",
+      "text": "10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 11.795893669128418,
+      "layoutBox": [
+        32,
+        13
+      ],
+      "unwrappedLineAdvancesPx": [
+        31.3828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:644",
+      "text": "Mega Win!",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        65,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        62.03125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:645",
+      "text": "3 FREE SPINS",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14,
+      "layoutBox": [
+        73,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.44921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:646",
+      "text": "300",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:647",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        20,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.9921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:648",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:649",
+      "text": "FAIL",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        25,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        24.49609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:650",
+      "text": "5 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        33,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        32.47265625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:651",
+      "text": "500",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.0859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:652",
+      "text": "150",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        19,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.0390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:653",
+      "text": "1 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        31,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        30.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:654",
+      "text": "800",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        23,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:655",
+      "text": "200",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 14.155073165893555,
+      "layoutBox": [
+        22,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        22.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I2:668;2:656",
+      "text": "10 000",
+      "family": "Passion One",
+      "style": "Bold",
+      "sizePx": 11.795893669128418,
+      "layoutBox": [
+        32,
+        13
+      ],
+      "unwrappedLineAdvancesPx": [
+        31.3828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:120",
+      "text": "The good news: once we’re back, every user will receive a special loylty bonus. Hang tight, we’re almost there!",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        261,
+        88
+      ],
+      "unwrappedLineAdvancesPx": [
+        813.75
+      ],
+      "unwrappedExceedsBox": true,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:180",
+      "text": "Sound",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        76,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        45.91796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:181",
+      "text": "Music",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        76,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        41.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:182",
+      "text": "Vibration",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        93,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        68.5234375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:183",
+      "text": "Notifications",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        120,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        93.3984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:184",
+      "text": "terms of use",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        77,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.66796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:185",
+      "text": "privacy policy",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        82,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        81.0703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:188",
+      "text": "terms of use",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        77,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.66796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:189",
+      "text": "privacy policy",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        82,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        81.0703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:192",
+      "text": "Sound",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        76,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        45.91796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:193",
+      "text": "Music",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        76,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        41.37890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:196",
+      "text": "Vibration",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        93,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        68.5234375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:197",
+      "text": "Notifications",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        120,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        93.3984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:409",
+      "text": "By tapping “Let’s Play” you confirm that you 18+ and",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        328,
+        44
+      ],
+      "unwrappedLineAdvancesPx": [
+        391.03515625
+      ],
+      "unwrappedExceedsBox": true,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:413",
+      "text": "our",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        20,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        19.80859375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:414",
+      "text": "terms of use",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        77,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        72.66796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:415",
+      "text": "&",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        10,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        9.7421875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:416",
+      "text": "privacy policy",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        82,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        81.0703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "53:1475",
+      "text": "STAGE",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        46,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        45.15625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "55:1479",
+      "text": "2-100",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        42,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        41.640625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "55:1481",
+      "text": "BOSS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        38,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        37.73828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1520",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1553",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1569",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1585",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I89:1604;89:1600",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1520",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1553",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1569",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1585",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1600",
+      "text": "5",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 16,
+      "layoutBox": [
+        7,
+        18
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.609375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:438;73:565",
+      "text": "UR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        8.296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:442;73:565",
+      "text": "UR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        8.296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:453;73:565",
+      "text": "UR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        8.296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:454;73:565",
+      "text": "UR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        8.296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:460;73:565",
+      "text": "SR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        7.3671875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:461;73:565",
+      "text": "SR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        7.3671875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:462;73:565",
+      "text": "SR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        7.3671875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:463;73:565",
+      "text": "SR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        7.3671875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:473;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:474;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:475;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:476;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:477;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:478;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:479;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I73:480;73:565",
+      "text": "SS",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.828125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I75:606;75:590",
+      "text": "OPEN x10",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        68,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I75:606;75:591",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        26,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        25.3203125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I75:607;75:585",
+      "text": "OPEN x1",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        59,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        58.19921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I75:607;75:587",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        26,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        25.3203125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:926;75:585",
+      "text": "OPEN x1",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        59,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        58.19921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:926;75:587",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        26,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        25.3203125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:925;75:590",
+      "text": "OPEN x10",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        68,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:925;75:591",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        26,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        25.3203125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "80:1097",
+      "text": "Lv. 60/60",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 32,
+      "layoutBox": [
+        114,
+        35
+      ],
+      "unwrappedLineAdvancesPx": [
+        113.08984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:970;79:898",
+      "text": "ENCHANCE",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 14,
+      "layoutBox": [
+        53,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        52.51171875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "80:1101",
+      "text": "150 DAMAGE",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        91,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        90.87890625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I80:971;79:900",
+      "text": "EXP",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "80:1103",
+      "text": "200 ARMOR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        86,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        85.5234375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "79:898",
+      "text": "ENCHANCE",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 14,
+      "layoutBox": [
+        53,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        52.51171875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "79:900",
+      "text": "EXP",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 14,
+      "layoutBox": [
+        19,
+        15
+      ],
+      "unwrappedLineAdvancesPx": [
+        18.984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "75:590",
+      "text": "OPEN x10",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        68,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        67.66015625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "75:591",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        26,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        25.3203125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "75:585",
+      "text": "OPEN x1",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        59,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        58.19921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "75:587",
+      "text": "100",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 20,
+      "layoutBox": [
+        26,
+        22
+      ],
+      "unwrappedLineAdvancesPx": [
+        25.3203125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "73:565",
+      "text": "UR",
+      "family": "Passion One",
+      "style": "Regular",
+      "sizePx": 8,
+      "layoutBox": [
+        26,
+        9
+      ],
+      "unwrappedLineAdvancesPx": [
+        8.296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:17",
+      "text": "HOLD ON...",
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sizePx": 36,
+      "layoutBox": [
+        184,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        183.15234375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:20",
+      "text": "WELCOME!",
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sizePx": 36,
+      "layoutBox": [
+        181,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        180.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:23",
+      "text": "LOADING YOUR LUCK...\r",
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sizePx": 36,
+      "layoutBox": [
+        344,
+        84
+      ],
+      "unwrappedLineAdvancesPx": [
+        380.98046875,
+        0.0
+      ],
+      "unwrappedExceedsBox": true,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:25",
+      "text": "HI!",
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sizePx": 36,
+      "layoutBox": [
+        46,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        45.4765625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:28",
+      "text": "HI THERE!",
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sizePx": 36,
+      "layoutBox": [
+        165,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        164.6484375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:31",
+      "text": "WELCOME!",
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sizePx": 36,
+      "layoutBox": [
+        181,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        180.04296875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:34",
+      "text": "READY?",
+      "family": "Roboto",
+      "style": "SemiBold",
+      "sizePx": 36,
+      "layoutBox": [
+        130,
+        42
+      ],
+      "unwrappedLineAdvancesPx": [
+        129.75390625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:18",
+      "text": "WE’RE ALMOST THERE!",
+      "family": "Roboto",
+      "style": "Regular",
+      "sizePx": 24,
+      "layoutBox": [
+        344,
+        28
+      ],
+      "unwrappedLineAdvancesPx": [
+        253.453125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:21",
+      "text": "GET READY TO WIN!",
+      "family": "Roboto",
+      "style": "Regular",
+      "sizePx": 24,
+      "layoutBox": [
+        344,
+        28
+      ],
+      "unwrappedLineAdvancesPx": [
+        216.84375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:26",
+      "text": "LET’S MAKE TODAY LUCKY!",
+      "family": "Roboto",
+      "style": "Regular",
+      "sizePx": 24,
+      "layoutBox": [
+        344,
+        28
+      ],
+      "unwrappedLineAdvancesPx": [
+        297.19921875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:29",
+      "text": "PREPARING YOUR LUCK...",
+      "family": "Roboto",
+      "style": "Regular",
+      "sizePx": 24,
+      "layoutBox": [
+        344,
+        28
+      ],
+      "unwrappedLineAdvancesPx": [
+        277.8984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:32",
+      "text": "LET’S GET STARTED!",
+      "family": "Roboto",
+      "style": "Regular",
+      "sizePx": 24,
+      "layoutBox": [
+        344,
+        28
+      ],
+      "unwrappedLineAdvancesPx": [
+        223.20703125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:35",
+      "text": "LET’S MAKE IT A WIN!",
+      "family": "Roboto",
+      "style": "Regular",
+      "sizePx": 24,
+      "layoutBox": [
+        344,
+        28
+      ],
+      "unwrappedLineAdvancesPx": [
+        236.33203125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "2:289",
+      "text": "00:21:19",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 12,
+      "layoutBox": [
+        50,
+        16
+      ],
+      "unwrappedLineAdvancesPx": [
+        48.6640625
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "39:1385",
+      "text": "1",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 9,
+      "layoutBox": [
+        6,
+        12
+      ],
+      "unwrappedLineAdvancesPx": [
+        5.3984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1278;39:1393",
+      "text": "3",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1282;39:1393",
+      "text": "2",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1283;39:1393",
+      "text": "1",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1289;39:1393",
+      "text": "4",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1293;39:1393",
+      "text": "5",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1294;39:1393",
+      "text": "6",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1295;39:1393",
+      "text": "7",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1296;39:1393",
+      "text": "8",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I30:1297;39:1393",
+      "text": "9",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I45:1451;39:1381",
+      "text": "2",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 9,
+      "layoutBox": [
+        6,
+        12
+      ],
+      "unwrappedLineAdvancesPx": [
+        5.3984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "I45:1451;45:1444",
+      "text": "120",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 9,
+      "layoutBox": [
+        17,
+        12
+      ],
+      "unwrappedLineAdvancesPx": [
+        16.1953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "45:1446",
+      "text": "50",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 9,
+      "layoutBox": [
+        11,
+        12
+      ],
+      "unwrappedLineAdvancesPx": [
+        10.796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "89:1349",
+      "text": "50",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 9,
+      "layoutBox": [
+        11,
+        12
+      ],
+      "unwrappedLineAdvancesPx": [
+        10.796875
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "39:1381",
+      "text": "2",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 9,
+      "layoutBox": [
+        6,
+        12
+      ],
+      "unwrappedLineAdvancesPx": [
+        5.3984375
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "45:1444",
+      "text": "120",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 9,
+      "layoutBox": [
+        17,
+        12
+      ],
+      "unwrappedLineAdvancesPx": [
+        16.1953125
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    },
+    {
+      "nodeId": "39:1393",
+      "text": "2",
+      "family": "Nunito",
+      "style": "Regular",
+      "sizePx": 10,
+      "layoutBox": [
+        6,
+        14
+      ],
+      "unwrappedLineAdvancesPx": [
+        6.0
+      ],
+      "unwrappedExceedsBox": false,
+      "interpretation": "Layout fit screening only: wrapping, tracking, auto-resize and renderer differ; box width is not a glyph advance oracle"
+    }
+  ],
+  "checks": {
+    "sourceAndLicenseHashes": "PASS",
+    "familyStyleAndAxesCoverage": "PASS",
+    "all296TextNodesMeasured": "PASS",
+    "observedGlyphCoverage": "PASS",
+    "referencePixelParity": "NOT_RUN; source binary revision unknown; visual import gates remain separate"
+  }
+}

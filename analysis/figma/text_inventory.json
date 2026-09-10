@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "I2:6;2:10",
+    "text": "Loading...",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:10",
+    "text": "Loading...",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:17",
+    "text": "HOLD ON...",
+    "font": {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "variationSettings": {
+        "wght": 600,
+        "wdth": 100
+      }
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:18",
+    "text": "WE’RE ALMOST THERE!",
+    "font": {
+      "family": "Roboto",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400,
+        "wdth": 100
+      }
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:20",
+    "text": "WELCOME!",
+    "font": {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "variationSettings": {
+        "wght": 600,
+        "wdth": 100
+      }
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:21",
+    "text": "GET READY TO WIN!",
+    "font": {
+      "family": "Roboto",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400,
+        "wdth": 100
+      }
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:23",
+    "text": "LOADING YOUR LUCK...\r",
+    "font": {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "variationSettings": {
+        "wght": 600,
+        "wdth": 100
+      }
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:25",
+    "text": "HI!",
+    "font": {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "variationSettings": {
+        "wght": 600,
+        "wdth": 100
+      }
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:26",
+    "text": "LET’S MAKE TODAY LUCKY!",
+    "font": {
+      "family": "Roboto",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400,
+        "wdth": 100
+      }
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:28",
+    "text": "HI THERE!",
+    "font": {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "variationSettings": {
+        "wght": 600,
+        "wdth": 100
+      }
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:29",
+    "text": "PREPARING YOUR LUCK...",
+    "font": {
+      "family": "Roboto",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400,
+        "wdth": 100
+      }
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:31",
+    "text": "WELCOME!",
+    "font": {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "variationSettings": {
+        "wght": 600,
+        "wdth": 100
+      }
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:32",
+    "text": "LET’S GET STARTED!",
+    "font": {
+      "family": "Roboto",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400,
+        "wdth": 100
+      }
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:34",
+    "text": "READY?",
+    "font": {
+      "family": "Roboto",
+      "style": "SemiBold",
+      "variationSettings": {
+        "wght": 600,
+        "wdth": 100
+      }
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:35",
+    "text": "LET’S MAKE IT A WIN!",
+    "font": {
+      "family": "Roboto",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400,
+        "wdth": 100
+      }
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:117",
+    "text": "Please wait",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:120",
+    "text": "The good news: once we’re back, every user will receive a special loylty bonus. Hang tight, we’re almost there!",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:178",
+    "text": "Settings",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "2:180",
+    "text": "Sound",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:181",
+    "text": "Music",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:182",
+    "text": "Vibration",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:183",
+    "text": "Notifications",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:184",
+    "text": "terms of use",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:185",
+    "text": "privacy policy",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:188",
+    "text": "terms of use",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:189",
+    "text": "privacy policy",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:192",
+    "text": "Sound",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:193",
+    "text": "Music",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:196",
+    "text": "Vibration",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:197",
+    "text": "Notifications",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "90:1739",
+    "text": "Settings",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 48,
+    "visible": true
+  },
+  {
+    "id": "I2:267;2:511",
+    "text": "WHEEL OF LUCK",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "I2:269;2:491",
+    "text": "SPIN",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:644",
+    "text": "Mega Win!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:645",
+    "text": "3 FREE SPINS",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:646",
+    "text": "300",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:647",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:648",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:649",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:650",
+    "text": "5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:651",
+    "text": "500",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:652",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:653",
+    "text": "1 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:654",
+    "text": "800",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:655",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:573;2:656",
+    "text": "10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 11.795893669128418,
+    "visible": true
+  },
+  {
+    "id": "I2:278;2:491",
+    "text": "FREE SPIN",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "I2:279;2:511",
+    "text": "WHEEL OF LUCK",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:644",
+    "text": "Mega Win!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:645",
+    "text": "3 FREE SPINS",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:646",
+    "text": "300",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:647",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:648",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:649",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:650",
+    "text": "5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:651",
+    "text": "500",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:652",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:653",
+    "text": "1 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:654",
+    "text": "800",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:655",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:579;2:656",
+    "text": "10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 11.795893669128418,
+    "visible": true
+  },
+  {
+    "id": "2:289",
+    "text": "00:21:19",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 12,
+    "visible": true
+  },
+  {
+    "id": "I2:290;2:511",
+    "text": "WHEEL OF LUCK",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "I2:292;2:491",
+    "text": "FREE SPIN",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:644",
+    "text": "Mega Win!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:645",
+    "text": "3 FREE SPINS",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:646",
+    "text": "300",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:647",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:648",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:649",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:650",
+    "text": "5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:651",
+    "text": "500",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:652",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:653",
+    "text": "1 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:654",
+    "text": "800",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:655",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I91:567;2:656",
+    "text": "10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 11.795893669128418,
+    "visible": true
+  },
+  {
+    "id": "I2:408;2:482",
+    "text": "LET'S PLAY",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:409",
+    "text": "By tapping “Let’s Play” you confirm that you 18+ and",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "2:413",
+    "text": "our",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:414",
+    "text": "terms of use",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:415",
+    "text": "&",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:416",
+    "text": "privacy policy",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "2:422",
+    "text": "daily bonus!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:423",
+    "text": "We give you daily bonus!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "I2:424;2:494",
+    "text": "GET FREE GOLD",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "I2:425;2:485",
+    "text": "+1000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "106:557",
+    "text": "daily bonus!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "106:558",
+    "text": "We give you daily bonus!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 24,
+    "visible": true
+  },
+  {
+    "id": "I106:559;2:494",
+    "text": "CLAIM",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "I106:560;2:485",
+    "text": "+1000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "I2:428;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I57:260;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "39:1385",
+    "text": "1",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 9,
+    "visible": true
+  },
+  {
+    "id": "I30:1278;39:1393",
+    "text": "3",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I30:1282;39:1393",
+    "text": "2",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I30:1283;39:1393",
+    "text": "1",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I30:1289;39:1393",
+    "text": "4",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I30:1293;39:1393",
+    "text": "5",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I30:1294;39:1393",
+    "text": "6",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "53:1475",
+    "text": "STAGE",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I30:1295;39:1393",
+    "text": "7",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I30:1296;39:1393",
+    "text": "8",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I30:1297;39:1393",
+    "text": "9",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "I45:1451;39:1381",
+    "text": "2",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 9,
+    "visible": true
+  },
+  {
+    "id": "I45:1451;45:1444",
+    "text": "120",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 9,
+    "visible": true
+  },
+  {
+    "id": "45:1446",
+    "text": "50",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 9,
+    "visible": true
+  },
+  {
+    "id": "55:1479",
+    "text": "2-100",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "55:1481",
+    "text": "BOSS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I89:1313;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I89:1317;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "89:1349",
+    "text": "50",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 9,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1466",
+    "text": "Ice Fairy",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1470",
+    "text": "fox sorcer",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1473",
+    "text": "ELF archer",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1476",
+    "text": "lion knight",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1479",
+    "text": "assasin",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1504",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1506",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1508",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1510",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1511",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1512",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1520",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1545",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1546",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1547",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1548",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1549",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1550",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1553",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1561",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1562",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1563",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1564",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1565",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1566",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1569",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1577",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1578",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1579",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1580",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1581",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1582",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1585",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1592",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1593",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1594",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1595",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1596",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1597",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I89:1604;89:1600",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1466",
+    "text": "Ice Fairy",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1470",
+    "text": "fox sorcer",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1473",
+    "text": "ELF archer",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1476",
+    "text": "lion knight",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1479",
+    "text": "assasin",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1504",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1506",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1508",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1510",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1511",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1512",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1520",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1545",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1546",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1547",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1548",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1549",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1550",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1553",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1561",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1562",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1563",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1564",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1565",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1566",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1569",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1577",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1578",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1579",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1580",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1581",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1582",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1585",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1592",
+    "text": "atk",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1593",
+    "text": "hp",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1594",
+    "text": "lvl",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1595",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1596",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1597",
+    "text": "1",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "89:1600",
+    "text": "5",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I80:1112;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I80:1116;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I88:1291;80:1248",
+    "text": "DUNGEON",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "I88:1291;86:1275",
+    "text": "Infernal dragon",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I88:1291;86:1277",
+    "text": "frost dragon",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I88:1291;86:1279",
+    "text": "shadow dragon",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I88:1291;87:1281",
+    "text": "hp 5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I88:1291;87:1282",
+    "text": "hp 10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I88:1291;87:1283",
+    "text": "hp 15 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "80:1248",
+    "text": "DUNGEON",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "86:1275",
+    "text": "Infernal dragon",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "86:1277",
+    "text": "frost dragon",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "86:1279",
+    "text": "shadow dragon",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "87:1281",
+    "text": "hp 5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "87:1282",
+    "text": "hp 10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "87:1283",
+    "text": "hp 15 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "89:1461",
+    "text": "hp 15 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 16,
+    "visible": true
+  },
+  {
+    "id": "I71:282;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I71:286;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I73:438;73:565",
+    "text": "UR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:442;73:565",
+    "text": "UR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:453;73:565",
+    "text": "UR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:454;73:565",
+    "text": "UR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:460;73:565",
+    "text": "SR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:461;73:565",
+    "text": "SR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:462;73:565",
+    "text": "SR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:463;73:565",
+    "text": "SR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:473;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:474;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:475;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:476;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:477;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:478;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:479;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I73:480;73:565",
+    "text": "SS",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "I75:606;75:590",
+    "text": "OPEN x10",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I75:606;75:591",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I75:607;75:585",
+    "text": "OPEN x1",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I75:607;75:587",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I80:926;75:585",
+    "text": "OPEN x1",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I80:926;75:587",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I75:746;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I75:750;2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I80:925;75:590",
+    "text": "OPEN x10",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I80:925;75:591",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "80:1097",
+    "text": "Lv. 60/60",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "I80:970;79:898",
+    "text": "ENCHANCE",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "80:1101",
+    "text": "150 DAMAGE",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "I80:971;79:900",
+    "text": "EXP",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "80:1103",
+    "text": "200 ARMOR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "79:898",
+    "text": "ENCHANCE",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "79:900",
+    "text": "EXP",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "75:590",
+    "text": "OPEN x10",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "75:591",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "75:585",
+    "text": "OPEN x1",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "75:587",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 20,
+    "visible": true
+  },
+  {
+    "id": "73:565",
+    "text": "UR",
+    "font": {
+      "family": "Passion One",
+      "style": "Regular"
+    },
+    "size": 8,
+    "visible": true
+  },
+  {
+    "id": "39:1381",
+    "text": "2",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 9,
+    "visible": true
+  },
+  {
+    "id": "45:1444",
+    "text": "120",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 9,
+    "visible": true
+  },
+  {
+    "id": "39:1393",
+    "text": "2",
+    "font": {
+      "family": "Nunito",
+      "style": "Regular",
+      "variationSettings": {
+        "wght": 400
+      }
+    },
+    "size": 10,
+    "visible": true
+  },
+  {
+    "id": "2:482",
+    "text": "LET'S PLAY",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:485",
+    "text": "+1000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:488",
+    "text": "1.569",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 32,
+    "visible": true
+  },
+  {
+    "id": "2:491",
+    "text": "FREE SPIN",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:494",
+    "text": "GET FREE GOLD",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 36,
+    "visible": true
+  },
+  {
+    "id": "2:644",
+    "text": "Mega Win!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:645",
+    "text": "3 FREE SPINS",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "2:646",
+    "text": "300",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:647",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:648",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:649",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:650",
+    "text": "5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:651",
+    "text": "500",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:652",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:653",
+    "text": "1 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:654",
+    "text": "800",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:655",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "2:656",
+    "text": "10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 11.795893669128418,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:644",
+    "text": "Mega Win!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:645",
+    "text": "3 FREE SPINS",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:646",
+    "text": "300",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:647",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:648",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:649",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:650",
+    "text": "5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:651",
+    "text": "500",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:652",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:653",
+    "text": "1 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:654",
+    "text": "800",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:655",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:659;2:656",
+    "text": "10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 11.795893669128418,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:644",
+    "text": "Mega Win!",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:645",
+    "text": "3 FREE SPINS",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:646",
+    "text": "300",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:647",
+    "text": "100",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:648",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:649",
+    "text": "FAIL",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:650",
+    "text": "5 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:651",
+    "text": "500",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:652",
+    "text": "150",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:653",
+    "text": "1 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:654",
+    "text": "800",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:655",
+    "text": "200",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 14.155073165893555,
+    "visible": true
+  },
+  {
+    "id": "I2:668;2:656",
+    "text": "10 000",
+    "font": {
+      "family": "Passion One",
+      "style": "Bold"
+    },
+    "size": 11.795893669128418,
+    "visible": true
+  }
+]

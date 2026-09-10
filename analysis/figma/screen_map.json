@@ -1,0 +1,3962 @@
+[
+  {
+    "screenId": "SCREEN-001",
+    "nodeId": "2:2",
+    "name": "loading",
+    "figmaName": "Splash screen",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      -755,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_2.png",
+    "directChildren": [
+      {
+        "id": "2:3",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:4",
+        "type": "INSTANCE",
+        "name": "Component 2",
+        "bounds": [
+          65,
+          49,
+          300,
+          238
+        ],
+        "normalizedBounds": [
+          0.15116,
+          0.05258,
+          0.69767,
+          0.25536
+        ]
+      },
+      {
+        "id": "2:6",
+        "type": "INSTANCE",
+        "name": "Frame 5",
+        "bounds": [
+          51,
+          768,
+          328,
+          87
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.82403,
+          0.76279,
+          0.09335
+        ]
+      },
+      {
+        "id": "90:1779",
+        "type": "RECTANGLE",
+        "name": "text",
+        "bounds": [
+          43,
+          300,
+          344,
+          147
+        ],
+        "normalizedBounds": [
+          0.1,
+          0.32189,
+          0.8,
+          0.15773
+        ]
+      }
+    ],
+    "assets": [
+      "branding_logo__1448x1086",
+      "background_floating_islands__941x1672",
+      "branding_welcome_text__2172x724",
+      "branding_logo__1448x1086_variant2",
+      "branding_welcome_text__2172x724_variant2"
+    ],
+    "nodeCount": 11
+  },
+  {
+    "screenId": "SCREEN-002",
+    "nodeId": "2:406",
+    "name": "start",
+    "figmaName": "Splash screen",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      -256,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_406.png",
+    "directChildren": [
+      {
+        "id": "2:407",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:408",
+        "type": "INSTANCE",
+        "name": "Component 4",
+        "bounds": [
+          51,
+          705,
+          328,
+          78
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.75644,
+          0.76279,
+          0.08369
+        ]
+      },
+      {
+        "id": "2:409",
+        "type": "TEXT",
+        "name": "By tapping “Let’s Play” you confirm that you 18+ and",
+        "bounds": [
+          51,
+          808,
+          328,
+          44
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.86695,
+          0.76279,
+          0.04721
+        ]
+      },
+      {
+        "id": "2:410",
+        "type": "RECTANGLE",
+        "name": "other",
+        "bounds": [
+          19,
+          365,
+          392,
+          262
+        ],
+        "normalizedBounds": [
+          0.04419,
+          0.39163,
+          0.91163,
+          0.28112
+        ]
+      },
+      {
+        "id": "2:412",
+        "type": "FRAME",
+        "name": "Frame 5",
+        "bounds": [
+          113.5,
+          861,
+          204,
+          18
+        ],
+        "normalizedBounds": [
+          0.26395,
+          0.92382,
+          0.47442,
+          0.01931
+        ]
+      },
+      {
+        "id": "90:1757",
+        "type": "INSTANCE",
+        "name": "Component 2",
+        "bounds": [
+          65,
+          49,
+          300,
+          238
+        ],
+        "normalizedBounds": [
+          0.15116,
+          0.05258,
+          0.69767,
+          0.25536
+        ]
+      }
+    ],
+    "assets": [
+      "branding_hero_collage__1536x1024",
+      "branding_logo__1448x1086",
+      "branding_hero_collage__1536x1024_variant2",
+      "background_floating_islands__941x1672",
+      "branding_logo__1448x1086_variant2",
+      "ui_button_gold__2378x1300"
+    ],
+    "nodeCount": 15
+  },
+  {
+    "screenId": "SCREEN-003",
+    "nodeId": "2:426",
+    "name": "main_battle",
+    "figmaName": "game",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      1040,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_426.png",
+    "directChildren": [
+      {
+        "id": "2:427",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "32:1318",
+        "type": "RECTANGLE",
+        "name": "Rectangle 65",
+        "bounds": [
+          -26,
+          546,
+          476,
+          423
+        ],
+        "normalizedBounds": [
+          -0.06047,
+          0.58584,
+          1.10698,
+          0.45386
+        ]
+      },
+      {
+        "id": "2:428",
+        "type": "INSTANCE",
+        "name": "Component 8",
+        "bounds": [
+          62,
+          18,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.14419,
+          0.01931,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "2:431",
+        "type": "INSTANCE",
+        "name": "Rectangle 63",
+        "bounds": [
+          108,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.25116,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "2:432",
+        "type": "INSTANCE",
+        "name": "Rectangle 64",
+        "bounds": [
+          269,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.62558,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "2:433",
+        "type": "INSTANCE",
+        "name": "coin",
+        "bounds": [
+          72,
+          29,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.16744,
+          0.03112,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "57:260",
+        "type": "INSTANCE",
+        "name": "Component 9",
+        "bounds": [
+          226,
+          17,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.52558,
+          0.01824,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "57:266",
+        "type": "RECTANGLE",
+        "name": "gem",
+        "bounds": [
+          236,
+          28,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.54884,
+          0.03004,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "19:1203",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          7,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "19:1207",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          91,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.21163,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "19:1211",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          175,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.40698,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "19:1215",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          259,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.60233,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "19:1216",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          343,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "19:1223",
+        "type": "RECTANGLE",
+        "name": "Слой 20 2",
+        "bounds": [
+          99,
+          770,
+          68,
+          60
+        ],
+        "normalizedBounds": [
+          0.23023,
+          0.82618,
+          0.15814,
+          0.06438
+        ]
+      },
+      {
+        "id": "39:1383",
+        "type": "GROUP",
+        "name": "level",
+        "bounds": [
+          104,
+          776,
+          12,
+          12
+        ],
+        "normalizedBounds": [
+          0.24186,
+          0.83262,
+          0.02791,
+          0.01288
+        ]
+      },
+      {
+        "id": "19:1225",
+        "type": "RECTANGLE",
+        "name": "Слой 20 3",
+        "bounds": [
+          263,
+          770,
+          68,
+          60
+        ],
+        "normalizedBounds": [
+          0.61163,
+          0.82618,
+          0.15814,
+          0.06438
+        ]
+      },
+      {
+        "id": "30:1272",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          347,
+          651,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.80698,
+          0.6985,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "30:1278",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          264,
+          651,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.61395,
+          0.6985,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "30:1282",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          181,
+          651,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.42093,
+          0.6985,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "30:1283",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          98,
+          651,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.22791,
+          0.6985,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "30:1289",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          15,
+          651,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.03488,
+          0.6985,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "30:1293",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          347,
+          549,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.80698,
+          0.58906,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "30:1294",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          264,
+          549,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.61395,
+          0.58906,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "53:1475",
+        "type": "TEXT",
+        "name": "STAGE",
+        "bounds": [
+          79,
+          165,
+          46,
+          22
+        ],
+        "normalizedBounds": [
+          0.18372,
+          0.17704,
+          0.10698,
+          0.02361
+        ]
+      },
+      {
+        "id": "30:1295",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          181,
+          549,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.42093,
+          0.58906,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "32:1314",
+        "type": "RECTANGLE",
+        "name": "character",
+        "bounds": [
+          174,
+          368,
+          83,
+          86
+        ],
+        "normalizedBounds": [
+          0.40465,
+          0.39485,
+          0.19302,
+          0.09227
+        ]
+      },
+      {
+        "id": "30:1296",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          98,
+          549,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.22791,
+          0.58906,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "32:1313",
+        "type": "RECTANGLE",
+        "name": "character",
+        "bounds": [
+          8,
+          384,
+          83,
+          86
+        ],
+        "normalizedBounds": [
+          0.0186,
+          0.41202,
+          0.19302,
+          0.09227
+        ]
+      },
+      {
+        "id": "30:1297",
+        "type": "INSTANCE",
+        "name": "champ_level",
+        "bounds": [
+          15,
+          549,
+          68,
+          93
+        ],
+        "normalizedBounds": [
+          0.03488,
+          0.58906,
+          0.15814,
+          0.09979
+        ]
+      },
+      {
+        "id": "32:1312",
+        "type": "RECTANGLE",
+        "name": "character",
+        "bounds": [
+          77,
+          358,
+          104,
+          108
+        ],
+        "normalizedBounds": [
+          0.17907,
+          0.38412,
+          0.24186,
+          0.11588
+        ]
+      },
+      {
+        "id": "32:1310",
+        "type": "RECTANGLE",
+        "name": "character",
+        "bounds": [
+          117,
+          775,
+          38,
+          35
+        ],
+        "normalizedBounds": [
+          0.27209,
+          0.83155,
+          0.08837,
+          0.03755
+        ]
+      },
+      {
+        "id": "37:1350",
+        "type": "RECTANGLE",
+        "name": "enemy_ironhide_boar",
+        "bounds": [
+          262,
+          327,
+          146,
+          132
+        ],
+        "normalizedBounds": [
+          0.6093,
+          0.35086,
+          0.33953,
+          0.14163
+        ]
+      },
+      {
+        "id": "45:1430",
+        "type": "RECTANGLE",
+        "name": "x2_time",
+        "bounds": [
+          94,
+          487,
+          54,
+          55
+        ],
+        "normalizedBounds": [
+          0.2186,
+          0.52253,
+          0.12558,
+          0.05901
+        ]
+      },
+      {
+        "id": "45:1431",
+        "type": "RECTANGLE",
+        "name": "auto_merge",
+        "bounds": [
+          188,
+          487,
+          54,
+          55
+        ],
+        "normalizedBounds": [
+          0.43721,
+          0.52253,
+          0.12558,
+          0.05901
+        ]
+      },
+      {
+        "id": "45:1433",
+        "type": "RECTANGLE",
+        "name": "x2_gold",
+        "bounds": [
+          282,
+          487,
+          54,
+          55
+        ],
+        "normalizedBounds": [
+          0.65581,
+          0.52253,
+          0.12558,
+          0.05901
+        ]
+      },
+      {
+        "id": "45:1451",
+        "type": "INSTANCE",
+        "name": "buy_character",
+        "bounds": [
+          172,
+          761,
+          86,
+          77
+        ],
+        "normalizedBounds": [
+          0.4,
+          0.81652,
+          0.2,
+          0.08262
+        ]
+      },
+      {
+        "id": "45:1446",
+        "type": "TEXT",
+        "name": "50",
+        "bounds": [
+          131,
+          810,
+          11,
+          12
+        ],
+        "normalizedBounds": [
+          0.30465,
+          0.8691,
+          0.02558,
+          0.01288
+        ]
+      },
+      {
+        "id": "45:1447",
+        "type": "INSTANCE",
+        "name": "coin",
+        "bounds": [
+          117,
+          810,
+          11,
+          11
+        ],
+        "normalizedBounds": [
+          0.27209,
+          0.8691,
+          0.02558,
+          0.0118
+        ]
+      },
+      {
+        "id": "51:1470",
+        "type": "RECTANGLE",
+        "name": "8615a402-b845-4cb1-bf81-dc6f34d3e059 1 1",
+        "bounds": [
+          73,
+          189,
+          284,
+          34
+        ],
+        "normalizedBounds": [
+          0.16977,
+          0.20279,
+          0.66047,
+          0.03648
+        ]
+      },
+      {
+        "id": "51:1471",
+        "type": "RECTANGLE",
+        "name": "00a3b66c-f59b-4c9d-8973-976579fc7a09 1 1",
+        "bounds": [
+          145,
+          195,
+          141,
+          22
+        ],
+        "normalizedBounds": [
+          0.33721,
+          0.20923,
+          0.32791,
+          0.02361
+        ]
+      },
+      {
+        "id": "51:1472",
+        "type": "RECTANGLE",
+        "name": "9f7511af-8dea-4f98-8bf1-9582f91e4197 1 1",
+        "bounds": [
+          362,
+          179,
+          54,
+          54
+        ],
+        "normalizedBounds": [
+          0.84186,
+          0.19206,
+          0.12558,
+          0.05794
+        ]
+      },
+      {
+        "id": "51:1473",
+        "type": "RECTANGLE",
+        "name": "9be31cff-28e3-4112-8d41-15b9cf7288e4 1 1",
+        "bounds": [
+          368,
+          185,
+          42,
+          42
+        ],
+        "normalizedBounds": [
+          0.85581,
+          0.1985,
+          0.09767,
+          0.04506
+        ]
+      },
+      {
+        "id": "52:1474",
+        "type": "RECTANGLE",
+        "name": "e1d6f87b-d3a2-4dc0-abd3-e6d47d1ffa04 1 1",
+        "bounds": [
+          26,
+          183,
+          42,
+          45
+        ],
+        "normalizedBounds": [
+          0.06047,
+          0.19635,
+          0.09767,
+          0.04828
+        ]
+      },
+      {
+        "id": "55:1479",
+        "type": "TEXT",
+        "name": "2-100",
+        "bounds": [
+          87,
+          195,
+          42,
+          22
+        ],
+        "normalizedBounds": [
+          0.20233,
+          0.20923,
+          0.09767,
+          0.02361
+        ]
+      },
+      {
+        "id": "55:1481",
+        "type": "TEXT",
+        "name": "BOSS",
+        "bounds": [
+          303,
+          195,
+          38,
+          22
+        ],
+        "normalizedBounds": [
+          0.70465,
+          0.20923,
+          0.08837,
+          0.02361
+        ]
+      }
+    ],
+    "assets": [
+      "currency_gem_blue__300x252",
+      "relic_infernal_mask__1628x1757",
+      "ui_button_red_square__1580x1579",
+      "ui_panel_blue_square__1448x1614",
+      "ui_frame_board_slot__244x219",
+      "ui_wheel_reward_illustration__1774x1837",
+      "ui_nav_shop__438x436",
+      "background_stone_slot__348x265",
+      "ui_panel_dark_square__1576x1595",
+      "hero_inferno_dragon__1886x1748",
+      "ui_icon_battle_swords__1402x1456",
+      "background_floating_islands__941x1672",
+      "ui_icon_hourglass__1343x1364",
+      "hero_ice_fairy__1718x1740",
+      "ui_icon_settings__369x374",
+      "hero_raccoon_engineer__1617x1662",
+      "currency_gold_coin__254x262",
+      "ui_bar_cyan_fill__2680x420",
+      "ui_nav_crystal_relic__1407x1332",
+      "ui_nav_heroes_helmet__1902x1550",
+      "hero_lion_knight__1616x1788",
+      "hero_panda_monk__1705x1775",
+      "enemy_ironhide_boar__1862x1681",
+      "ui_bar_dark_track__3646x435",
+      "ui_icon_crystal_snowflake__1318x1341",
+      "hero_owl_mage__1813x1760",
+      "ui_icon_gold_pile__1134x1163",
+      "hero_fox_sorcerer__1828x1679",
+      "hero_turtle_warrior__1815x1620",
+      "ui_nav_dungeon__1494x1139",
+      "hero_bunny_assassin__1711x1827",
+      "ui_icon_dragon_red__1540x1564"
+    ],
+    "nodeCount": 121
+  },
+  {
+    "screenId": "SCREEN-004",
+    "nodeId": "75:744",
+    "name": "hero_equipment",
+    "figmaName": "hero",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      1980,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/75_744.png",
+    "directChildren": [
+      {
+        "id": "75:745",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "75:746",
+        "type": "INSTANCE",
+        "name": "Component 8",
+        "bounds": [
+          61,
+          18,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.14186,
+          0.01931,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "75:747",
+        "type": "INSTANCE",
+        "name": "Rectangle 63",
+        "bounds": [
+          108,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.25116,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "75:748",
+        "type": "INSTANCE",
+        "name": "Rectangle 64",
+        "bounds": [
+          269,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.62558,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "75:749",
+        "type": "INSTANCE",
+        "name": "coin",
+        "bounds": [
+          72,
+          29,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.16744,
+          0.03112,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "75:750",
+        "type": "INSTANCE",
+        "name": "Component 9",
+        "bounds": [
+          225,
+          17,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.52326,
+          0.01824,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "75:751",
+        "type": "RECTANGLE",
+        "name": "gem",
+        "bounds": [
+          236,
+          28,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.54884,
+          0.03004,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "75:752",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          7,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "75:753",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          91,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.21163,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "75:754",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          175,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.40698,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "75:755",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          259,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.60233,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "75:756",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          343,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "75:867",
+        "type": "RECTANGLE",
+        "name": "character_elf_archer",
+        "bounds": [
+          107,
+          287,
+          216,
+          223
+        ],
+        "normalizedBounds": [
+          0.24884,
+          0.30794,
+          0.50233,
+          0.23927
+        ]
+      },
+      {
+        "id": "80:937",
+        "type": "INSTANCE",
+        "name": "equipment",
+        "bounds": [
+          343,
+          199,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.21352,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "80:941",
+        "type": "INSTANCE",
+        "name": "equipment",
+        "bounds": [
+          343,
+          319,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.34227,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "80:945",
+        "type": "INSTANCE",
+        "name": "equipment",
+        "bounds": [
+          343,
+          439,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.47103,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "80:949",
+        "type": "INSTANCE",
+        "name": "equipment",
+        "bounds": [
+          7,
+          199,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.21352,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "80:950",
+        "type": "INSTANCE",
+        "name": "equipment",
+        "bounds": [
+          7,
+          319,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.34227,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "80:951",
+        "type": "INSTANCE",
+        "name": "equipment",
+        "bounds": [
+          7,
+          439,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.47103,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "80:925",
+        "type": "INSTANCE",
+        "name": "open_x10_gem",
+        "bounds": [
+          217,
+          750,
+          132,
+          71
+        ],
+        "normalizedBounds": [
+          0.50465,
+          0.80472,
+          0.30698,
+          0.07618
+        ]
+      },
+      {
+        "id": "80:1097",
+        "type": "TEXT",
+        "name": "Lv. 60/60",
+        "bounds": [
+          149,
+          522,
+          114,
+          35
+        ],
+        "normalizedBounds": [
+          0.34651,
+          0.56009,
+          0.26512,
+          0.03755
+        ]
+      },
+      {
+        "id": "80:1080",
+        "type": "RECTANGLE",
+        "name": "icon_character",
+        "bounds": [
+          170,
+          184,
+          91,
+          84
+        ],
+        "normalizedBounds": [
+          0.39535,
+          0.19742,
+          0.21163,
+          0.09013
+        ]
+      },
+      {
+        "id": "80:1241",
+        "type": "RECTANGLE",
+        "name": "icon_character",
+        "bounds": [
+          264,
+          200,
+          75,
+          68
+        ],
+        "normalizedBounds": [
+          0.61395,
+          0.21459,
+          0.17442,
+          0.07296
+        ]
+      },
+      {
+        "id": "80:1239",
+        "type": "RECTANGLE",
+        "name": "icon_character",
+        "bounds": [
+          92,
+          200,
+          75,
+          68
+        ],
+        "normalizedBounds": [
+          0.21395,
+          0.21459,
+          0.17442,
+          0.07296
+        ]
+      },
+      {
+        "id": "92:553",
+        "type": "FRAME",
+        "name": "Frame 6",
+        "bounds": [
+          45,
+          582,
+          340,
+          142
+        ],
+        "normalizedBounds": [
+          0.10465,
+          0.62446,
+          0.7907,
+          0.15236
+        ]
+      }
+    ],
+    "assets": [
+      "currency_gem_blue__300x252",
+      "ui_icon_crown__353x325",
+      "ui_icon_upgrade_arrow__1302x1413",
+      "ui_panel_blue_square__1448x1614",
+      "hero_elf_archer__1797x1858",
+      "portrait_elf_archer__647x592",
+      "equipment_elf_archer_ring__536x516",
+      "ui_wheel_reward_illustration__1774x1837",
+      "ui_nav_shop__438x436",
+      "ui_panel_dark_square__1576x1595",
+      "ui_icon_battle_swords__1402x1456",
+      "equipment_elf_archer_ring_leaf__529x544",
+      "ui_icon_settings__369x374",
+      "equipment_elf_archer_boots__497x535",
+      "currency_gold_coin__254x262",
+      "equipment_elf_archer_bow__561x739",
+      "ui_nav_crystal_relic__1407x1332",
+      "portrait_ice_fairy__660x590",
+      "ui_nav_heroes_helmet__1902x1550",
+      "portrait_bunny_assassin__662x590",
+      "background_castle_platform__941x1672",
+      "equipment_elf_archer_quiver__519x688",
+      "equipment_elf_archer_hood__622x656",
+      "ui_bar_dark_track__3646x435",
+      "ui_button_gold__2378x1300",
+      "ui_panel_gold_black_wide__3815x1593",
+      "ui_frame_magic_gold__1289x1762",
+      "ui_nav_dungeon__1494x1139"
+    ],
+    "nodeCount": 72
+  },
+  {
+    "screenId": "SCREEN-005",
+    "nodeId": "71:279",
+    "name": "relic",
+    "figmaName": "relic",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      1510,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/71_279.png",
+    "directChildren": [
+      {
+        "id": "71:280",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "71:282",
+        "type": "INSTANCE",
+        "name": "Component 8",
+        "bounds": [
+          61,
+          18,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.14186,
+          0.01931,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "71:283",
+        "type": "INSTANCE",
+        "name": "Rectangle 63",
+        "bounds": [
+          108,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.25116,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "71:284",
+        "type": "INSTANCE",
+        "name": "Rectangle 64",
+        "bounds": [
+          269,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.62558,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "71:285",
+        "type": "INSTANCE",
+        "name": "coin",
+        "bounds": [
+          72,
+          29,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.16744,
+          0.03112,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "71:286",
+        "type": "INSTANCE",
+        "name": "Component 9",
+        "bounds": [
+          225,
+          17,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.52326,
+          0.01824,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "71:287",
+        "type": "RECTANGLE",
+        "name": "gem",
+        "bounds": [
+          236,
+          28,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.54884,
+          0.03004,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "71:288",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          7,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "71:289",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          91,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.21163,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "71:290",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          175,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.40698,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "71:291",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          259,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.60233,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "71:292",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          343,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "73:407",
+        "type": "RECTANGLE",
+        "name": "board",
+        "bounds": [
+          14,
+          192,
+          403,
+          633
+        ],
+        "normalizedBounds": [
+          0.03256,
+          0.20601,
+          0.93721,
+          0.67918
+        ]
+      },
+      {
+        "id": "73:438",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          48,
+          245,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.11163,
+          0.26288,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:442",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          133,
+          245,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.3093,
+          0.26288,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:453",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          218,
+          245,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.50698,
+          0.26288,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:454",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          303,
+          245,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.70465,
+          0.26288,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:460",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          48,
+          365,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.11163,
+          0.39163,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:461",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          133,
+          365,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.3093,
+          0.39163,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:462",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          218,
+          365,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.50698,
+          0.39163,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:463",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          303,
+          365,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.70465,
+          0.39163,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:473",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          48,
+          485,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.11163,
+          0.52039,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:474",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          133,
+          485,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.3093,
+          0.52039,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:475",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          218,
+          485,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.50698,
+          0.52039,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:476",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          303,
+          485,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.70465,
+          0.52039,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:477",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          48,
+          605,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.11163,
+          0.64914,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:478",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          133,
+          605,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.3093,
+          0.64914,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:479",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          218,
+          605,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.50698,
+          0.64914,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "73:480",
+        "type": "INSTANCE",
+        "name": "relic",
+        "bounds": [
+          303,
+          605,
+          80,
+          110
+        ],
+        "normalizedBounds": [
+          0.70465,
+          0.64914,
+          0.18605,
+          0.11803
+        ]
+      },
+      {
+        "id": "75:606",
+        "type": "INSTANCE",
+        "name": "open_x10_gem",
+        "bounds": [
+          218,
+          725,
+          132,
+          71
+        ],
+        "normalizedBounds": [
+          0.50698,
+          0.7779,
+          0.30698,
+          0.07618
+        ]
+      },
+      {
+        "id": "75:607",
+        "type": "INSTANCE",
+        "name": "open_x1_coin",
+        "bounds": [
+          81,
+          725,
+          132,
+          71
+        ],
+        "normalizedBounds": [
+          0.18837,
+          0.7779,
+          0.30698,
+          0.07618
+        ]
+      }
+    ],
+    "assets": [
+      "currency_gem_blue__300x252",
+      "relic_compass_gold__538x602",
+      "relic_fire_crystal__447x635",
+      "ui_panel_blue_square__1448x1614",
+      "ui_wheel_reward_illustration__1774x1837",
+      "ui_nav_shop__438x436",
+      "ui_panel_dark_square__1576x1595",
+      "background_forest_glade__941x1672",
+      "relic_boar_mask__510x544",
+      "ui_icon_battle_swords__1402x1456",
+      "relic_leaf_crescent__470x571",
+      "ui_frame_equipment_gold__1035x1545",
+      "ui_frame_purple_shield__1628x1719",
+      "ui_button_orange__2542x1359",
+      "ui_icon_settings__369x374",
+      "ui_frame_orange_wings__1714x1662",
+      "currency_gold_coin__254x262",
+      "relic_blue_crescent__505x579",
+      "ui_nav_crystal_relic__1407x1332",
+      "relic_shadow_crystal__469x599",
+      "relic_blue_shard__354x641",
+      "relic_green_disc__483x547",
+      "relic_frost_dragon_head__471x629",
+      "ui_nav_heroes_helmet__1902x1550",
+      "relic_gold_hammer__474x528",
+      "relic_gold_dragon_head__455x633",
+      "ui_bar_dark_track__3646x435",
+      "ui_button_gold__2378x1300",
+      "ui_frame_heart_wings__1728x1616",
+      "relic_wolf_mask__479x633",
+      "ui_frame_magic_gold__1289x1762",
+      "relic_rabbit_mask__490x644",
+      "relic_blue_feather__473x665",
+      "relic_fire_dragon_head__406x576",
+      "ui_nav_dungeon__1494x1139",
+      "relic_gold_bird_mask__527x591"
+    ],
+    "nodeCount": 122
+  },
+  {
+    "screenId": "SCREEN-006",
+    "nodeId": "80:1109",
+    "name": "dungeon",
+    "figmaName": "dungeon",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      2450,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/80_1109.png",
+    "directChildren": [
+      {
+        "id": "80:1110",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "80:1112",
+        "type": "INSTANCE",
+        "name": "Component 8",
+        "bounds": [
+          62,
+          18,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.14419,
+          0.01931,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "80:1113",
+        "type": "INSTANCE",
+        "name": "Rectangle 63",
+        "bounds": [
+          108,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.25116,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "80:1114",
+        "type": "INSTANCE",
+        "name": "Rectangle 64",
+        "bounds": [
+          269,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.62558,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "80:1115",
+        "type": "INSTANCE",
+        "name": "coin",
+        "bounds": [
+          72,
+          29,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.16744,
+          0.03112,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "80:1116",
+        "type": "INSTANCE",
+        "name": "Component 9",
+        "bounds": [
+          226,
+          17,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.52558,
+          0.01824,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "80:1117",
+        "type": "RECTANGLE",
+        "name": "gem",
+        "bounds": [
+          236,
+          28,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.54884,
+          0.03004,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "80:1118",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          7,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "80:1119",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          91,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.21163,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "80:1120",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          175,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.40698,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "80:1121",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          259,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.60233,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "80:1122",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          343,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "88:1291",
+        "type": "INSTANCE",
+        "name": "dungeon_board",
+        "bounds": [
+          23,
+          164,
+          384,
+          665
+        ],
+        "normalizedBounds": [
+          0.05349,
+          0.17597,
+          0.89302,
+          0.71352
+        ]
+      }
+    ],
+    "assets": [
+      "currency_gem_blue__300x252",
+      "ui_panel_blue_square__1448x1614",
+      "ui_wheel_reward_illustration__1774x1837",
+      "ui_nav_shop__438x436",
+      "ui_panel_dark_square__1576x1595",
+      "ui_icon_battle_swords__1402x1456",
+      "ui_panel_plain_navy__1126x2000",
+      "background_floating_islands__941x1672",
+      "background_dungeon_infernal_strip__2172x724",
+      "ui_icon_settings__369x374",
+      "currency_gold_coin__254x262",
+      "ui_nav_crystal_relic__1407x1332",
+      "ui_banner_stage_blue__3876x605",
+      "ui_nav_heroes_helmet__1902x1550",
+      "ui_bar_dark_track__3646x435",
+      "background_dungeon_shadow_bright_strip__2172x724",
+      "ui_nav_dungeon__1494x1139",
+      "background_dungeon_frost_strip__2172x724"
+    ],
+    "nodeCount": 47
+  },
+  {
+    "screenId": "SCREEN-007",
+    "nodeId": "89:1310",
+    "name": "hero_upgrades",
+    "figmaName": "game",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      2920,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/89_1310.png",
+    "directChildren": [
+      {
+        "id": "89:1311",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "89:1313",
+        "type": "INSTANCE",
+        "name": "Component 8",
+        "bounds": [
+          62,
+          18,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.14419,
+          0.01931,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "89:1314",
+        "type": "INSTANCE",
+        "name": "Rectangle 63",
+        "bounds": [
+          108,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.25116,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "89:1315",
+        "type": "INSTANCE",
+        "name": "Rectangle 64",
+        "bounds": [
+          269,
+          86,
+          53,
+          53
+        ],
+        "normalizedBounds": [
+          0.62558,
+          0.09227,
+          0.12326,
+          0.05687
+        ]
+      },
+      {
+        "id": "89:1316",
+        "type": "INSTANCE",
+        "name": "coin",
+        "bounds": [
+          72,
+          29,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.16744,
+          0.03112,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "89:1317",
+        "type": "INSTANCE",
+        "name": "Component 9",
+        "bounds": [
+          226,
+          17,
+          144,
+          54
+        ],
+        "normalizedBounds": [
+          0.52558,
+          0.01824,
+          0.33488,
+          0.05794
+        ]
+      },
+      {
+        "id": "89:1318",
+        "type": "RECTANGLE",
+        "name": "gem",
+        "bounds": [
+          236,
+          28,
+          32,
+          32
+        ],
+        "normalizedBounds": [
+          0.54884,
+          0.03004,
+          0.07442,
+          0.03433
+        ]
+      },
+      {
+        "id": "89:1319",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          7,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.01628,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "89:1320",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          91,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.21163,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "89:1321",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          175,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.40698,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "89:1322",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          259,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.60233,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "89:1323",
+        "type": "INSTANCE",
+        "name": "battle_board",
+        "bounds": [
+          343,
+          847,
+          79,
+          80
+        ],
+        "normalizedBounds": [
+          0.79767,
+          0.9088,
+          0.18372,
+          0.08584
+        ]
+      },
+      {
+        "id": "89:1349",
+        "type": "TEXT",
+        "name": "50",
+        "bounds": [
+          131,
+          810,
+          11,
+          12
+        ],
+        "normalizedBounds": [
+          0.30465,
+          0.8691,
+          0.02558,
+          0.01288
+        ]
+      },
+      {
+        "id": "89:1350",
+        "type": "INSTANCE",
+        "name": "coin",
+        "bounds": [
+          117,
+          810,
+          11,
+          11
+        ],
+        "normalizedBounds": [
+          0.27209,
+          0.8691,
+          0.02558,
+          0.0118
+        ]
+      },
+      {
+        "id": "89:1604",
+        "type": "INSTANCE",
+        "name": "shop_board",
+        "bounds": [
+          28,
+          164,
+          384,
+          665
+        ],
+        "normalizedBounds": [
+          0.06512,
+          0.17597,
+          0.89302,
+          0.71352
+        ]
+      }
+    ],
+    "assets": [
+      "currency_gem_blue__300x252",
+      "ui_panel_blue_square__1448x1614",
+      "hero_elf_archer__1797x1858",
+      "background_grass_platform__754x329",
+      "ui_icon_heart__474x437",
+      "ui_wheel_reward_illustration__1774x1837",
+      "ui_nav_shop__438x436",
+      "ui_panel_dark_square__1576x1595",
+      "ui_icon_battle_swords__1402x1456",
+      "ui_panel_plain_navy__1126x2000",
+      "ui_icon_sword__525x536",
+      "background_floating_islands__941x1672",
+      "currency_blue_orb__545x554",
+      "hero_ice_fairy__1718x1740",
+      "ui_icon_settings__369x374",
+      "ui_panel_gold_navy_wide__2339x828",
+      "currency_gold_coin__254x262",
+      "ui_nav_crystal_relic__1407x1332",
+      "ui_nav_heroes_helmet__1902x1550",
+      "hero_lion_knight__1616x1788",
+      "ui_icon_star__478x497",
+      "ui_bar_dark_track__3646x435",
+      "ui_button_gold__2378x1300",
+      "ui_banner_name_purple__959x176",
+      "hero_fox_sorcerer__1828x1679",
+      "ui_panel_stats_black__966x425",
+      "ui_nav_dungeon__1494x1139",
+      "hero_bunny_assassin__1711x1827"
+    ],
+    "nodeCount": 146
+  },
+  {
+    "screenId": "SCREEN-008",
+    "nodeId": "2:418",
+    "name": "daily_get_gold",
+    "figmaName": "Daily bonus!",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      413,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_418.png",
+    "directChildren": [
+      {
+        "id": "2:419",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:420",
+        "type": "INSTANCE",
+        "name": "Rectangle 55",
+        "bounds": [
+          51,
+          248,
+          328,
+          435
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.26609,
+          0.76279,
+          0.46674
+        ]
+      },
+      {
+        "id": "2:421",
+        "type": "INSTANCE",
+        "name": "Component 6",
+        "bounds": [
+          135,
+          389,
+          161,
+          162
+        ],
+        "normalizedBounds": [
+          0.31395,
+          0.41738,
+          0.37442,
+          0.17382
+        ]
+      },
+      {
+        "id": "2:422",
+        "type": "TEXT",
+        "name": "daily bonus!",
+        "bounds": [
+          111,
+          276,
+          210,
+          40
+        ],
+        "normalizedBounds": [
+          0.25814,
+          0.29614,
+          0.48837,
+          0.04292
+        ]
+      },
+      {
+        "id": "2:423",
+        "type": "TEXT",
+        "name": "We give you daily bonus!",
+        "bounds": [
+          93,
+          325,
+          246,
+          26
+        ],
+        "normalizedBounds": [
+          0.21628,
+          0.34871,
+          0.57209,
+          0.0279
+        ]
+      },
+      {
+        "id": "2:424",
+        "type": "INSTANCE",
+        "name": "Component 4",
+        "bounds": [
+          70,
+          591,
+          291,
+          78
+        ],
+        "normalizedBounds": [
+          0.16279,
+          0.63412,
+          0.67674,
+          0.08369
+        ]
+      },
+      {
+        "id": "2:425",
+        "type": "INSTANCE",
+        "name": "Component 7",
+        "bounds": [
+          118,
+          512,
+          195,
+          54
+        ],
+        "normalizedBounds": [
+          0.27442,
+          0.54936,
+          0.45349,
+          0.05794
+        ]
+      }
+    ],
+    "assets": [
+      "reward_gold_chest__1254x1254",
+      "ui_panel_plain_navy__1126x2000",
+      "background_floating_islands__941x1672",
+      "ui_button_orange__2542x1359",
+      "ui_button_gold__2378x1300",
+      "reward_gold_chest__1254x1254_variant2"
+    ],
+    "nodeCount": 15
+  },
+  {
+    "screenId": "SCREEN-009",
+    "nodeId": "106:553",
+    "name": "daily_claim",
+    "figmaName": "Daily bonus!",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      413,
+      -1574
+    ],
+    "screenshot": "analysis/figma/screenshots/106_553.png",
+    "directChildren": [
+      {
+        "id": "106:554",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "106:555",
+        "type": "INSTANCE",
+        "name": "Rectangle 55",
+        "bounds": [
+          51,
+          248,
+          328,
+          435
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.26609,
+          0.76279,
+          0.46674
+        ]
+      },
+      {
+        "id": "106:556",
+        "type": "INSTANCE",
+        "name": "Component 6",
+        "bounds": [
+          135,
+          389,
+          161,
+          162
+        ],
+        "normalizedBounds": [
+          0.31395,
+          0.41738,
+          0.37442,
+          0.17382
+        ]
+      },
+      {
+        "id": "106:557",
+        "type": "TEXT",
+        "name": "daily bonus!",
+        "bounds": [
+          111,
+          276,
+          210,
+          40
+        ],
+        "normalizedBounds": [
+          0.25814,
+          0.29614,
+          0.48837,
+          0.04292
+        ]
+      },
+      {
+        "id": "106:558",
+        "type": "TEXT",
+        "name": "We give you daily bonus!",
+        "bounds": [
+          93,
+          325,
+          246,
+          26
+        ],
+        "normalizedBounds": [
+          0.21628,
+          0.34871,
+          0.57209,
+          0.0279
+        ]
+      },
+      {
+        "id": "106:559",
+        "type": "INSTANCE",
+        "name": "Component 4",
+        "bounds": [
+          70,
+          591,
+          291,
+          78
+        ],
+        "normalizedBounds": [
+          0.16279,
+          0.63412,
+          0.67674,
+          0.08369
+        ]
+      },
+      {
+        "id": "106:560",
+        "type": "INSTANCE",
+        "name": "Component 7",
+        "bounds": [
+          118,
+          512,
+          195,
+          54
+        ],
+        "normalizedBounds": [
+          0.27442,
+          0.54936,
+          0.45349,
+          0.05794
+        ]
+      }
+    ],
+    "assets": [
+      "reward_gold_chest__1254x1254",
+      "ui_panel_plain_navy__1126x2000",
+      "background_floating_islands__941x1672",
+      "ui_button_orange__2542x1359",
+      "ui_button_gold__2378x1300",
+      "reward_gold_chest__1254x1254_variant2"
+    ],
+    "nodeCount": 15
+  },
+  {
+    "screenId": "SCREEN-010",
+    "nodeId": "2:186",
+    "name": "settings",
+    "figmaName": "Settings",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      4843,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_186.png",
+    "directChildren": [
+      {
+        "id": "2:187",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:188",
+        "type": "TEXT",
+        "name": "terms of use",
+        "bounds": [
+          88,
+          849,
+          77,
+          18
+        ],
+        "normalizedBounds": [
+          0.20465,
+          0.91094,
+          0.17907,
+          0.01931
+        ]
+      },
+      {
+        "id": "2:189",
+        "type": "TEXT",
+        "name": "privacy policy",
+        "bounds": [
+          261,
+          849,
+          82,
+          18
+        ],
+        "normalizedBounds": [
+          0.60698,
+          0.91094,
+          0.1907,
+          0.01931
+        ]
+      },
+      {
+        "id": "2:190",
+        "type": "INSTANCE",
+        "name": "Rectangle 56",
+        "bounds": [
+          51,
+          139,
+          328,
+          175
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.14914,
+          0.76279,
+          0.18777
+        ]
+      },
+      {
+        "id": "2:191",
+        "type": "INSTANCE",
+        "name": "Rectangle 57",
+        "bounds": [
+          51,
+          340,
+          328,
+          134
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.36481,
+          0.76279,
+          0.14378
+        ]
+      },
+      {
+        "id": "2:192",
+        "type": "TEXT",
+        "name": "Sound",
+        "bounds": [
+          82,
+          166,
+          76,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.17811,
+          0.17674,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:193",
+        "type": "TEXT",
+        "name": "Music",
+        "bounds": [
+          82,
+          244,
+          76,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.2618,
+          0.17674,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:194",
+        "type": "INSTANCE",
+        "name": "Component 24",
+        "bounds": [
+          82,
+          277,
+          266,
+          14
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.29721,
+          0.6186,
+          0.01502
+        ]
+      },
+      {
+        "id": "2:195",
+        "type": "INSTANCE",
+        "name": "Component 25",
+        "bounds": [
+          82,
+          199,
+          266,
+          14
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.21352,
+          0.6186,
+          0.01502
+        ]
+      },
+      {
+        "id": "2:196",
+        "type": "TEXT",
+        "name": "Vibration",
+        "bounds": [
+          82,
+          371,
+          93,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.39807,
+          0.21628,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:197",
+        "type": "TEXT",
+        "name": "Notifications",
+        "bounds": [
+          82,
+          415,
+          120,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.44528,
+          0.27907,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:198",
+        "type": "INSTANCE",
+        "name": "Component 21",
+        "bounds": [
+          306,
+          371,
+          42,
+          22
+        ],
+        "normalizedBounds": [
+          0.71163,
+          0.39807,
+          0.09767,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:199",
+        "type": "INSTANCE",
+        "name": "Component 22",
+        "bounds": [
+          306,
+          416,
+          42,
+          22
+        ],
+        "normalizedBounds": [
+          0.71163,
+          0.44635,
+          0.09767,
+          0.02361
+        ]
+      },
+      {
+        "id": "90:1739",
+        "type": "TEXT",
+        "name": "Settings",
+        "bounds": [
+          122,
+          60,
+          187,
+          53
+        ],
+        "normalizedBounds": [
+          0.28372,
+          0.06438,
+          0.43488,
+          0.05687
+        ]
+      },
+      {
+        "id": "90:1745",
+        "type": "INSTANCE",
+        "name": "arrow",
+        "bounds": [
+          17,
+          67,
+          42,
+          39
+        ],
+        "normalizedBounds": [
+          0.03953,
+          0.07189,
+          0.09767,
+          0.04185
+        ]
+      }
+    ],
+    "assets": [
+      "ui_icon_upgrade_arrow__1302x1413",
+      "background_floating_islands__941x1672",
+      "ui_panel_stats_black__966x425"
+    ],
+    "nodeCount": 28
+  },
+  {
+    "screenId": "SCREEN-011",
+    "nodeId": "2:171",
+    "name": "settings_modal",
+    "figmaName": "Settings, pop up",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      5303,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_171.png",
+    "directChildren": [
+      {
+        "id": "2:172",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:173",
+        "type": "INSTANCE",
+        "name": "Rectangle 56",
+        "bounds": [
+          51,
+          139,
+          328,
+          435
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.14914,
+          0.76279,
+          0.46674
+        ]
+      },
+      {
+        "id": "2:174",
+        "type": "INSTANCE",
+        "name": "Component 21",
+        "bounds": [
+          306,
+          376,
+          42,
+          22
+        ],
+        "normalizedBounds": [
+          0.71163,
+          0.40343,
+          0.09767,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:175",
+        "type": "INSTANCE",
+        "name": "Component 26",
+        "bounds": [
+          306,
+          416,
+          42,
+          22
+        ],
+        "normalizedBounds": [
+          0.71163,
+          0.44635,
+          0.09767,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:176",
+        "type": "INSTANCE",
+        "name": "Component 24",
+        "bounds": [
+          82,
+          253,
+          266,
+          14
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.27146,
+          0.6186,
+          0.01502
+        ]
+      },
+      {
+        "id": "2:177",
+        "type": "INSTANCE",
+        "name": "Component 25",
+        "bounds": [
+          82,
+          331,
+          266,
+          14
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.35515,
+          0.6186,
+          0.01502
+        ]
+      },
+      {
+        "id": "2:178",
+        "type": "TEXT",
+        "name": "Settings",
+        "bounds": [
+          168,
+          158,
+          94,
+          26
+        ],
+        "normalizedBounds": [
+          0.3907,
+          0.16953,
+          0.2186,
+          0.0279
+        ]
+      },
+      {
+        "id": "2:179",
+        "type": "INSTANCE",
+        "name": "+",
+        "bounds": [
+          331,
+          162,
+          17.227705001831055,
+          17.227705001831055
+        ],
+        "normalizedBounds": [
+          0.76977,
+          0.17382,
+          0.04006,
+          0.01848
+        ]
+      },
+      {
+        "id": "2:180",
+        "type": "TEXT",
+        "name": "Sound",
+        "bounds": [
+          82,
+          220,
+          76,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.23605,
+          0.17674,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:181",
+        "type": "TEXT",
+        "name": "Music",
+        "bounds": [
+          82,
+          298,
+          76,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.31974,
+          0.17674,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:182",
+        "type": "TEXT",
+        "name": "Vibration",
+        "bounds": [
+          82,
+          376,
+          93,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.40343,
+          0.21628,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:183",
+        "type": "TEXT",
+        "name": "Notifications",
+        "bounds": [
+          82,
+          420,
+          120,
+          22
+        ],
+        "normalizedBounds": [
+          0.1907,
+          0.45064,
+          0.27907,
+          0.02361
+        ]
+      },
+      {
+        "id": "2:184",
+        "type": "TEXT",
+        "name": "terms of use",
+        "bounds": [
+          84,
+          514,
+          77,
+          18
+        ],
+        "normalizedBounds": [
+          0.19535,
+          0.5515,
+          0.17907,
+          0.01931
+        ]
+      },
+      {
+        "id": "2:185",
+        "type": "TEXT",
+        "name": "privacy policy",
+        "bounds": [
+          257,
+          514,
+          82,
+          18
+        ],
+        "normalizedBounds": [
+          0.59767,
+          0.5515,
+          0.1907,
+          0.01931
+        ]
+      }
+    ],
+    "assets": [
+      "ui_panel_plain_navy__1126x2000",
+      "background_floating_islands__941x1672"
+    ],
+    "nodeCount": 26
+  },
+  {
+    "screenId": "SCREEN-012",
+    "nodeId": "2:114",
+    "name": "maintenance",
+    "figmaName": "Тех. работы",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      4262,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_114.png",
+    "directChildren": [
+      {
+        "id": "2:115",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:116",
+        "type": "INSTANCE",
+        "name": "Rectangle 56",
+        "bounds": [
+          52,
+          197,
+          328,
+          435
+        ],
+        "normalizedBounds": [
+          0.12093,
+          0.21137,
+          0.76279,
+          0.46674
+        ]
+      },
+      {
+        "id": "2:117",
+        "type": "TEXT",
+        "name": "Please wait",
+        "bounds": [
+          153,
+          216,
+          125,
+          26
+        ],
+        "normalizedBounds": [
+          0.35581,
+          0.23176,
+          0.2907,
+          0.0279
+        ]
+      },
+      {
+        "id": "2:118",
+        "type": "INSTANCE",
+        "name": "+",
+        "bounds": [
+          331,
+          220,
+          17.227705001831055,
+          17.227705001831055
+        ],
+        "normalizedBounds": [
+          0.76977,
+          0.23605,
+          0.04006,
+          0.01848
+        ]
+      },
+      {
+        "id": "2:119",
+        "type": "INSTANCE",
+        "name": "Rectangle 57",
+        "bounds": [
+          127,
+          267,
+          177,
+          175
+        ],
+        "normalizedBounds": [
+          0.29535,
+          0.28648,
+          0.41163,
+          0.18777
+        ]
+      },
+      {
+        "id": "2:120",
+        "type": "TEXT",
+        "name": "The good news: once we’re back, every user will receive a special loylty bonus. Hang tight, we’re almost there!",
+        "bounds": [
+          87,
+          468,
+          261,
+          88
+        ],
+        "normalizedBounds": [
+          0.20233,
+          0.50215,
+          0.60698,
+          0.09442
+        ]
+      }
+    ],
+    "assets": [
+      "decoration_raccoon_castle__1254x1254",
+      "ui_panel_plain_navy__1126x2000",
+      "background_floating_islands__941x1672",
+      "decoration_raccoon_castle__1254x1254_variant2"
+    ],
+    "nodeCount": 11
+  },
+  {
+    "screenId": "SCREEN-013",
+    "nodeId": "2:265",
+    "name": "wheel_spin",
+    "figmaName": "WHEEL OF LUCK",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      6022,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_265.png",
+    "directChildren": [
+      {
+        "id": "2:266",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:267",
+        "type": "INSTANCE",
+        "name": "title_name",
+        "bounds": [
+          92,
+          73,
+          248,
+          28
+        ],
+        "normalizedBounds": [
+          0.21395,
+          0.07833,
+          0.57674,
+          0.03004
+        ]
+      },
+      {
+        "id": "2:269",
+        "type": "INSTANCE",
+        "name": "Component 19",
+        "bounds": [
+          58,
+          770,
+          314,
+          61
+        ],
+        "normalizedBounds": [
+          0.13488,
+          0.82618,
+          0.73023,
+          0.06545
+        ]
+      },
+      {
+        "id": "90:1749",
+        "type": "INSTANCE",
+        "name": "arrow",
+        "bounds": [
+          17,
+          67,
+          42,
+          39
+        ],
+        "normalizedBounds": [
+          0.03953,
+          0.07189,
+          0.09767,
+          0.04185
+        ]
+      },
+      {
+        "id": "91:571",
+        "type": "FRAME",
+        "name": "wheel_full",
+        "bounds": [
+          51,
+          296,
+          328,
+          340.9013366699219
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.3176,
+          0.76279,
+          0.36577
+        ]
+      }
+    ],
+    "assets": [
+      "ui_icon_upgrade_arrow__1302x1413",
+      "ui_wheel_outer_ring__1940x1924",
+      "ui_icon_blue_triangle__1484x1322",
+      "background_floating_islands__941x1672",
+      "ui_button_orange__2542x1359",
+      "ui_frame_purple_orb__1428x1440"
+    ],
+    "nodeCount": 40
+  },
+  {
+    "screenId": "SCREEN-014",
+    "nodeId": "2:276",
+    "name": "wheel_free",
+    "figmaName": "WHEEL OF LUCK",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      6483,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_276.png",
+    "directChildren": [
+      {
+        "id": "2:277",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:278",
+        "type": "INSTANCE",
+        "name": "Component 19",
+        "bounds": [
+          58,
+          770,
+          314,
+          61
+        ],
+        "normalizedBounds": [
+          0.13488,
+          0.82618,
+          0.73023,
+          0.06545
+        ]
+      },
+      {
+        "id": "2:279",
+        "type": "INSTANCE",
+        "name": "title_name",
+        "bounds": [
+          92,
+          73,
+          248,
+          28
+        ],
+        "normalizedBounds": [
+          0.21395,
+          0.07833,
+          0.57674,
+          0.03004
+        ]
+      },
+      {
+        "id": "90:1750",
+        "type": "INSTANCE",
+        "name": "arrow",
+        "bounds": [
+          17,
+          67,
+          42,
+          39
+        ],
+        "normalizedBounds": [
+          0.03953,
+          0.07189,
+          0.09767,
+          0.04185
+        ]
+      },
+      {
+        "id": "91:577",
+        "type": "FRAME",
+        "name": "wheel_full",
+        "bounds": [
+          51,
+          296,
+          328,
+          340.9013366699219
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.3176,
+          0.76279,
+          0.36577
+        ]
+      }
+    ],
+    "assets": [
+      "ui_icon_upgrade_arrow__1302x1413",
+      "ui_wheel_outer_ring__1940x1924",
+      "ui_icon_blue_triangle__1484x1322",
+      "background_floating_islands__941x1672",
+      "ui_button_orange__2542x1359",
+      "ui_frame_purple_orb__1428x1440"
+    ],
+    "nodeCount": 40
+  },
+  {
+    "screenId": "SCREEN-015",
+    "nodeId": "2:287",
+    "name": "wheel_cooldown",
+    "figmaName": "WHEEL OF LUCK",
+    "referenceSize": [
+      430,
+      932
+    ],
+    "canvasPosition": [
+      6943,
+      -536
+    ],
+    "screenshot": "analysis/figma/screenshots/2_287.png",
+    "directChildren": [
+      {
+        "id": "2:288",
+        "type": "INSTANCE",
+        "name": "bg",
+        "bounds": [
+          0,
+          0,
+          430,
+          932
+        ],
+        "normalizedBounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": "2:289",
+        "type": "TEXT",
+        "name": "00:21:19",
+        "bounds": [
+          190,
+          742,
+          50,
+          16
+        ],
+        "normalizedBounds": [
+          0.44186,
+          0.79614,
+          0.11628,
+          0.01717
+        ]
+      },
+      {
+        "id": "2:290",
+        "type": "INSTANCE",
+        "name": "title_name",
+        "bounds": [
+          92,
+          73,
+          248,
+          28
+        ],
+        "normalizedBounds": [
+          0.21395,
+          0.07833,
+          0.57674,
+          0.03004
+        ]
+      },
+      {
+        "id": "2:292",
+        "type": "INSTANCE",
+        "name": "Component 19",
+        "bounds": [
+          58,
+          770,
+          314,
+          61
+        ],
+        "normalizedBounds": [
+          0.13488,
+          0.82618,
+          0.73023,
+          0.06545
+        ]
+      },
+      {
+        "id": "90:1748",
+        "type": "INSTANCE",
+        "name": "arrow",
+        "bounds": [
+          17,
+          67,
+          42,
+          39
+        ],
+        "normalizedBounds": [
+          0.03953,
+          0.07189,
+          0.09767,
+          0.04185
+        ]
+      },
+      {
+        "id": "91:565",
+        "type": "FRAME",
+        "name": "wheel_full",
+        "bounds": [
+          51,
+          296,
+          328,
+          340.9013366699219
+        ],
+        "normalizedBounds": [
+          0.1186,
+          0.3176,
+          0.76279,
+          0.36577
+        ]
+      }
+    ],
+    "assets": [
+      "ui_icon_upgrade_arrow__1302x1413",
+      "ui_wheel_outer_ring__1940x1924",
+      "ui_icon_blue_triangle__1484x1322",
+      "background_floating_islands__941x1672",
+      "ui_button_orange__2542x1359",
+      "ui_frame_purple_orb__1428x1440"
+    ],
+    "nodeCount": 41
+  }
+]

@@ -1,0 +1,530 @@
+{
+  "target": "org.reactjs.native.example.KiselNativeProbe (iPhone 17 Pro)",
+  "events": [
+    {
+      "timestamp": 1788901877010.896,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"game.ready\",\"sequence\":0}"
+      ]
+    },
+    {
+      "timestamp": 1788901877184.992,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877185.156,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.1\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":0}"
+      ]
+    },
+    {
+      "timestamp": 1788901877185.309,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.ping\",\"sequence\":2}"
+      ]
+    },
+    {
+      "timestamp": 1788901877185.867,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-json\",\"expected\":\"INVALID_JSON\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877185.928,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-version\",\"expected\":\"INVALID_ENVELOPE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877185.982,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-type\",\"expected\":\"INVALID_ENVELOPE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877186.036,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-payload\",\"expected\":\"INVALID_PAYLOAD\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877186.087,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"stale-generation\",\"expected\":\"STALE_GENERATION\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877186.137,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"stale-session\",\"expected\":\"STALE_SESSION\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877186.184,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"bad-sequence\",\"expected\":\"SEQUENCE_GAP\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877186.367,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"send-invalid\",\"caseId\":\"extra-field\",\"expected\":\"INVALID_ENVELOPE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877188.337,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":3}"
+      ]
+    },
+    {
+      "timestamp": 1788901877188.439,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.2\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":0}"
+      ]
+    },
+    {
+      "timestamp": 1788901877189.328,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":4}"
+      ]
+    },
+    {
+      "timestamp": 1788901877189.437,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.3\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877189.861,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":5}"
+      ]
+    },
+    {
+      "timestamp": 1788901877189.946,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.4\",\"result\":\"duplicate:CACHED_NO_APPLY:$.requestId\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877190.751,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":6}"
+      ]
+    },
+    {
+      "timestamp": 1788901877191.253,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.5\",\"result\":\"rejected:REQUEST_CONFLICT:$.requestId\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877193.234,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":7}"
+      ]
+    },
+    {
+      "timestamp": 1788901877193.486,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.6\",\"result\":\"rejected:INVALID_JSON:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877194.415,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":8}"
+      ]
+    },
+    {
+      "timestamp": 1788901877194.56,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.7\",\"result\":\"rejected:INVALID_ENVELOPE:$.version\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877195.369,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":9}"
+      ]
+    },
+    {
+      "timestamp": 1788901877195.445,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.8\",\"result\":\"rejected:INVALID_ENVELOPE:$.type\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877262.591,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":10}"
+      ]
+    },
+    {
+      "timestamp": 1788901877262.732,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.9\",\"result\":\"rejected:INVALID_PAYLOAD:$.payload.token\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877267.281,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":11}"
+      ]
+    },
+    {
+      "timestamp": 1788901877267.415,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.10\",\"result\":\"rejected:STALE_GENERATION:$.generation\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877267.991,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":12}"
+      ]
+    },
+    {
+      "timestamp": 1788901877268.098,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.11\",\"result\":\"rejected:STALE_SESSION:$.sessionId\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877268.614,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":13}"
+      ]
+    },
+    {
+      "timestamp": 1788901877268.695,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.12\",\"result\":\"rejected:SEQUENCE_GAP:$.sequence\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877269.564,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":14}"
+      ]
+    },
+    {
+      "timestamp": 1788901877269.704,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.13\",\"result\":\"rejected:INVALID_ENVELOPE:$.unexpected\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877356.958,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"transport-check\",\"expected\":\"OVERSIZE\",\"actual\":\"OVERSIZE\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877357.819,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":15}"
+      ]
+    },
+    {
+      "timestamp": 1788901877357.955,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.14\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877358.1,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.pong\",\"sequence\":16}"
+      ]
+    },
+    {
+      "timestamp": 1788901877358.219,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.ping\",\"sequence\":17}"
+      ]
+    },
+    {
+      "timestamp": 1788901877358.345,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"duplicate\",\"code\":\"CACHED_NO_APPLY\",\"path\":\"$.requestId\",\"type\":\"probe.ping\",\"sequence\":17}"
+      ]
+    },
+    {
+      "timestamp": 1788901877358.457,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"REQUEST_CONFLICT\",\"path\":\"$.requestId\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877358.79,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_JSON\",\"path\":\"$\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877358.929,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_ENVELOPE\",\"path\":\"$.version\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877359.065,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_ENVELOPE\",\"path\":\"$.type\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877359.178,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_PAYLOAD\",\"path\":\"$.payload.token\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877359.285,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"STALE_GENERATION\",\"path\":\"$.generation\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877359.569,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"STALE_SESSION\",\"path\":\"$.sessionId\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877359.77,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"SEQUENCE_GAP\",\"path\":\"$.sequence\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877359.885,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"rejected\",\"code\":\"INVALID_ENVELOPE\",\"path\":\"$.unexpected\"}"
+      ]
+    },
+    {
+      "timestamp": 1788901877360.006,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.ping\",\"sequence\":18}"
+      ]
+    },
+    {
+      "timestamp": 1788901877360.498,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"exchange-complete\",\"status\":\"PASS\",\"hostRejected\":9,\"hostDuplicates\":1,\"gameRejected\":9,\"gameDuplicates\":1,\"colorApplications\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877366.585,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":19}"
+      ]
+    },
+    {
+      "timestamp": 1788901877366.748,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.15\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877367.592,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":20}"
+      ]
+    },
+    {
+      "timestamp": 1788901877367.683,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.16\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901877368.163,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":21}"
+      ]
+    },
+    {
+      "timestamp": 1788901877368.251,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.17\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788901958136.568,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":22}"
+      ]
+    },
+    {
+      "timestamp": 1788901958137.353,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.18\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788902006393.671,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.audioMute\",\"sequence\":23}"
+      ]
+    },
+    {
+      "timestamp": 1788902006403.832,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":24}"
+      ]
+    },
+    {
+      "timestamp": 1788902006404.461,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.19\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788902016087.36,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":25}"
+      ]
+    },
+    {
+      "timestamp": 1788902016087.992,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.20\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788902017350.854,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.audioMute\",\"sequence\":26}"
+      ]
+    },
+    {
+      "timestamp": 1788902017361.779,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":27}"
+      ]
+    },
+    {
+      "timestamp": 1788902017361.896,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.21\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788902023234.306,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":28}"
+      ]
+    },
+    {
+      "timestamp": 1788902023234.424,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.22\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788902027548.021,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":29}"
+      ]
+    },
+    {
+      "timestamp": 1788902027548.412,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.23\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    },
+    {
+      "timestamp": 1788902032364.464,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"receive\",\"runtime\":\"host\",\"kind\":\"accepted\",\"code\":\"ACCEPTED\",\"path\":\"$\",\"type\":\"probe.report\",\"sequence\":30}"
+      ]
+    },
+    {
+      "timestamp": 1788902032364.578,
+      "args": [
+        "[bridge-probe][host]",
+        "{\"event\":\"game-report\",\"caseId\":\"receive.24\",\"result\":\"accepted:ACCEPTED:$\",\"applied\":1}"
+      ]
+    }
+  ]
+}

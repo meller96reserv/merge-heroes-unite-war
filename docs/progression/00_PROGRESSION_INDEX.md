@@ -1,0 +1,23 @@
+# Progression index
+
+Specifications describe future implementation. OBSERVED/MEASURED evidence is separate from PROPOSED contracts; runtime/native tests are not executed during planning.
+
+- [01 CURRENCIES](01_CURRENCIES.md)
+- [02 ECONOMY MODEL](02_ECONOMY_MODEL.md)
+- [03 HERO PROGRESSION](03_HERO_PROGRESSION.md)
+- [04 STAGE PROGRESSION](04_STAGE_PROGRESSION.md)
+- [05 UNLOCKS](05_UNLOCKS.md)
+- [06 REWARDS](06_REWARDS.md)
+- [07 QUESTS](07_QUESTS.md)
+- [08 DAILY REWARD](08_DAILY_REWARD.md)
+- [09 WHEEL OF LUCK](09_WHEEL_OF_LUCK.md)
+- [10 EQUIPMENT](10_EQUIPMENT.md)
+- [11 UPGRADES](11_UPGRADES.md)
+- [12 SUMMON GACHA IF APPLICABLE](12_SUMMON_GACHA_IF_APPLICABLE.md)
+- [13 OFFLINE PROGRESS](13_OFFLINE_PROGRESS.md)
+- [14 PRESTIGE META IF APPLICABLE](14_PRESTIGE_META_IF_APPLICABLE.md)
+- [15 BALANCE REVERSE ENGINEERING](15_BALANCE_REVERSE_ENGINEERING.md)
+
+[Phase entry](../../plans/PHASE_10_HERO_PROGRESSION_AND_EQUIPMENT.md) · [All tasks](../../tasks/TASK_INDEX.md) · [Unknowns](../04_UNKNOWNS_REGISTER.md) · [Evidence](../03_EVIDENCE_LEDGER.md) · [Main index](../00_INDEX.md).
+
+[Shipped relic collection](RELIC_EXTENSION.md) records the existing Open x1/x10 product rule.

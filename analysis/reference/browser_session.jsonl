@@ -1,0 +1,185 @@
+{"elapsedSeconds": 19.136, "command": {"op": "goto", "url": "https://www.crazygames.com/game/heroes-unite"}, "result": {"title": "🎮 Heroes Unite 🕹️ Play on CrazyGames"}}
+{"elapsedSeconds": 29.14, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 29.364, "command": {"op": "snapshot", "name": "web_initial"}, "result": {"screenshot": "analysis/reference/screenshots/web_initial.png"}}
+{"elapsedSeconds": 29.364, "command": {"op": "frames"}, "result": [{"url": "https://www.crazygames.com/game/heroes-unite", "name": ""}, {"url": "https://games.crazygames.com/en_US/heroes-unite/index.html?isNewUser=true&__nextLocale=en-US&isFirstSession=true&czyExpClientUnpauseVideos1_CZY_20520=enabled&czyExpClientSuppressFirstDayPreroll_CZY_20818=enabled&czyExpClientAdsDummyAA=enabled&czyExpClientVastVideoCache=local_cache_prebid_url&czyExpClientAdsConsentGate=enabled&czyExpClientGooglePPID=disabled&czyExpClientContentSignals=enabled&czyExpDisableInterstitialsFirst12h_CZY_18471=disabled&czyExpGamePageReco_CZY_19213=enabled&czyExpNewSaveProgressNotice_CZY_19240=disabled&czyExpClientSideLogging_CZY_19610=enabled&czyExpSuprsendInAppNotifications=enabled&czyExpGameThumbHover_CZY_19482=enabled&czyExpProgressSaveNudge_CZY_18842=enabled&czyExpRenderResolution_CZY_20444=enabled&czyExpClientPersonalisedRecPhase1_CZY_20721=enabled&czyExpMetaPixel=enabled&czyExpSuprsendInAppNotificationsConnect=enabled&czyExpModelGamePage=knn_v3&v=2.9", "name": ""}, {"url": "about:blank", "name": "__pb_locator__"}, {"url": "about:blank", "name": "googlefcPresent"}, {"url": "about:blank", "name": "__tcfapiLocator"}, {"url": "about:blank", "name": "googlefcInactive"}, {"url": "about:blank", "name": "googlefcLoaded"}, {"url": "https://cm.g.doubleclick.net/partnerpixels?gdpr=0&url=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite", "name": ""}, {"url": "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.crazygames.com&gdpr=0&gdpr_consent=#{%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22crazygames.com%22,%22topUrl%22:%22www.crazygames.com%22,%22version%22:109066,%22origin%22:%22publishertagids%22,%22requestId%22:%220.9812391033162966%22}", "name": ""}]}
+{"elapsedSeconds": 42.046, "command": {"op": "snapshot", "name": "web_loaded"}, "result": {"screenshot": "analysis/reference/screenshots/web_loaded.png"}}
+{"elapsedSeconds": 42.058, "command": {"op": "text"}, "result": "Log in\nController detected\nExplore our controller compatible games\nExplore games\nGames»Action»Casual»Merge»Heroes Unite\nHeroes Unite\nShare\nRating\n9.1\n(based on last 6 months)\nReleased\nAugust 2026\nLast Updated\nAugust 2026\nGame engine\nCocos\nPlatforms\nBrowser (desktop, mobile, tablet), CrazyGames App (iOS, Android), App Store (iOS, Android)\nOrientation\nPortrait\n\nAction\n\n722\n\nMobile\n\n2,470\n\nBattle\n\n556\n\nPremium Perks\n\n82\n\nMMO\n\n30\n\n2D\n\n1,197\n\nIdle\n\n499\n\nMerge\n\n246\n\nQ. Do you need an idle game? Are you busy to play?\n\nA. Yes, I am!\n\n\n\n\nThen, here is what you want.\n\nHEROES UNITE\n\n\n\n\n◎ Merge to Hero\n\nTwo become One!\n\nThere is no limit to the power!\n\n\n\n\n◎ Auto-Merge System\n\nJust touch and buy!\n\nYou don't need to drag at all!\n\n\n\n\n◎ Various Battle Contents\n\nDragon's Lair, Demon's Castle, Tower of Challenge...\n\nA lot of challenges are in front of you!\n\n\n\n\nThe REAL idle & merge game that you're looking for.\n\nEven if you sleep, your heroes do not rest.\n\nLast Updated\n\nAug 24, 2026\n\nControls\n\nUse the left mouse button or tap to interact with menus, merge units, upgrade heroes, and claim rewards.\n\nPlay next"}
+{"elapsedSeconds": 149.973, "command": {"op": "click", "x": 570, "y": 435}, "result": null}
+{"elapsedSeconds": 159.976, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 160.069, "command": {"op": "snapshot", "name": "web_fullscreen"}, "result": {"screenshot": "analysis/reference/screenshots/web_fullscreen.png"}}
+{"elapsedSeconds": 168.726, "command": {"op": "snapshot", "name": "web_ready"}, "result": {"screenshot": "analysis/reference/screenshots/web_ready.png"}}
+{"elapsedSeconds": 193.819, "command": {"op": "click", "x": 720, "y": 854}, "result": null}
+{"elapsedSeconds": 194.331, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 194.464, "command": {"op": "snapshot", "name": "tutorial_buy_1"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_buy_1.png"}}
+{"elapsedSeconds": 195.466, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 195.594, "command": {"op": "snapshot", "name": "tutorial_after_1"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_after_1.png"}}
+{"elapsedSeconds": 278.901, "command": {"op": "click", "x": 720, "y": 854}, "result": null}
+{"elapsedSeconds": 279.012, "command": {"op": "snapshot", "name": "tutorial_buy_2_immediate"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_buy_2_immediate.png"}}
+{"elapsedSeconds": 279.614, "command": {"op": "wait", "ms": 600}, "result": null}
+{"elapsedSeconds": 279.727, "command": {"op": "snapshot", "name": "tutorial_buy_2_600ms"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_buy_2_600ms.png"}}
+{"elapsedSeconds": 280.728, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 280.839, "command": {"op": "snapshot", "name": "tutorial_merge_result"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_merge_result.png"}}
+{"elapsedSeconds": 22.117, "command": {"op": "goto", "url": "https://www.crazygames.com/game/heroes-unite"}, "result": {"title": "🎮 Heroes Unite 🕹️ Play on CrazyGames"}}
+{"elapsedSeconds": 30.125, "command": {"op": "wait", "ms": 8000}, "result": null}
+{"elapsedSeconds": 30.135, "command": {"op": "click", "x": 570, "y": 435}, "result": null}
+{"elapsedSeconds": 35.139, "command": {"op": "wait", "ms": 5000}, "result": null}
+{"elapsedSeconds": 35.245, "command": {"op": "snapshot", "name": "run2_launch"}, "result": {"screenshot": "analysis/reference/screenshots/run2_launch.png"}}
+{"elapsedSeconds": 45.981, "command": {"op": "click", "x": 720, "y": 854}, "result": null}
+{"elapsedSeconds": 46.486, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 46.489, "command": {"op": "click", "x": 720, "y": 854}, "result": null}
+{"elapsedSeconds": 46.99, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 47.526, "command": {"op": "drag", "x1": 515, "y1": 565, "x2": 621, "y2": 565}, "result": null}
+{"elapsedSeconds": 48.529, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 48.638, "command": {"op": "snapshot", "name": "run2_merge_1"}, "result": {"screenshot": "analysis/reference/screenshots/run2_merge_1.png"}}
+{"elapsedSeconds": 94.608, "command": {"op": "click", "x": 720, "y": 854}, "result": null}
+{"elapsedSeconds": 96.111, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 96.405, "command": {"op": "snapshot", "name": "run2_two_units"}, "result": {"screenshot": "analysis/reference/screenshots/run2_two_units.png"}}
+{"elapsedSeconds": 96.787, "command": {"op": "drag", "x1": 515, "y1": 565, "x2": 621, "y2": 565}, "result": null}
+{"elapsedSeconds": 98.289, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 98.39, "command": {"op": "snapshot", "name": "run2_drag_result"}, "result": {"screenshot": "analysis/reference/screenshots/run2_drag_result.png"}}
+{"elapsedSeconds": 274.559, "command": {"op": "drag", "x1": 515, "y1": 599, "x2": 620, "y2": 599}, "result": null}
+{"elapsedSeconds": 276.062, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 276.184, "command": {"op": "snapshot", "name": "run2_merge_target_slot"}, "result": {"screenshot": "analysis/reference/screenshots/run2_merge_target_slot.png"}}
+{"elapsedSeconds": 313.905, "command": {"op": "drag", "x1": 620, "y1": 570, "x2": 515, "y2": 570}, "result": null}
+{"elapsedSeconds": 315.109, "command": {"op": "wait", "ms": 1200}, "result": null}
+{"elapsedSeconds": 315.261, "command": {"op": "snapshot", "name": "run2_reverse_merge"}, "result": {"screenshot": "analysis/reference/screenshots/run2_reverse_merge.png"}}
+{"elapsedSeconds": 328.133, "command": {"op": "click", "x": 516, "y": 570}, "result": null}
+{"elapsedSeconds": 328.135, "command": {"op": "click", "x": 620, "y": 570}, "result": null}
+{"elapsedSeconds": 329.136, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 329.243, "command": {"op": "snapshot", "name": "run2_tap_merge_test"}, "result": {"screenshot": "analysis/reference/screenshots/run2_tap_merge_test.png"}}
+{"elapsedSeconds": 341.28, "command": {"op": "click", "x": 726, "y": 746}, "result": null}
+{"elapsedSeconds": 342.482, "command": {"op": "wait", "ms": 1200}, "result": null}
+{"elapsedSeconds": 342.644, "command": {"op": "snapshot", "name": "tutorial_deploy_prompt"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_deploy_prompt.png"}}
+{"elapsedSeconds": 383.21, "command": {"op": "drag", "x1": 515, "y1": 570, "x2": 603, "y2": 331}, "result": null}
+{"elapsedSeconds": 384.217, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 384.623, "command": {"op": "snapshot", "name": "first_combat"}, "result": {"screenshot": "analysis/reference/screenshots/first_combat.png"}}
+{"elapsedSeconds": 392.649, "command": {"op": "wait", "ms": 8000}, "result": null}
+{"elapsedSeconds": 392.759, "command": {"op": "snapshot", "name": "combat_after_8s"}, "result": {"screenshot": "analysis/reference/screenshots/combat_after_8s.png"}}
+{"elapsedSeconds": 415.864, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 415.971, "command": {"op": "snapshot", "name": "tutorial_next"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_next.png"}}
+{"elapsedSeconds": 532.07, "command": {"op": "click", "x": 516, "y": 570}, "result": null}
+{"elapsedSeconds": 533.572, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 533.741, "command": {"op": "snapshot", "name": "tutorial_withdraw"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_withdraw.png"}}
+{"elapsedSeconds": 546.296, "command": {"op": "click", "x": 516, "y": 570}, "result": null}
+{"elapsedSeconds": 547.799, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 547.908, "command": {"op": "snapshot", "name": "tutorial_redeploy"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_redeploy.png"}}
+{"elapsedSeconds": 673.763, "command": {"op": "drag", "x1": 515, "y1": 570, "x2": 603, "y2": 331}, "result": null}
+{"elapsedSeconds": 675.275, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 675.428, "command": {"op": "snapshot", "name": "tutorial_redeploy_drag"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_redeploy_drag.png"}}
+{"elapsedSeconds": 681.431, "command": {"op": "wait", "ms": 6000}, "result": null}
+{"elapsedSeconds": 681.543, "command": {"op": "snapshot", "name": "tutorial_quest_prompt"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_quest_prompt.png"}}
+{"elapsedSeconds": 692.242, "command": {"op": "click", "x": 871, "y": 125}, "result": null}
+{"elapsedSeconds": 693.744, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 693.902, "command": {"op": "snapshot", "name": "quest_claimed"}, "result": {"screenshot": "analysis/reference/screenshots/quest_claimed.png"}}
+{"elapsedSeconds": 803.067, "command": {"op": "click", "x": 720, "y": 610}, "result": null}
+{"elapsedSeconds": 804.072, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 804.154, "command": {"op": "snapshot", "name": "tutorial_complete"}, "result": {"screenshot": "analysis/reference/screenshots/tutorial_complete.png"}}
+{"elapsedSeconds": 804.159, "command": {"op": "click", "x": 871, "y": 125}, "result": null}
+{"elapsedSeconds": 805.66, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 805.726, "command": {"op": "snapshot", "name": "first_quest_reward"}, "result": {"screenshot": "analysis/reference/screenshots/first_quest_reward.png"}}
+{"elapsedSeconds": 807.742, "command": {"op": "hold", "x": 720, "y": 854, "ms": 2000}, "result": null}
+{"elapsedSeconds": 809.244, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 809.375, "command": {"op": "snapshot", "name": "hold_buy_board"}, "result": {"screenshot": "analysis/reference/screenshots/hold_buy_board.png"}}
+{"elapsedSeconds": 969.554, "command": {"op": "click", "x": 965, "y": 31}, "result": null}
+{"elapsedSeconds": 970.602, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 970.771, "command": {"op": "snapshot", "name": "reference_settings"}, "result": {"screenshot": "analysis/reference/screenshots/reference_settings.png"}}
+{"elapsedSeconds": 1079.151, "command": {"op": "click", "x": 907, "y": 201}, "result": null}
+{"elapsedSeconds": 1080.664, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 1081.132, "command": {"op": "snapshot", "name": "after_launch_event"}, "result": {"screenshot": "analysis/reference/screenshots/after_launch_event.png"}}
+{"elapsedSeconds": 1099.103, "command": {"op": "snapshot", "name": "freeplay_before"}, "result": {"screenshot": "analysis/reference/screenshots/freeplay_before.png"}}
+{"elapsedSeconds": 1101.134, "command": {"op": "hold", "x": 720, "y": 854, "ms": 2000}, "result": null}
+{"elapsedSeconds": 1102.635, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 1102.765, "command": {"op": "snapshot", "name": "freeplay_hold"}, "result": {"screenshot": "analysis/reference/screenshots/freeplay_hold.png"}}
+{"elapsedSeconds": 1297.396, "command": {"op": "click", "x": 871, "y": 124}, "result": null}
+{"elapsedSeconds": 1298.398, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 1298.555, "command": {"op": "snapshot", "name": "quest_actual_claim"}, "result": {"screenshot": "analysis/reference/screenshots/quest_actual_claim.png"}}
+{"elapsedSeconds": 1298.559, "command": {"op": "click", "x": 965, "y": 30}, "result": null}
+{"elapsedSeconds": 1299.561, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 1299.684, "command": {"op": "snapshot", "name": "settings_actual"}, "result": {"screenshot": "analysis/reference/screenshots/settings_actual.png"}}
+{"elapsedSeconds": 1411.745, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 1411.851, "command": {"op": "snapshot", "name": "settings_after_10s"}, "result": {"screenshot": "analysis/reference/screenshots/settings_after_10s.png"}}
+{"elapsedSeconds": 1534.753, "command": {"op": "click", "x": 871, "y": 124}, "result": null}
+{"elapsedSeconds": 1536.257, "command": {"op": "wait", "ms": 1500}, "result": null}
+{"elapsedSeconds": 1536.597, "command": {"op": "snapshot", "name": "quest_hint_closed"}, "result": {"screenshot": "analysis/reference/screenshots/quest_hint_closed.png"}}
+{"elapsedSeconds": 1536.618, "command": {"op": "click", "x": 965, "y": 30}, "result": null}
+{"elapsedSeconds": 1537.621, "command": {"op": "wait", "ms": 1000}, "result": null}
+{"elapsedSeconds": 1537.726, "command": {"op": "snapshot", "name": "settings_open_confirmed"}, "result": {"screenshot": "analysis/reference/screenshots/settings_open_confirmed.png"}}
+{"elapsedSeconds": 1685.796, "command": {"op": "snapshot", "name": "settings_before_wait"}, "result": {"screenshot": "analysis/reference/screenshots/settings_before_wait.png"}}
+{"elapsedSeconds": 1695.853, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 1695.989, "command": {"op": "snapshot", "name": "settings_continuity"}, "result": {"screenshot": "analysis/reference/screenshots/settings_continuity.png"}}
+{"elapsedSeconds": 1930.054, "command": {"op": "click", "x": 770, "y": 360}, "result": null}
+{"elapsedSeconds": 1930.857, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 1930.962, "command": {"op": "snapshot", "name": "how_to_play"}, "result": {"screenshot": "analysis/reference/screenshots/how_to_play.png"}}
+{"elapsedSeconds": 1946.469, "command": {"op": "click", "x": 870, "y": 790}, "result": null}
+{"elapsedSeconds": 1946.566, "command": {"op": "snapshot", "name": "how_to_play_2"}, "result": {"screenshot": "analysis/reference/screenshots/how_to_play_2.png"}}
+{"elapsedSeconds": 1946.569, "command": {"op": "click", "x": 870, "y": 790}, "result": null}
+{"elapsedSeconds": 1946.651, "command": {"op": "snapshot", "name": "how_to_play_3"}, "result": {"screenshot": "analysis/reference/screenshots/how_to_play_3.png"}}
+{"elapsedSeconds": 1962.663, "command": {"op": "click", "x": 840, "y": 90}, "result": null}
+{"elapsedSeconds": 1962.666, "command": {"op": "click", "x": 825, "y": 160}, "result": null}
+{"elapsedSeconds": 1963.009, "command": {"op": "drag", "x1": 724, "y1": 570, "x2": 620, "y2": 570}, "result": null}
+{"elapsedSeconds": 1963.811, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 1964.026, "command": {"op": "snapshot", "name": "reserve_merge"}, "result": {"screenshot": "analysis/reference/screenshots/reserve_merge.png"}}
+{"elapsedSeconds": 1964.558, "command": {"op": "drag", "x1": 934, "y1": 570, "x2": 827, "y2": 570}, "result": null}
+{"elapsedSeconds": 1965.359, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 1965.457, "command": {"op": "snapshot", "name": "reserve_merge_2"}, "result": {"screenshot": "analysis/reference/screenshots/reserve_merge_2.png"}}
+{"elapsedSeconds": 2381.847, "command": {"op": "click", "x": 825, "y": 160}, "result": null}
+{"elapsedSeconds": 2382.351, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 2382.699, "command": {"op": "drag", "x1": 724, "y1": 570, "x2": 620, "y2": 570}, "result": null}
+{"elapsedSeconds": 2383.499, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 2383.621, "command": {"op": "snapshot", "name": "reserve_merge_actual"}, "result": {"screenshot": "analysis/reference/screenshots/reserve_merge_actual.png"}}
+{"elapsedSeconds": 2384.04, "command": {"op": "drag", "x1": 934, "y1": 570, "x2": 827, "y2": 570}, "result": null}
+{"elapsedSeconds": 2384.849, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 2384.97, "command": {"op": "snapshot", "name": "reserve_merge_actual_2"}, "result": {"screenshot": "analysis/reference/screenshots/reserve_merge_actual_2.png"}}
+{"elapsedSeconds": 2385.336, "command": {"op": "drag", "x1": 827, "y1": 570, "x2": 620, "y2": 570}, "result": null}
+{"elapsedSeconds": 2386.141, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 2386.259, "command": {"op": "snapshot", "name": "tier3_discovery"}, "result": {"screenshot": "analysis/reference/screenshots/tier3_discovery.png"}}
+{"elapsedSeconds": 2859.901, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 2860.044, "command": {"op": "snapshot", "name": "tier3_popup"}, "result": {"screenshot": "analysis/reference/screenshots/tier3_popup.png"}}
+{"elapsedSeconds": 2860.05, "command": {"op": "click", "x": 725, "y": 746}, "result": null}
+{"elapsedSeconds": 2860.552, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 2860.559, "command": {"op": "click", "x": 515, "y": 570}, "result": null}
+{"elapsedSeconds": 2861.061, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 2861.407, "command": {"op": "drag", "x1": 620, "y1": 570, "x2": 600, "y2": 330}, "result": null}
+{"elapsedSeconds": 2861.91, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 2861.913, "command": {"op": "click", "x": 881, "y": 76}, "result": null}
+{"elapsedSeconds": 2863.115, "command": {"op": "wait", "ms": 1200}, "result": null}
+{"elapsedSeconds": 2863.238, "command": {"op": "snapshot", "name": "boss_retry_attempt"}, "result": {"screenshot": "analysis/reference/screenshots/boss_retry_attempt.png"}}
+{"elapsedSeconds": 3119.275, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 3119.386, "command": {"op": "snapshot", "name": "boss_retry_after10"}, "result": {"screenshot": "analysis/reference/screenshots/boss_retry_after10.png"}}
+{"elapsedSeconds": 3129.388, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 3129.481, "command": {"op": "snapshot", "name": "boss_retry_after20"}, "result": {"screenshot": "analysis/reference/screenshots/boss_retry_after20.png"}}
+{"elapsedSeconds": 3431.699, "command": {"op": "click", "x": 545, "y": 478}, "result": null}
+{"elapsedSeconds": 3432.401, "command": {"op": "wait", "ms": 700}, "result": null}
+{"elapsedSeconds": 3432.501, "command": {"op": "snapshot", "name": "after_boss_unlock"}, "result": {"screenshot": "analysis/reference/screenshots/after_boss_unlock.png"}}
+{"elapsedSeconds": 3776.903, "command": {"op": "click", "x": 615, "y": 555}, "result": null}
+{"elapsedSeconds": 3786.906, "command": {"op": "wait", "ms": 10000}, "result": null}
+{"elapsedSeconds": 3787.031, "command": {"op": "snapshot", "name": "auto_free_activation"}, "result": {"screenshot": "analysis/reference/screenshots/auto_free_activation.png"}}
+{"elapsedSeconds": 3808.168, "command": {"op": "click", "x": 721, "y": 854}, "result": null}
+{"elapsedSeconds": 3808.371, "command": {"op": "wait", "ms": 200}, "result": null}
+{"elapsedSeconds": 3808.375, "command": {"op": "click", "x": 721, "y": 854}, "result": null}
+{"elapsedSeconds": 3811.377, "command": {"op": "wait", "ms": 3000}, "result": null}
+{"elapsedSeconds": 3811.499, "command": {"op": "snapshot", "name": "auto_pair_cascade"}, "result": {"screenshot": "analysis/reference/screenshots/auto_pair_cascade.png"}}
+{"elapsedSeconds": 3816.502, "command": {"op": "wait", "ms": 5000}, "result": null}
+{"elapsedSeconds": 3816.639, "command": {"op": "snapshot", "name": "auto_cascade_settled"}, "result": {"screenshot": "analysis/reference/screenshots/auto_cascade_settled.png"}}
+{"elapsedSeconds": 3834.915, "command": {"op": "click", "x": 725, "y": 744}, "result": null}
+{"elapsedSeconds": 3835.418, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 3835.42, "command": {"op": "click", "x": 620, "y": 570}, "result": null}
+{"elapsedSeconds": 3836.27, "command": {"op": "wait", "ms": 800}, "result": null}
+{"elapsedSeconds": 3836.48, "command": {"op": "snapshot", "name": "before_offline_departure"}, "result": {"screenshot": "analysis/reference/screenshots/before_offline_departure.png"}}
+{"elapsedSeconds": 3836.655, "command": {"op": "goto", "url": "about:blank"}, "result": {"title": ""}}
+{"elapsedSeconds": 3928.678, "command": {"op": "goto", "url": "https://www.crazygames.com/game/heroes-unite"}, "result": {"title": "🎮 Heroes Unite 🕹️ Play on CrazyGames"}}
+{"elapsedSeconds": 3936.683, "command": {"op": "wait", "ms": 8000}, "result": null}
+{"elapsedSeconds": 3936.845, "command": {"op": "snapshot", "name": "offline_return_portal"}, "result": {"screenshot": "analysis/reference/screenshots/offline_return_portal.png"}}
+{"elapsedSeconds": 3950.509, "command": {"op": "click", "x": 465, "y": 405}, "result": null}
+{"elapsedSeconds": 3958.514, "command": {"op": "wait", "ms": 8000}, "result": null}
+{"elapsedSeconds": 3958.705, "command": {"op": "snapshot", "name": "offline_return_loaded"}, "result": {"screenshot": "analysis/reference/screenshots/offline_return_loaded.png"}}
+{"elapsedSeconds": 4046.744, "command": {"op": "click", "x": 570, "y": 430}, "result": null}
+{"elapsedSeconds": 4054.749, "command": {"op": "wait", "ms": 8000}, "result": null}
+{"elapsedSeconds": 4054.856, "command": {"op": "snapshot", "name": "offline_return_game"}, "result": {"screenshot": "analysis/reference/screenshots/offline_return_game.png"}}
+{"elapsedSeconds": 4088.842, "command": {"op": "click", "x": 722, "y": 736}, "result": null}
+{"elapsedSeconds": 4089.348, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 4089.383, "command": {"op": "click", "x": 855, "y": 82}, "result": null}
+{"elapsedSeconds": 4089.885, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 4089.887, "command": {"op": "click", "x": 907, "y": 201}, "result": null}
+{"elapsedSeconds": 4090.39, "command": {"op": "wait", "ms": 500}, "result": null}
+{"elapsedSeconds": 4090.63, "command": {"op": "snapshot", "name": "offline_restored_board"}, "result": {"screenshot": "analysis/reference/screenshots/offline_restored_board.png"}}

@@ -1,0 +1,316 @@
+{
+  "status": "PASS",
+  "scope": "TASK-0045 baseline+warmup+ten-cycle measurements and retention investigation; not complete native/release performance acceptance",
+  "platforms": [
+    "Android API36 private arm64 emulator Debug",
+    "iOS26.2 iPhone17Pro Simulator Debug"
+  ],
+  "sampleCount": 44,
+  "settleSecondsBeforeEachSample": 2,
+  "forcedGcDuringSeries": false,
+  "iosPreviouslyWarm": "Same PID61817 already completed lifecycle task; additional explicit warmup. This is not cold-start profiling.",
+  "summaries": [
+    {
+      "platform": "ios",
+      "phase": "open",
+      "metric": "physicalFootprintMiB",
+      "first": 194.6,
+      "last": 196.5,
+      "min": 193.1,
+      "max": 197.1,
+      "leastSquaresSlopePerCycle": 0.1103030303030304
+    },
+    {
+      "platform": "ios",
+      "phase": "closed",
+      "metric": "physicalFootprintMiB",
+      "first": 195.9,
+      "last": 196.7,
+      "min": 192.9,
+      "max": 196.7,
+      "leastSquaresSlopePerCycle": 0.17636363636363547
+    },
+    {
+      "platform": "android",
+      "phase": "open",
+      "metric": "nativeHeapAllocatedKiB",
+      "first": 97772.0,
+      "last": 98791.0,
+      "min": 97288.0,
+      "max": 99303.0,
+      "leastSquaresSlopePerCycle": 158.4969696969697
+    },
+    {
+      "platform": "android",
+      "phase": "closed",
+      "metric": "nativeHeapAllocatedKiB",
+      "first": 73908.0,
+      "last": 75593.0,
+      "min": 73908.0,
+      "max": 75593.0,
+      "leastSquaresSlopePerCycle": 192.75151515151515
+    }
+  ],
+  "androidInvestigation": {
+    "baselineHeapAllocatedKiB": 70566,
+    "warmupHeapAllocatedKiB": 73726,
+    "closed10HeapAllocatedKiB": 75593,
+    "idleHeapAllocatedKiB": 72995,
+    "idleActivities": 1,
+    "cycleClosedActivities": 2,
+    "idlePssKiB": 238665,
+    "interpretation": "Short settle samples show positive slope; after idle the latest destroyed Activity is collected and native allocated memory falls below warmup. No cumulative Activity count growth observed. This does not prove long-soak absence of leaks.",
+    "nativeAllocationStacks": "NOT_RUN: installed process lacks malloc backtrace instrumentation; native dump returned unavailable. Existing emulator not rooted/restarted to enable global instrumentation.",
+    "javaDump": "48,329,514byte local ignored diagnostic dump captured after idle measurement; perturbs resident memory and is excluded from acceptance series."
+  },
+  "iosInvestigation": {
+    "engineInitializations": 1,
+    "controllers": 1,
+    "memorySeriesReentries": 11,
+    "firstMemoryEnter": 12,
+    "lastMemoryEnter": 22,
+    "warmupFootprintMiB": 193.6,
+    "closed10FootprintMiB": 196.7,
+    "interpretation": "One retained paused engine/controller by design; physical footprint fluctuates rather than increasing each cycle. Positive fitted slope reported numerically without claiming zero-leak proof.",
+    "postMeasurementAutomationSurvival": "FAIL; separate crash artifact retained, owner TASK-0046"
+  },
+  "remaining": [
+    "Physical device/release build and30-minute soak NOT_RUN",
+    "iOS XCTest post-run crash unresolved TASK-0046",
+    "Full native gate, audio and mixed Android entry routing remain open"
+  ],
+  "evidence": [
+    {
+      "path": "spikes/rn-cocos/memory-cycles.csv",
+      "sha256": "ff0258da29471672c5bdfa95331385f114ad322c4e92cdf13ce804de42baba6b"
+    },
+    {
+      "path": "spikes/rn-cocos/evidence/memory-android-owner-cycles01.json",
+      "sha256": "fe225dd2d0049ac93c9e7a6c9aa22f56e75b702f8959ca7c0a5fcbf194ede389"
+    },
+    {
+      "path": "spikes/rn-cocos/evidence/memory-android-owner-cycles02.json",
+      "sha256": "b9b00f9113cd1da3fd8122ea49d40e69b556e6f50f43b67f9ea26770c8947cc6"
+    },
+    {
+      "path": "spikes/rn-cocos/evidence/memory-ios-automation-crash.json",
+      "sha256": "bb5647ef516cf28e20619b2ec51c00848f56cc571ef3f4e147dc2b6068d64b6e"
+    },
+    {
+      "path": "spikes/rn-cocos/evidence/memory-ios-final-rn.png",
+      "sha256": "188ee5a174451ec6fa671d8195baaa9cf14c228aaa951a0e933ddf15a7663034"
+    },
+    {
+      "path": "spikes/rn-cocos/evidence/memory-android-final-rn.png",
+      "sha256": "8e8a14b14240328c16bd3456d5f75b4196c30f0417873039c021b547df8a180f"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-ios-owner-snapshot.log",
+      "sha256": "5ace9d545c429d7c12b1d46fbd468c11aeecfe68d6099d65e7732890bbd3f3f1"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-android-owner-cycles01.log",
+      "sha256": "0e3edbfd630fac0e5d7bb42383bc5e0b3c9ac5e7e7ad0af2683654779db431a9"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-ios-maestro.log",
+      "sha256": "75a59a17c7c0a376f3526b35c73602447a97b1784e0a1f74531d34ff6277bac2"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-android-driver.log",
+      "sha256": "33f6ce44a77e08dd694adc0af7bfa87c0a8443341eec5aeceab5b168f749becc"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-android-driver-attempt2.log",
+      "sha256": "bb9c6c6f3c46079c07c3602e7deb880554ea8939c96c06825a2ae1671a58696f"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-android-idle-after10.log",
+      "sha256": "99665ff03652569aae42bcded052072d81276be0b055d96f862517adf75f1ae9"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-android-after-java-dump.log",
+      "sha256": "5e361f85c645028ba10aea228a957a5f49878d2bbe4b2cd4925be69dc71c12fe"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-android-native-dump-unavailable.log",
+      "sha256": "50dfef69a60af7ce6e3122db3a9eaecd7b09c5689c2de268bea2531d67d90e14"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-baseline-0.log",
+      "sha256": "6276150e1eda8dc1b1aeb82a331969537638fd5471adad187e2b0d6ebaf015e9"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-warmup-0.log",
+      "sha256": "b811d7aa72f6a3bec4941623a9d30afbccc8e7e6f10c7efb162e982d7bc0e7db"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-1.log",
+      "sha256": "f46b218d070ec4278a76265ffadcd38c17a8b86659064d1000e9120f210cd486"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-1.log",
+      "sha256": "ed01fae785727ae9dc1dbf28b48a6a3207ac2b1bde1b6c13ac7952e37da6fb94"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-2.log",
+      "sha256": "5039950146f99cf8d7bf7a10cd403e108ce8dc93d1a3fb79099e96cb71f1a9a9"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-2.log",
+      "sha256": "378afdd829fe09ed83a4fa392775d592d758c23b949297937e97dac0877acbfb"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-3.log",
+      "sha256": "baedbdf967d6bd660633009ee1dadcfabbf7bf3458a1fed1e564420ea8fddca8"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-3.log",
+      "sha256": "7628933a8c296d298ab8dbc16c527b9fff589a6132886b2822f5d92311045cde"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-4.log",
+      "sha256": "1bc193ea9576e1bcd69eeb6fe3a4f836eec7a9113985225efea44601905e91d6"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-4.log",
+      "sha256": "26b6ba6be32d7b75092dd16734117e0239e8b343ba652ea94a551202c4450c74"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-5.log",
+      "sha256": "935f1553bf3323d214886236c7b365a19f9896a632e3b0a343d2dfd0a42993c3"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-5.log",
+      "sha256": "a5c8cdca7e017a4e2970b376a02fb943feae64fc3c446d610230478081102c5e"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-6.log",
+      "sha256": "a270de2708da17ab5c769ae6cfb5f35359ab7dff7e2369d5eb37163157d1e1fc"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-6.log",
+      "sha256": "12a3a99228ccdddc22835c097bd0f6d2fb24f72581dc2591b3cd30700666435d"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-7.log",
+      "sha256": "02356063d3706c6841c8e7674492c2edbf228b17c4f89d290e2ffde1cb5dcd5d"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-7.log",
+      "sha256": "0d4faf929fc7c739e9a86a425f36aed21b63cad7c224a8d844bef410acf5f16c"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-8.log",
+      "sha256": "36e592d2a8eecffbe1c45d65b403e101fe8e820efbbfcb3f28c09607a2f6b4e9"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-8.log",
+      "sha256": "7dd31c81f5d04e8c9b8d1738686095096a65f4823ec18d0c9e5d2588ca98e150"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-9.log",
+      "sha256": "3a24dbe2a23d0b11fe27e8b2049b2dabccec3e5cb867b78cea82851de2ca6f61"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-9.log",
+      "sha256": "8f5017a2a26b3a24b0be69f615e3fc56f3cf082edbe8094b53bc2d0e84aec418"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-baseline-0.log",
+      "sha256": "23261fd4eb42d7cf5e6bcbc582ff045614f344cb6ab53e6b0a2c3f46901610e7"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-open-10.log",
+      "sha256": "4eb3c565215352b21166a91541e85d773af4020e239ea39abd3846e15427ad2d"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-ios-closed-10.log",
+      "sha256": "f17fc9924070aa2384f06fcf9aa28294f7aa8eecd963f56d504e1557fff73664"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-warmup-0.log",
+      "sha256": "95a10b0e03a65229923f106b2b133b0abd95df13e215342739db377b94a58e31"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-1.log",
+      "sha256": "9884bf277966e49d608767b87ca804c8197521f586c0173137057b0c2fb0ca88"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-1.log",
+      "sha256": "84ab65674dbc6886b874ae5983b5b98d87e5f777b177915c724857e7482491ca"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-2.log",
+      "sha256": "87418675bb829b62a012058d6300742a1a729a93163c4a79aae90ac6f46d27f4"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-2.log",
+      "sha256": "c197ad776f4cdc907cca9e601f1da355e245adcd08bc69be66cc4b622ba3cba7"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-3.log",
+      "sha256": "5817802aa45a10498041cdeb4f0187f10cb31f3bdf4e6cfe543458a5dca618fe"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-3.log",
+      "sha256": "5edfe0f80378c69ce9d44101613bab3fdf0300aef3b2da051a559105b576cb9e"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-4.log",
+      "sha256": "4dfb671d6bdb071d24607c21e63ad31cc868b0cab351c1115bc1a82ef019a2d2"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-4.log",
+      "sha256": "f2dbb74d40bac6dc6c9a08e788f68d8357437f096497a93bcd020382a186a5a0"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-5.log",
+      "sha256": "5e1b45a749a61b4609988b79910191f30a844f8da2349143007123963d8e2841"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-5.log",
+      "sha256": "ad997b701c63897b1ae35c5e5ac63d6515fd8b6a6d3304c5128957369fa0bb67"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-6.log",
+      "sha256": "b2726deaa43f851bf264bdde53ff2f84c0e3b03d5a9f6ff70554162a5403194f"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-6.log",
+      "sha256": "baac9585e80aad3cb8b85a96a74f45f36523f29e9e9b1e6ad9e26d0c57cc09fb"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-7.log",
+      "sha256": "1e8c1a711c4d7a9864e17801155b35be63904f5583032a3ead3e9934c6e2babb"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-7.log",
+      "sha256": "885f0ad564864d606200fd4527ebb2d4b91cf0e04e6d35f3794e4f4d3f79093f"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-8.log",
+      "sha256": "a2b51c7c2b552bc59e5f4de01d2d9c9ae25ff5b47ec939106f49c0d59d6c3198"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-8.log",
+      "sha256": "5a2d038ae7a5404abe148a1092f321fbe0df6a4ffb7bdd5f2d79c948e93230fd"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-9.log",
+      "sha256": "2ea26443a1e32c445dd4b8237ad670f4320af479bfb1717a49dc41efe0a5575d"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-9.log",
+      "sha256": "f849560953cca632e5fbe7b2ba0b60895c58c1904f89c1b2ccafd2ad0a4c2114"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-open-10.log",
+      "sha256": "f8ee4c44e92dfb061ea271bb25ac68e24561c2c7426f3d91f68a733aeab3df2f"
+    },
+    {
+      "path": "spikes/rn-cocos/logs/memory-cycles01-android-closed-10.log",
+      "sha256": "e8ef23367cf246af2d240fdb6cc5a9de817a60492a141b26d5118de6914f697a"
+    }
+  ]
+}

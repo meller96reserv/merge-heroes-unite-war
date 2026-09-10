@@ -1,0 +1,40 @@
+TAP version 13
+# Subtest: all source matrix events have runtime profiles with explicit reduced/low fallbacks
+ok 1 - all source matrix events have runtime profiles with explicit reduced/low fallbacks
+  ---
+  duration_ms: 3.02925
+  ...
+# Subtest: death interrupts attack once; repeated hits and stale callbacks cannot restart or resurrect a reused target
+ok 2 - death interrupts attack once; repeated hits and stale callbacks cannot restart or resurrect a reused target
+  ---
+  duration_ms: 0.789041
+  ...
+# Subtest: mode switch and scene exit reset every cosmetic resource without changing the core snapshot
+ok 3 - mode switch and scene exit reset every cosmetic resource without changing the core snapshot
+  ---
+  duration_ms: 2.673458
+  ...
+# Subtest: synchronous completion and failed starts leave no active handle or retained resource
+ok 4 - synchronous completion and failed starts leave no active handle or retained resource
+  ---
+  duration_ms: 0.381208
+  ...
+# Subtest: all five original recipes bound geometry, particle counts and reduced-motion fallbacks
+ok 5 - all five original recipes bound geometry, particle counts and reduced-motion fallbacks
+  ---
+  duration_ms: 0.911125
+  ...
+# Subtest: 1000 hit burst saturates at 24, reused leases reject old callbacks, skip cannot affect core
+ok 6 - 1000 hit burst saturates at 24, reused leases reject old callbacks, skip cannot affect core
+  ---
+  duration_ms: 1.880541
+  ...
+1..6
+# tests 6
+# suites 0
+# pass 6
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 376.576791

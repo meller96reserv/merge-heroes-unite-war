@@ -1,0 +1,95 @@
+{
+  "taskId": "TASK-0041",
+  "status": "PASS",
+  "scope": "Debug arm64 iOS simulator present, touch, dismiss, reopen only",
+  "date": "2026-09-08",
+  "target": {
+    "device": "iPhone17Pro Simulator",
+    "runtime": "iOS26.2 build23C52",
+    "sdk": "26.2 build23C57",
+    "physicalDevice": "NOT_RUN_NO_CONNECTED_PHYSICAL_TARGET"
+  },
+  "binaries": [
+    {
+      "path": ".tools/rn-ios-derived/Build/Products/Debug-iphonesimulator/KiselNativeProbe.app/KiselNativeProbe",
+      "bytes": 57808,
+      "sha256": "78d5796b3f9e9601fdcc99c866a8f1462af23ead5fab7e0ef8412bf54fbb7cfc"
+    },
+    {
+      "path": ".tools/rn-ios-derived/Build/Products/Debug-iphonesimulator/KiselNativeProbe.app/KiselNativeProbe.debug.dylib",
+      "bytes": 130946720,
+      "sha256": "c4aa067f9080f95ca047124f7d38c2731e8f1440f0a96ce65517cab8ebb21536"
+    }
+  ],
+  "strategy": "RN retains its root controller; temporarily installs native Cocos controller as UIWindow root. Same Cocos engine retained and paused between entries.",
+  "checks": [
+    {
+      "case": "RN native module open",
+      "expected": "one Cocos Metal view controller",
+      "actual": "initialized=1 controllers=1; visible scene and return button",
+      "status": "PASS"
+    },
+    {
+      "case": "one Cocos touch each entry",
+      "expected": "counter increments once",
+      "actual": {
+        "first": [
+          0,
+          1
+        ],
+        "second": [
+          1,
+          2
+        ],
+        "coordinates": [
+          215,
+          372.95190713101164
+        ]
+      },
+      "status": "PASS"
+    },
+    {
+      "case": "dismiss/reenter",
+      "expected": "same engine, RN remains interactive and retained",
+      "actual": {
+        "engineInitializations": 1,
+        "entries": 2,
+        "dismissals": 2,
+        "rnCounter": [
+          0,
+          1,
+          1
+        ]
+      },
+      "status": "PASS"
+    }
+  ],
+  "logs": [
+    "spikes/rn-cocos/logs/ios-host-build-attempt3.log",
+    "spikes/rn-cocos/logs/ios-host-maestro-open.log",
+    "spikes/rn-cocos/logs/ios-host-maestro-reenter-attempt2.log",
+    "spikes/rn-cocos/logs/ios-host-events.log"
+  ],
+  "rejectedAttempts": [
+    {
+      "log": "spikes/rn-cocos/logs/ios-host-build-attempt1.log",
+      "reason": "incorrect project-relative source paths; corrected"
+    },
+    {
+      "log": "spikes/rn-cocos/logs/ios-host-build-attempt2.log",
+      "reason": "missing explicit Boost assertion header; corrected without disabling assertions"
+    },
+    {
+      "log": "spikes/rn-cocos/logs/ios-host-maestro-reenter.log",
+      "reason": "SpringBoard crashed in XCTest accessibility initialization; return button assertion failed; recovered by bringing own app to foreground and rerunning"
+    }
+  ],
+  "remainingGates": [
+    "Physical device/signing",
+    "TASK-0042 typed bidirectional protocol",
+    "TASK-0043 background/rotation/lifecycle",
+    "TASK-0044 audio focus/headphones",
+    "TASK-0045 ten-cycle memory/listeners",
+    "TASK-0046 complete NAT acceptance/release-like builds"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "centres": [
+    117.0,
+    197.0,
+    267.0,
+    339.5
+  ],
+  "runtimeErrors": 0,
+  "forcedSnapshotDraws": 0,
+  "clock": "real browser RAF"
+}

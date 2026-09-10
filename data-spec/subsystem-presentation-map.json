@@ -1,0 +1,408 @@
+{
+  "status": "PROPOSED",
+  "entries": [
+    {
+      "spec": "docs/gameplay/01_HERO_SYSTEM.md",
+      "animationIds": [
+        "hero.spawn",
+        "hero.idle",
+        "hero.attack",
+        "hero.hit",
+        "hero.mergeOut",
+        "hero.mergeIn",
+        "hero.upgrade"
+      ],
+      "audioIds": [
+        "hero.spawn",
+        "equipment.upgrade"
+      ],
+      "decision": "light/medium after committed result"
+    },
+    {
+      "spec": "docs/gameplay/02_HERO_PURCHASE_SUMMON_SYSTEM.md",
+      "animationIds": [
+        "purchase.success",
+        "purchase.failure",
+        "hero.spawn"
+      ],
+      "audioIds": [
+        "economy.goldSpend",
+        "hero.spawn",
+        "ui.error"
+      ],
+      "decision": "light"
+    },
+    {
+      "spec": "docs/gameplay/03_MERGE_SYSTEM.md",
+      "animationIds": [
+        "hero.mergeOut",
+        "hero.mergeIn",
+        "merge.cascade"
+      ],
+      "audioIds": [
+        "merge.low",
+        "merge.mid",
+        "merge.high",
+        "merge.cascade"
+      ],
+      "decision": "medium,cooldown and intensity cap4"
+    },
+    {
+      "spec": "docs/gameplay/04_AUTO_MERGE_SYSTEM.md",
+      "animationIds": [
+        "merge.cascade",
+        "hero.mergeOut",
+        "hero.mergeIn"
+      ],
+      "audioIds": [
+        "merge.cascade"
+      ],
+      "decision": "medium;cap4,no unbounded escalation"
+    },
+    {
+      "spec": "docs/gameplay/05_BOARD_SLOT_SYSTEM.md",
+      "animationIds": [
+        "slot.unlock",
+        "hero.deploy",
+        "hero.withdraw",
+        "feature.locked"
+      ],
+      "audioIds": [
+        "progress.unlock",
+        "hero.spawn",
+        "ui.error"
+      ],
+      "decision": "light/medium;selection ring is static"
+    },
+    {
+      "spec": "docs/gameplay/06_BATTLE_SYSTEM.md",
+      "animationIds": [
+        "hero.attack",
+        "projectile.launch",
+        "projectile.travel",
+        "projectile.impact",
+        "enemy.hit",
+        "enemy.death",
+        "damage.normal",
+        "damage.crit"
+      ],
+      "audioIds": [
+        "combat.melee",
+        "combat.ranged",
+        "combat.magic",
+        "combat.hit",
+        "combat.crit"
+      ],
+      "decision": "ordinary hits none;rare crit light with cooldown"
+    },
+    {
+      "spec": "docs/gameplay/07_TARGETING_SYSTEM.md",
+      "animationIds": [
+        "projectile.travel"
+      ],
+      "audioIds": [],
+      "decision": "none;stale target cancels visual without fake impact"
+    },
+    {
+      "spec": "docs/gameplay/08_ATTACK_SYSTEM.md",
+      "animationIds": [
+        "hero.attack",
+        "projectile.launch"
+      ],
+      "audioIds": [
+        "combat.melee",
+        "combat.ranged",
+        "combat.magic"
+      ],
+      "decision": "none;profile selects melee/ranged/magic variant"
+    },
+    {
+      "spec": "docs/gameplay/09_DAMAGE_CRIT_DEFENSE.md",
+      "animationIds": [
+        "enemy.hit",
+        "damage.normal",
+        "damage.crit"
+      ],
+      "audioIds": [
+        "combat.hit",
+        "combat.crit"
+      ],
+      "decision": "crit light with cooldown;no per-digit feedback"
+    },
+    {
+      "spec": "docs/gameplay/10_PROJECTILE_SYSTEM.md",
+      "animationIds": [
+        "projectile.launch",
+        "projectile.travel",
+        "projectile.impact"
+      ],
+      "audioIds": [
+        "combat.ranged",
+        "combat.magic",
+        "combat.hit"
+      ],
+      "decision": "none;pool overflow affects cosmetics only"
+    },
+    {
+      "spec": "docs/gameplay/11_ENEMY_SYSTEM.md",
+      "animationIds": [
+        "enemy.spawn",
+        "enemy.idle",
+        "enemy.attack",
+        "enemy.hit",
+        "enemy.death"
+      ],
+      "audioIds": [
+        "enemy.deathSmall",
+        "enemy.deathLarge"
+      ],
+      "decision": "none for frequent enemy events"
+    },
+    {
+      "spec": "docs/gameplay/12_STAGE_SYSTEM.md",
+      "animationIds": [
+        "stage.progress",
+        "stage.clear",
+        "reward.coin"
+      ],
+      "audioIds": [
+        "progress.stageClear",
+        "economy.goldGain"
+      ],
+      "decision": "light on clear"
+    },
+    {
+      "spec": "docs/gameplay/13_BOSS_SYSTEM.md",
+      "animationIds": [
+        "boss.intro",
+        "boss.hit",
+        "boss.death",
+        "boss.warning"
+      ],
+      "audioIds": [
+        "boss.intro",
+        "boss.death",
+        "combat.hit"
+      ],
+      "decision": "heavy intro/death with1500mscooldown;HUD fixed"
+    },
+    {
+      "spec": "docs/gameplay/14_SKILLS_AND_SPECIALS.md",
+      "animationIds": [
+        "hero.attack"
+      ],
+      "audioIds": [
+        "combat.magic"
+      ],
+      "decision": "none until specific skill approved;magic art alone is not a gameplay skill"
+    },
+    {
+      "spec": "docs/gameplay/15_DEATH_RESPAWN_RECOVERY.md",
+      "animationIds": [
+        "hero.hit",
+        "hero.death",
+        "hero.recover"
+      ],
+      "audioIds": [
+        "hero.spawn"
+      ],
+      "decision": "none;death/recovery events enabled only by verified mode"
+    },
+    {
+      "spec": "docs/gameplay/16_BATTLE_CONTENT_MODES.md",
+      "animationIds": [
+        "screen.transition",
+        "boss.intro"
+      ],
+      "audioIds": [
+        "music.boss"
+      ],
+      "decision": "mode-gated;release background bundle after exit"
+    },
+    {
+      "spec": "docs/gameplay/17_TUTORIAL_SYSTEM.md",
+      "animationIds": [
+        "tutorial.hand",
+        "button.secondary"
+      ],
+      "audioIds": [
+        "ui.primary"
+      ],
+      "decision": "none for looping hand;target highlight static"
+    },
+    {
+      "spec": "docs/progression/01_CURRENCIES.md",
+      "animationIds": [
+        "currency.bump",
+        "reward.coin",
+        "reward.gem"
+      ],
+      "audioIds": [
+        "economy.goldGain",
+        "economy.goldSpend",
+        "economy.gemGain"
+      ],
+      "decision": "none for frequent counters"
+    },
+    {
+      "spec": "docs/progression/02_ECONOMY_MODEL.md",
+      "animationIds": [
+        "currency.bump"
+      ],
+      "audioIds": [
+        "economy.goldSpend",
+        "economy.goldGain"
+      ],
+      "decision": "derive feedback from receipt reason"
+    },
+    {
+      "spec": "docs/progression/03_HERO_PROGRESSION.md",
+      "animationIds": [
+        "hero.upgrade",
+        "feature.unlock"
+      ],
+      "audioIds": [
+        "equipment.upgrade",
+        "progress.unlock"
+      ],
+      "decision": "medium"
+    },
+    {
+      "spec": "docs/progression/04_STAGE_PROGRESSION.md",
+      "animationIds": [
+        "stage.clear",
+        "reward.coin"
+      ],
+      "audioIds": [
+        "progress.stageClear"
+      ],
+      "decision": "light;no currency grant from effect"
+    },
+    {
+      "spec": "docs/progression/05_UNLOCKS.md",
+      "animationIds": [
+        "feature.unlock",
+        "slot.unlock",
+        "redDot.appear"
+      ],
+      "audioIds": [
+        "progress.unlock"
+      ],
+      "decision": "medium once"
+    },
+    {
+      "spec": "docs/progression/06_REWARDS.md",
+      "animationIds": [
+        "reward.coin",
+        "reward.gem",
+        "currency.bump"
+      ],
+      "audioIds": [
+        "economy.goldGain",
+        "economy.gemGain"
+      ],
+      "decision": "claim-source-specific;no duplicate presentation per transaction"
+    },
+    {
+      "spec": "docs/progression/07_QUESTS.md",
+      "animationIds": [
+        "quest.progress",
+        "quest.claim",
+        "reward.coin"
+      ],
+      "audioIds": [
+        "progress.stageClear"
+      ],
+      "decision": "light on claim;progress pulse grants nothing"
+    },
+    {
+      "spec": "docs/progression/08_DAILY_REWARD.md",
+      "animationIds": [
+        "daily.claim",
+        "chest.open",
+        "reward.gem"
+      ],
+      "audioIds": [
+        "reward.daily",
+        "reward.chest"
+      ],
+      "decision": "medium"
+    },
+    {
+      "spec": "docs/progression/09_WHEEL_OF_LUCK.md",
+      "animationIds": [
+        "wheel.accelerate",
+        "wheel.tick",
+        "wheel.decelerate",
+        "wheel.land"
+      ],
+      "audioIds": [
+        "wheel.tick",
+        "wheel.result"
+      ],
+      "decision": "medium final only;tick audio throttled"
+    },
+    {
+      "spec": "docs/progression/10_EQUIPMENT.md",
+      "animationIds": [
+        "equipment.equip",
+        "equipment.enhance",
+        "chest.open"
+      ],
+      "audioIds": [
+        "equipment.equip",
+        "equipment.upgrade",
+        "reward.chest"
+      ],
+      "decision": "light equip/medium enhance"
+    },
+    {
+      "spec": "docs/progression/11_UPGRADES.md",
+      "animationIds": [
+        "hero.upgrade",
+        "equipment.enhance",
+        "currency.bump"
+      ],
+      "audioIds": [
+        "equipment.upgrade",
+        "economy.goldSpend"
+      ],
+      "decision": "medium"
+    },
+    {
+      "spec": "docs/progression/12_SUMMON_GACHA_IF_APPLICABLE.md",
+      "animationIds": [
+        "chest.open"
+      ],
+      "audioIds": [
+        "reward.chest"
+      ],
+      "decision": "mode-gated;new rare reveal needs a dedicated reviewed profile"
+    },
+    {
+      "spec": "docs/progression/13_OFFLINE_PROGRESS.md",
+      "animationIds": [
+        "offline.popup",
+        "reward.coin",
+        "currency.bump"
+      ],
+      "audioIds": [
+        "reward.offline",
+        "economy.goldGain"
+      ],
+      "decision": "medium claim;no reward waits for fly icon"
+    },
+    {
+      "spec": "docs/progression/14_PRESTIGE_META_IF_APPLICABLE.md",
+      "animationIds": [],
+      "audioIds": [],
+      "decision": "none;out of scope,no fabricated prestige effect"
+    },
+    {
+      "spec": "docs/progression/15_BALANCE_REVERSE_ENGINEERING.md",
+      "animationIds": [],
+      "audioIds": [],
+      "decision": "none;measurement tooling does not change game presentation"
+    }
+  ]
+}

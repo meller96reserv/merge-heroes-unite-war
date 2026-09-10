@@ -1,0 +1,220 @@
+{
+  "status": "PROPOSED_NOT_NATIVE_VERIFIED",
+  "version": 1,
+  "validation": [
+    "bridge.schema.json",
+    "bridge-payloads.schema.json"
+  ],
+  "messages": [
+    {
+      "type": "game.ready",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/game.ready",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "game.error",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/game.error",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "game.exitRequested",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/game.exitRequested",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "progress.stageChanged",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/progress.stageChanged",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "currency.changed",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/currency.changed",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "reward.claimed",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/reward.claimed",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "same operationId/receipt only; never regrant",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "purchase.requested",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/purchase.requested",
+      "mvpEnabled": false,
+      "requestIdRequired": true,
+      "replayPolicy": "same operationId/receipt only; never regrant",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "ad.rewardRequested",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/ad.rewardRequested",
+      "mvpEnabled": false,
+      "requestIdRequired": true,
+      "replayPolicy": "same operationId/receipt only; never regrant",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "analytics.event",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/analytics.event",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "save.changed",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/save.changed",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "player.levelChanged",
+      "direction": "game_to_host",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/player.levelChanged",
+      "mvpEnabled": true,
+      "requestIdRequired": false,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.initialize",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.initialize",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.userChanged",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.userChanged",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.purchaseResult",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.purchaseResult",
+      "mvpEnabled": false,
+      "requestIdRequired": true,
+      "replayPolicy": "same operationId/receipt only; never regrant",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.rewardGranted",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.rewardGranted",
+      "mvpEnabled": false,
+      "requestIdRequired": true,
+      "replayPolicy": "same operationId/receipt only; never regrant",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.pause",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.pause",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.resume",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.resume",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.settingsChanged",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.settingsChanged",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.deepLink",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.deepLink",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    },
+    {
+      "type": "app.notificationOpened",
+      "direction": "host_to_game",
+      "payloadSchema": "bridge-payloads.schema.json#/$defs/app.notificationOpened",
+      "mvpEnabled": true,
+      "requestIdRequired": true,
+      "replayPolicy": "reject stale session/generation; coalesce summaries by revision; idempotent request ID",
+      "threadPolicy": "marshal to receiving runtime thread before dispatch",
+      "maxEncodedBytes": 65536
+    }
+  ],
+  "transportConstraints": {
+    "maxEncodedBytes": 65536,
+    "maxDepth": 12,
+    "maxBatchMessages": 32,
+    "unknownType": "reject",
+    "unknownVersion": "reject",
+    "staleGeneration": "reject",
+    "purchaseGrantAuthority": "verified pending operation mapped by configuration; callback cannot supply arbitrary amount"
+  },
+  "$comment": "SUPERSEDED historical spike contract; ADR-007 production uses typed platform services."
+}

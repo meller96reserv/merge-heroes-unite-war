@@ -1,0 +1,20 @@
+TAP version 13
+# Subtest: configured deadline is 160 ticks; lethal tie wins, later hit loses, terminal result stays exclusive
+ok 1 - configured deadline is 160 ticks; lethal tie wins, later hit loses, terminal result stays exclusive
+  ---
+  duration_ms: 0.58675
+  ...
+# Subtest: foreground fixed ticks define the deadline; suspension and catch-up caps cannot consume background wall time
+ok 2 - foreground fixed ticks define the deadline; suspension and catch-up caps cannot consume background wall time
+  ---
+  duration_ms: 0.227958
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 316.051041

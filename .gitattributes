@@ -1,0 +1,6 @@
+# Preserve byte-for-byte evidence, supplied briefs and upstream source templates.
+spikes/rn-cocos/logs/** -whitespace
+analysis/figma/fonts/source/** -whitespace
+docs/tz/** -whitespace
+spikes/rn-cocos/cocos-probe/native/** -whitespace
+*.bat whitespace=cr-at-eol

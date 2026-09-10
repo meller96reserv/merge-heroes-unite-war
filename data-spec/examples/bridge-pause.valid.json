@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "type": "app.pause",
+  "requestId": "pause:1",
+  "sessionId": "session:1",
+  "generation": 1,
+  "sequence": 4,
+  "timestamp": 1000,
+  "payload": {
+    "reason": "background",
+    "hostMonotonicMs": 100,
+    "wallUtcMs": 1000,
+    "flushRequested": true
+  }
+}

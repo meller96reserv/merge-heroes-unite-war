@@ -1,0 +1,45 @@
+{
+  "taskId": "TASK-0028",
+  "status": "PASS",
+  "ledgerRows": 351,
+  "releaseExcluded": 351,
+  "releaseAuthorized": 0,
+  "selected": 0,
+  "errors": [],
+  "distributionGate": "TASK-0233 remains required",
+  "negativeSelectionChecks": [
+    {
+      "case": "Unproven MVP asset",
+      "expected": "Release selection rejected",
+      "actual": [
+        "Release selection rejected: ui_icon_crystal_snowflake__330x336"
+      ],
+      "passed": true
+    },
+    {
+      "case": "Reference-only art",
+      "expected": "Release selection rejected",
+      "actual": [
+        "Release selection rejected: reference_screen_equipment__852x1846"
+      ],
+      "passed": true
+    },
+    {
+      "case": "Orphan selection",
+      "expected": "Release selection rejected",
+      "actual": [
+        "Release selection rejected: missing_asset"
+      ],
+      "passed": true
+    }
+  ],
+  "reviewedInputs": [
+    "docs/tz/Merge Heroes Unite War тз на разработку.md",
+    "docs/tz/Инструкция для разработчиков.md",
+    "docs/tz/Реклама в приложениях.md",
+    "docs/02_SOURCE_OF_TRUTH.md",
+    "docs/08_FIGMA_ASSET_MAP.md",
+    "analysis/figma/semantic_map.json"
+  ],
+  "resultMeaning": "Ledger coverage and explicit exclusions verified; asset distribution rights remain UNKNOWN."
+}

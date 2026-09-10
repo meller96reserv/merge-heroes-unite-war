@@ -1,0 +1,9 @@
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+plugins { id("com.facebook.react.settings") }
+extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
+rootProject.name = 'KiselNativeProbe'
+include ':app'
+// Compile the pinned vendor Java layer without modifying the installed editor.
+include ':cocos-runtime'
+project(':cocos-runtime').projectDir = new File(rootDir, '../../../../.tools/cocos-3.8.8/CocosCreator.app/Contents/Resources/resources/3d/engine/native/cocos/platform/android/libcocos2dx')
+includeBuild('../node_modules/@react-native/gradle-plugin')

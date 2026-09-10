@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "status": "PROPOSED_ORIGINAL",
+  "provenance": "Original vector geometry authored for this project; no extracted reference textures or third-party audio/art.",
+  "socketSource": "app/src/presentation/HeroAnchors.json",
+  "capacity": 32,
+  "profiles": {
+    "melee": {"path": "M -7 -12 Q 18 -1 -7 12 Q 3 0 -7 -12 Z", "fill": "#efffdb", "outline": "#355735", "trail": "#c5ff85", "radius": 8, "coreRadius": 2.5},
+    "ranged": {"path": "M -14 -2 L 5 -2 L 3 -6 L 15 0 L 3 6 L 5 2 L -14 2 L -18 5 L -16 0 L -18 -5 Z", "fill": "#ffe299", "outline": "#613e26", "trail": "#ffc45c", "radius": 7, "coreRadius": 2},
+    "magic": {"path": "", "fill": "#c77bff", "outline": "#503879", "trail": "#d89dff", "radius": 6, "coreRadius": 2.5}
+  }
+}

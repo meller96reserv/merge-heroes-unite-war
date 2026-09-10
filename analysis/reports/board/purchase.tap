@@ -1,0 +1,30 @@
+TAP version 13
+# Subtest: definition stays immutable and separate from independently owned instances
+ok 1 - definition stays immutable and separate from independently owned instances
+  ---
+  duration_ms: 0.590917
+  ...
+# Subtest: quotes expose exact funds, full/locked/table-end reasons with no mutation
+ok 2 - quotes expose exact funds, full/locked/table-end reasons with no mutation
+  ---
+  duration_ms: 0.707708
+  ...
+# Subtest: 20 queued purchases accept exactly five slots, no negative balance, and survive duplicate after reload
+ok 3 - 20 queued purchases accept exactly five slots, no negative balance, and survive duplicate after reload
+  ---
+  duration_ms: 4.142459
+  ...
+# Subtest: equal price buys once; one less and failed save leave every authoritative field unchanged
+ok 4 - equal price buys once; one less and failed save leave every authoritative field unchanged
+  ---
+  duration_ms: 1.032917
+  ...
+1..4
+# tests 4
+# suites 0
+# pass 4
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 322.991459

@@ -1,0 +1,35 @@
+{
+  "taskId": "TASK-0038",
+  "target": "iPhone17Pro simulator / iOS26.2 build23C52 / arm64 / Metal",
+  "binarySha256": "93340503ad71a03689a43adabe52b233acb284550161925088d97ba0fe8628dc",
+  "binaryBytes": 121668960,
+  "architecture": "arm64",
+  "checks": {
+    "buildSucceeded": true,
+    "binaryExists": true,
+    "nativeSceneVisible": true,
+    "renderOver60s": true,
+    "touchIncrementsOnce": true
+  },
+  "firstTick": {
+    "frames": 55,
+    "seconds": 1.0118826666666667
+  },
+  "lastTick": {
+    "frames": 50724,
+    "seconds": 848.1613876666684
+  },
+  "touch": {
+    "status": "PASS",
+    "expectedIncrement": 1,
+    "touches": [
+      {
+        "taps": 1,
+        "x": 215,
+        "y": 372.95190713101164
+      }
+    ],
+    "method": "Maestro2.10.0 XCTest point 50%,60%; no retry"
+  },
+  "gate": "Standalone only; RN integration and physical-device evidence remain separate"
+}

@@ -1,0 +1,78 @@
+{
+  "status": "FAIL",
+  "stage": "after_completed_measurements_and_final_RN_screenshot",
+  "pid": 61817,
+  "captureTime": "2026-09-08 23:16:01.3920 +0300",
+  "exception": {
+    "codes": "0x0000000000000001, 0x0000000000000020",
+    "rawCodes": [
+      1,
+      32
+    ],
+    "type": "EXC_BAD_ACCESS",
+    "signal": "SIGSEGV",
+    "subtype": "KERN_INVALID_ADDRESS at 0x0000000000000020"
+  },
+  "termination": {
+    "flags": 0,
+    "code": 11,
+    "namespace": "SIGNAL",
+    "indicator": "Segmentation fault: 11",
+    "byProc": "exc handler",
+    "byPid": 61817
+  },
+  "triggeredFrames": [
+    {
+      "imageOffset": 169776,
+      "symbol": "__66-[XCTAutomationSession initWithAccessibilityFramework:dataSource:]_block_invoke",
+      "symbolLocation": 184,
+      "imageIndex": 10
+    },
+    {
+      "imageOffset": 6056,
+      "symbol": "_dispatch_call_block_and_release",
+      "symbolLocation": 24,
+      "imageIndex": 18
+    },
+    {
+      "imageOffset": 115888,
+      "symbol": "_dispatch_client_callout",
+      "symbolLocation": 12,
+      "imageIndex": 18
+    },
+    {
+      "imageOffset": 227364,
+      "symbol": "<deduplicated_symbol>",
+      "symbolLocation": 28,
+      "imageIndex": 18
+    },
+    {
+      "imageOffset": 85336,
+      "symbol": "_dispatch_root_queue_drain",
+      "symbolLocation": 916,
+      "imageIndex": 18
+    },
+    {
+      "imageOffset": 87312,
+      "symbol": "_dispatch_worker_thread2",
+      "symbolLocation": 252,
+      "imageIndex": 18
+    },
+    {
+      "imageOffset": 11084,
+      "symbol": "_pthread_wqthread",
+      "symbolLocation": 228,
+      "imageIndex": 8
+    },
+    {
+      "imageOffset": 6540,
+      "symbol": "start_wqthread",
+      "symbolLocation": 8,
+      "imageIndex": 8
+    }
+  ],
+  "sourceReportSha256": "cbfc312a4dbd72143ca941dcf9f20e8f3bbc2f6dc33dc09310876d3211e6b1ad",
+  "diagnosis": "Crash frame is injected XCTestAutomationSupport XCTAutomationSession block; no application/Cocos frame on triggered thread. Association with automation teardown is inferred from timing, not proven causal root cause. Full native gate remains open.",
+  "followupTask": "TASK-0046",
+  "guiAlternative": "System Events UI elements enabled=false; no permission bypass attempted"
+}

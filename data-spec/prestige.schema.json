@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kisel.invalid/schemas/prestige.schema.json",
+  "title": "prestige",
+  "description": "PROPOSED planning contract. Validate cross-record references separately. Not reference balance.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "enabled": {
+      "const": false
+    },
+    "reason": {
+      "const": "UNKNOWN_OUT_OF_SCOPE"
+    }
+  },
+  "required": [
+    "enabled",
+    "reason"
+  ]
+}

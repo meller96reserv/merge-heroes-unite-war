@@ -1,0 +1,15 @@
+TAP version 13
+# Subtest: TASK-0050 validates shape before semantics, reports file+field, immutable result
+ok 1 - TASK-0050 validates shape before semantics, reports file+field, immutable result
+  ---
+  duration_ms: 1.8015
+  ...
+1..1
+# tests 1
+# suites 0
+# pass 1
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 278.981709

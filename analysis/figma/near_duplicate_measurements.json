@@ -1,0 +1,8113 @@
+[
+  {
+    "id": "NEAR-001",
+    "a": 1,
+    "b": 297,
+    "phashDistance": 0,
+    "semanticA": "ui_icon_crystal_snowflake__330x336",
+    "semanticB": "ui_icon_crystal_snowflake__1318x1341",
+    "sourceSha256A": "7d440b12e9b5a2d1a074f54883ff124d5adbde1ba8ab07c2256c2409a8fe4f68",
+    "sourceSha256B": "897a7ce25731c7e2aabf27807d9dc0dada59078ae11a31fd82bdd3ebe313eb6e",
+    "dimensionsA": [
+      330,
+      336
+    ],
+    "dimensionsB": [
+      1318,
+      1341
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      330,
+      336
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1318,
+      1341
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      9.9706,
+      8.81401,
+      6.54753,
+      1.76346
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006714,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "45:1431",
+      "45:1437"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-002",
+    "a": 2,
+    "b": 309,
+    "phashDistance": 0,
+    "semanticA": "ui_frame_magic_gold__323x441",
+    "semanticB": "ui_frame_magic_gold__1289x1762",
+    "sourceSha256A": "8bec1ea9c31e1b76bb2ad0857e02a5e9a0d5361a38c2c003e06154ecd742e28b",
+    "sourceSha256B": "d4ac12cc66fd394d20cf6dcb518b86cf39361fdd4b97b276dcec36e54bf75482",
+    "dimensionsA": [
+      323,
+      441
+    ],
+    "dimensionsB": [
+      1289,
+      1762
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      323,
+      441
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1289,
+      1762
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.50459,
+      3.46964,
+      1.75754,
+      0.82973
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003372,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:438;73:409",
+      "I73:442;73:409",
+      "I73:453;73:409",
+      "I73:454;73:409",
+      "I73:460;73:409",
+      "I73:461;73:409",
+      "I73:462;73:409",
+      "I73:463;73:409",
+      "I73:473;73:409",
+      "I73:474;73:409",
+      "I73:475;73:409",
+      "I73:476;73:409",
+      "I73:477;73:409",
+      "I73:478;73:409",
+      "I73:479;73:409",
+      "I73:480;73:409",
+      "I80:937;80:910",
+      "I80:941;80:910",
+      "I80:945;80:910",
+      "I80:949;80:910",
+      "I80:950;80:910",
+      "I80:951;80:910",
+      "80:910",
+      "73:409"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-003",
+    "a": 4,
+    "b": 33,
+    "phashDistance": 2,
+    "semanticA": "equipment_fox_sorcerer_staff__462x747",
+    "semanticB": "equipment_fox_sorcerer_staff__231x374",
+    "sourceSha256A": "79721ca5ecb40c17dd507586c745450d238c1232b7bd035367575b0224605552",
+    "sourceSha256B": "ac234bb903a02124235d830d4740bd3f25719af669b9172cd1fb723277b9ea44",
+    "dimensionsA": [
+      462,
+      747
+    ],
+    "dimensionsB": [
+      231,
+      374
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      462,
+      747
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      231,
+      374
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.86923,
+      2.55318,
+      0.60045,
+      0.53566
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001938,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1058"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-004",
+    "a": 5,
+    "b": 255,
+    "phashDistance": 0,
+    "semanticA": "relic_compass_gold__538x602",
+    "semanticB": "relic_compass_gold__269x301",
+    "sourceSha256A": "83addef0f4fb65cfceff32bab38c40c1dd758fe4b2d8f0dcc35329487cbb008f",
+    "sourceSha256B": "a0d8d29483d65bcabc214c8a9ba6fd8fe449e20c2e03af07cefd7aee96f08271",
+    "dimensionsA": [
+      538,
+      602
+    ],
+    "dimensionsB": [
+      269,
+      301
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      538,
+      602
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      269,
+      301
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.11592,
+      1.97485,
+      1.44818,
+      0.13026
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000107,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:462;73:436",
+      "73:503"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-005",
+    "a": 7,
+    "b": 261,
+    "phashDistance": 0,
+    "semanticA": "equipment_elf_archer_hood__311x328",
+    "semanticB": "equipment_elf_archer_hood__622x656",
+    "sourceSha256A": "9120a2e104e6dd85579d3234caafd75a786d77dc113db298805f35627e2aac98",
+    "sourceSha256B": "06edf2dafd622adc1b9a07d4a2e56f5179d097bbbb3a857ab9994decfad013e6",
+    "dimensionsA": [
+      311,
+      328
+    ],
+    "dimensionsB": [
+      622,
+      656
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      311,
+      328
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      622,
+      656
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.40924,
+      2.13812,
+      0.50117,
+      0.13625
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 6.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I80:941;80:911",
+      "80:1011"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-006",
+    "a": 8,
+    "b": 111,
+    "phashDistance": 0,
+    "semanticA": "relic_infernal_mask__1628x1757",
+    "semanticB": "relic_infernal_mask__407x440",
+    "sourceSha256A": "562460c20896f47952619b5aa3afe1d0135d3b177e9cb0b9e0b58fa28ea08e93",
+    "sourceSha256B": "e28e5ee62daca30f3316a1eebc6445570e59ab0b5a9fc665787b85453c409d58",
+    "dimensionsA": [
+      1628,
+      1757
+    ],
+    "dimensionsB": [
+      407,
+      440
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1628,
+      1757
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      407,
+      440
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.1687,
+      4.10643,
+      1.67485,
+      0.61549
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002151,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "52:1474"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-007",
+    "a": 9,
+    "b": 161,
+    "phashDistance": 0,
+    "semanticA": "hero_ice_fairy__430x435",
+    "semanticB": "hero_ice_fairy__1718x1740",
+    "sourceSha256A": "537e1126739256391509a32336c907a37a22e91cd73f4e97e8402b55f38cf6d3",
+    "sourceSha256B": "c5bca6b0f0bdea1962f2f1882f0457b8dd53cc27c6e90edd9c25573d25929579",
+    "dimensionsA": [
+      430,
+      435
+    ],
+    "dimensionsB": [
+      1718,
+      1740
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      430,
+      435
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1718,
+      1740
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.97929,
+      3.98511,
+      3.69366,
+      0.91293
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003479,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1296;30:1265",
+      "32:1313",
+      "I89:1604;89:1451",
+      "89:1451",
+      "89:1525",
+      "39:1379"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-008",
+    "a": 10,
+    "b": 282,
+    "phashDistance": 0,
+    "semanticA": "enemy_poison_mushroom__1596x1576",
+    "semanticB": "enemy_poison_mushroom__399x394",
+    "sourceSha256A": "41aa0e1ac6e0eb6205846f41196a20372274580c3b45ffe5733bdbf86ee0a0b7",
+    "sourceSha256B": "ac0ff3f9a1dc8a8027c5773949dcae493d79ca82fa904fa7a9eadb6266cd908a",
+    "dimensionsA": [
+      1596,
+      1576
+    ],
+    "dimensionsB": [
+      399,
+      394
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1596,
+      1576
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      399,
+      394
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.0045,
+      1.80695,
+      1.1062,
+      0.20554
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000153,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1347"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-009",
+    "a": 11,
+    "b": 237,
+    "phashDistance": 0,
+    "semanticA": "equipment_bunny_assassin_pants__261x290",
+    "semanticB": "equipment_bunny_assassin_pants__522x580",
+    "sourceSha256A": "3d5df4d8d308bf1a8e334541dd302b34fdc06088f388b14a6fd51cf887c4da83",
+    "sourceSha256B": "789cd6730a51e652cdd6be69c8945e90064a4cd49b97b1a8538234e4a30e0c7f",
+    "dimensionsA": [
+      261,
+      290
+    ],
+    "dimensionsB": [
+      522,
+      580
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      261,
+      290
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      522,
+      580
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.61568,
+      1.35498,
+      1.80528,
+      0.15474
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 7.6e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1021"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-010",
+    "a": 12,
+    "b": 283,
+    "phashDistance": 0,
+    "semanticA": "branding_hero_collage__1536x1024",
+    "semanticB": "branding_hero_collage__384x256",
+    "sourceSha256A": "701846984cec94771523267c0425b1600a935382acb03e4e7b8b038c70f9bf43",
+    "sourceSha256B": "d209be58a60c0fe4a96a46f3cd93d9452cb44c34eb06c95ca9092296ac9c0535",
+    "dimensionsA": [
+      1536,
+      1024
+    ],
+    "dimensionsB": [
+      384,
+      256
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1536,
+      1016
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      384,
+      254
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.74417,
+      4.63046,
+      4.2084,
+      0.85844
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003448,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "2:410",
+      "91:558",
+      "110:1166",
+      "I109:602;110:1166",
+      "I109:604;110:1166",
+      "I109:606;110:1166",
+      "I109:608;110:1166",
+      "I109:610;110:1166",
+      "I109:612;110:1166"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-011",
+    "a": 13,
+    "b": 259,
+    "phashDistance": 0,
+    "semanticA": "reward_gold_chest__1254x1254",
+    "semanticB": "reward_gold_chest__314x314",
+    "sourceSha256A": "188b86dcf82eefca301f55c9cd4a012c6522c731810b73d11757ed5c5c263ab0",
+    "sourceSha256B": "9d11da602146199b9bd22760863556055be5762f88402526c93ef42dfa15e224",
+    "dimensionsA": [
+      1254,
+      1254
+    ],
+    "dimensionsB": [
+      314,
+      314
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      314,
+      314
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.80138,
+      5.86592,
+      4.88492,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I2:421;2:437",
+      "I106:556;2:437",
+      "2:437"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-012",
+    "a": 14,
+    "b": 218,
+    "phashDistance": 0,
+    "semanticA": "ui_button_red_square__1580x1579",
+    "semanticB": "ui_button_red_square__395x395",
+    "sourceSha256A": "552ce9ca7d9a4168248e9f2b1af9c6ad9fa2413ec80bd798abe4d8ef179c616f",
+    "sourceSha256B": "35ce6fbac7568880d998af2b41d5f409a4fe2ef013c26fd9e591b1fb1f8b4021",
+    "dimensionsA": [
+      1580,
+      1579
+    ],
+    "dimensionsB": [
+      395,
+      395
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1580,
+      1579
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      395,
+      395
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.83131,
+      0.38252,
+      0.40176,
+      0.23611
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00032,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "51:1472"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_01.jpg"
+  },
+  {
+    "id": "NEAR-013",
+    "a": 15,
+    "b": 187,
+    "phashDistance": 4,
+    "semanticA": "ui_bar_cyan_fill__335x53",
+    "semanticB": "ui_bar_cyan_fill__2680x420",
+    "sourceSha256A": "100ccd3992f30b999f8258a97aa2c08613ef6a6e8e8db539d06d34488dd2e8df",
+    "sourceSha256B": "e42e47f11e949ac6e19f7903eedec919dcaf9b88e88966aaee52126603c3c289",
+    "dimensionsA": [
+      335,
+      53
+    ],
+    "dimensionsB": [
+      2680,
+      420
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      335,
+      53
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2680,
+      420
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.64401,
+      1.55971,
+      1.36711,
+      1.26907
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006454,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "51:1471"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-014",
+    "a": 16,
+    "b": 224,
+    "phashDistance": 4,
+    "semanticA": "enemy_swamp_crocodile__474x358",
+    "semanticB": "enemy_swamp_crocodile__1895x1429",
+    "sourceSha256A": "15304ce778149e7057a2564cb0250d251c628a20a5015971b7f23c013e662d37",
+    "sourceSha256B": "ff94cd486f51ec02d99911341d145c24d7edceb40acc48b3c1a601fb7897c980",
+    "dimensionsA": [
+      474,
+      358
+    ],
+    "dimensionsB": [
+      1895,
+      1429
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      474,
+      358
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1895,
+      1429
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.1714,
+      2.88091,
+      1.74367,
+      0.96193
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003708,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "37:1341"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-015",
+    "a": 17,
+    "b": 44,
+    "phashDistance": 0,
+    "semanticA": "equipment_ice_fairy_boots__289x278",
+    "semanticB": "equipment_ice_fairy_boots__578x556",
+    "sourceSha256A": "ab659dd75576e5dcf484f8d92d1438548ae1bb543fd129674bc287473b67e954",
+    "sourceSha256B": "c13e7e70598dff3947a946a6c7578c31e79d136b4a51113ca94df2546ae03894",
+    "dimensionsA": [
+      289,
+      278
+    ],
+    "dimensionsB": [
+      578,
+      556
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      289,
+      278
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      578,
+      556
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.48598,
+      3.56978,
+      3.07733,
+      0.23068
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000153,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1035"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-016",
+    "a": 18,
+    "b": 115,
+    "phashDistance": 2,
+    "semanticA": "ui_frame_equipment_gold__259x387",
+    "semanticB": "ui_frame_equipment_gold__1035x1545",
+    "sourceSha256A": "ed1bd6fe0e29e07f44046f2db81ac0456bcceb5943b2ebb1d8702badbfe7d8db",
+    "sourceSha256B": "bbffc23e9dcc5da6a4f6f2f85680798c25877faccba3562f2c5b0c841909d56d",
+    "dimensionsA": [
+      259,
+      387
+    ],
+    "dimensionsB": [
+      1035,
+      1545
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      259,
+      387
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1035,
+      1545
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.32816,
+      2.13304,
+      1.09966,
+      0.53343
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004456,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "73:407"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-017",
+    "a": 19,
+    "b": 177,
+    "phashDistance": 0,
+    "semanticA": "hero_raccoon_engineer__405x416",
+    "semanticB": "hero_raccoon_engineer__1617x1662",
+    "sourceSha256A": "3cc4090d237bd314c8cfd5c7667ccfd918c4e5583b3ff9f561720d35d6fb5396",
+    "sourceSha256B": "800cd6f6e5c013bc35dbda41e27964de388aaf62c5d2892c4ab02d8f80805799",
+    "dimensionsA": [
+      405,
+      416
+    ],
+    "dimensionsB": [
+      1617,
+      1662
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      405,
+      416
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1617,
+      1662
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.74149,
+      3.97986,
+      3.35909,
+      1.07562
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004288,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1278;30:1265",
+      "39:1367"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-018",
+    "a": 20,
+    "b": 305,
+    "phashDistance": 0,
+    "semanticA": "ui_frame_heart_wings__432x404",
+    "semanticB": "ui_frame_heart_wings__1728x1616",
+    "sourceSha256A": "b51017dbb49621c1e2452a79c838861123fcf389d7b5bab3777628bbd88b08ba",
+    "sourceSha256B": "9a76acac1af48f889b2a628ce5c42abd2be75c1c130e41c682b4b2c2889334b0",
+    "dimensionsA": [
+      432,
+      404
+    ],
+    "dimensionsB": [
+      1728,
+      1616
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      432,
+      404
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1728,
+      1616
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.33186,
+      1.23941,
+      0.52271,
+      0.08688
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 9.2e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:438;73:532",
+      "I73:442;73:532",
+      "I73:453;73:532",
+      "I73:454;73:532",
+      "73:532"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-019",
+    "a": 21,
+    "b": 229,
+    "phashDistance": 0,
+    "semanticA": "branding_logo__1448x1086",
+    "semanticB": "branding_logo__362x272_variant2",
+    "sourceSha256A": "28d32483760d5025b9137c076d5532188ce549439202f00740ba027f2e8fea7d",
+    "sourceSha256B": "f6e716a25f79948c9e8172ae1d8e2bbbd7dd92d4f4aa222ec13617c0a66d7dd4",
+    "dimensionsA": [
+      1448,
+      1086
+    ],
+    "dimensionsB": [
+      362,
+      272
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1448,
+      1086
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      362,
+      272
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.61566,
+      2.64299,
+      2.32797,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I2:4;2:15",
+      "2:15",
+      "I90:1757;2:15",
+      "I110:1151;2:15",
+      "I109:602;110:1151;2:15",
+      "I109:604;110:1151;2:15",
+      "I109:606;110:1151;2:15",
+      "I109:608;110:1151;2:15",
+      "I109:610;110:1151;2:15",
+      "I109:612;110:1151;2:15"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-020",
+    "a": 22,
+    "b": 285,
+    "phashDistance": 0,
+    "semanticA": "equipment_turtle_warrior_ring__534x437",
+    "semanticB": "equipment_turtle_warrior_ring__267x219",
+    "sourceSha256A": "88668671dc6a6233c8618a4dd8eb256cc82bcbb378c3926b460bf41404e63c18",
+    "sourceSha256B": "08d5bfa69741a50469e3b3da9c85bbae9630625f8e06e6290793d93d89e63fa3",
+    "dimensionsA": [
+      534,
+      437
+    ],
+    "dimensionsB": [
+      267,
+      219
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      534,
+      437
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      267,
+      219
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.10675,
+      4.03197,
+      2.30641,
+      0.78032
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002716,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1075"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-021",
+    "a": 23,
+    "b": 166,
+    "phashDistance": 0,
+    "semanticA": "boss_frost_dragon__499x482",
+    "semanticB": "boss_frost_dragon__1995x1925",
+    "sourceSha256A": "c2dee402177403c8d632e48b44ee906055903caa67b4990fa59dcd9238c70147",
+    "sourceSha256B": "39e0df703351086f18db825f78e516d6c51258604fa2a471c3029f7709431e51",
+    "dimensionsA": [
+      499,
+      482
+    ],
+    "dimensionsB": [
+      1995,
+      1925
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      499,
+      482
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1995,
+      1925
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.00439,
+      6.25557,
+      5.85071,
+      1.36938
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005386,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "37:1353"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-022",
+    "a": 24,
+    "b": 223,
+    "phashDistance": 0,
+    "semanticA": "equipment_fox_sorcerer_ring__452x543",
+    "semanticB": "equipment_fox_sorcerer_ring__226x272",
+    "sourceSha256A": "11c9ff5cadf10515512147fcd58535b9c445de1fcb624cf5a5bf19c8c2fdc4ff",
+    "sourceSha256B": "f301b6aa75022e277ba8c3c60b35898de650c949b061c7266481edb22702c451",
+    "dimensionsA": [
+      452,
+      543
+    ],
+    "dimensionsB": [
+      226,
+      272
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      452,
+      543
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      226,
+      272
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.10454,
+      5.18394,
+      1.82637,
+      1.05371
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003937,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1055"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-023",
+    "a": 25,
+    "b": 125,
+    "phashDistance": 0,
+    "semanticA": "ui_icon_upgrade_arrow__1302x1413",
+    "semanticB": "ui_icon_upgrade_arrow__326x354",
+    "sourceSha256A": "a8a64e50da1df1b2c132f7a485d0215271425520362047a3a542fa213fa5bfde",
+    "sourceSha256B": "ba968d056523ed6723180c226c1a72679edbc07fd2a80e32c2b7ab72475a826b",
+    "dimensionsA": [
+      1302,
+      1413
+    ],
+    "dimensionsB": [
+      326,
+      354
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1302,
+      1413
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      326,
+      354
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.26147,
+      0.77,
+      0.70596,
+      0.79654
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002869,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I90:1745;90:1743",
+      "90:1743",
+      "I90:1749;90:1743",
+      "I90:1750;90:1743",
+      "I90:1748;90:1743",
+      "I80:971;80:959",
+      "80:959"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-024",
+    "a": 26,
+    "b": 325,
+    "phashDistance": 0,
+    "semanticA": "equipment_ice_fairy_staff_spear__435x899",
+    "semanticB": "equipment_ice_fairy_staff_spear__218x450",
+    "sourceSha256A": "32388b31042b8f382df34a8e8e511e2e4f5b5e020c2be1ee72222e32890e1c46",
+    "sourceSha256B": "928c722bcee61516a09138fb57a923c156b0795ac40b8f88e620e4ba1b2dbef4",
+    "dimensionsA": [
+      435,
+      899
+    ],
+    "dimensionsB": [
+      218,
+      450
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      435,
+      899
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      218,
+      450
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.40483,
+      2.36502,
+      1.96114,
+      0.58321
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00264,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1034"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_02.jpg"
+  },
+  {
+    "id": "NEAR-025",
+    "a": 27,
+    "b": 86,
+    "phashDistance": 0,
+    "semanticA": "equipment_owl_mage_ring_crescent__413x553",
+    "semanticB": "equipment_owl_mage_ring_crescent__207x277",
+    "sourceSha256A": "5652b9fb3db25e09b142ff050ce4fd27d1eb37c52ed6b95dea1931cd3d8c09c0",
+    "sourceSha256B": "e439cfc9fb7937411062889a3302fccdd805bcea86b000db1a20ef57d7f08b94",
+    "dimensionsA": [
+      413,
+      553
+    ],
+    "dimensionsB": [
+      207,
+      277
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      413,
+      553
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      207,
+      277
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.46953,
+      5.87363,
+      5.79091,
+      1.38448
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005371,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1030"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-026",
+    "a": 29,
+    "b": 53,
+    "phashDistance": 2,
+    "semanticA": "portrait_elf_archer__324x296",
+    "semanticB": "portrait_elf_archer__647x592",
+    "sourceSha256A": "0aede10a3babd0ef8ad6b0d42556ac0388bef2d0caec7a8b715818c328648cd1",
+    "sourceSha256B": "bef3295f46a703605063c0b01fb5234778ce8ebba9df2a2405e1f5555482e184",
+    "dimensionsA": [
+      324,
+      296
+    ],
+    "dimensionsB": [
+      647,
+      592
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      324,
+      296
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      647,
+      592
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.07982,
+      4.19647,
+      1.81271,
+      0.42113
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000381,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1080",
+      "80:1081"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-027",
+    "a": 30,
+    "b": 194,
+    "phashDistance": 0,
+    "semanticA": "portrait_raccoon_engineer__331x296",
+    "semanticB": "portrait_raccoon_engineer__662x592",
+    "sourceSha256A": "83f194e4e2c1b9cf4e22a3dadb9209d3d062535ede9935a9972c23be963ed350",
+    "sourceSha256B": "83b8e3ce29db413e5f1d0bb6f2846f65255dc01a23262a3b17bc436fd31827d5",
+    "dimensionsA": [
+      331,
+      296
+    ],
+    "dimensionsB": [
+      662,
+      592
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      331,
+      296
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      662,
+      592
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.42719,
+      1.42444,
+      1.12747,
+      0.07837
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1083"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-028",
+    "a": 31,
+    "b": 350,
+    "phashDistance": 0,
+    "semanticA": "equipment_raccoon_engineer_ring_clock__558x491",
+    "semanticB": "equipment_raccoon_engineer_ring_clock__279x246",
+    "sourceSha256A": "8af4b9bba0ca46968282c9b4dca048bce055fc3c5276952b59e91fc2c4996bf0",
+    "sourceSha256B": "47a815ccb19b553cbef18fe92803bf56101bcfc6b3b5e6d663a26915087d5255",
+    "dimensionsA": [
+      558,
+      491
+    ],
+    "dimensionsB": [
+      279,
+      246
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      558,
+      491
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      279,
+      246
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.09566,
+      4.61571,
+      3.73521,
+      1.06255
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003647,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1062"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-029",
+    "a": 32,
+    "b": 317,
+    "phashDistance": 0,
+    "semanticA": "hero_fox_sorcerer__457x420",
+    "semanticB": "hero_fox_sorcerer__1828x1679",
+    "sourceSha256A": "bded8080e12bd31df451430a20948a1e4190182f7a509bbc307ced469c0825d9",
+    "sourceSha256B": "865ed674fc801e56a8a5aefd4ca5a8206c45bcc68bd98edf35e8d46d831b8f06",
+    "dimensionsA": [
+      457,
+      420
+    ],
+    "dimensionsB": [
+      1828,
+      1679
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      457,
+      420
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1828,
+      1679
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.87854,
+      2.58273,
+      1.47031,
+      0.47385
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001801,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1282;30:1265",
+      "I45:1451;32:1309",
+      "I89:1604;89:1448",
+      "89:1448",
+      "89:1528",
+      "32:1309",
+      "39:1366"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-030",
+    "a": 34,
+    "b": 116,
+    "phashDistance": 0,
+    "semanticA": "equipment_ice_fairy_robe__335x377",
+    "semanticB": "equipment_ice_fairy_robe__670x754",
+    "sourceSha256A": "bb830bde653e0cbc23c64a8cc614c1500ffa52542feef94dc9eb4ded2c3d19db",
+    "sourceSha256B": "7cef3018bc159a7895deff14b1772ef17ddc3920c3700f4135b261509b28f60e",
+    "dimensionsA": [
+      335,
+      377
+    ],
+    "dimensionsB": [
+      670,
+      754
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      335,
+      377
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      670,
+      754
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.05893,
+      2.60265,
+      2.07059,
+      0.15135
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000107,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1038"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-031",
+    "a": 35,
+    "b": 50,
+    "phashDistance": 0,
+    "semanticA": "equipment_ice_fairy_ring_gem__465x536",
+    "semanticB": "equipment_ice_fairy_ring_gem__233x268",
+    "sourceSha256A": "4f9daeb4f0172bf2bb87046c67ad376f31b71ec2b4fb7864a18a8bbbfe9ae6b2",
+    "sourceSha256B": "f1035f26198a3bccdc3912c7749b6152ecbee370dd992829f60aea4cf07fee91",
+    "dimensionsA": [
+      465,
+      536
+    ],
+    "dimensionsB": [
+      233,
+      268
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      465,
+      536
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      233,
+      268
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      11.99057,
+      10.04425,
+      8.43503,
+      2.45032
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.009186,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1036"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-032",
+    "a": 36,
+    "b": 171,
+    "phashDistance": 0,
+    "semanticA": "ui_frame_orange_wings__429x416",
+    "semanticB": "ui_frame_orange_wings__1714x1662",
+    "sourceSha256A": "d216e66385550b3642cf69c32147ceb903e01b3330b505d04a725a8ec54099f2",
+    "sourceSha256B": "77c70023fca9fd7d6d619691e50f3156f58cf80ed37f05597e2fc6d22752c05e",
+    "dimensionsA": [
+      429,
+      416
+    ],
+    "dimensionsB": [
+      1714,
+      1662
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      429,
+      416
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1714,
+      1662
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.53632,
+      3.56628,
+      2.32692,
+      0.80894
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003113,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:473;73:532",
+      "I73:474;73:532",
+      "I73:475;73:532",
+      "I73:476;73:532",
+      "I73:477;73:532",
+      "I73:478;73:532",
+      "I73:479;73:532",
+      "I73:480;73:532"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-033",
+    "a": 37,
+    "b": 227,
+    "phashDistance": 2,
+    "semanticA": "relic_fire_crystal__447x635",
+    "semanticB": "relic_fire_crystal__224x318",
+    "sourceSha256A": "32f8e12519e194908bb48f850b086d016f9636a02667035141bf8b87fe10c6c6",
+    "sourceSha256B": "4cdf6430a40cbb765473e1f5d53a7326ae28dbbc131faf130682a445382bc5d6",
+    "dimensionsA": [
+      447,
+      635
+    ],
+    "dimensionsB": [
+      224,
+      318
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      447,
+      635
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      224,
+      318
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.64771,
+      4.80896,
+      1.85715,
+      1.18132
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0047,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:474;73:436",
+      "73:506"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-034",
+    "a": 38,
+    "b": 298,
+    "phashDistance": 2,
+    "semanticA": "decoration_raccoon_castle__1254x1254",
+    "semanticB": "decoration_raccoon_castle__314x314_variant2",
+    "sourceSha256A": "18e4da1c4e7254a0be2f85a77b5f16886969d81094bbef60211d016baabe052d",
+    "sourceSha256B": "fbb2dc1ab1d19d5130bb66778bcfa4d7efd8b25c6e91956836104fce03a5c6df",
+    "dimensionsA": [
+      1254,
+      1254
+    ],
+    "dimensionsB": [
+      314,
+      314
+    ],
+    "alphaBoundsA": [
+      18,
+      12,
+      1239,
+      1189
+    ],
+    "alphaBoundsB": [
+      5,
+      3,
+      310,
+      298
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      10.20685,
+      9.40569,
+      8.46146,
+      2.07114
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.007034,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I2:119;2:124",
+      "2:124"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-035",
+    "a": 39,
+    "b": 124,
+    "phashDistance": 0,
+    "semanticA": "ui_panel_blue_square__1448x1614",
+    "semanticB": "ui_panel_blue_square__362x404",
+    "sourceSha256A": "3c6d4b076f85591581f834359f293c58b9555b73db070f15b6c6a78c28a92158",
+    "sourceSha256B": "d5a4b0effd8a3393d95fb03b72274b3dd356c249c3a5dc86d4dabb2937a363d7",
+    "dimensionsA": [
+      1448,
+      1614
+    ],
+    "dimensionsB": [
+      362,
+      404
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1448,
+      1614
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      362,
+      404
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.9561,
+      1.33212,
+      1.74988,
+      1.35406
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00708,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I19:1211;18:1188",
+      "I89:1319;18:1188",
+      "I80:1121;18:1188",
+      "I71:292;18:1188",
+      "I75:753;18:1188",
+      "18:1188"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-036",
+    "a": 39,
+    "b": 248,
+    "phashDistance": 6,
+    "semanticA": "ui_panel_blue_square__1448x1614",
+    "semanticB": "ui_panel_dark_square__394x399",
+    "sourceSha256A": "3c6d4b076f85591581f834359f293c58b9555b73db070f15b6c6a78c28a92158",
+    "sourceSha256B": "11fba0c719c29b6797d61aa95dba493c56cd73536b0d40c5df215390bdb09f55",
+    "dimensionsA": [
+      1448,
+      1614
+    ],
+    "dimensionsB": [
+      394,
+      399
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1448,
+      1614
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      394,
+      399
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      8.66089,
+      32.9304,
+      54.47426,
+      22.99992
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.089111,
+    "sameVisualFamily": false,
+    "sourceNodeIdsA": [
+      "I19:1211;18:1188",
+      "I89:1319;18:1188",
+      "I80:1121;18:1188",
+      "I71:292;18:1188",
+      "I75:753;18:1188",
+      "18:1188"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_03.jpg"
+  },
+  {
+    "id": "NEAR-037",
+    "a": 40,
+    "b": 288,
+    "phashDistance": 2,
+    "semanticA": "hero_elf_archer__1797x1858",
+    "semanticB": "hero_elf_archer__450x465",
+    "sourceSha256A": "f66d72d08e1210eafa306471c8867f9b06ae849ff9fd77eae6df7604525c0be7",
+    "sourceSha256B": "a9183122d689c5ea7d2331c94a103cf5ef1e13c32758bbb8660863b8bbf5c447",
+    "dimensionsA": [
+      1797,
+      1858
+    ],
+    "dimensionsB": [
+      450,
+      465
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1797,
+      1858
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      450,
+      465
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.56096,
+      6.13315,
+      2.89085,
+      1.70604
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006287,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I89:1604;89:1447",
+      "89:1447",
+      "89:1531",
+      "75:867",
+      "39:1377",
+      "30:1265"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-038",
+    "a": 41,
+    "b": 122,
+    "phashDistance": 2,
+    "semanticA": "equipment_elf_archer_coat__332x313",
+    "semanticB": "equipment_elf_archer_coat__663x625",
+    "sourceSha256A": "1119d40c83041d4af538933e75b6348d5d02d6d30828ee69070bd1f82b04ca1b",
+    "sourceSha256B": "f7f0b8d7d8d072b23a6ee37e49447af51fa9adff7eb096c83bea3a574ec6b102",
+    "dimensionsA": [
+      332,
+      313
+    ],
+    "dimensionsB": [
+      663,
+      625
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      332,
+      313
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      663,
+      625
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.77486,
+      5.56499,
+      1.61429,
+      0.98523
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003693,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1057"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-039",
+    "a": 42,
+    "b": 308,
+    "phashDistance": 0,
+    "semanticA": "relic_wolf_mask__240x317",
+    "semanticB": "relic_wolf_mask__479x633",
+    "sourceSha256A": "8e3417f70b66228ac77bdf7d5b5f3a556582426d80b3d3f171608d6438a91fbb",
+    "sourceSha256B": "ddb67360680d9e622da735cd1b60c3975e1a963911f32b78e9f1e20ad7186df3",
+    "dimensionsA": [
+      240,
+      317
+    ],
+    "dimensionsB": [
+      479,
+      633
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      240,
+      317
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      479,
+      633
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.78596,
+      5.08253,
+      4.46724,
+      0.74481
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002869,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:461;73:436",
+      "73:502"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-040",
+    "a": 43,
+    "b": 81,
+    "phashDistance": 0,
+    "semanticA": "boss_infernal_dragon__1968x1659",
+    "semanticB": "boss_infernal_dragon__492x415",
+    "sourceSha256A": "2d060451d45ab5b82785cec7a77472d9cc21f1ff19de2fc5856379d96b24ae12",
+    "sourceSha256B": "f2e3b7f1056d3f71205b60dab65e220db23f37fd27118c5c4e5dbba103de906d",
+    "dimensionsA": [
+      1968,
+      1659
+    ],
+    "dimensionsB": [
+      492,
+      415
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1968,
+      1659
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      492,
+      415
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.33687,
+      1.26997,
+      0.93857,
+      0.38495
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001266,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1355"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-041",
+    "a": 45,
+    "b": 334,
+    "phashDistance": 0,
+    "semanticA": "ui_frame_purple_orb__357x360",
+    "semanticB": "ui_frame_purple_orb__1428x1440",
+    "sourceSha256A": "19fa40dd0088641f9dbe4b5d0199c1971173867e31250f850631aaea75d1495d",
+    "sourceSha256B": "975f5f6b97ce1c4516840be13d8b04fb3079fb07cac65e5780c3769f5866e848",
+    "dimensionsA": [
+      357,
+      360
+    ],
+    "dimensionsB": [
+      1428,
+      1440
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      357,
+      360
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1428,
+      1440
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.84883,
+      1.63419,
+      1.04198,
+      0.09167
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000122,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I91:574;2:661",
+      "I91:580;2:661",
+      "I91:568;2:661",
+      "2:661",
+      "I2:669;2:661"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-042",
+    "a": 46,
+    "b": 289,
+    "phashDistance": 0,
+    "semanticA": "equipment_inferno_dragon_sword__279x402",
+    "semanticB": "equipment_inferno_dragon_sword__557x803",
+    "sourceSha256A": "701cc0a4519f66f347bfa1bfeca78111adeb56f08c7b8ff23fdd57be3b8992bb",
+    "sourceSha256B": "eb9bad111646f83f89189a98531c92a13e8413fdfa0070a0167460ee122635d2",
+    "dimensionsA": [
+      279,
+      402
+    ],
+    "dimensionsB": [
+      557,
+      803
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      279,
+      402
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      557,
+      803
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.54781,
+      2.81345,
+      1.19916,
+      0.89027
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003021,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1072"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-043",
+    "a": 47,
+    "b": 332,
+    "phashDistance": 0,
+    "semanticA": "hero_turtle_warrior__454x405",
+    "semanticB": "hero_turtle_warrior__1815x1620",
+    "sourceSha256A": "42507c5b58ee689177ecd740a547272be22ddac912dd5509115ddc8751c1c5c6",
+    "sourceSha256B": "1c237ea3661612276711c5bb4548ebc78e58f176f0ce15edf1e3b2275338b1ca",
+    "dimensionsA": [
+      454,
+      405
+    ],
+    "dimensionsB": [
+      1815,
+      1620
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      454,
+      405
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1815,
+      1620
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.97231,
+      2.04919,
+      1.23944,
+      0.25827
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00061,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1283;30:1265",
+      "32:1310",
+      "39:1365"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-044",
+    "a": 48,
+    "b": 200,
+    "phashDistance": 0,
+    "semanticA": "background_grass_platform__754x329",
+    "semanticB": "background_grass_platform__377x165",
+    "sourceSha256A": "c82b2020a1a80aa6f3468574256a11d2ab83ce0f72b8980d5866357d38b97dd0",
+    "sourceSha256B": "d8de15452c0fa46c8a37ad473e8e7dc1968ae684866a84e22756540c11e715e4",
+    "dimensionsA": [
+      754,
+      329
+    ],
+    "dimensionsB": [
+      377,
+      165
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      754,
+      329
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      377,
+      165
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.42572,
+      1.37549,
+      1.1069,
+      0.36136
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001495,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I89:1604;89:1446",
+      "I89:1604;89:1453",
+      "I89:1604;89:1455",
+      "I89:1604;89:1456",
+      "I89:1604;89:1458",
+      "89:1446",
+      "89:1453",
+      "89:1455",
+      "89:1456",
+      "89:1458",
+      "89:1524",
+      "89:1527",
+      "89:1530",
+      "89:1533",
+      "89:1536",
+      "110:1215",
+      "I109:602;110:1215",
+      "I109:604;110:1215",
+      "I109:606;110:1215",
+      "I109:608;110:1215",
+      "I109:610;110:1215",
+      "I109:612;110:1215"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-045",
+    "a": 49,
+    "b": 338,
+    "phashDistance": 0,
+    "semanticA": "enemy_toxic_slime__1654x1388",
+    "semanticB": "enemy_toxic_slime__414x347",
+    "sourceSha256A": "8a5c6aaa363f8decbf070b5f41175355efc664ec509bb8f4b45fe03dcf0cce7a",
+    "sourceSha256B": "79081d0800f29fae25497e3708402ac87f8dd59e1a1f5b85f840cb218e95f9a8",
+    "dimensionsA": [
+      1654,
+      1388
+    ],
+    "dimensionsB": [
+      414,
+      347
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1654,
+      1388
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      414,
+      347
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.6292,
+      2.89128,
+      1.04417,
+      0.52098
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001984,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1345"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-046",
+    "a": 52,
+    "b": 109,
+    "phashDistance": 6,
+    "semanticA": "ui_panel_plain_navy__282x500",
+    "semanticB": "ui_panel_plain_navy__1126x2000",
+    "sourceSha256A": "e5d2d4a82f9a6acb3838965f1867b8d33d1a08252f31e5004c9a0bba40ad196d",
+    "sourceSha256B": "549d0c779f2822144d7764a6310959f442e5da74f168bc99f656dd25e1c86f68",
+    "dimensionsA": [
+      282,
+      500
+    ],
+    "dimensionsB": [
+      1126,
+      2000
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      282,
+      500
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1126,
+      2000
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.71758,
+      0.96327,
+      0.64725,
+      0.28337
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00354,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I2:116;2:535",
+      "I2:173;2:535",
+      "I2:420;2:535",
+      "I106:555;2:535",
+      "I89:1604;89:1436",
+      "89:1436",
+      "89:1733",
+      "I88:1291;81:1252",
+      "81:1252",
+      "2:535"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-047",
+    "a": 54,
+    "b": 160,
+    "phashDistance": 0,
+    "semanticA": "equipment_owl_mage_robe_crescent__611x673",
+    "semanticB": "equipment_owl_mage_robe_crescent__306x337",
+    "sourceSha256A": "5c2251775dd57dc972cb0f98e9b52764c97a863303375f9d857b2d41ca192ac3",
+    "sourceSha256B": "e5e02c5176e03ef85a2f5652e056b3782e66123287cd0a32114c337763b8199a",
+    "dimensionsA": [
+      611,
+      673
+    ],
+    "dimensionsB": [
+      306,
+      337
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      611,
+      673
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      306,
+      337
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.5713,
+      4.79184,
+      5.24788,
+      0.8457
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003281,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1031"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-048",
+    "a": 55,
+    "b": 206,
+    "phashDistance": 0,
+    "semanticA": "equipment_panda_monk_pants__269x284",
+    "semanticB": "equipment_panda_monk_pants__537x568",
+    "sourceSha256A": "109edb53a67ef63dd336fdfd437d5c2c06f0ab910c899bbf779c28971fd6d71c",
+    "sourceSha256B": "12b71755e44073179e9ce43ff6c826f1acf7944a17eb736712d270cc7d22c9e1",
+    "dimensionsA": [
+      269,
+      284
+    ],
+    "dimensionsB": [
+      537,
+      568
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      269,
+      284
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      537,
+      568
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.9631,
+      3.15707,
+      1.47775,
+      0.6595
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002213,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1047"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_04.jpg"
+  },
+  {
+    "id": "NEAR-049",
+    "a": 56,
+    "b": 189,
+    "phashDistance": 0,
+    "semanticA": "equipment_elf_archer_bow__281x370",
+    "semanticB": "equipment_elf_archer_bow__561x739",
+    "sourceSha256A": "cbcaa6827861b59d14c470c9b8eaa240707691e2026ab096377fe5182d8cbd0f",
+    "sourceSha256B": "a30e81404c3dc97b2ee68f6c5fbd3b32eab1920b1a513ad314e6a01eb4193b05",
+    "dimensionsA": [
+      281,
+      370
+    ],
+    "dimensionsB": [
+      561,
+      739
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      281,
+      370
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      561,
+      739
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.73248,
+      3.88249,
+      1.28038,
+      0.84735
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002899,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I80:937;80:911",
+      "80:1009",
+      "80:911"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-050",
+    "a": 57,
+    "b": 256,
+    "phashDistance": 0,
+    "semanticA": "equipment_elf_archer_ring__536x516",
+    "semanticB": "equipment_elf_archer_ring__268x258",
+    "sourceSha256A": "98b9a5ab596a9221fe731017d363a2fc1ac9114b1f788d025318907f938e98f5",
+    "sourceSha256B": "af88cbd2afc8e9cc179d527c2ff18ade3c0189f453cd1fb8dd661f1ecf578089",
+    "dimensionsA": [
+      536,
+      516
+    ],
+    "dimensionsB": [
+      268,
+      258
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      536,
+      516
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      268,
+      258
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.01056,
+      4.9855,
+      2.4122,
+      0.3486
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000397,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I80:951;80:911",
+      "80:1012"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-051",
+    "a": 59,
+    "b": 217,
+    "phashDistance": 0,
+    "semanticA": "ui_wheel_reward_illustration__1774x1837",
+    "semanticB": "ui_wheel_reward_illustration__444x460",
+    "sourceSha256A": "c757cb792bc8baf2a2c615553f16fb3847dcfcee9e398932a0102b1bdcf5e35d",
+    "sourceSha256B": "1d0e6293a99e923529b0431244a254b6c01eae3eb3d287ec896549be262d06c2",
+    "dimensionsA": [
+      1774,
+      1837
+    ],
+    "dimensionsB": [
+      444,
+      460
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1774,
+      1837
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      444,
+      460
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.90614,
+      6.04753,
+      4.16644,
+      0.63742
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002609,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I2:431;2:576",
+      "I89:1314;2:576",
+      "I80:1113;2:576",
+      "I71:283;2:576",
+      "I75:747;2:576",
+      "2:576"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-052",
+    "a": 60,
+    "b": 220,
+    "phashDistance": 2,
+    "semanticA": "reference_screen_equipment__852x1846",
+    "semanticB": "reference_screen_equipment__213x462",
+    "sourceSha256A": "ad0a10c273cb5fa5c996ccd40e246d4acb14f7f1da055dda03a46883a354ea0d",
+    "sourceSha256B": "3423c6d056774059983d6e751177da0ad0199cbeb36866dbe325bd5c84d61ceb",
+    "dimensionsA": [
+      852,
+      1846
+    ],
+    "dimensionsB": [
+      213,
+      462
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      852,
+      1846
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      213,
+      462
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.47061,
+      2.1978,
+      1.99911,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I109:594;203:12",
+      "I109:602;109:594;203:12",
+      "I109:604;109:594;203:12",
+      "I109:606;109:594;203:12",
+      "I109:608;109:594;203:12",
+      "I109:610;109:594;203:12",
+      "I109:612;109:594;203:12"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-053",
+    "a": 61,
+    "b": 141,
+    "phashDistance": 2,
+    "semanticA": "background_dungeon_goblin_strip__2172x724",
+    "semanticB": "background_dungeon_goblin_strip__272x91",
+    "sourceSha256A": "b92b190517d730b27bba0316be20e7504fe1deeed7520cc7d308dc954d339900",
+    "sourceSha256B": "8f34dd7492c368f63d21cd8549a86c2fb8d59199acd1069ce06d439ac749d9f7",
+    "dimensionsA": [
+      2172,
+      724
+    ],
+    "dimensionsB": [
+      272,
+      91
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.7475,
+      2.07675,
+      1.13565,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "86:1267"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-054",
+    "a": 62,
+    "b": 165,
+    "phashDistance": 0,
+    "semanticA": "branding_app_icon__314x314",
+    "semanticB": "branding_app_icon__1254x1254",
+    "sourceSha256A": "b52a02fd910d38c610dd0124f4982efb39842615cb37f7e523b1150a12be5990",
+    "sourceSha256B": "eff164e56bbfb81c3d34d3a082b360a8fda48689f03fd10a2dd81fbe67b19697",
+    "dimensionsA": [
+      314,
+      314
+    ],
+    "dimensionsB": [
+      1254,
+      1254
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      314,
+      314
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      10.11647,
+      8.31209,
+      7.53333,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "109:579"
+    ],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-055",
+    "a": 63,
+    "b": 247,
+    "phashDistance": 0,
+    "semanticA": "background_castle_platform__236x418",
+    "semanticB": "background_castle_platform__941x1672",
+    "sourceSha256A": "a272d540091baa70ebd7c1b2fc5da5cd1b857c03ae10eb19eeba5443fdd418fb",
+    "sourceSha256B": "e06ac3ab5089d40a6fb5368d79c6742c77dc58df504753279a40886a91e8b77f",
+    "dimensionsA": [
+      236,
+      418
+    ],
+    "dimensionsB": [
+      941,
+      1672
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      236,
+      418
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      941,
+      1672
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      7.67087,
+      6.02756,
+      5.53362,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "90:1763",
+      "I75:745;2:8"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-056",
+    "a": 64,
+    "b": 344,
+    "phashDistance": 0,
+    "semanticA": "branding_hero_collage__1536x1024_variant2",
+    "semanticB": "branding_hero_collage__384x256_variant2",
+    "sourceSha256A": "669960464d41fa191f0e7d967f1e0f73af8cb16b139591bbb616e84333f1c88f",
+    "sourceSha256B": "455736138b1c22b93de7212c0bb67f62224ab7b00da8e73f1e090dce90612fa3",
+    "dimensionsA": [
+      1536,
+      1024
+    ],
+    "dimensionsB": [
+      384,
+      256
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      384,
+      256
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.92296,
+      1.05392,
+      1.02934,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "2:410",
+      "91:558",
+      "110:1166",
+      "I109:602;110:1166",
+      "I109:604;110:1166",
+      "I109:606;110:1166",
+      "I109:608;110:1166",
+      "I109:610;110:1166",
+      "I109:612;110:1166"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-057",
+    "a": 65,
+    "b": 92,
+    "phashDistance": 0,
+    "semanticA": "enemy_fire_lizard__1562x1651",
+    "semanticB": "enemy_fire_lizard__391x413",
+    "sourceSha256A": "a077a6307dd25d102c917f5c6f8585d6e8de991942805716c81e9e96cd3212d1",
+    "sourceSha256B": "2aed58698d1dab1223cc1ecff3bfbfd1c14af195e0b126e48a6869274c682f73",
+    "dimensionsA": [
+      1562,
+      1651
+    ],
+    "dimensionsB": [
+      391,
+      413
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1562,
+      1651
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      391,
+      413
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.05032,
+      1.93019,
+      1.73651,
+      0.7289
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002792,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1343"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-058",
+    "a": 67,
+    "b": 183,
+    "phashDistance": 0,
+    "semanticA": "reference_screen_battle__213x462",
+    "semanticB": "reference_screen_battle__852x1846",
+    "sourceSha256A": "bacee1f5307f2343ef8ace3ca5920662f64715757f327093331397535996bbf0",
+    "sourceSha256B": "7d4da292d491c12fb08bfb6b7d9ddfa1d31f182c04b65db66161adc2165062f8",
+    "dimensionsA": [
+      213,
+      462
+    ],
+    "dimensionsB": [
+      852,
+      1846
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      213,
+      462
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      852,
+      1846
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.29491,
+      2.03563,
+      2.06468,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I109:592;203:12",
+      "I109:602;109:592;203:12",
+      "I109:604;109:592;203:12",
+      "I109:606;109:592;203:12",
+      "I109:608;109:592;203:12",
+      "I109:610;109:592;203:12",
+      "I109:612;109:592;203:12"
+    ],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-059",
+    "a": 68,
+    "b": 151,
+    "phashDistance": 0,
+    "semanticA": "decoration_raccoon_castle__314x314",
+    "semanticB": "decoration_raccoon_castle__1254x1254_variant2",
+    "sourceSha256A": "759a86b217a88e7aaef39b92f25e4443cad6465ac598fb6fcd649f147e8139a4",
+    "sourceSha256B": "ab0ddb1af853d6d13b16fb3d2aadfe1b71daf55ee00f0ed26040ba3d8964ff9e",
+    "dimensionsA": [
+      314,
+      314
+    ],
+    "dimensionsB": [
+      1254,
+      1254
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      314,
+      314
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.26616,
+      4.9373,
+      4.58804,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I2:119;2:124",
+      "2:124"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-060",
+    "a": 69,
+    "b": 292,
+    "phashDistance": 0,
+    "semanticA": "boss_shadow_dragon__1974x1657",
+    "semanticB": "boss_shadow_dragon__494x415",
+    "sourceSha256A": "e2953ae77e9a51b37e90cd4b86f351b2feb6afc31fcc3e3cfb6495436125c2c5",
+    "sourceSha256B": "1106f1ac1991282b1f9b17d3b09be0391aa5fd2075bbbf1f1fcd28c1ecc79f78",
+    "dimensionsA": [
+      1974,
+      1657
+    ],
+    "dimensionsB": [
+      494,
+      415
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1974,
+      1657
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      494,
+      415
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      6.23027,
+      2.86603,
+      7.36995,
+      2.01442
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.007339,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1352"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_05.jpg"
+  },
+  {
+    "id": "NEAR-061",
+    "a": 70,
+    "b": 129,
+    "phashDistance": 2,
+    "semanticA": "background_dungeon_shadow_strip__272x91",
+    "semanticB": "background_dungeon_shadow_strip__2172x724",
+    "sourceSha256A": "340c82f0e860823d3113aa9a6fee0d00fb918ea6ddbb8081919a253c00fa8f42",
+    "sourceSha256B": "1f7ab0bebbb3ed3b21331dcc86d4ac14024723a2d1efa65137a91fc5614cbfb9",
+    "dimensionsA": [
+      272,
+      91
+    ],
+    "dimensionsB": [
+      2172,
+      724
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.92557,
+      1.55876,
+      2.14066,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "86:1271"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-062",
+    "a": 71,
+    "b": 188,
+    "phashDistance": 0,
+    "semanticA": "equipment_lion_knight_chest__305x271",
+    "semanticB": "equipment_lion_knight_chest__610x541",
+    "sourceSha256A": "d4e152e978d922e6a2a7222ba19c1c223f0f58ec2fb312de44d0764ea75e42f7",
+    "sourceSha256B": "598c4d7bc8280446fda255b9e9eda3d479c834f5fa9c0734acdda7d19e71bfdd",
+    "dimensionsA": [
+      305,
+      271
+    ],
+    "dimensionsB": [
+      610,
+      541
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      305,
+      271
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      610,
+      541
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.3121,
+      4.01747,
+      2.6597,
+      0.56723
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001846,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1041"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-063",
+    "a": 72,
+    "b": 271,
+    "phashDistance": 0,
+    "semanticA": "equipment_turtle_warrior_ring_shell__257x244",
+    "semanticB": "equipment_turtle_warrior_ring_shell__514x487",
+    "sourceSha256A": "7fc153bc4d367d6c58b217c1d6e4c00c85e6ab0056a682bde49ff7a96b0fc3ba",
+    "sourceSha256B": "e8576841f93893ab28ad689536d7f90abe030c0c7bbeefb5782cf33d934e573b",
+    "dimensionsA": [
+      257,
+      244
+    ],
+    "dimensionsB": [
+      514,
+      487
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      257,
+      244
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      514,
+      487
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.15277,
+      4.4473,
+      1.61069,
+      0.9174
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003937,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1076"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-064",
+    "a": 73,
+    "b": 299,
+    "phashDistance": 0,
+    "semanticA": "portrait_fox_sorcerer__321x296",
+    "semanticB": "portrait_fox_sorcerer__642x592",
+    "sourceSha256A": "03a8405529b1481f2ace9e741a086db0bd72c9638fdaa083432fbde624547e81",
+    "sourceSha256B": "d608c9d77717224204b70af21c17a289e31ce75f95f9c06630f4e366fb42513d",
+    "dimensionsA": [
+      321,
+      296
+    ],
+    "dimensionsB": [
+      642,
+      592
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      321,
+      296
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      642,
+      592
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.60693,
+      1.14484,
+      0.71582,
+      0.08977
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 3.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1085"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-065",
+    "a": 74,
+    "b": 303,
+    "phashDistance": 0,
+    "semanticA": "ui_icon_gold_pile__284x291",
+    "semanticB": "ui_icon_gold_pile__1134x1163",
+    "sourceSha256A": "09c840c3d2a7f2b2d96be8717ce6e82207d49765158760b01ac3032314411dc4",
+    "sourceSha256B": "f373ee26848c020b27dfec819733065e3f89a2f648d93600d9f31843054d785d",
+    "dimensionsA": [
+      284,
+      291
+    ],
+    "dimensionsB": [
+      1134,
+      1163
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      284,
+      291
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1134,
+      1163
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.78319,
+      3.92183,
+      2.65189,
+      0.6404
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002502,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "45:1433",
+      "45:1438"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-066",
+    "a": 75,
+    "b": 228,
+    "phashDistance": 0,
+    "semanticA": "equipment_inferno_dragon_spear__628x784",
+    "semanticB": "equipment_inferno_dragon_spear__314x392",
+    "sourceSha256A": "fb0282768904c95ee2865418a040b3436651d06460ef2057bf5136a7e9985f26",
+    "sourceSha256B": "5984dd98a0492c67b9b43cd560659b436a6638b9c2e3508e6089382a57f870bd",
+    "dimensionsA": [
+      628,
+      784
+    ],
+    "dimensionsB": [
+      314,
+      392
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      628,
+      784
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      314,
+      392
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.99939,
+      0.84068,
+      0.20317,
+      0.08279
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 7.6e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1067"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-067",
+    "a": 77,
+    "b": 211,
+    "phashDistance": 0,
+    "semanticA": "equipment_ice_fairy_ring_snowflake__484x545",
+    "semanticB": "equipment_ice_fairy_ring_snowflake__242x273",
+    "sourceSha256A": "a1243c7cf24ce5647fb8790becc3adffd6977128fc1065e7553a4d9ef01063ff",
+    "sourceSha256B": "5e60fd3a61fd3f6448be2db7f6e819876b620a74471ee908032c9d189bd01c63",
+    "dimensionsA": [
+      484,
+      545
+    ],
+    "dimensionsB": [
+      242,
+      273
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      484,
+      545
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      242,
+      273
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      6.20465,
+      6.10225,
+      4.78622,
+      1.16354
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004471,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1037"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-068",
+    "a": 78,
+    "b": 98,
+    "phashDistance": 0,
+    "semanticA": "enemy_bomb_goblin__1606x1561",
+    "semanticB": "enemy_bomb_goblin__402x391",
+    "sourceSha256A": "5c8e84e8451eb51aaf077f1be720af1c8344c4328334f2c809fc33724bedbc99",
+    "sourceSha256B": "8fe53d2ede6c8b9414c82ee60a0f34ca16887886225bac86c359c919b7510641",
+    "dimensionsA": [
+      1606,
+      1561
+    ],
+    "dimensionsB": [
+      402,
+      391
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1606,
+      1561
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      402,
+      391
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.6582,
+      3.84975,
+      2.73346,
+      1.26276
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004852,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1342"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-069",
+    "a": 79,
+    "b": 248,
+    "phashDistance": 2,
+    "semanticA": "ui_panel_dark_square__1576x1595",
+    "semanticB": "ui_panel_dark_square__394x399",
+    "sourceSha256A": "f403a505a25fafb7ccec28a4c3cbfb24b3bcfbfc34bc2e7426e59e6cfc5cf803",
+    "sourceSha256B": "11fba0c719c29b6797d61aa95dba493c56cd73536b0d40c5df215390bdb09f55",
+    "dimensionsA": [
+      1576,
+      1595
+    ],
+    "dimensionsB": [
+      394,
+      399
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1576,
+      1595
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      394,
+      399
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.4234,
+      0.43141,
+      0.4749,
+      0.25551
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006271,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I19:1203;18:1188",
+      "I19:1207;18:1188",
+      "I19:1215;18:1188",
+      "I19:1216;18:1188",
+      "I89:1319;18:1188",
+      "I89:1320;18:1188",
+      "I89:1321;18:1188",
+      "I89:1322;18:1188",
+      "I89:1323;18:1188",
+      "I80:1118;18:1188",
+      "I80:1119;18:1188",
+      "I80:1120;18:1188",
+      "I80:1122;18:1188",
+      "I71:288;18:1188",
+      "I71:289;18:1188",
+      "I71:290;18:1188",
+      "I71:291;18:1188",
+      "I75:752;18:1188",
+      "I75:754;18:1188",
+      "I75:755;18:1188",
+      "I75:756;18:1188"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-070",
+    "a": 82,
+    "b": 123,
+    "phashDistance": 0,
+    "semanticA": "equipment_ice_fairy_staff_snowflake__292x441",
+    "semanticB": "equipment_ice_fairy_staff_snowflake__583x881",
+    "sourceSha256A": "ffc605be3b37c63ba73e8c656b5a661cbb75945759e8ff106a80d56afab06dce",
+    "sourceSha256B": "ebb4bd85aed8cef85c92334c2eccdd7c2a6cb94a423cce02cb14d0d2fb51e74e",
+    "dimensionsA": [
+      292,
+      441
+    ],
+    "dimensionsB": [
+      583,
+      881
+    ],
+    "alphaBoundsA": [
+      1,
+      0,
+      292,
+      441
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      583,
+      881
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.34952,
+      5.37276,
+      4.75652,
+      1.61801
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005951,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1039"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-071",
+    "a": 83,
+    "b": 185,
+    "phashDistance": 0,
+    "semanticA": "reference_screen_wheel__852x1846",
+    "semanticB": "reference_screen_wheel__213x462",
+    "sourceSha256A": "e493d6e9023f582b495d9546f804256b76df38c71f35134f1cf79c90a5bf0e22",
+    "sourceSha256B": "bfa0ae406ada05ed93b5bfb23af42c471093c298b39cc15a489a5a6c0c404382",
+    "dimensionsA": [
+      852,
+      1846
+    ],
+    "dimensionsB": [
+      213,
+      462
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      852,
+      1846
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      213,
+      462
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.78073,
+      1.63704,
+      1.78644,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I109:593;203:12",
+      "I109:602;109:593;203:12",
+      "I109:604;109:593;203:12",
+      "I109:606;109:593;203:12",
+      "I109:608;109:593;203:12",
+      "I109:610;109:593;203:12",
+      "I109:612;109:593;203:12"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-072",
+    "a": 84,
+    "b": 154,
+    "phashDistance": 0,
+    "semanticA": "portrait_owl_mage__621x592",
+    "semanticB": "portrait_owl_mage__311x296",
+    "sourceSha256A": "256497d52f68a33ea62f2c07598065fef6d34f9753b5f1b89fa0dd70448274d1",
+    "sourceSha256B": "4775250dab9b4622bf66fd8b0ff54fa43c8257c5c74317c9855bf45b2a6191cf",
+    "dimensionsA": [
+      621,
+      592
+    ],
+    "dimensionsB": [
+      311,
+      296
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      621,
+      592
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      311,
+      296
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.26645,
+      4.13474,
+      3.30193,
+      0.44807
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000305,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1089"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_06.jpg"
+  },
+  {
+    "id": "NEAR-073",
+    "a": 85,
+    "b": 322,
+    "phashDistance": 0,
+    "semanticA": "equipment_bunny_assassin_axes__358x258",
+    "semanticB": "equipment_bunny_assassin_axes__715x516",
+    "sourceSha256A": "6ff34a2deb7d7babf8a4e066572c54c0ab8839aa4a8d9f30621aa173b9e3bada",
+    "sourceSha256B": "4d2217119003dfcd282ea5e0638373e1aa888e6b32e718060abb28d9251fa50f",
+    "dimensionsA": [
+      358,
+      258
+    ],
+    "dimensionsB": [
+      715,
+      516
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      358,
+      258
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      715,
+      516
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      6.22632,
+      5.31194,
+      6.16042,
+      1.60944
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006516,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1025"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-074",
+    "a": 87,
+    "b": 199,
+    "phashDistance": 0,
+    "semanticA": "background_forest_glade__941x1672",
+    "semanticB": "background_forest_glade__236x418",
+    "sourceSha256A": "f3bbc4875317fad9598975b77346e2513741531b22dfa467c777e005eaba8109",
+    "sourceSha256B": "da8df43c5572611186ab3957767c3936e732c1831b00f41f1e7fb4c200581f5e",
+    "dimensionsA": [
+      941,
+      1672
+    ],
+    "dimensionsB": [
+      236,
+      418
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      941,
+      1672
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      236,
+      418
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.6579,
+      3.93634,
+      4.25299,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I71:280;2:8"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-075",
+    "a": 88,
+    "b": 179,
+    "phashDistance": 0,
+    "semanticA": "equipment_elf_archer_hood_fur__342x357",
+    "semanticB": "equipment_elf_archer_hood_fur__684x714",
+    "sourceSha256A": "0e2b606cbba2444f7badad8cd8800a6dfcff579a6ce9bb902ab669ca4bf89494",
+    "sourceSha256B": "424fcfc05250385e412f7b4425c4536406f829f2579bf480032be484d3dbbb87",
+    "dimensionsA": [
+      342,
+      357
+    ],
+    "dimensionsB": [
+      684,
+      714
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      342,
+      357
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      684,
+      714
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.70358,
+      1.85747,
+      0.65692,
+      0.1218
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 6.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1054"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-076",
+    "a": 89,
+    "b": 133,
+    "phashDistance": 0,
+    "semanticA": "equipment_owl_mage_staff_crescent__197x396",
+    "semanticB": "equipment_owl_mage_staff_crescent__394x792",
+    "sourceSha256A": "c1f67e4f7aef348ffb9b52b981a454a86d6eb185885e648ea0ba7876a67a3f01",
+    "sourceSha256B": "aba0caa7ea277efe4f57e292d7ba07b5a9e22c493a36b612dc37024be32d7321",
+    "dimensionsA": [
+      197,
+      396
+    ],
+    "dimensionsB": [
+      394,
+      792
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      197,
+      396
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      394,
+      792
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.02788,
+      1.06038,
+      1.14432,
+      0.07837
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1027"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-077",
+    "a": 90,
+    "b": 254,
+    "phashDistance": 0,
+    "semanticA": "equipment_inferno_dragon_chest__610x596",
+    "semanticB": "equipment_inferno_dragon_chest__305x298",
+    "sourceSha256A": "cf224973a8cc35466a4e3d7e98198f7d2fe026d401cfddd02d52eba01761c92a",
+    "sourceSha256B": "9b639aedca278894f415cf7d33eb7639403d3ebb956132023e2c58885f7bb565",
+    "dimensionsA": [
+      610,
+      596
+    ],
+    "dimensionsB": [
+      305,
+      298
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      610,
+      596
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      305,
+      298
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.68523,
+      1.38385,
+      0.64977,
+      0.1528
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 9.2e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1068"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-078",
+    "a": 91,
+    "b": 267,
+    "phashDistance": 0,
+    "semanticA": "relic_boar_mask__510x544",
+    "semanticB": "relic_boar_mask__255x272",
+    "sourceSha256A": "4abd512905df1157258b66dc26f8561d140310942eb281c1f924034eebde9585",
+    "sourceSha256B": "a3c693559f0fe82872dd11426ddf2c7901d2c28c3e08649ce13d09fda29f765f",
+    "dimensionsA": [
+      510,
+      544
+    ],
+    "dimensionsB": [
+      255,
+      272
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      510,
+      544
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      255,
+      272
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.69861,
+      1.89922,
+      1.15121,
+      0.20078
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000137,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:475;73:436",
+      "73:507"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-079",
+    "a": 93,
+    "b": 245,
+    "phashDistance": 2,
+    "semanticA": "ui_wheel_outer_ring__1940x1924",
+    "semanticB": "ui_wheel_outer_ring__485x481",
+    "sourceSha256A": "697e6fa6a8e039fe065106cd1d0c56c894a34aff3c375effdd7f7b4b06c22eb8",
+    "sourceSha256B": "fa36255ad582bae23b73786a0122e41ebf8e9fe9c74294f1654ca6a2b69876f5",
+    "dimensionsA": [
+      1940,
+      1924
+    ],
+    "dimensionsB": [
+      485,
+      481
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1940,
+      1924
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      485,
+      481
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.30359,
+      1.30602,
+      0.87599,
+      0.0844
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 7.6e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "91:575",
+      "91:581",
+      "91:569",
+      "2:664",
+      "2:670"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-080",
+    "a": 94,
+    "b": 232,
+    "phashDistance": 2,
+    "semanticA": "branding_banner__1672x941",
+    "semanticB": "branding_banner__418x236",
+    "sourceSha256A": "70e485da918e2e379d6123d1bc749b64ab9695a05e57a68d128bad69dec74568",
+    "sourceSha256B": "bb244b9c3d02a71bd76b62238957e20ec7768b89a9ba8ae5217d35af685acbf6",
+    "dimensionsA": [
+      1672,
+      941
+    ],
+    "dimensionsB": [
+      418,
+      236
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1672,
+      941
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      418,
+      236
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      13.68315,
+      12.84163,
+      12.24345,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "109:580"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-081",
+    "a": 95,
+    "b": 107,
+    "phashDistance": 0,
+    "semanticA": "equipment_raccoon_engineer_coat__326x283",
+    "semanticB": "equipment_raccoon_engineer_coat__651x566",
+    "sourceSha256A": "69d5017f11f18cc186fb401ac96d01e70e95b6df3b714764795466d149891484",
+    "sourceSha256B": "3102a68ae72c58f976ed0c8e934dce5ca1a90808458a65918b0857eb3e0c901e",
+    "dimensionsA": [
+      326,
+      283
+    ],
+    "dimensionsB": [
+      651,
+      566
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      326,
+      283
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      651,
+      566
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      7.95538,
+      7.5764,
+      6.30853,
+      1.55447
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005615,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1061"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-082",
+    "a": 97,
+    "b": 173,
+    "phashDistance": 0,
+    "semanticA": "branding_logo__362x272",
+    "semanticB": "branding_logo__1448x1086_variant2",
+    "sourceSha256A": "8ba8a0aeab1db48266e3f3bf58b5f314df131e0d367086faeefee79c1b87bd6a",
+    "sourceSha256B": "82a2f6d6dc2d9b8b2cf57cfce5d39d6003e07ab542f4bb0c5ef7cfe2c227edcf",
+    "dimensionsA": [
+      362,
+      272
+    ],
+    "dimensionsB": [
+      1448,
+      1086
+    ],
+    "alphaBoundsA": [
+      13,
+      9,
+      349,
+      264
+    ],
+    "alphaBoundsB": [
+      52,
+      37,
+      1396,
+      1054
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.01637,
+      4.65062,
+      3.84277,
+      0.56773
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001541,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I2:4;2:15",
+      "2:15",
+      "I90:1757;2:15",
+      "I110:1151;2:15",
+      "I109:602;110:1151;2:15",
+      "I109:604;110:1151;2:15",
+      "I109:606;110:1151;2:15",
+      "I109:608;110:1151;2:15",
+      "I109:610;110:1151;2:15",
+      "I109:612;110:1151;2:15"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-083",
+    "a": 99,
+    "b": 158,
+    "phashDistance": 2,
+    "semanticA": "hero_inferno_dragon__1886x1748",
+    "semanticB": "hero_inferno_dragon__472x437",
+    "sourceSha256A": "98edc841daa5099456253acb15c58dcfd13ec3e3b665c88a97560f9e251d778f",
+    "sourceSha256B": "37992e550ae8f303a2c1b434fe5e7bc3ab3848432ade37fdc6e9729edbb2fb9d",
+    "dimensionsA": [
+      1886,
+      1748
+    ],
+    "dimensionsB": [
+      472,
+      437
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1886,
+      1748
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      472,
+      437
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.95709,
+      3.01492,
+      1.67572,
+      0.84785
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003143,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I30:1297;30:1265",
+      "32:1312",
+      "39:1359"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-084",
+    "a": 100,
+    "b": 128,
+    "phashDistance": 0,
+    "semanticA": "equipment_lion_knight_hammer__255x348",
+    "semanticB": "equipment_lion_knight_hammer__509x696",
+    "sourceSha256A": "53e066aaa1b479f32f3aa5e8db01530b4437e84832e6e6c13ed7bf31c8e16dc7",
+    "sourceSha256B": "4dc6c1c5b0a424ccf7b567d1aa5c5dd654f87ee5fa7ec8d80f3eac99570868be",
+    "dimensionsA": [
+      255,
+      348
+    ],
+    "dimensionsB": [
+      509,
+      696
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      255,
+      348
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      509,
+      696
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.92381,
+      3.70981,
+      2.58704,
+      0.91008
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003372,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1040"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_07.jpg"
+  },
+  {
+    "id": "NEAR-085",
+    "a": 101,
+    "b": 142,
+    "phashDistance": 0,
+    "semanticA": "ui_icon_battle_swords__1402x1456",
+    "semanticB": "ui_icon_battle_swords__351x364",
+    "sourceSha256A": "786b978db44f3144fed66330f7c9b1f8dae205d47b798beaf555b52bbbf93573",
+    "sourceSha256B": "b43e93b58d0cb5fe4026b5328fdf240eb03a8df4b4055a26e16bad9206df75b8",
+    "dimensionsA": [
+      1402,
+      1456
+    ],
+    "dimensionsB": [
+      351,
+      364
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1402,
+      1456
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      351,
+      364
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.14005,
+      2.56097,
+      1.72668,
+      0.62498
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002304,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I19:1211;19:1193",
+      "I89:1321;19:1193",
+      "I80:1120;19:1193",
+      "I71:290;19:1193",
+      "I75:754;19:1193",
+      "80:1099",
+      "80:1106",
+      "19:1193"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-086",
+    "a": 102,
+    "b": 281,
+    "phashDistance": 0,
+    "semanticA": "enemy_iron_beetle__459x410",
+    "semanticB": "enemy_iron_beetle__1835x1638",
+    "sourceSha256A": "a4d3d6d92a18a96a072757651d9c2bf398598c24ecae92555ddffc02b227e4e2",
+    "sourceSha256B": "a700c124e81fbedc1330d5894e493eae5869a138d59f9f58111e48b874f1cc51",
+    "dimensionsA": [
+      459,
+      410
+    ],
+    "dimensionsB": [
+      1835,
+      1638
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      459,
+      410
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1835,
+      1638
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.65646,
+      1.7784,
+      2.14903,
+      0.59152
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00209,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "37:1348"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-087",
+    "a": 103,
+    "b": 284,
+    "phashDistance": 4,
+    "semanticA": "ui_button_gold__298x163",
+    "semanticB": "ui_button_gold__2378x1300",
+    "sourceSha256A": "6ac0ffd2bdf989190dcd3cb1d141447c87402c1888d912b44e6ac8f22913c8ab",
+    "sourceSha256B": "61d5be2b18a8882ca75e666feb312c53680eb6dca700942708314cabffb04e83",
+    "dimensionsA": [
+      298,
+      163
+    ],
+    "dimensionsB": [
+      2378,
+      1300
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      298,
+      163
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2378,
+      1300
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.22537,
+      1.44679,
+      0.59317,
+      0.5864
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00209,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I2:408;2:481",
+      "I2:425;2:484",
+      "I106:560;2:484",
+      "I89:1604;89:1519",
+      "I89:1604;89:1552",
+      "I89:1604;89:1568",
+      "I89:1604;89:1584",
+      "I89:1604;89:1599",
+      "89:1519",
+      "89:1552",
+      "89:1568",
+      "89:1584",
+      "89:1599",
+      "89:1721",
+      "I75:606;75:583",
+      "I80:925;75:583",
+      "I80:970;79:897",
+      "I80:971;76:892",
+      "79:897",
+      "76:892",
+      "75:583",
+      "2:481",
+      "2:484"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-088",
+    "a": 104,
+    "b": 148,
+    "phashDistance": 0,
+    "semanticA": "equipment_fox_sorcerer_ring_mask__231x258",
+    "semanticB": "equipment_fox_sorcerer_ring_mask__461x515",
+    "sourceSha256A": "510e4babcaf64909884b89c0ee3b37eb17750f5b90b9d75058177f3790ee998e",
+    "sourceSha256B": "85448c224627bec7ff919696f00184e966fc66ee6d4f2f26d183f74a0c09e9d6",
+    "dimensionsA": [
+      231,
+      258
+    ],
+    "dimensionsB": [
+      461,
+      515
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      231,
+      258
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      461,
+      515
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      6.35835,
+      6.30905,
+      1.57832,
+      1.66861
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006546,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1056"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-089",
+    "a": 105,
+    "b": 249,
+    "phashDistance": 0,
+    "semanticA": "ui_icon_blue_triangle__1484x1322",
+    "semanticB": "ui_icon_blue_triangle__371x331",
+    "sourceSha256A": "81eba1816d5e924a18928f5b44e2036580d298c778b8e1fa5b9d73f6fb2fe0b6",
+    "sourceSha256B": "ce392458381bcb47eb0222e390e146d5f79d27db073276d0a71c634073fa5e3d",
+    "dimensionsA": [
+      1484,
+      1322
+    ],
+    "dimensionsB": [
+      371,
+      331
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1484,
+      1322
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      371,
+      331
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.72734,
+      2.00845,
+      1.45624,
+      0.2412
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000854,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I91:576;2:663",
+      "I91:582;2:663",
+      "I91:570;2:663",
+      "2:663",
+      "I2:671;2:663"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-090",
+    "a": 106,
+    "b": 340,
+    "phashDistance": 2,
+    "semanticA": "background_dungeon_frost_strip__272x91",
+    "semanticB": "background_dungeon_frost_strip__2172x724",
+    "sourceSha256A": "4990d49d4d5769d7d0364d49ce3b89213fa3cdeb4aea0d3b0fc28343603bfdf7",
+    "sourceSha256B": "695a0db3c21e3ac7dc18e08a9ad9e3824187d28c004555bf2e725039e511bbcb",
+    "dimensionsA": [
+      272,
+      91
+    ],
+    "dimensionsB": [
+      2172,
+      724
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.55484,
+      2.38179,
+      1.91156,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I88:1291;86:1258",
+      "86:1258",
+      "86:1264"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-091",
+    "a": 108,
+    "b": 184,
+    "phashDistance": 0,
+    "semanticA": "relic_blue_crescent__253x290",
+    "semanticB": "relic_blue_crescent__505x579",
+    "sourceSha256A": "26f5b7535f099ca443ae4d8f09f7d920123be80e8163c84d3eecff689f50be96",
+    "sourceSha256B": "f9199ea9a97a96c800489f8f9b4bc2766044b5f065017830bfe54c9f8246805e",
+    "dimensionsA": [
+      253,
+      290
+    ],
+    "dimensionsB": [
+      505,
+      579
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      253,
+      290
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      505,
+      579
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.5305,
+      3.91106,
+      3.50732,
+      0.88409
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003296,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:454;73:436",
+      "73:500"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-092",
+    "a": 112,
+    "b": 208,
+    "phashDistance": 0,
+    "semanticA": "equipment_raccoon_engineer_chest_machine__668x500",
+    "semanticB": "equipment_raccoon_engineer_chest_machine__334x250",
+    "sourceSha256A": "a0b74f4a855a2dd00d085fda4d9098e997d0eafa3e28f703fab2c06d6d97f967",
+    "sourceSha256B": "90a71b39e36341da11896ac6684f75e79842c3685d6ddad1b5a7681d6eee32b2",
+    "dimensionsA": [
+      668,
+      500
+    ],
+    "dimensionsB": [
+      334,
+      250
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      668,
+      500
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      334,
+      250
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.73804,
+      1.34306,
+      1.08209,
+      0.12943
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000107,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1064"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-093",
+    "a": 113,
+    "b": 130,
+    "phashDistance": 0,
+    "semanticA": "relic_leaf_crescent__470x571",
+    "semanticB": "relic_leaf_crescent__235x286",
+    "sourceSha256A": "dee381fa4b917cefb8f27501870deecba240b0d8a44d124b1d79c3baefcd677c",
+    "sourceSha256B": "1c98eb0665dbdeb7ef902664f72d7848827ddf8a5ff01d2b078c08c656b60b38",
+    "dimensionsA": [
+      470,
+      571
+    ],
+    "dimensionsB": [
+      235,
+      286
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      470,
+      571
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      235,
+      286
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      9.67651,
+      9.22641,
+      6.47055,
+      2.19473
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.008148,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:442;73:436",
+      "73:498"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-094",
+    "a": 114,
+    "b": 263,
+    "phashDistance": 2,
+    "semanticA": "equipment_elf_archer_ring_leaf__529x544",
+    "semanticB": "equipment_elf_archer_ring_leaf__265x272",
+    "sourceSha256A": "26aeb77ab5fa7c4ca3473a2993d3bb1c87cec7d3cab7a9885244010fd5d1edee",
+    "sourceSha256B": "9953c1d2d2c72597e2bbac28aac82950948b89ab4afa73e43353eec2f5361ea4",
+    "dimensionsA": [
+      529,
+      544
+    ],
+    "dimensionsB": [
+      265,
+      272
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      529,
+      544
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      265,
+      272
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      7.40154,
+      7.68526,
+      4.49789,
+      1.37442
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005173,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I80:945;80:911",
+      "80:1013"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-095",
+    "a": 117,
+    "b": 167,
+    "phashDistance": 0,
+    "semanticA": "enemy_dark_bat_mage__472x383",
+    "semanticB": "enemy_dark_bat_mage__1888x1531",
+    "sourceSha256A": "f3f4637120f244495cf707811565e223f52488455a8fc58c0501fac0cd85d279",
+    "sourceSha256B": "f118f2c0887a3c7d9e3ade50c1fa7443169166c6a94c4cc86d5cab8a64ee7183",
+    "dimensionsA": [
+      472,
+      383
+    ],
+    "dimensionsB": [
+      1888,
+      1531
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      472,
+      383
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1888,
+      1531
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.69977,
+      0.85669,
+      1.6469,
+      0.36713
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001007,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "37:1349"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-096",
+    "a": 118,
+    "b": 121,
+    "phashDistance": 0,
+    "semanticA": "ui_icon_sword__525x536",
+    "semanticB": "ui_icon_sword__263x268",
+    "sourceSha256A": "5742eb59c3aab5fa28e82c25c48570f6d0b499d8caac8ee7c31abc5b7efc004a",
+    "sourceSha256B": "bf74a88ef0bcf5e9b78ef4b4dbc76fedaa6acc53b0f51c955f8bc2f9a0ae820d",
+    "dimensionsA": [
+      525,
+      536
+    ],
+    "dimensionsB": [
+      263,
+      268
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      525,
+      536
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      263,
+      268
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.60347,
+      2.06065,
+      1.87807,
+      0.60083
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001816,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I89:1604;89:1499",
+      "I89:1604;89:1542",
+      "I89:1604;89:1558",
+      "I89:1604;89:1574",
+      "I89:1604;89:1589",
+      "89:1499",
+      "89:1542",
+      "89:1558",
+      "89:1574",
+      "89:1589",
+      "89:1718",
+      "110:1229",
+      "I109:602;110:1229",
+      "I109:604;110:1229",
+      "I109:606;110:1229",
+      "I109:608;110:1229",
+      "I109:610;110:1229",
+      "I109:612;110:1229"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_08.jpg"
+  },
+  {
+    "id": "NEAR-097",
+    "a": 119,
+    "b": 236,
+    "phashDistance": 0,
+    "semanticA": "ui_nav_heroes_helmet__476x388",
+    "semanticB": "ui_nav_heroes_helmet__1902x1550",
+    "sourceSha256A": "de660a8e5eabada873b871c369782d63c63a03ab439dfb03c4f399dfdd33e1c7",
+    "sourceSha256B": "49e5635f7dd1c321ddd25491b61931e373167e566b8f457f011973e9e48f90e1",
+    "dimensionsA": [
+      476,
+      388
+    ],
+    "dimensionsB": [
+      1902,
+      1550
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      476,
+      388
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1902,
+      1550
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.64055,
+      3.31297,
+      2.42339,
+      0.8436
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003357,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I19:1207;19:1193",
+      "I89:1320;19:1193",
+      "I80:1119;19:1193",
+      "I71:289;19:1193",
+      "I75:753;19:1193",
+      "32:1320"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-098",
+    "a": 120,
+    "b": 319,
+    "phashDistance": 0,
+    "semanticA": "relic_fire_dragon_head__203x288",
+    "semanticB": "relic_fire_dragon_head__406x576",
+    "sourceSha256A": "90e3eaeda769b50663313748cd21e125fa93b97402176f2132a5667dcaec542f",
+    "sourceSha256B": "3da2745ec746d5777f47ea89562c27a1d8666377c8148aa2b54be9b7e325d184",
+    "dimensionsA": [
+      203,
+      288
+    ],
+    "dimensionsB": [
+      406,
+      576
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      203,
+      288
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      406,
+      576
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.063,
+      1.08546,
+      0.47386,
+      0.13145
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 4.6e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:463;73:436",
+      "73:504"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-099",
+    "a": 124,
+    "b": 248,
+    "phashDistance": 6,
+    "semanticA": "ui_panel_blue_square__362x404",
+    "semanticB": "ui_panel_dark_square__394x399",
+    "sourceSha256A": "d5a4b0effd8a3393d95fb03b72274b3dd356c249c3a5dc86d4dabb2937a363d7",
+    "sourceSha256B": "11fba0c719c29b6797d61aa95dba493c56cd73536b0d40c5df215390bdb09f55",
+    "dimensionsA": [
+      362,
+      404
+    ],
+    "dimensionsB": [
+      394,
+      399
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      362,
+      404
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      394,
+      399
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      8.63518,
+      33.17995,
+      54.70369,
+      23.96791
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.089966,
+    "sameVisualFamily": false,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-100",
+    "a": 126,
+    "b": 213,
+    "phashDistance": 0,
+    "semanticA": "relic_green_disc__242x274",
+    "semanticB": "relic_green_disc__483x547",
+    "sourceSha256A": "c3808158e04cd38a9d6cfddde8febad3179ba104f134b1f6ea59591902747e0d",
+    "sourceSha256B": "f68e6b52f10d37e8acb7b7a94eba0a5af1818e17a80951f170a33f507051fd49",
+    "dimensionsA": [
+      242,
+      274
+    ],
+    "dimensionsB": [
+      483,
+      547
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      242,
+      274
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      483,
+      547
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.25372,
+      6.05669,
+      4.7058,
+      1.00197
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00351,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:453;73:436",
+      "73:499"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-101",
+    "a": 127,
+    "b": 153,
+    "phashDistance": 0,
+    "semanticA": "equipment_owl_mage_staff_owl__478x836",
+    "semanticB": "equipment_owl_mage_staff_owl__239x418",
+    "sourceSha256A": "363f9dfc08389657906da5269755aa2068bb50467797f359c9948bd93f27d60d",
+    "sourceSha256B": "048f3c41d8ac54b8e87495e293868ba02a31aa3265a2d7ab3cab9529efc4d847",
+    "dimensionsA": [
+      478,
+      836
+    ],
+    "dimensionsB": [
+      239,
+      418
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      478,
+      836
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      239,
+      418
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.3513,
+      1.47079,
+      1.27855,
+      0.09563
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 3.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1032"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-102",
+    "a": 131,
+    "b": 210,
+    "phashDistance": 0,
+    "semanticA": "equipment_turtle_warrior_hammer__281x323",
+    "semanticB": "equipment_turtle_warrior_hammer__562x646",
+    "sourceSha256A": "09b2577fcbe54b7a9851f07386fed80406ea6d33f4f49cf2b67c9a9cba1f511a",
+    "sourceSha256B": "a6507fa05f567e30990e93cfd2a882eb469bb1bb429fcac35a5fce6dcab76aab",
+    "dimensionsA": [
+      281,
+      323
+    ],
+    "dimensionsB": [
+      562,
+      646
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      281,
+      323
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      562,
+      646
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.32233,
+      1.42059,
+      0.92506,
+      0.12209
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 3.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1078"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-103",
+    "a": 132,
+    "b": 214,
+    "phashDistance": 2,
+    "semanticA": "branding_welcome_text__272x91",
+    "semanticB": "branding_welcome_text__2172x724_variant2",
+    "sourceSha256A": "372ed19f77ed479ee26da1fe4049703b619efe073b540437cdc83117e54f7ed9",
+    "sourceSha256B": "fd8d59b382f3b3c3f933f17b7a7dd18fb7b536d12eb2142d33ff72125be4179d",
+    "dimensionsA": [
+      272,
+      91
+    ],
+    "dimensionsB": [
+      2172,
+      724
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.94597,
+      4.37088,
+      3.91095,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "90:1779",
+      "90:1780"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-104",
+    "a": 134,
+    "b": 169,
+    "phashDistance": 2,
+    "semanticA": "ui_frame_purple_shield__1628x1719",
+    "semanticB": "ui_frame_purple_shield__407x430",
+    "sourceSha256A": "3a981b702c791b1154957731cd72842ebc2364f518e1ffda5e12a1f8596fa3a0",
+    "sourceSha256B": "a5883b444bbef3cb48db3d18843babc4feaaea20e0f67a643cf1705d5b34cbfc",
+    "dimensionsA": [
+      1628,
+      1719
+    ],
+    "dimensionsB": [
+      407,
+      430
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1628,
+      1719
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      407,
+      430
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.72011,
+      1.58937,
+      1.74434,
+      0.19417
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000519,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:460;73:532",
+      "I73:461;73:532",
+      "I73:462;73:532",
+      "I73:463;73:532"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-105",
+    "a": 135,
+    "b": 301,
+    "phashDistance": 2,
+    "semanticA": "hero_owl_mage__454x440",
+    "semanticB": "hero_owl_mage__1813x1760",
+    "sourceSha256A": "3cc1d97a94a86e6accdada7ba90cb27c035e84473d22d04eec59b9f19261fd67",
+    "sourceSha256B": "36a86bab0a33a6123120197a3737429812d8581fc4f153fa05636a1642197f50",
+    "dimensionsA": [
+      454,
+      440
+    ],
+    "dimensionsB": [
+      1813,
+      1760
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      454,
+      440
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1813,
+      1760
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      11.85806,
+      11.68527,
+      12.09116,
+      3.89185
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.014481,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1289;30:1265",
+      "39:1364"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-106",
+    "a": 136,
+    "b": 144,
+    "phashDistance": 2,
+    "semanticA": "background_floating_islands__941x1672",
+    "semanticB": "background_floating_islands__236x418",
+    "sourceSha256A": "ec5c23fbb04b3ee8647540f5e87334d9d109114d3c73cf7d20119c3b86ec2c74",
+    "sourceSha256B": "5bbd5f113ad673103d55b28dac8d6c72f31913ba2972c793b368e8054ea66832",
+    "dimensionsA": [
+      941,
+      1672
+    ],
+    "dimensionsB": [
+      236,
+      418
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      941,
+      1672
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      236,
+      418
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      8.39618,
+      6.25638,
+      6.08249,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I2:3;2:8",
+      "2:8",
+      "I2:115;2:8",
+      "I2:172;2:8",
+      "I2:187;2:8",
+      "I2:266;2:8",
+      "I2:277;2:8",
+      "I2:288;2:8",
+      "I2:407;2:8",
+      "I2:419;2:8",
+      "I106:554;2:8",
+      "I2:427;2:8",
+      "I89:1311;2:8",
+      "I80:1110;2:8"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-107",
+    "a": 137,
+    "b": 330,
+    "phashDistance": 0,
+    "semanticA": "enemy_stone_gargoyle__1789x1558",
+    "semanticB": "enemy_stone_gargoyle__448x390",
+    "sourceSha256A": "0884660aeb4e4650f68f218a89143280903c84bd20d4adefe231cfe3bef994d5",
+    "sourceSha256B": "bb5ac0bcc29119e518fa36af50b6abad1ffdaaf7b5d36d5f89078fb4ca223bfd",
+    "dimensionsA": [
+      1789,
+      1558
+    ],
+    "dimensionsB": [
+      448,
+      390
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1789,
+      1558
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      448,
+      390
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.25592,
+      3.99625,
+      4.05406,
+      1.26932
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.00499,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1344"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-108",
+    "a": 138,
+    "b": 152,
+    "phashDistance": 0,
+    "semanticA": "currency_blue_orb__273x277",
+    "semanticB": "currency_blue_orb__545x554",
+    "sourceSha256A": "a99125c69348120007c532079171b6136e53761536c048473cf03f3bff16fa95",
+    "sourceSha256B": "3e6d03439c83df7e7e7a73172c38427c6bd0794568a411bf943309904e270042",
+    "dimensionsA": [
+      273,
+      277
+    ],
+    "dimensionsB": [
+      545,
+      554
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      273,
+      277
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      545,
+      554
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.04799,
+      2.69289,
+      2.44868,
+      0.50314
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001923,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I89:1604;89:1521",
+      "I89:1604;89:1554",
+      "I89:1604;89:1570",
+      "I89:1604;89:1586",
+      "I89:1604;89:1601",
+      "89:1521",
+      "89:1554",
+      "89:1570",
+      "89:1586",
+      "89:1601",
+      "89:1722",
+      "110:1201",
+      "I109:602;110:1201",
+      "I109:604;110:1201",
+      "I109:606;110:1201",
+      "I109:608;110:1201",
+      "I109:610;110:1201",
+      "I109:612;110:1201"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_09.jpg"
+  },
+  {
+    "id": "NEAR-109",
+    "a": 139,
+    "b": 286,
+    "phashDistance": 0,
+    "semanticA": "equipment_turtle_warrior_chest_shell__608x522",
+    "semanticB": "equipment_turtle_warrior_chest_shell__304x261",
+    "sourceSha256A": "53a8ca645c3e720207a3b6b3eed6d1296a1ef90179812d9b6ae857689f0ba895",
+    "sourceSha256B": "292b644e608aafb49d41e29c3d1d10376df410b83a7e347bf68e8ece22f6befa",
+    "dimensionsA": [
+      608,
+      522
+    ],
+    "dimensionsB": [
+      304,
+      261
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      608,
+      522
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      304,
+      261
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.71248,
+      1.6926,
+      0.66753,
+      0.1093
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 3.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1077"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-110",
+    "a": 140,
+    "b": 164,
+    "phashDistance": 2,
+    "semanticA": "ui_icon_hourglass__1343x1364",
+    "semanticB": "ui_icon_hourglass__336x341",
+    "sourceSha256A": "40dbf7885c870b6b5c616043e34e2e3b72852389564bed936a1a37f0be3e74df",
+    "sourceSha256B": "8a2034ab494d7c86de7f840c7490367a04fe19b9e7a931373e69585f08502de1",
+    "dimensionsA": [
+      1343,
+      1364
+    ],
+    "dimensionsB": [
+      336,
+      341
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1343,
+      1364
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      336,
+      341
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.81712,
+      1.74826,
+      1.6868,
+      0.24687
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0009,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "45:1430",
+      "45:1436"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-111",
+    "a": 143,
+    "b": 146,
+    "phashDistance": 0,
+    "semanticA": "background_dungeon_infernal_strip__272x91",
+    "semanticB": "background_dungeon_infernal_strip__2172x724",
+    "sourceSha256A": "ec4b66b0dc31daba972f5a581b0b6c3880a37fcaf37bdc16d030161fa7e323f7",
+    "sourceSha256B": "bed40ad56e5b0c33cc1e573b37cd36deb5b1862983da0d2b9ffa2ca9428ed92f",
+    "dimensionsA": [
+      272,
+      91
+    ],
+    "dimensionsB": [
+      2172,
+      724
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.65056,
+      2.21706,
+      1.20403,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I88:1291;86:1260",
+      "86:1260",
+      "86:1265"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-112",
+    "a": 145,
+    "b": 239,
+    "phashDistance": 0,
+    "semanticA": "portrait_inferno_dragon__311x295",
+    "semanticB": "portrait_inferno_dragon__621x590",
+    "sourceSha256A": "95be3b6e875c88bdfb5354f14ed3c459e21f83a869e45c203cf5cce1c8c99fb0",
+    "sourceSha256B": "abbd1cb924c2530f2aea43bd42350159835cd080846d5d572d2bbed9a8f9cf5c",
+    "dimensionsA": [
+      311,
+      295
+    ],
+    "dimensionsB": [
+      621,
+      590
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      311,
+      295
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      621,
+      590
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.66003,
+      3.90456,
+      1.72443,
+      0.44745
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000229,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1095"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-113",
+    "a": 147,
+    "b": 149,
+    "phashDistance": 0,
+    "semanticA": "equipment_fox_sorcerer_staff_orb__535x811",
+    "semanticB": "equipment_fox_sorcerer_staff_orb__268x406",
+    "sourceSha256A": "71e3d20a6c9d11d768c68f291d42acc25c715a7d57403ab70871cce07ed9e18c",
+    "sourceSha256B": "15a3c24edcd9fb2a77f24c0cc7c42585b9ea22c7059045e1f26ef8635a5b4d20",
+    "dimensionsA": [
+      535,
+      811
+    ],
+    "dimensionsB": [
+      268,
+      406
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      535,
+      811
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      268,
+      406
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.96971,
+      2.97998,
+      0.58209,
+      0.82756
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002975,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1053"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-114",
+    "a": 150,
+    "b": 175,
+    "phashDistance": 2,
+    "semanticA": "equipment_elf_archer_boots__249x268",
+    "semanticB": "equipment_elf_archer_boots__497x535",
+    "sourceSha256A": "a358d8c8fd66ce27d899777db7589fee54d6e52922e188780f345f8d87b35223",
+    "sourceSha256B": "9cbfe54df96df48f35833cfafa5104d11b03384a1a32c0491a9dcfada6d3eece",
+    "dimensionsA": [
+      249,
+      268
+    ],
+    "dimensionsB": [
+      497,
+      535
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      249,
+      268
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      497,
+      535
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      7.15677,
+      6.83096,
+      2.17166,
+      1.2157
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004715,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I80:950;80:911",
+      "80:1010"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-115",
+    "a": 155,
+    "b": 225,
+    "phashDistance": 0,
+    "semanticA": "equipment_inferno_dragon_robe__521x524",
+    "semanticB": "equipment_inferno_dragon_robe__261x262",
+    "sourceSha256A": "8af27cd5f91702b07a67a42889daa6859f861b53d5c102c974d74fb7727a875a",
+    "sourceSha256B": "40679d9916de66ae0ea80bb64ba4ed49dcce918843df15e566d94d3936e918a1",
+    "dimensionsA": [
+      521,
+      524
+    ],
+    "dimensionsB": [
+      261,
+      262
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      521,
+      524
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      261,
+      262
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      6.28903,
+      3.03989,
+      0.98865,
+      0.78783
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002731,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1071"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-116",
+    "a": 156,
+    "b": 203,
+    "phashDistance": 0,
+    "semanticA": "reference_screen_start__213x462",
+    "semanticB": "reference_screen_start__852x1846",
+    "sourceSha256A": "ec4996b49673ecb1994b77ac46d864c65541c9612677e62faf2cb1513b6af2c3",
+    "sourceSha256B": "98380547a7830f1f64d073add475cd22a4f7c8a6090a8e6c58928e87d0b05567",
+    "dimensionsA": [
+      213,
+      462
+    ],
+    "dimensionsB": [
+      852,
+      1846
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      213,
+      462
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      852,
+      1846
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.20947,
+      2.10995,
+      2.1398,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I109:590;203:12",
+      "I109:602;109:590;203:12",
+      "I109:604;109:590;203:12",
+      "I109:606;109:590;203:12",
+      "I109:608;109:590;203:12",
+      "I109:610;109:590;203:12",
+      "I109:612;109:590;203:12"
+    ],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-117",
+    "a": 157,
+    "b": 253,
+    "phashDistance": 0,
+    "semanticA": "branding_welcome_text__2172x724",
+    "semanticB": "branding_welcome_text__272x91_variant2",
+    "sourceSha256A": "9de33e14e820794e8cde868cd5225b233a3e99f4d98985d1a314690fa9e180dc",
+    "sourceSha256B": "faad992bdcfe518e0ffd68cc2f154f8e38dd967ac628bd59ac7d489d6362a12d",
+    "dimensionsA": [
+      2172,
+      724
+    ],
+    "dimensionsB": [
+      272,
+      91
+    ],
+    "alphaBoundsA": [
+      219,
+      17,
+      1892,
+      722
+    ],
+    "alphaBoundsB": [
+      27,
+      2,
+      237,
+      91
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      44.94139,
+      41.37503,
+      24.91507,
+      36.07355
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.141571,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "90:1779",
+      "90:1780"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-118",
+    "a": 159,
+    "b": 234,
+    "phashDistance": 0,
+    "semanticA": "ui_button_orange__2542x1359",
+    "semanticB": "ui_button_orange__318x170",
+    "sourceSha256A": "f09a6fa7466d5ca352e1b5be84a02119f860fb5527dcd1941ca19f3b97103622",
+    "sourceSha256B": "06571d0c9631c9f378a2d9a32047f2ad80194a306f69128cd44ed774d3a25d46",
+    "dimensionsA": [
+      2542,
+      1359
+    ],
+    "dimensionsB": [
+      318,
+      170
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      2542,
+      1359
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      318,
+      170
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.42773,
+      0.68849,
+      0.23665,
+      0.27873
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000214,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I2:269;2:490",
+      "I2:278;2:490",
+      "I2:292;2:490",
+      "I2:424;2:493",
+      "I106:559;2:493",
+      "I75:607;75:582",
+      "I80:926;75:582",
+      "75:582",
+      "2:490",
+      "2:493"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-119",
+    "a": 162,
+    "b": 333,
+    "phashDistance": 0,
+    "semanticA": "portrait_turtle_warrior__660x592",
+    "semanticB": "portrait_turtle_warrior__330x296",
+    "sourceSha256A": "4508b65d9bba20e222d9400b7e5a839e19212f309153ded7ce4880da7f840d9a",
+    "sourceSha256B": "70f2f03b4c0f2191e4e67e28999e10aaab2bfab69b3ed34781b5ace193ea8b55",
+    "dimensionsA": [
+      660,
+      592
+    ],
+    "dimensionsB": [
+      330,
+      296
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      660,
+      592
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      330,
+      296
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.20695,
+      1.233,
+      0.49736,
+      0.07947
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1087"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-120",
+    "a": 168,
+    "b": 172,
+    "phashDistance": 4,
+    "semanticA": "ui_panel_gold_navy_wide__293x104",
+    "semanticB": "ui_panel_gold_navy_wide__2339x828",
+    "sourceSha256A": "7c739e8a0a1fef75282cfb981f75b8e79afb0ca2a089a0a7b2adcb9b6cab0d85",
+    "sourceSha256B": "ad746089526366da7b40518acaf091ad7979878c0ad7b8aad7dfb22bcbf0780c",
+    "dimensionsA": [
+      293,
+      104
+    ],
+    "dimensionsB": [
+      2339,
+      828
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      293,
+      104
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2339,
+      828
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.73428,
+      1.18491,
+      0.92795,
+      0.63101
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005219,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I89:1604;89:1438",
+      "I89:1604;89:1439",
+      "I89:1604;89:1441",
+      "I89:1604;89:1442",
+      "I89:1604;89:1444",
+      "89:1438",
+      "89:1439",
+      "89:1441",
+      "89:1442",
+      "89:1444",
+      "89:1730"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_10.jpg"
+  },
+  {
+    "id": "NEAR-121",
+    "a": 170,
+    "b": 275,
+    "phashDistance": 0,
+    "semanticA": "background_battle_panorama__1916x821",
+    "semanticB": "background_battle_panorama__479x206",
+    "sourceSha256A": "2fd957f5e04b3aaa140b7f34146a874171e73cdf6877d970f5c9650880b59ad1",
+    "sourceSha256B": "4f7750c156c07d4d1ff0c8f0dafa746a656777efd235e718691bc289a727e733",
+    "dimensionsA": [
+      1916,
+      821
+    ],
+    "dimensionsB": [
+      479,
+      206
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1916,
+      821
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      479,
+      206
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.69963,
+      1.94827,
+      2.32272,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "109:581",
+      "109:602",
+      "109:604",
+      "109:606",
+      "109:608",
+      "109:610",
+      "109:612"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-122",
+    "a": 174,
+    "b": 312,
+    "phashDistance": 0,
+    "semanticA": "equipment_turtle_warrior_mace__583x649",
+    "semanticB": "equipment_turtle_warrior_mace__292x325",
+    "sourceSha256A": "e8e001ac6dc3f7a9944120a1f633cbd7a86af1aaa2d01dab024f7c315d43f277",
+    "sourceSha256B": "2446536bd46c6a353c6b0bad44a6a03bb2b63be647d1cafceca8c956caf37740",
+    "dimensionsA": [
+      583,
+      649
+    ],
+    "dimensionsB": [
+      292,
+      325
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      583,
+      649
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      292,
+      325
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.00362,
+      3.73486,
+      1.22269,
+      0.7843
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003113,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1073"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-123",
+    "a": 176,
+    "b": 262,
+    "phashDistance": 0,
+    "semanticA": "enemy_shadow_wolf__1783x1677",
+    "semanticB": "enemy_shadow_wolf__446x420",
+    "sourceSha256A": "c71995cce8a8c0efd10ef6bd19923ddb06756503f4a0eef4f396b9f5f1f677f3",
+    "sourceSha256B": "9799429ea4cab2f93642e23350299c1081a9f288f4d0fd53a760d28181a83c4d",
+    "dimensionsA": [
+      1783,
+      1677
+    ],
+    "dimensionsB": [
+      446,
+      420
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1783,
+      1677
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      446,
+      420
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.01126,
+      3.50662,
+      5.87625,
+      1.54825
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005829,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1346"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-124",
+    "a": 178,
+    "b": 222,
+    "phashDistance": 4,
+    "semanticA": "ui_banner_stage_blue__485x76",
+    "semanticB": "ui_banner_stage_blue__3876x605",
+    "sourceSha256A": "d5a58f0e6b57aaa9f0ebd6c7c33692384760135ce81b4a761c09273a88a68a9a",
+    "sourceSha256B": "f312dde3683ec7ab1ce9def13088acc093bba17f6ab2760ba0f2ef01eeb67318",
+    "dimensionsA": [
+      485,
+      76
+    ],
+    "dimensionsB": [
+      3876,
+      605
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      485,
+      76
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      3876,
+      605
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.51604,
+      0.43059,
+      0.32425,
+      0.2653
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000229,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I88:1291;80:1247",
+      "80:1247"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-125",
+    "a": 180,
+    "b": 287,
+    "phashDistance": 0,
+    "semanticA": "ui_banner_name_purple__480x88",
+    "semanticB": "ui_banner_name_purple__959x176",
+    "sourceSha256A": "c88a6adbed1ce6d0d53fdc61fc2886523ffd944860538de67d913c6f6b1a43f3",
+    "sourceSha256B": "4924b8e68e5de2bf206105f343cd176490fec6219aa8f67f14dbfacd9d70e423",
+    "dimensionsA": [
+      480,
+      88
+    ],
+    "dimensionsB": [
+      959,
+      176
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      480,
+      88
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      959,
+      176
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.2459,
+      0.18695,
+      0.23714,
+      0.06924
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000168,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I89:1604;89:1468",
+      "I89:1604;89:1469",
+      "I89:1604;89:1472",
+      "I89:1604;89:1475",
+      "I89:1604;89:1478",
+      "89:1468",
+      "89:1469",
+      "89:1472",
+      "89:1475",
+      "89:1478",
+      "89:1717"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-126",
+    "a": 182,
+    "b": 244,
+    "phashDistance": 0,
+    "semanticA": "hero_lion_knight__404x447",
+    "semanticB": "hero_lion_knight__1616x1788",
+    "sourceSha256A": "e07a5ef6efc63b7e591d51705758c57a2ead296d63a7fe3c6a4dd7d0052200fb",
+    "sourceSha256B": "16dd368f0784fcd8000f08bc001998e8e043123123487605f5a9eafafc6916fc",
+    "dimensionsA": [
+      404,
+      447
+    ],
+    "dimensionsB": [
+      1616,
+      1788
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      404,
+      447
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1616,
+      1788
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.82335,
+      1.9987,
+      1.48372,
+      0.1235
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 6.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1295;30:1265",
+      "32:1314",
+      "I89:1604;89:1450",
+      "89:1450",
+      "89:1534",
+      "39:1361",
+      "110:1194",
+      "I109:602;110:1194",
+      "I109:604;110:1194",
+      "I109:606;110:1194",
+      "I109:608;110:1194",
+      "I109:610;110:1194",
+      "I109:612;110:1194"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-127",
+    "a": 186,
+    "b": 310,
+    "phashDistance": 0,
+    "semanticA": "relic_rabbit_mask__245x322",
+    "semanticB": "relic_rabbit_mask__490x644",
+    "sourceSha256A": "3cebe52f608117476557c7f58abef45ca45b6033a6cd2e36a379c8e401866b28",
+    "sourceSha256B": "708e9313d655bf0c14647ac958bc779b7d42b1be14a585aa6849e5006a42e341",
+    "dimensionsA": [
+      245,
+      322
+    ],
+    "dimensionsB": [
+      490,
+      644
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      245,
+      322
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      490,
+      644
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.28265,
+      2.07182,
+      1.57063,
+      0.13051
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 6.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:477;73:436",
+      "73:509"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-128",
+    "a": 190,
+    "b": 345,
+    "phashDistance": 0,
+    "semanticA": "equipment_panda_monk_staff__312x313",
+    "semanticB": "equipment_panda_monk_staff__623x626",
+    "sourceSha256A": "122b33f8779e647d1c3c723bf9730f7d2395ae2f6c747532a2811e164cf4e12c",
+    "sourceSha256B": "75071d4d2bfc1534c8f436de3a73b93da1beface1625f3e98e4a9acdc6978ff9",
+    "dimensionsA": [
+      312,
+      313
+    ],
+    "dimensionsB": [
+      623,
+      626
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      312,
+      313
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      623,
+      626
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.03249,
+      4.72926,
+      2.09087,
+      1.25279
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004883,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1051"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-129",
+    "a": 192,
+    "b": 351,
+    "phashDistance": 0,
+    "semanticA": "ui_nav_crystal_relic__1407x1332",
+    "semanticB": "ui_nav_crystal_relic__352x333",
+    "sourceSha256A": "3087dcd30815885e579da52808d56f66d8fc1f5f310675f80756b117dca2c99a",
+    "sourceSha256B": "e555d2f4f1d2f91c8c56cd66f46d6aacf3d4bca00c1fc01237ca9a2b001001a5",
+    "dimensionsA": [
+      1407,
+      1332
+    ],
+    "dimensionsB": [
+      352,
+      333
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1407,
+      1332
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      352,
+      333
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.24557,
+      1.90239,
+      1.7357,
+      0.31198
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000977,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I19:1216;19:1193",
+      "I89:1323;19:1193",
+      "I80:1122;19:1193",
+      "I71:292;19:1193",
+      "I75:756;19:1193",
+      "32:1322"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-130",
+    "a": 193,
+    "b": 335,
+    "phashDistance": 0,
+    "semanticA": "ui_nav_dungeon__374x285",
+    "semanticB": "ui_nav_dungeon__1494x1139",
+    "sourceSha256A": "45502ad6066897bee2b47e920cacc713ac882b966a3f625967c80c11926b472d",
+    "sourceSha256B": "43a4d7323cd336871a977e8166b83421b81c72f117cf0ab64fe1884f494152d6",
+    "dimensionsA": [
+      374,
+      285
+    ],
+    "dimensionsB": [
+      1494,
+      1139
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      374,
+      285
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1494,
+      1139
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.35294,
+      2.43741,
+      2.40511,
+      0.54597
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001648,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I19:1215;19:1193",
+      "I89:1322;19:1193",
+      "I80:1121;19:1193",
+      "I71:291;19:1193",
+      "I75:755;19:1193",
+      "32:1321"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-131",
+    "a": 195,
+    "b": 291,
+    "phashDistance": 0,
+    "semanticA": "ui_panel_gold_black_wide__477x200",
+    "semanticB": "ui_panel_gold_black_wide__3815x1593",
+    "sourceSha256A": "df66df4e53fb8b8fb0c0503af68f59df160676f286a295398b7389324bbead08",
+    "sourceSha256B": "5f0ddb510bb29055a5a506e282270d3f8ac7426d98ac7b6cd359a6cbf88493fd",
+    "dimensionsA": [
+      477,
+      200
+    ],
+    "dimensionsB": [
+      3815,
+      1593
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      477,
+      200
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      3815,
+      1593
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.93344,
+      1.50044,
+      0.69533,
+      0.53952
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003784,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "79:896"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-132",
+    "a": 197,
+    "b": 205,
+    "phashDistance": 0,
+    "semanticA": "relic_shadow_crystal__469x599",
+    "semanticB": "relic_shadow_crystal__235x300",
+    "sourceSha256A": "d9661cb52c28c39a69ccaad4324bcbe9770c8470c0f7b409ca6a5880d93b04b9",
+    "sourceSha256B": "468f28589671214333247e67c7ee9561c8c08e606dcad74aca4ef4cd02c1a0a2",
+    "dimensionsA": [
+      469,
+      599
+    ],
+    "dimensionsB": [
+      235,
+      300
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      469,
+      599
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      235,
+      300
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      11.15608,
+      10.30719,
+      11.09869,
+      2.13593
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.008072,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:476;73:436",
+      "73:508"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_11.jpg"
+  },
+  {
+    "id": "NEAR-133",
+    "a": 198,
+    "b": 202,
+    "phashDistance": 0,
+    "semanticA": "relic_blue_shard__354x641",
+    "semanticB": "relic_blue_shard__177x321",
+    "sourceSha256A": "040257bff29a6a29ee565b3fcb51a208ee75f9be24e54aa6d6c2ff636ed10d20",
+    "sourceSha256B": "d74b6d402b1d3a46230e811b83a5d5b0701954594f5acd5f4fe2a2eff661251f",
+    "dimensionsA": [
+      354,
+      641
+    ],
+    "dimensionsB": [
+      177,
+      321
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      354,
+      641
+    ],
+    "alphaBoundsB": [
+      1,
+      0,
+      177,
+      321
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.97423,
+      2.19971,
+      1.6143,
+      0.51509
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001648,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:473;73:436",
+      "73:505"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-134",
+    "a": 201,
+    "b": 219,
+    "phashDistance": 0,
+    "semanticA": "equipment_lion_knight_helmet__246x314",
+    "semanticB": "equipment_lion_knight_helmet__491x628",
+    "sourceSha256A": "0dd9c17dd77e57ed0edc0ed636173c7a2c5221b6936c1cbcd16be5584773e280",
+    "sourceSha256B": "1cb0b8528546ae1efae6207a6380cfcc37503fa9434806de621928d5b635e943",
+    "dimensionsA": [
+      246,
+      314
+    ],
+    "dimensionsB": [
+      491,
+      628
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      246,
+      314
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      491,
+      628
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      8.48279,
+      8.78458,
+      6.66304,
+      1.77682
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006729,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1044"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-135",
+    "a": 204,
+    "b": 342,
+    "phashDistance": 0,
+    "semanticA": "hero_bunny_assassin__428x457",
+    "semanticB": "hero_bunny_assassin__1711x1827",
+    "sourceSha256A": "638547851abb940177f091c48cdc9ba11c323dd4477e8ffc5673de6949a02534",
+    "sourceSha256B": "c6d31753476eefb819839e82e6771e5af8769ee4a1a4dd1e4b72b7c001f04679",
+    "dimensionsA": [
+      428,
+      457
+    ],
+    "dimensionsB": [
+      1711,
+      1827
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      428,
+      457
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1711,
+      1827
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.47377,
+      2.12,
+      2.68887,
+      0.5081
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001709,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1294;30:1265",
+      "I89:1604;89:1449",
+      "89:1449",
+      "89:1537",
+      "39:1362"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-136",
+    "a": 207,
+    "b": 302,
+    "phashDistance": 0,
+    "semanticA": "background_dungeon_gargoyle_strip__2172x724",
+    "semanticB": "background_dungeon_gargoyle_strip__272x91",
+    "sourceSha256A": "e2b047509863564d6dd636354433d20a55b861eeb91a9ed330a81186d44dfd83",
+    "sourceSha256B": "891749b17aa2a872616bb589302e0827887e712a0cf9885801ed8eec68bd624f",
+    "dimensionsA": [
+      2172,
+      724
+    ],
+    "dimensionsB": [
+      272,
+      91
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.49303,
+      2.22501,
+      1.8316,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "86:1268"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-137",
+    "a": 209,
+    "b": 323,
+    "phashDistance": 0,
+    "semanticA": "reference_gradient_wallpaper__184x379",
+    "semanticB": "reference_gradient_wallpaper__736x1513",
+    "sourceSha256A": "2cfbc998dca9d1cc05a00b1f4bdba221c8fe583bfb896872903c4f1f6c3f9898",
+    "sourceSha256B": "f4873a9415e8e17940df8eaba531ed719a32e53b033667c2739c5128fc06e8c8",
+    "dimensionsA": [
+      184,
+      379
+    ],
+    "dimensionsB": [
+      736,
+      1513
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      184,
+      379
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      736,
+      1513
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.67932,
+      2.14775,
+      2.10696,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-138",
+    "a": 215,
+    "b": 315,
+    "phashDistance": 0,
+    "semanticA": "relic_frost_dragon_head__471x629",
+    "semanticB": "relic_frost_dragon_head__236x315",
+    "sourceSha256A": "9553922b344bb1e1fec72bb3ee2d4b02119b7ccc139802785432780b4e04e391",
+    "sourceSha256B": "1915921bfd258a15bb7d5a3f3826ecf29dc685fad554e5807ed27f13f2e2067f",
+    "dimensionsA": [
+      471,
+      629
+    ],
+    "dimensionsB": [
+      236,
+      315
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      471,
+      629
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      236,
+      315
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.83817,
+      5.98843,
+      6.1882,
+      1.13554
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004944,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:479;73:436",
+      "73:511"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-139",
+    "a": 216,
+    "b": 273,
+    "phashDistance": 0,
+    "semanticA": "background_dungeon_crocodile_strip__272x91",
+    "semanticB": "background_dungeon_crocodile_strip__2172x724",
+    "sourceSha256A": "2fe40c38cd7f176d17436a694a5d8b215ccf64fcd87b63f8f0c613cdb1766f6f",
+    "sourceSha256B": "ede70744b9a8c7defbe8168e88934320c821245c27fb96f2aefa073c6b64c275",
+    "dimensionsA": [
+      272,
+      91
+    ],
+    "dimensionsB": [
+      2172,
+      724
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.83546,
+      2.57779,
+      1.43037,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "86:1272"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-140",
+    "a": 221,
+    "b": 251,
+    "phashDistance": 0,
+    "semanticA": "hero_panda_monk__427x444",
+    "semanticB": "hero_panda_monk__1705x1775",
+    "sourceSha256A": "261569fd2871fc203b4a61b14c47885faf701085888519ca0ebf938c74d3e8a6",
+    "sourceSha256B": "43f57af8c76b8db945eb4493b5d941aa86f2f69eba999b6baa410451164d178b",
+    "dimensionsA": [
+      427,
+      444
+    ],
+    "dimensionsB": [
+      1705,
+      1775
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      427,
+      444
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1705,
+      1775
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.7108,
+      4.07034,
+      2.74751,
+      1.35892
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005386,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I30:1293;30:1265",
+      "39:1363"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-141",
+    "a": 230,
+    "b": 304,
+    "phashDistance": 0,
+    "semanticA": "equipment_lion_knight_sword__243x375",
+    "semanticB": "equipment_lion_knight_sword__486x750",
+    "sourceSha256A": "b268029c7825d015c114c6ead638b02079cc1d7ebc4ca5c100c0d82de314bd95",
+    "sourceSha256B": "18a04ecdd84829f898a72d264ab040146b142977c7aea546aae01bc541890c7b",
+    "dimensionsA": [
+      243,
+      375
+    ],
+    "dimensionsB": [
+      486,
+      750
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      243,
+      375
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      486,
+      750
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.14293,
+      1.05716,
+      0.76442,
+      0.07594
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 1.5e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1045"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-142",
+    "a": 231,
+    "b": 293,
+    "phashDistance": 0,
+    "semanticA": "portrait_ice_fairy__660x590",
+    "semanticB": "portrait_ice_fairy__330x295",
+    "sourceSha256A": "b6bf6522834ca3197497149f45f9397d21fae2b1e80fbaeb5bcc70ca6844c4d2",
+    "sourceSha256B": "280e5ab40385348b5e5170bc6d75c600735dac91a33112d07abc7c75dfc5b7d4",
+    "dimensionsA": [
+      660,
+      590
+    ],
+    "dimensionsB": [
+      330,
+      295
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      660,
+      590
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      330,
+      295
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.18904,
+      1.11598,
+      0.85072,
+      0.07954
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1241",
+      "80:1094"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-143",
+    "a": 233,
+    "b": 240,
+    "phashDistance": 0,
+    "semanticA": "equipment_bunny_assassin_crescent_axes__350x294",
+    "semanticB": "equipment_bunny_assassin_crescent_axes__699x588",
+    "sourceSha256A": "6dcb01f1a328854ff9022e006d34e1f0b8e094968c21c9465d0d32d7855be975",
+    "sourceSha256B": "e6142cef21b9d73308106be6ba7acd8f42079d476b502321a177eb6fcf700059",
+    "dimensionsA": [
+      350,
+      294
+    ],
+    "dimensionsB": [
+      699,
+      588
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      350,
+      294
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      699,
+      588
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.45876,
+      3.2834,
+      3.46338,
+      0.68704
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002426,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1020"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-144",
+    "a": 235,
+    "b": 339,
+    "phashDistance": 0,
+    "semanticA": "equipment_panda_monk_chest__619x555",
+    "semanticB": "equipment_panda_monk_chest__310x278",
+    "sourceSha256A": "249e50b473a57a60823a0d0904f5cdd578210f9b26fd26fe9bd90f1fcc921cec",
+    "sourceSha256B": "f93d0f8d93f6db9a454e5970a11095739eeb191dfa864865049dadc38f6c8e22",
+    "dimensionsA": [
+      619,
+      555
+    ],
+    "dimensionsB": [
+      310,
+      278
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      619,
+      555
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      310,
+      278
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.55199,
+      4.6541,
+      2.05089,
+      0.98322
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003326,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1050"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_12.jpg"
+  },
+  {
+    "id": "NEAR-145",
+    "a": 238,
+    "b": 242,
+    "phashDistance": 0,
+    "semanticA": "portrait_bunny_assassin__662x590",
+    "semanticB": "portrait_bunny_assassin__331x295",
+    "sourceSha256A": "dec077664924569c976bc66ace90cd40dfb7e81cb062fc041b34fe69e51f22d0",
+    "sourceSha256B": "bff2ff784d9f63ea94bc2f591923a51daecdb6147d316c284b0a4636bacc1797",
+    "dimensionsA": [
+      662,
+      590
+    ],
+    "dimensionsB": [
+      331,
+      295
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      662,
+      590
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      331,
+      295
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.57129,
+      1.50711,
+      1.33952,
+      0.07535
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 1.5e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1239",
+      "80:1092"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-146",
+    "a": 243,
+    "b": 346,
+    "phashDistance": 0,
+    "semanticA": "relic_gold_hammer__474x528",
+    "semanticB": "relic_gold_hammer__237x264",
+    "sourceSha256A": "ec9e081a48cf10a8773bcde6a5d3a111b710f3d8f43cc67c89ddf7e33df3b703",
+    "sourceSha256B": "0a424722b10847e1dcbd9e9f2f0b01110bed2c58fb29aaf6eaca9835278035ce",
+    "dimensionsA": [
+      474,
+      528
+    ],
+    "dimensionsB": [
+      237,
+      264
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      474,
+      528
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      237,
+      264
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.10989,
+      1.82927,
+      1.25928,
+      0.17914
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000244,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:460;73:436",
+      "73:501"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-147",
+    "a": 250,
+    "b": 328,
+    "phashDistance": 0,
+    "semanticA": "equipment_elf_archer_quiver__519x688",
+    "semanticB": "equipment_elf_archer_quiver__260x344",
+    "sourceSha256A": "3acc70845a2056e0bd60299afd0fe2f885aa8a119a04ca3c3cc21e081546451e",
+    "sourceSha256B": "6fffd9b2fc7f383b12de24bc41eb7fca23344406705c92e5ec7fbaa59a11bddc",
+    "dimensionsA": [
+      519,
+      688
+    ],
+    "dimensionsB": [
+      260,
+      344
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      519,
+      688
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      260,
+      343
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      9.06966,
+      10.69386,
+      3.49336,
+      2.79895
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.010818,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I80:949;80:911",
+      "80:1008"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-148",
+    "a": 252,
+    "b": 294,
+    "phashDistance": 0,
+    "semanticA": "background_dungeon_lizard_strip__2172x724",
+    "semanticB": "background_dungeon_lizard_strip__272x91",
+    "sourceSha256A": "1bf7a67f5307f70247412ef441257fba214ccec47559ea931bca80b98afaba2b",
+    "sourceSha256B": "c328225251954411cd6b8139ccbe609fcb2de74651d6dd516a55ec6087d1945e",
+    "dimensionsA": [
+      2172,
+      724
+    ],
+    "dimensionsB": [
+      272,
+      91
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.96347,
+      1.91083,
+      1.10016,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "86:1269"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-149",
+    "a": 257,
+    "b": 311,
+    "phashDistance": 0,
+    "semanticA": "relic_blue_feather__237x333",
+    "semanticB": "relic_blue_feather__473x665",
+    "sourceSha256A": "6aa7094c8e02ae282171d949d48a8ca8563efbb5bac4f69fa940d01af5ee7652",
+    "sourceSha256B": "373d45ba94b8ec41c1cd73bba7d96e4fd52ee421aa8c9ca622d5ad90971e750b",
+    "dimensionsA": [
+      237,
+      333
+    ],
+    "dimensionsB": [
+      473,
+      665
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      237,
+      333
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      473,
+      665
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.0069,
+      4.26929,
+      3.94141,
+      0.70769
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.002579,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:438;73:436",
+      "73:436"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-150",
+    "a": 260,
+    "b": 290,
+    "phashDistance": 0,
+    "semanticA": "enemy_ironhide_boar__1862x1681",
+    "semanticB": "enemy_ironhide_boar__466x421",
+    "sourceSha256A": "f4a011a953e9d21b58200c7f8ffdf23b81dcfbcf8f022b77baa7ae5337329237",
+    "sourceSha256B": "8328e2606a04993cb1ec29c95b6c8ccd4fd8b524683fde9b6f9235e6fd756d2c",
+    "dimensionsA": [
+      1862,
+      1681
+    ],
+    "dimensionsB": [
+      466,
+      421
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      1862,
+      1681
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      466,
+      421
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      3.80577,
+      3.3342,
+      3.19855,
+      1.01033
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003479,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "37:1350",
+      "37:1340",
+      "110:1222",
+      "I109:602;110:1222",
+      "I109:604;110:1222",
+      "I109:606;110:1222",
+      "I109:608;110:1222",
+      "I109:610;110:1222",
+      "I109:612;110:1222"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-151",
+    "a": 264,
+    "b": 296,
+    "phashDistance": 2,
+    "semanticA": "equipment_panda_monk_orbs__669x551",
+    "semanticB": "equipment_panda_monk_orbs__335x276",
+    "sourceSha256A": "aadc9c3dcd6ec50a6dffb1e1d3c4b69e9e96a3f93e0fa476d1f04364f4d96927",
+    "sourceSha256B": "f979251136b00f1cf5a98526e09f458b3de4cbf6c97b83b47613403422511f48",
+    "dimensionsA": [
+      669,
+      551
+    ],
+    "dimensionsB": [
+      335,
+      276
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      669,
+      551
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      335,
+      276
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      7.32825,
+      6.56606,
+      3.40425,
+      1.84117
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.007111,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1046"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-152",
+    "a": 265,
+    "b": 313,
+    "phashDistance": 0,
+    "semanticA": "equipment_bunny_assassin_chest__284x328",
+    "semanticB": "equipment_bunny_assassin_chest__567x656",
+    "sourceSha256A": "ec3b95aa0bf8f9df3abdfaea1dd0e3561621755ca881525e0d449713ef636455",
+    "sourceSha256B": "4c42b1ec55c1bed86ef710ea7dba12a26753949dea260c30480bb0aadded0d34",
+    "dimensionsA": [
+      284,
+      328
+    ],
+    "dimensionsB": [
+      567,
+      656
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      284,
+      328
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      567,
+      656
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      4.39731,
+      3.02249,
+      4.87662,
+      1.01918
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004059,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1024"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-153",
+    "a": 266,
+    "b": 295,
+    "phashDistance": 0,
+    "semanticA": "reward_gold_chest__314x314_variant2",
+    "semanticB": "reward_gold_chest__1254x1254_variant2",
+    "sourceSha256A": "6ecc40de469484c30e89c8b883791833a32dd773a876de9e1f84c39daefdff3e",
+    "sourceSha256B": "88bff839ec65a4e657f10bcd19c9ff26c329edac788669c5b2f4e95245a203ad",
+    "dimensionsA": [
+      314,
+      314
+    ],
+    "dimensionsB": [
+      1254,
+      1254
+    ],
+    "alphaBoundsA": [
+      4,
+      7,
+      304,
+      301
+    ],
+    "alphaBoundsB": [
+      14,
+      30,
+      1214,
+      1203
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      7.3376,
+      9.02298,
+      6.66672,
+      1.22353
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.004242,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I2:421;2:437",
+      "I106:556;2:437",
+      "2:437"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-154",
+    "a": 268,
+    "b": 336,
+    "phashDistance": 0,
+    "semanticA": "portrait_lion_knight__331x303",
+    "semanticB": "portrait_lion_knight__661x606",
+    "sourceSha256A": "1b51b101ee3c6a022c24626c1a16b5745c158ece016fca40d443994ec2bfe7dd",
+    "sourceSha256B": "0bf7cf58458260b6643ce47d8744e11253d570f36eb7ca8f6415b0c18a081d9c",
+    "dimensionsA": [
+      331,
+      303
+    ],
+    "dimensionsB": [
+      661,
+      606
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      331,
+      303
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      661,
+      606
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      8.89673,
+      10.65398,
+      9.48932,
+      1.37836
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.005127,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1093"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-155",
+    "a": 269,
+    "b": 337,
+    "phashDistance": 2,
+    "semanticA": "background_dungeon_boar_strip__2172x724",
+    "semanticB": "background_dungeon_boar_strip__272x91",
+    "sourceSha256A": "2f6ad69f446e42bbcc8234476364678c74d2e667a12b35134e62b91e2dba4996",
+    "sourceSha256B": "8f3f724c7642455cfe422d91f14b5f78d10cfdf10dc718067861163838e4a7d8",
+    "dimensionsA": [
+      2172,
+      724
+    ],
+    "dimensionsB": [
+      272,
+      91
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.43921,
+      2.28685,
+      1.53195,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "86:1273"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-156",
+    "a": 270,
+    "b": 327,
+    "phashDistance": 0,
+    "semanticA": "relic_gold_dragon_head__455x633",
+    "semanticB": "relic_gold_dragon_head__228x317",
+    "sourceSha256A": "d38bd926d27f67c12668b9a2596cc84f0ad816854cb1ae667610dadc37d9fd6d",
+    "sourceSha256B": "fd4e4b4f761787163f0d30b9b4c343f35ed3aa3b31d9c3cf8707a7b73935da24",
+    "dimensionsA": [
+      455,
+      633
+    ],
+    "dimensionsB": [
+      228,
+      317
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      455,
+      633
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      228,
+      317
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.28291,
+      4.82143,
+      2.2066,
+      0.91043
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003433,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I73:478;73:436",
+      "73:510"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_13.jpg"
+  },
+  {
+    "id": "NEAR-157",
+    "a": 272,
+    "b": 348,
+    "phashDistance": 0,
+    "semanticA": "relic_gold_bird_mask__264x296",
+    "semanticB": "relic_gold_bird_mask__527x591",
+    "sourceSha256A": "0a7b17aaeb65c35e03d08e6227de1b40314638f4a6a8528bc3d5ee418a8e51a9",
+    "sourceSha256B": "6b2643af8d76215892416fcb7481549875d9dc41e2ee58bec942e303ef4cfaac",
+    "dimensionsA": [
+      264,
+      296
+    ],
+    "dimensionsB": [
+      527,
+      591
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      264,
+      296
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      527,
+      591
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      7.24986,
+      6.44704,
+      3.49643,
+      1.67317
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.006241,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I73:480;73:436",
+      "73:512"
+    ],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-158",
+    "a": 276,
+    "b": 278,
+    "phashDistance": 2,
+    "semanticA": "ui_bar_dark_track__3646x435",
+    "semanticB": "ui_bar_dark_track__456x55",
+    "sourceSha256A": "8dfc7fb23c4c2c64ee8971134c0ac20172f9ce57323b38cf966aa22ad4c4cda0",
+    "sourceSha256B": "b0144c0c20f6bb8f3ba1296945ac1fe61f5d90f723a7f5c4d35af3f0d1454478",
+    "dimensionsA": [
+      3646,
+      435
+    ],
+    "dimensionsB": [
+      456,
+      55
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      3646,
+      435
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      456,
+      55
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.29675,
+      0.33728,
+      0.34618,
+      0.38785
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003708,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I2:428;2:487",
+      "I57:260;2:487",
+      "51:1470",
+      "I89:1313;2:487",
+      "I89:1317;2:487",
+      "I80:1112;2:487",
+      "I80:1116;2:487",
+      "I71:282;2:487",
+      "I71:286;2:487",
+      "I75:746;2:487",
+      "I75:750;2:487",
+      "2:487"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-159",
+    "a": 277,
+    "b": 326,
+    "phashDistance": 0,
+    "semanticA": "background_dungeon_shadow_bright_strip__2172x724",
+    "semanticB": "background_dungeon_shadow_bright_strip__272x91",
+    "sourceSha256A": "87d500f26a3797076183c64e1a15bd93c5513e83bfe744253e6d2aecd425c649",
+    "sourceSha256B": "14fd6d83e90835c1ffdd4e22f816bfb7e8721cc66836f449e43292a66b917bdf",
+    "dimensionsA": [
+      2172,
+      724
+    ],
+    "dimensionsB": [
+      272,
+      91
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      272,
+      91
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.8288,
+      1.71518,
+      2.22356,
+      0.99609
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003906,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "I88:1291;81:1256",
+      "81:1256",
+      "86:1263"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_POST_MVP",
+    "scopeB": "USED_POST_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-160",
+    "a": 279,
+    "b": 341,
+    "phashDistance": 0,
+    "semanticA": "equipment_raccoon_engineer_cannon_small__313x283",
+    "semanticB": "equipment_raccoon_engineer_cannon_large__625x565",
+    "sourceSha256A": "ead0ce93cc0943a963432651b7563521cca455abbfa0c1fe25cae67820236a14",
+    "sourceSha256B": "a08ebe08664eb17c3106d57d1469fe393df1080105b8b60869ea3a1d82a626ce",
+    "dimensionsA": [
+      313,
+      283
+    ],
+    "dimensionsB": [
+      625,
+      565
+    ],
+    "alphaBoundsA": [
+      0,
+      2,
+      313,
+      283
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      625,
+      565
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      8.49315,
+      7.76045,
+      6.34552,
+      1.96411
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.007034,
+    "sameVisualFamily": false,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1060"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-161",
+    "a": 280,
+    "b": 314,
+    "phashDistance": 0,
+    "semanticA": "equipment_owl_mage_robe_orb__533x651",
+    "semanticB": "equipment_owl_mage_robe_orb__267x326",
+    "sourceSha256A": "ca798a6b9b072b2b0965ec129b2badb11270428fd63221c5dd73a1d17b44abbb",
+    "sourceSha256B": "c852914d6f20570b7a3f7da45d6250b90d349c30b7d7cf98180461fdab20e568",
+    "dimensionsA": [
+      533,
+      651
+    ],
+    "dimensionsB": [
+      267,
+      326
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      533,
+      651
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      267,
+      326
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      5.48688,
+      5.78929,
+      5.80844,
+      0.94046
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.003204,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [
+      "80:1028"
+    ],
+    "sourceNodeIdsB": [],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-162",
+    "a": 300,
+    "b": 343,
+    "phashDistance": 0,
+    "semanticA": "ui_icon_dragon_red__385x391",
+    "semanticB": "ui_icon_dragon_red__1540x1564",
+    "sourceSha256A": "f310c0bb84b50d9ef0f8959421fd08b566dc29057d0102269e1518586342889b",
+    "sourceSha256B": "f319037f91057ff360e32f5019ce054dc5d4c47c9a076addcd136ac868df2e21",
+    "dimensionsA": [
+      385,
+      391
+    ],
+    "dimensionsB": [
+      1540,
+      1564
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      385,
+      391
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      1540,
+      1564
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.78383,
+      0.49631,
+      0.45317,
+      0.11774
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.000122,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "51:1473",
+      "110:1187",
+      "I109:602;110:1187",
+      "I109:604;110:1187",
+      "I109:606;110:1187",
+      "I109:608;110:1187",
+      "I109:610;110:1187",
+      "I109:612;110:1187"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-163",
+    "a": 306,
+    "b": 318,
+    "phashDistance": 0,
+    "semanticA": "equipment_turtle_warrior_chest_plate__343x278",
+    "semanticB": "equipment_turtle_warrior_chest_plate__686x555",
+    "sourceSha256A": "a7b044cfb3029040e5c355e0c7594aa642d2f8d28b9822287c4e5ce690560557",
+    "sourceSha256B": "57dfb7cf4d036ef662ab304fe74845bd16469d380565dcad9316652c09117662",
+    "dimensionsA": [
+      343,
+      278
+    ],
+    "dimensionsB": [
+      686,
+      555
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      343,
+      278
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      686,
+      555
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      2.80388,
+      2.79691,
+      0.99052,
+      0.4276
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.001495,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1074"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-164",
+    "a": 307,
+    "b": 321,
+    "phashDistance": 2,
+    "semanticA": "equipment_raccoon_engineer_cannon_small__333x269",
+    "semanticB": "equipment_raccoon_engineer_cannon_large__666x538",
+    "sourceSha256A": "2d417070aa5a0500060cfbc9bf9f52f54f837501491d5b19541976d37eb77e3b",
+    "sourceSha256B": "e722a1c4159721b339b310d2e2b03b1aea575f6818735f6ff6596cd4f5c32989",
+    "dimensionsA": [
+      333,
+      269
+    ],
+    "dimensionsB": [
+      666,
+      538
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      333,
+      269
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      666,
+      538
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.3643,
+      1.08382,
+      0.8839,
+      0.1019
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": false,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1065"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-165",
+    "a": 316,
+    "b": 320,
+    "phashDistance": 0,
+    "semanticA": "reference_screen_daily__213x462",
+    "semanticB": "reference_screen_daily__852x1846",
+    "sourceSha256A": "8868a457231dd85738e2b94da0e7a7de2576eaf12d02d7f4254ab5d08abee1d7",
+    "sourceSha256B": "b9443ab0f186058676f20871871c581cfb7725544bb60ab03823609ca0ccc2cf",
+    "dimensionsA": [
+      213,
+      462
+    ],
+    "dimensionsB": [
+      852,
+      1846
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      213,
+      462
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      852,
+      1846
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.9317,
+      1.68925,
+      1.61044,
+      0.0
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I109:591;203:12",
+      "I109:602;109:591;203:12",
+      "I109:604;109:591;203:12",
+      "I109:606;109:591;203:12",
+      "I109:608;109:591;203:12",
+      "I109:610;109:591;203:12",
+      "I109:612;109:591;203:12"
+    ],
+    "scopeA": "UNUSED_OR_REFERENCE_ONLY",
+    "scopeB": "UNUSED_OR_REFERENCE_ONLY",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-166",
+    "a": 324,
+    "b": 331,
+    "phashDistance": 2,
+    "semanticA": "ui_panel_stats_black__483x213",
+    "semanticB": "ui_panel_stats_black__966x425",
+    "sourceSha256A": "3d430d41d7ada555fbf62b08027bc417bc826144f89d111138145dda84a7b8c1",
+    "sourceSha256B": "ca6d322b1a3fe254be49230e897597e09656d936c459f91391436c5a8beae2bf",
+    "dimensionsA": [
+      483,
+      213
+    ],
+    "dimensionsB": [
+      966,
+      425
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      483,
+      213
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      966,
+      425
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      0.7048,
+      0.45216,
+      0.23224,
+      0.31061
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 3.1e-05,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "I2:190;2:539",
+      "I2:191;2:537",
+      "I89:1604;89:1497",
+      "I89:1604;89:1541",
+      "I89:1604;89:1557",
+      "I89:1604;89:1573",
+      "I89:1604;89:1588",
+      "89:1497",
+      "89:1541",
+      "89:1557",
+      "89:1573",
+      "89:1588",
+      "2:537",
+      "2:539"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  },
+  {
+    "id": "NEAR-167",
+    "a": 329,
+    "b": 347,
+    "phashDistance": 0,
+    "semanticA": "portrait_panda_monk__324x295",
+    "semanticB": "portrait_panda_monk__648x590",
+    "sourceSha256A": "6e61b6a33ed750c6dd34be614052564e7712f5053bb17fa8f1053c172e5f1d0a",
+    "sourceSha256B": "9d7745bbacaa81655615cd4a9fc071879c4ad2e0cbb6e62ba53c16cb36975390",
+    "dimensionsA": [
+      324,
+      295
+    ],
+    "dimensionsB": [
+      648,
+      590
+    ],
+    "alphaBoundsA": [
+      0,
+      0,
+      324,
+      295
+    ],
+    "alphaBoundsB": [
+      0,
+      0,
+      648,
+      590
+    ],
+    "decodedPixelsEqual": false,
+    "normalizedRgbaMeanAbsoluteDifference": [
+      1.33783,
+      1.18144,
+      0.65337,
+      0.08527
+    ],
+    "normalizedAlphaOutlineDifferenceRatio": 0.0,
+    "sameVisualFamily": true,
+    "sourceNodeIdsA": [],
+    "sourceNodeIdsB": [
+      "80:1091"
+    ],
+    "scopeA": "USED_IN_MVP",
+    "scopeB": "USED_IN_MVP",
+    "contactSheet": "analysis/figma/near_duplicate_review/pairs_14.jpg"
+  }
+]

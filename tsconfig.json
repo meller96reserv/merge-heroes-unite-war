@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["index.ts", "index.web.ts", "app/src/**/*.ts", "app/src/**/*.tsx"],
+  "exclude": ["node_modules", "spikes", "analysis", "dist"]
+}

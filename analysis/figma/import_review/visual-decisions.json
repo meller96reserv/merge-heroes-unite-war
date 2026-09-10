@@ -1,0 +1,130 @@
+{
+  "ui_button_red_square__1580x1579": {
+    "sourceSha256": "552ce9ca7d9a4168248e9f2b1af9c6ad9fa2413ec80bd798abe4d8ef179c616f",
+    "insetsSourcePx": [
+      370,
+      370,
+      370,
+      370
+    ],
+    "minUniformScale": 0.75,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_button_red_square__1580x1579-stretch.png",
+    "observation": "0.5x rejected: compressed center gradient/texture, crowded ornament or reflection bands. Corners preserved; 0.75x through2x accepted as bounded raster fixtures.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  },
+  "ui_panel_blue_square__1448x1614": {
+    "sourceSha256": "3c6d4b076f85591581f834359f293c58b9555b73db070f15b6c6a78c28a92158",
+    "insetsSourcePx": [
+      120,
+      120,
+      120,
+      120
+    ],
+    "minUniformScale": 0.5,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_panel_blue_square__1448x1614-stretch.png",
+    "observation": "Corners and alpha edges preserved at reviewed scales on light/dark backgrounds; no clipped content.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  },
+  "ui_panel_dark_square__1576x1595": {
+    "sourceSha256": "f403a505a25fafb7ccec28a4c3cbfb24b3bcfbfc34bc2e7426e59e6cfc5cf803",
+    "insetsSourcePx": [
+      120,
+      120,
+      120,
+      120
+    ],
+    "minUniformScale": 0.5,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_panel_dark_square__1576x1595-stretch.png",
+    "observation": "Corners and alpha edges preserved at reviewed scales on light/dark backgrounds; no clipped content.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  },
+  "ui_frame_board_slot__244x219": {
+    "sourceSha256": "0d3c6287b32fd09d6a0dab7045ce740ea3058151b2627c3e13f2365c2f61063b",
+    "insetsSourcePx": [
+      45,
+      45,
+      45,
+      45
+    ],
+    "minUniformScale": 0.5,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_frame_board_slot__244x219-stretch.png",
+    "observation": "Corners and alpha edges preserved at reviewed scales on light/dark backgrounds; no clipped content.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  },
+  "ui_frame_equipment_gold__1035x1545": {
+    "sourceSha256": "bbffc23e9dcc5da6a4f6f2f85680798c25877faccba3562f2c5b0c841909d56d",
+    "insetsSourcePx": [
+      220,
+      220,
+      220,
+      220
+    ],
+    "minUniformScale": 0.75,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_frame_equipment_gold__1035x1545-stretch.png",
+    "observation": "0.5x rejected: compressed center gradient/texture, crowded ornament or reflection bands. Corners preserved; 0.75x through2x accepted as bounded raster fixtures.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  },
+  "ui_button_orange__2542x1359": {
+    "sourceSha256": "f09a6fa7466d5ca352e1b5be84a02119f860fb5527dcd1941ca19f3b97103622",
+    "insetsSourcePx": [
+      300,
+      300,
+      300,
+      300
+    ],
+    "minUniformScale": 0.75,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_button_orange__2542x1359-stretch.png",
+    "observation": "0.5x rejected: compressed center gradient/texture, crowded ornament or reflection bands. Corners preserved; 0.75x through2x accepted as bounded raster fixtures.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  },
+  "ui_button_gold__2378x1300": {
+    "sourceSha256": "61d5be2b18a8882ca75e666feb312c53680eb6dca700942708314cabffb04e83",
+    "insetsSourcePx": [
+      300,
+      300,
+      300,
+      300
+    ],
+    "minUniformScale": 0.75,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_button_gold__2378x1300-stretch.png",
+    "observation": "0.5x rejected: compressed center gradient/texture, crowded ornament or reflection bands. Corners preserved; 0.75x through2x accepted as bounded raster fixtures.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  },
+  "ui_panel_gold_navy_wide__2339x828": {
+    "sourceSha256": "ad746089526366da7b40518acaf091ad7979878c0ad7b8aad7dfb22bcbf0780c",
+    "insetsSourcePx": [
+      300,
+      200,
+      300,
+      200
+    ],
+    "minUniformScale": 0.75,
+    "maxUniformScale": 2,
+    "reviewDate": "2026-09-08",
+    "reviewer": "Codex visual inspection",
+    "reviewArtifact": "analysis/figma/import_review/ui_panel_gold_navy_wide__2339x828-stretch.png",
+    "observation": "0.5x rejected: compressed center gradient/texture, crowded ornament or reflection bands. Corners preserved; 0.75x through2x accepted as bounded raster fixtures.",
+    "scope": "Uniform native-pixel stretch only. Mixed-aspect sizing, Cocos sRGB/premultiplication/compression and final display-size parity remain import QA; not a production render PASS."
+  }
+}

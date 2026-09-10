@@ -1,0 +1,1 @@
+{"platforms":["apple","android"],"apple":{"modules":["MergeNativeModule"]},"android":{"modules":["com.mergeheroes.nativeapi.MergeNativeModule"]}}

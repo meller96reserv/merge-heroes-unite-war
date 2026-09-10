@@ -1,0 +1,42 @@
+{
+  "task": "TASK-0253",
+  "scope": "targeted requirements migration",
+  "sourcePrecedence": [
+    "app-specific TZ",
+    "advertising",
+    "relevant shared guidelines"
+  ],
+  "changedExistingTasks": [
+    "TASK-0062",
+    "TASK-0067",
+    "TASK-0068",
+    "TASK-0136",
+    "TASK-0137",
+    "TASK-0138",
+    "TASK-0139",
+    "TASK-0181",
+    "TASK-0201",
+    "TASK-0209",
+    "TASK-0210",
+    "TASK-0231",
+    "TASK-0234",
+    "TASK-0237",
+    "TASK-0251"
+  ],
+  "addedTasks": [
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259
+  ],
+  "sourceHashes": {
+    "docs/tz/Инструкция для разработчиков.md": "bd48b78a5006f3876a408e2b7b2b068290be4b943e78ed395f9464d2bc2f010d",
+    "docs/tz/Merge Heroes Unite War тз на разработку.md": "66fe2b5255e22462882218e183357033a7f56e6c0f3e174054f76ba43d7e4d1f",
+    "docs/tz/Реклама в приложениях.md": "23e92bd28598255b32f9c8e602d17ae71af60e5f08b46a01703b0e9d245f27ca"
+  },
+  "keyValuesIncluded": false,
+  "productionSDKExecution": "NOT_RUN"
+}

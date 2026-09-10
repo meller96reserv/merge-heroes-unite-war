@@ -1,0 +1,667 @@
+{
+  "taskId": "TASK-0158",
+  "status": "PASS",
+  "sourceSha256": "8249da242de68134c127567c82b5c7e0cda743ee4cfe88cc3300a4b0e7c89ff2",
+  "reviewSheets": [
+    "analysis/figma/import_review/character-anchors-1.png",
+    "analysis/figma/import_review/character-anchors-2.png",
+    "analysis/figma/import_review/boss-anchors.png"
+  ],
+  "records": [
+    {
+      "semanticId": "hero_turtle_warrior__1815x1620",
+      "sourceSha256": "1c237ea3661612276711c5bb4548ebc78e58f176f0ce15edf1e3b2275338b1ca",
+      "sourceDimensions": [
+        1815,
+        1620
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1815,
+        "h": 1620
+      },
+      "footPivot": [
+        0.64,
+        0.98
+      ],
+      "releaseSocket": [
+        0.28,
+        0.19
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Hammer head is left of body; keep full canvas during anticipation."
+    },
+    {
+      "semanticId": "hero_fox_sorcerer__1828x1679",
+      "sourceSha256": "865ed674fc801e56a8a5aefd4ca5a8206c45bcc68bd98edf35e8d46d831b8f06",
+      "sourceDimensions": [
+        1828,
+        1679
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1828,
+        "h": 1679
+      },
+      "footPivot": [
+        0.55,
+        0.98
+      ],
+      "releaseSocket": [
+        0.85,
+        0.31
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Staff crystal at upper right; tail remains inside complete sprite."
+    },
+    {
+      "semanticId": "hero_raccoon_engineer__1617x1662",
+      "sourceSha256": "800cd6f6e5c013bc35dbda41e27964de388aaf62c5d2892c4ab02d8f80805799",
+      "sourceDimensions": [
+        1617,
+        1662
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1617,
+        "h": 1662
+      },
+      "footPivot": [
+        0.51,
+        0.98
+      ],
+      "releaseSocket": [
+        0.9,
+        0.56
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Cannon muzzle points right; horizontal release socket."
+    },
+    {
+      "semanticId": "hero_owl_mage__1813x1760",
+      "sourceSha256": "36a86bab0a33a6123120197a3737429812d8581fc4f153fa05636a1642197f50",
+      "sourceDimensions": [
+        1813,
+        1760
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1813,
+        "h": 1760
+      },
+      "footPivot": [
+        0.5,
+        0.98
+      ],
+      "releaseSocket": [
+        0.15,
+        0.15
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Staff crystal upper left; floating orbs belong to flattened art."
+    },
+    {
+      "semanticId": "hero_panda_monk__1705x1775",
+      "sourceSha256": "43f57af8c76b8db945eb4493b5d941aa86f2f69eba999b6baa410451164d178b",
+      "sourceDimensions": [
+        1705,
+        1775
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1705,
+        "h": 1775
+      },
+      "footPivot": [
+        0.55,
+        0.98
+      ],
+      "releaseSocket": [
+        0.85,
+        0.53
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Glowing fist right; authored projectile origin, no detached fist."
+    },
+    {
+      "semanticId": "hero_bunny_assassin__1711x1827",
+      "sourceSha256": "c6d31753476eefb819839e82e6771e5af8769ee4a1a4dd1e4b72b7c001f04679",
+      "sourceDimensions": [
+        1711,
+        1827
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1711,
+        "h": 1827
+      },
+      "footPivot": [
+        0.52,
+        0.98
+      ],
+      "releaseSocket": [
+        0.9,
+        0.62
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Both blades extend laterally; no narrow torso clipping."
+    },
+    {
+      "semanticId": "hero_lion_knight__1616x1788",
+      "sourceSha256": "16dd368f0784fcd8000f08bc001998e8e043123123487605f5a9eafafc6916fc",
+      "sourceDimensions": [
+        1616,
+        1788
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1616,
+        "h": 1788
+      },
+      "footPivot": [
+        0.52,
+        0.98
+      ],
+      "releaseSocket": [
+        0.17,
+        0.2
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Tall sword upper left; shield stays attached."
+    },
+    {
+      "semanticId": "hero_ice_fairy__1718x1740",
+      "sourceSha256": "c5bca6b0f0bdea1962f2f1882f0457b8dd53cc27c6e90edd9c25573d25929579",
+      "sourceDimensions": [
+        1718,
+        1740
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1718,
+        "h": 1740
+      },
+      "footPivot": [
+        0.51,
+        0.98
+      ],
+      "releaseSocket": [
+        0.84,
+        0.3
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Hover pivot below pointed feet; wings are not separate layers."
+    },
+    {
+      "semanticId": "hero_inferno_dragon__1886x1748",
+      "sourceSha256": "98edc841daa5099456253acb15c58dcfd13ec3e3b665c88a97560f9e251d778f",
+      "sourceDimensions": [
+        1886,
+        1748
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1886,
+        "h": 1748
+      },
+      "footPivot": [
+        0.54,
+        0.98
+      ],
+      "releaseSocket": [
+        0.13,
+        0.19
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Spear upper left and wings at sides require full canvas."
+    },
+    {
+      "semanticId": "hero_elf_archer__1797x1858",
+      "sourceSha256": "f66d72d08e1210eafa306471c8867f9b06ae849ff9fd77eae6df7604525c0be7",
+      "sourceDimensions": [
+        1797,
+        1858
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1797,
+        "h": 1858
+      },
+      "footPivot": [
+        0.5,
+        0.98
+      ],
+      "releaseSocket": [
+        0.92,
+        0.41
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Arrow tip right of bow; preserve tip and bow top."
+    },
+    {
+      "semanticId": "enemy_ironhide_boar__1862x1681",
+      "sourceSha256": "f4a011a953e9d21b58200c7f8ffdf23b81dcfbcf8f022b77baa7ae5337329237",
+      "sourceDimensions": [
+        1862,
+        1681
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1862,
+        "h": 1681
+      },
+      "footPivot": [
+        0.59,
+        0.98
+      ],
+      "releaseSocket": [
+        0.17,
+        0.29
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Mace upper left; full-width shoulder and tusks."
+    },
+    {
+      "semanticId": "enemy_poison_mushroom__1596x1576",
+      "sourceSha256": "41aa0e1ac6e0eb6205846f41196a20372274580c3b45ffe5733bdbf86ee0a0b7",
+      "sourceDimensions": [
+        1596,
+        1576
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1596,
+        "h": 1576
+      },
+      "footPivot": [
+        0.56,
+        0.98
+      ],
+      "releaseSocket": [
+        0.25,
+        0.19
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Staff and cap canopy remain whole."
+    },
+    {
+      "semanticId": "enemy_toxic_slime__1654x1388",
+      "sourceSha256": "8a5c6aaa363f8decbf070b5f41175355efc664ec509bb8f4b45fe03dcf0cce7a",
+      "sourceDimensions": [
+        1654,
+        1388
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1654,
+        "h": 1388
+      },
+      "footPivot": [
+        0.5,
+        0.98
+      ],
+      "releaseSocket": [
+        0.5,
+        0.49
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Grounded puddle; no feet rig inferred."
+    },
+    {
+      "semanticId": "enemy_fire_lizard__1562x1651",
+      "sourceSha256": "a077a6307dd25d102c917f5c6f8585d6e8de991942805716c81e9e96cd3212d1",
+      "sourceDimensions": [
+        1562,
+        1651
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1562,
+        "h": 1651
+      },
+      "footPivot": [
+        0.57,
+        0.98
+      ],
+      "releaseSocket": [
+        0.19,
+        0.16
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Long spear left; never crop to torso."
+    },
+    {
+      "semanticId": "enemy_bomb_goblin__1606x1561",
+      "sourceSha256": "5c8e84e8451eb51aaf077f1be720af1c8344c4328334f2c809fc33724bedbc99",
+      "sourceDimensions": [
+        1606,
+        1561
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1606,
+        "h": 1561
+      },
+      "footPivot": [
+        0.55,
+        0.98
+      ],
+      "releaseSocket": [
+        0.17,
+        0.45
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Bomb fuse is baked into sprite; do not animate/cut flame."
+    },
+    {
+      "semanticId": "enemy_stone_gargoyle__1789x1558",
+      "sourceSha256": "0884660aeb4e4650f68f218a89143280903c84bd20d4adefe231cfe3bef994d5",
+      "sourceDimensions": [
+        1789,
+        1558
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1789,
+        "h": 1558
+      },
+      "footPivot": [
+        0.5,
+        0.98
+      ],
+      "releaseSocket": [
+        0.77,
+        0.6
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Wings and hands remain a rigid sprite."
+    },
+    {
+      "semanticId": "enemy_dark_bat_mage__1888x1531",
+      "sourceSha256": "f118f2c0887a3c7d9e3ade50c1fa7443169166c6a94c4cc86d5cab8a64ee7183",
+      "sourceDimensions": [
+        1888,
+        1531
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1888,
+        "h": 1531
+      },
+      "footPivot": [
+        0.53,
+        0.98
+      ],
+      "releaseSocket": [
+        0.13,
+        0.28
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Staff aura and wings are baked."
+    },
+    {
+      "semanticId": "enemy_shadow_wolf__1783x1677",
+      "sourceSha256": "c71995cce8a8c0efd10ef6bd19923ddb06756503f4a0eef4f396b9f5f1f677f3",
+      "sourceDimensions": [
+        1783,
+        1677
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1783,
+        "h": 1677
+      },
+      "footPivot": [
+        0.52,
+        0.98
+      ],
+      "releaseSocket": [
+        0.8,
+        0.62
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Claw wisps remain part of full sprite."
+    },
+    {
+      "semanticId": "enemy_swamp_crocodile__1895x1429",
+      "sourceSha256": "ff94cd486f51ec02d99911341d145c24d7edceb40acc48b3c1a601fb7897c980",
+      "sourceDimensions": [
+        1895,
+        1429
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1895,
+        "h": 1429
+      },
+      "footPivot": [
+        0.55,
+        0.98
+      ],
+      "releaseSocket": [
+        0.15,
+        0.55
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Both curved blades extend beyond torso."
+    },
+    {
+      "semanticId": "enemy_iron_beetle__1835x1638",
+      "sourceSha256": "a700c124e81fbedc1330d5894e493eae5869a138d59f9f58111e48b874f1cc51",
+      "sourceDimensions": [
+        1835,
+        1638
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1835,
+        "h": 1638
+      },
+      "footPivot": [
+        0.53,
+        0.98
+      ],
+      "releaseSocket": [
+        0.77,
+        0.6
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Wide armor and horn; no independent armor rig."
+    },
+    {
+      "semanticId": "boss_infernal_dragon__1968x1659",
+      "sourceSha256": "2d060451d45ab5b82785cec7a77472d9cc21f1ff19de2fc5856379d96b24ae12",
+      "sourceDimensions": [
+        1968,
+        1659
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1968,
+        "h": 1659
+      },
+      "footPivot": [
+        0.49,
+        0.98
+      ],
+      "releaseSocket": [
+        0.35,
+        0.46
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Full wingspan; mouth socket only cosmetic."
+    },
+    {
+      "semanticId": "boss_shadow_dragon__1974x1657",
+      "sourceSha256": "e2953ae77e9a51b37e90cd4b86f351b2feb6afc31fcc3e3cfb6495436125c2c5",
+      "sourceDimensions": [
+        1974,
+        1657
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1974,
+        "h": 1657
+      },
+      "footPivot": [
+        0.48,
+        0.98
+      ],
+      "releaseSocket": [
+        0.3,
+        0.49
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Wing tips and flame tail require full canvas."
+    },
+    {
+      "semanticId": "boss_frost_dragon__1995x1925",
+      "sourceSha256": "39e0df703351086f18db825f78e516d6c51258604fa2a471c3029f7709431e51",
+      "sourceDimensions": [
+        1995,
+        1925
+      ],
+      "alphaBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1995,
+        "h": 1925
+      },
+      "footPivot": [
+        0.52,
+        0.98
+      ],
+      "releaseSocket": [
+        0.29,
+        0.48
+      ],
+      "anchorStatus": "PROPOSED_VISUALLY_AUTHORED_FULL_CANVAS",
+      "sourceRig": "UNKNOWN_NOT_IN_FLATTENED_RASTER",
+      "representation": "wholeSprite",
+      "autoCutAllowed": false,
+      "clipPolicy": "complete canvas plus at least 16 design-pixel motion margin; scene clip only",
+      "review": "Ice spikes and wings remain attached; mouth origin cosmetic."
+    }
+  ],
+  "background": {
+    "semanticId": "background_floating_islands__941x1672",
+    "observed": "Single flattened background contains sky, islands, waterfalls, flags, crystals and ground. No independent depth layers in this raster.",
+    "allowed": "Static full background; restrained independently authored overlay particles in TASK-0174.",
+    "prohibited": "Automatic depth segmentation, limb cutting, moving ground under fixed feet or moving HUD with world shake.",
+    "reducedMotion": "static",
+    "lowQuality": "static"
+  },
+  "runtimeValidation": "TASK-0110 browser captures use current shared presenters. Per-character authored anchors are handed to TASK-0161/0162/0163; not yet wired.",
+  "referenceMotionParity": "UNKNOWN U-026",
+  "native": "NOT_RUN"
+}

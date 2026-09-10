@@ -1,0 +1,28 @@
+# Cocos 3.8.8 ships separate signed-vendor libraries for Apple Silicon simulators.
+# Select those libraries in this project without editing the Creator application.
+option(KISEL_APPLE_SILICON_SIMULATOR "Use the Cocos arm64 simulator libraries" OFF)
+if(KISEL_APPLE_SILICON_SIMULATOR)
+    if(NOT CMAKE_OSX_SYSROOT MATCHES "iphonesimulator")
+        message(FATAL_ERROR "The arm64 simulator option requires iphonesimulator SDK")
+    endif()
+    get_property(kisel_imported DIRECTORY PROPERTY IMPORTED_TARGETS)
+    get_property(kisel_built DIRECTORY PROPERTY BUILDSYSTEM_TARGETS)
+    foreach(kisel_target IN LISTS kisel_imported kisel_built)
+        # The vendor declares unused SpiderMonkey targets without shipping those
+        # binaries. This V8 probe only requires the selected external link inputs.
+        if(kisel_target IN_LIST kisel_imported AND NOT kisel_target IN_LIST CC_EXTERNAL_LIBS)
+            continue()
+        endif()
+        foreach(kisel_property IMPORTED_LOCATION INTERFACE_INCLUDE_DIRECTORIES INCLUDE_DIRECTORIES)
+            get_target_property(kisel_value ${kisel_target} ${kisel_property})
+            if(kisel_value AND kisel_value MATCHES "/external/ios/")
+                string(REPLACE "/external/ios/" "/external/ios-m1-simulator/" kisel_mapped "${kisel_value}")
+                if(kisel_property STREQUAL "IMPORTED_LOCATION" AND NOT EXISTS "${kisel_mapped}")
+                    message(FATAL_ERROR "Missing Cocos arm64 simulator input: ${kisel_mapped}")
+                endif()
+                set_target_properties(${kisel_target} PROPERTIES ${kisel_property} "${kisel_mapped}")
+            endif()
+        endforeach()
+    endforeach()
+    message(STATUS "Kisel: selected Cocos ios-m1-simulator inputs")
+endif()

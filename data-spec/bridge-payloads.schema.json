@@ -1,0 +1,1034 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kisel.invalid/schemas/bridge-payloads.schema.json",
+  "title": "bridge-payloads",
+  "description": "PROPOSED planning contract. Validate cross-record references separately. Not reference balance.",
+  "$defs": {
+    "game.ready": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "gameBuild": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "supportedVersions": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 9007199254740991
+          },
+          "minItems": 1
+        },
+        "capabilities": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+          },
+          "minItems": 0
+        }
+      },
+      "required": [
+        "gameBuild",
+        "supportedVersions",
+        "capabilities"
+      ]
+    },
+    "game.error": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "messageKey": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "retryable": {
+          "type": "boolean"
+        },
+        "correlationId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        }
+      },
+      "required": [
+        "code",
+        "messageKey",
+        "retryable",
+        "correlationId"
+      ]
+    },
+    "game.exitRequested": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "reason": {
+          "enum": [
+            "back",
+            "close",
+            "fatal"
+          ]
+        },
+        "lastCommittedGeneration": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "flushStatus": {
+          "enum": [
+            "complete",
+            "pending",
+            "failed"
+          ]
+        }
+      },
+      "required": [
+        "reason",
+        "lastCommittedGeneration",
+        "flushStatus"
+      ]
+    },
+    "progress.stageChanged": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "stageId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "highestClearedOrdinal": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "stageId",
+        "highestClearedOrdinal",
+        "revision"
+      ]
+    },
+    "currency.changed": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "currencyId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "balance": {
+          "type": "string",
+          "pattern": "^(0|[1-9][0-9]*)$"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "transactionId": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "currencyId",
+        "balance",
+        "revision",
+        "transactionId"
+      ]
+    },
+    "reward.claimed": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "transactionId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "sourceId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "rewardId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "transactionId",
+        "sourceId",
+        "rewardId",
+        "revision"
+      ]
+    },
+    "purchase.requested": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "operationId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "productId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "quantity": {
+          "const": 1
+        }
+      },
+      "required": [
+        "operationId",
+        "productId",
+        "quantity"
+      ]
+    },
+    "ad.rewardRequested": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "operationId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "placementId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        }
+      },
+      "required": [
+        "operationId",
+        "placementId"
+      ]
+    },
+    "analytics.event": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "eventId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "name": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "properties": {
+          "type": "object",
+          "maxProperties": 20,
+          "additionalProperties": {
+            "type": [
+              "string",
+              "number",
+              "boolean",
+              "null"
+            ]
+          }
+        },
+        "consent": {
+          "enum": [
+            "granted"
+          ]
+        }
+      },
+      "required": [
+        "eventId",
+        "name",
+        "properties",
+        "consent"
+      ]
+    },
+    "save.changed": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "generation": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "schemaVersion": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 9007199254740991
+        },
+        "dataVersion": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "checksum": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      },
+      "required": [
+        "generation",
+        "revision",
+        "schemaVersion",
+        "dataVersion",
+        "checksum"
+      ]
+    },
+    "player.levelChanged": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "accountLevel": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 9007199254740991
+        },
+        "xp": {
+          "type": "string",
+          "pattern": "^(0|[1-9][0-9]*)$"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "accountLevel",
+        "xp",
+        "revision"
+      ]
+    },
+    "app.initialize": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "userNamespace": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "environment": {
+          "enum": [
+            "development",
+            "test",
+            "production"
+          ]
+        },
+        "hostBuild": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "safeArea": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "top": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "right": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "bottom": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "left": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "unit": {
+              "enum": [
+                "logicalPoints"
+              ]
+            },
+            "scale": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            }
+          },
+          "required": [
+            "top",
+            "right",
+            "bottom",
+            "left",
+            "unit",
+            "scale"
+          ]
+        },
+        "settings": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "musicGain": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "sfxGain": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "haptics": {
+              "type": "boolean"
+            },
+            "reducedMotion": {
+              "type": "boolean"
+            },
+            "notifications": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "musicGain",
+            "sfxGain",
+            "haptics",
+            "reducedMotion",
+            "notifications"
+          ]
+        },
+        "settingsRevision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "initialRoute": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "externalRewardsEnabled": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "userNamespace",
+        "environment",
+        "hostBuild",
+        "safeArea",
+        "settings",
+        "settingsRevision",
+        "initialRoute",
+        "externalRewardsEnabled"
+      ]
+    },
+    "app.userChanged": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "userNamespace": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "reason": {
+          "enum": [
+            "signIn",
+            "signOut",
+            "switchAccount"
+          ]
+        }
+      },
+      "required": [
+        "userNamespace",
+        "reason"
+      ]
+    },
+    "app.purchaseResult": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "operationId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "productId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "status": {
+          "enum": [
+            "verified",
+            "cancelled",
+            "failed",
+            "pending"
+          ]
+        },
+        "verificationToken": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "errorCode": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "operationId",
+        "productId",
+        "status",
+        "verificationToken",
+        "errorCode"
+      ]
+    },
+    "app.rewardGranted": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "operationId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "placementId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "verificationToken": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "operationId",
+        "placementId",
+        "verificationToken"
+      ]
+    },
+    "app.pause": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "reason": {
+          "enum": [
+            "background",
+            "interruption",
+            "exit"
+          ]
+        },
+        "hostMonotonicMs": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "wallUtcMs": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "flushRequested": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "reason",
+        "hostMonotonicMs",
+        "wallUtcMs",
+        "flushRequested"
+      ]
+    },
+    "app.resume": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "hostMonotonicMs": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "wallUtcMs": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "safeArea": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "top": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "right": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "bottom": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "left": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "unit": {
+              "enum": [
+                "logicalPoints"
+              ]
+            },
+            "scale": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            }
+          },
+          "required": [
+            "top",
+            "right",
+            "bottom",
+            "left",
+            "unit",
+            "scale"
+          ]
+        }
+      },
+      "required": [
+        "hostMonotonicMs",
+        "wallUtcMs",
+        "safeArea"
+      ]
+    },
+    "app.settingsChanged": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "settingsRevision": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "settings": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "musicGain": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "sfxGain": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "haptics": {
+              "type": "boolean"
+            },
+            "reducedMotion": {
+              "type": "boolean"
+            },
+            "notifications": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "musicGain",
+            "sfxGain",
+            "haptics",
+            "reducedMotion",
+            "notifications"
+          ]
+        }
+      },
+      "required": [
+        "settingsRevision",
+        "settings"
+      ]
+    },
+    "app.deepLink": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "routeId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "entityId": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "routeId",
+        "entityId"
+      ]
+    },
+    "app.notificationOpened": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "notificationId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        },
+        "routeId": {
+          "type": "string",
+          "pattern": "^[A-Za-z][A-Za-z0-9_.:-]*$"
+        }
+      },
+      "required": [
+        "notificationId",
+        "routeId"
+      ]
+    }
+  },
+  "oneOf": [
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "game.ready"
+        },
+        "payload": {
+          "$ref": "#/$defs/game.ready"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "game.error"
+        },
+        "payload": {
+          "$ref": "#/$defs/game.error"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "game.exitRequested"
+        },
+        "payload": {
+          "$ref": "#/$defs/game.exitRequested"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "progress.stageChanged"
+        },
+        "payload": {
+          "$ref": "#/$defs/progress.stageChanged"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "currency.changed"
+        },
+        "payload": {
+          "$ref": "#/$defs/currency.changed"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "reward.claimed"
+        },
+        "payload": {
+          "$ref": "#/$defs/reward.claimed"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "purchase.requested"
+        },
+        "payload": {
+          "$ref": "#/$defs/purchase.requested"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "ad.rewardRequested"
+        },
+        "payload": {
+          "$ref": "#/$defs/ad.rewardRequested"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "analytics.event"
+        },
+        "payload": {
+          "$ref": "#/$defs/analytics.event"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "save.changed"
+        },
+        "payload": {
+          "$ref": "#/$defs/save.changed"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "player.levelChanged"
+        },
+        "payload": {
+          "$ref": "#/$defs/player.levelChanged"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.initialize"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.initialize"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.userChanged"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.userChanged"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.purchaseResult"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.purchaseResult"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.rewardGranted"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.rewardGranted"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.pause"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.pause"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.resume"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.resume"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.settingsChanged"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.settingsChanged"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.deepLink"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.deepLink"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "type",
+        "payload"
+      ],
+      "properties": {
+        "type": {
+          "const": "app.notificationOpened"
+        },
+        "payload": {
+          "$ref": "#/$defs/app.notificationOpened"
+        }
+      }
+    }
+  ],
+  "$comment": "SUPERSEDED historical spike contract; ADR-007 production uses typed platform services."
+}

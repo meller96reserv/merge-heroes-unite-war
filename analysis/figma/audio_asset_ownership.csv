@@ -1,0 +1,36 @@
+eventId,status,creator,license,sourceFile,distributionProof,blocksRelease
+music.main,acquired-original,Project / Codex-assisted original composition and synthesis,PROJECT_ORIGINAL,app/assets/audio/music/manifest.json#music.main,app/assets/audio/PROVENANCE.md,no
+music.boss,acquired-original,Project / Codex-assisted original composition and synthesis,PROJECT_ORIGINAL,app/assets/audio/music/manifest.json#music.boss,app/assets/audio/PROVENANCE.md,no
+ambience.main,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/ambience/manifest.json,app/assets/audio/PROVENANCE.md,no
+ui.soft,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#ui.soft,app/assets/audio/PROVENANCE.md,no
+ui.primary,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#ui.primary,app/assets/audio/PROVENANCE.md,no
+ui.popupOpen,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#ui.popupOpen,app/assets/audio/PROVENANCE.md,no
+ui.popupClose,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#ui.popupClose,app/assets/audio/PROVENANCE.md,no
+ui.tab,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#ui.tab,app/assets/audio/PROVENANCE.md,no
+ui.error,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#ui.error,app/assets/audio/PROVENANCE.md,no
+economy.goldGain,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#economy.goldGain,app/assets/audio/PROVENANCE.md,no
+economy.goldSpend,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#economy.goldSpend,app/assets/audio/PROVENANCE.md,no
+economy.gemGain,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#economy.gemGain,app/assets/audio/PROVENANCE.md,no
+hero.spawn,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#hero.spawn,app/assets/audio/PROVENANCE.md,no
+merge.low,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#merge.low,app/assets/audio/PROVENANCE.md,no
+merge.mid,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#merge.mid,app/assets/audio/PROVENANCE.md,no
+merge.high,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#merge.high,app/assets/audio/PROVENANCE.md,no
+merge.cascade,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#merge.cascade,app/assets/audio/PROVENANCE.md,no
+combat.melee,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#combat.melee,app/assets/audio/PROVENANCE.md,no
+combat.ranged,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#combat.ranged,app/assets/audio/PROVENANCE.md,no
+combat.magic,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#combat.magic,app/assets/audio/PROVENANCE.md,no
+combat.hit,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#combat.hit,app/assets/audio/PROVENANCE.md,no
+combat.crit,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#combat.crit,app/assets/audio/PROVENANCE.md,no
+enemy.deathSmall,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#enemy.deathSmall,app/assets/audio/PROVENANCE.md,no
+enemy.deathLarge,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#enemy.deathLarge,app/assets/audio/PROVENANCE.md,no
+boss.intro,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#boss.intro,app/assets/audio/PROVENANCE.md,no
+boss.death,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#boss.death,app/assets/audio/PROVENANCE.md,no
+progress.stageClear,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#progress.stageClear,app/assets/audio/PROVENANCE.md,no
+progress.unlock,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#progress.unlock,app/assets/audio/PROVENANCE.md,no
+wheel.tick,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#wheel.tick,app/assets/audio/PROVENANCE.md,no
+wheel.result,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#wheel.result,app/assets/audio/PROVENANCE.md,no
+reward.daily,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#reward.daily,app/assets/audio/PROVENANCE.md,no
+reward.chest,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#reward.chest,app/assets/audio/PROVENANCE.md,no
+equipment.equip,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#equipment.equip,app/assets/audio/PROVENANCE.md,no
+equipment.upgrade,acquired-original,Project / Codex-assisted original synthesis,PROJECT_ORIGINAL,app/assets/audio/sfx/manifest.json#equipment.upgrade,app/assets/audio/PROVENANCE.md,no
+reward.offline,DEFERRED_POST_DELIVERY,UNKNOWN,UNKNOWN,NOT_ACQUIRED,MISSING,no

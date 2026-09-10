@@ -1,0 +1,8 @@
+appId: org.reactjs.native.example.KiselNativeProbe
+---
+- launchApp
+- assertVisible: "RN taps: 0"
+- tapOn:
+    id: rn-tap-button
+- assertVisible: "RN taps: 1"
+- takeScreenshot: rn-ios-touch

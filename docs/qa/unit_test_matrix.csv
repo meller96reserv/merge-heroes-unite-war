@@ -1,0 +1,25 @@
+testId,system,cases,oracle,phase
+UT-001,Amount,"0,1,9007199254740992 and10^30; add/subtract/format",exact results; negative debit rejected,"06,15"
+UT-002,Purchase,cost equals balance; one less; full board; repeated command,one debit+hero or no mutation,07
+UT-003,Hold input,"20taps,2s hold,cancel/up/outside/background",one command per accepted repeat; no runaway timer,07
+UT-004,Manual merge,"same pair,different family,tier,max,occupied/deployed",valid consumes two creates one at target; reject unchanged,07
+UT-005,Auto merge,"[1,1,2],[1,1,1,1],disjoint pairs,max tier",configured stable order; terminates within occupancy−1,07
+UT-006,Deployment,"owned/unowned,cap,withdraw twice",subset ownership and cap invariant,07
+UT-007,Targeting,"two targets,dead target,stage boundary",stable tie-break; stale target policy,08
+UT-008,Attack scheduling,"cooldown boundary,split ticks,missed render frames",same attack intents at same simulation ticks,08
+UT-009,Damage,"zero defense,defense≥attack,crit0/100%,overflow",configured rounding/min damage; HP clamped,08
+UT-010,Death,two lethal hits same tick,one death and one kill entitlement,08
+UT-011,Stage/boss,"last wave,timeout,lethal-timeout tie,retry farming",one first-clear; unique repeat encounter sequence,09
+UT-012,Unlocks,"allOf/anyOf,boundary,already announced",condition correct; popup once,09
+UT-013,Rewards,"duplicate claim,save failure,crash after persist",grant+receipt+watermark atomic; no duplicate,"06,12"
+UT-014,Quest,"duplicate source event,target boundary,claim twice",counter bounded and reward once,11
+UT-015,Daily,"UTC midnight,missed day,clock rollback",configured period/streak semantics; no second same-period claim,11
+UT-016,Wheel,"reserve/reopen/skip/duplicate,zero weights",saved outcome survives; invalid table rejected,11
+UT-017,Equipment,"equip owned item,swap,unequip,upgrade max",ownership unique; cost and stats atomic,10
+UT-018,Offline,"negative/zero/cap/cap+1,repeat resume,pending claim",clamped interval and exactly-once watermark,12
+UT-019,Save/migration,"corrupt A/B,future version,missing alias",last valid candidate or explicit recoverable block,12
+UT-020,RNG,"same seed,render quality changes,extra audio calls",core replay identical; presentation RNG isolated,"06,08"
+UT-021,Red dots,"claimability changes,seen/restart",derived state matches current claim/unlock facts,11
+UT-022,Platform result validation,unknown/stale/duplicate/oversize/malformed,reject before mutation; pending authority checked,"16"
+UT-023,Config graph,"orphan IDs,cycle,invalid tier,zero wheel sum",diagnostic file/ID/field; build blocked,"04,15"
+UT-024,Subscriptions/pools,"dispose during dispatch,late callback,reuse",no listener leak or reused-node mutation,"13,17"

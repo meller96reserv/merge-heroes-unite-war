@@ -1,0 +1,15 @@
+TAP version 13
+# Subtest: configured wave creates unique generation-scoped identities and no reward on spawn
+ok 1 - configured wave creates unique generation-scoped identities and no reward on spawn
+  ---
+  duration_ms: 1.154833
+  ...
+1..1
+# tests 1
+# suites 0
+# pass 1
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 393.26825

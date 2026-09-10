@@ -1,0 +1,8 @@
+{
+  "task": "TASK-0071",
+  "status": "PASS",
+  "schema": "data-spec/save.schema.json",
+  "instance": "analysis/reports/core-state/state-fixture.json",
+  "validator": "jsonschema Draft202012Validator",
+  "errors": []
+}

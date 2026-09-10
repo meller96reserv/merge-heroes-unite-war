@@ -1,0 +1,36 @@
+{
+  "version": "original-ambience-v1",
+  "id": "ambience.main",
+  "source": "tooling/audio/synthesize-ambience.py",
+  "provenance": "app/assets/audio/PROVENANCE.md",
+  "creator": "Project / Codex-assisted original synthesis",
+  "gainDb": -30,
+  "files": [
+    {
+      "path": "app/assets/audio/ambience/ambience_main_1.mp3",
+      "sha256": "ed96f63491a7ff5f0ef52b4ebad3d9ee5097400dabfd80fa9f75b4de9f8420d1",
+      "masterSha256": "f113bdf0ed7e37b7333c3f0db120f851c30535e9827c0dfe59b5125663f13092",
+      "durationMs": 90000,
+      "sampleRate": 32000,
+      "channels": 1,
+      "loop": true,
+      "loopStartFrame": 0,
+      "loopEndFrame": 2880000,
+      "peakDbFS": -4.44,
+      "status": "PROJECT_ORIGINAL"
+    },
+    {
+      "path": "app/assets/audio/ambience/ambience_main_2.mp3",
+      "sha256": "da8bdb7e04360b2b70b57f32ca64b311806858b012a19587ba0c7e242f6679df",
+      "masterSha256": "f76305b96ec87e3edaca87b9e0be37bc77c79ce547dad619bb32ee116b50d6d2",
+      "durationMs": 90000,
+      "sampleRate": 32000,
+      "channels": 1,
+      "loop": true,
+      "loopStartFrame": 0,
+      "loopEndFrame": 2880000,
+      "peakDbFS": -4.44,
+      "status": "PROJECT_ORIGINAL"
+    }
+  ]
+}

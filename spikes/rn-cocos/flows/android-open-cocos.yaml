@@ -1,0 +1,10 @@
+appId: com.kiselnativeprobe
+---
+- assertVisible: "Open native Cocos"
+- assertVisible: "ready"
+- tapOn:
+    id: open-cocos
+- tapOn:
+    point: "50%,60%"
+    retryTapIfNoChange: false
+- takeScreenshot: android-host-cocos

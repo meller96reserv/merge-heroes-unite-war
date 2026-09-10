@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "quickTap": true,
+  "purchaseSpawn": true,
+  "dragMerge": true,
+  "discoveryOnce": true,
+  "fullBoardNoDebit": true,
+  "incompatibleNoMutation": true,
+  "emptySlotMove": true,
+  "outsideCancel": true,
+  "blurCancel": true,
+  "quotaFailureNoMutation": true,
+  "reloadPreservesHeroesAndGold": true,
+  "holdStopsAfterRelease": true,
+  "runtimeErrors": 0,
+  "native": "NOT_RUN"
+}

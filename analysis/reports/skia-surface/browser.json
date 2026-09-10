@@ -1,0 +1,48 @@
+{
+  "taskId": "TASK-0049",
+  "cases": [
+    {
+      "name": "Skia pixels follow Gesture Handler drag",
+      "status": "PASS",
+      "idleCenter": [
+        190.5,
+        124.5
+      ],
+      "dragCenter": [
+        270.0,
+        164.0
+      ]
+    },
+    {
+      "name": "Reanimated release interpolates and settles",
+      "status": "PASS",
+      "intermediateCenter": [
+        214.24,
+        136.31
+      ],
+      "settledCenter": [
+        190.5,
+        124.5
+      ]
+    },
+    {
+      "name": "cancelled gesture reconciles to idle",
+      "status": "PASS",
+      "center": [
+        190.5,
+        124.5
+      ]
+    },
+    {
+      "name": "compact/tablet layout keeps surface visible",
+      "status": "PASS"
+    },
+    {
+      "name": "three reloads each mount exactly one canvas",
+      "status": "PASS"
+    }
+  ],
+  "pageErrors": [],
+  "nativeExecution": "NOT_RUN",
+  "status": "PASS"
+}

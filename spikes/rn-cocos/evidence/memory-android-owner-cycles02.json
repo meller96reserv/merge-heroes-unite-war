@@ -1,0 +1,82 @@
+{
+  "status": "PASS",
+  "cycles": [
+    {
+      "cycle": 0,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 1,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 2,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 3,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 4,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 5,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 6,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 7,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 8,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 9,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    },
+    {
+      "cycle": 10,
+      "freshBridge": true,
+      "destroyedLiveCount": 0,
+      "samePid": 8667,
+      "status": "PASS"
+    }
+  ]
+}

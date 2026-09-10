@@ -1,0 +1,46 @@
+mechanic,status,boundedFinding
+Launch/loading,OBSERVED,RUN01/02portal/loading and fresh tutorial
+Tutorial,OBSERVED,buy2→manualmerge→deploy→withdraw→redeploy→missions→boss/auto
+Main currency,OBSERVED,gold icon/cost/kill and reward changes
+Premium currency,OBSERVED,bluegems and discovery grants
+Hero buy,OBSERVED,tap and hold
+Buy cost progression,UNKNOWN,firstprices1;no30-buyisolatedseries
+Buy tier progression,UNKNOWN,buytier1remaineddisplayed
+Board slots,OBSERVED,"15positions,5initialopen"
+Slot unlock,OBSERVED,accountlevel2+1platform;laterthresholdsunknown
+Merge condition,OBSERVED,equal earlytierpairs;max/familyexceptionsunknown
+Auto merge,OBSERVED,60minuteFree/500gemoffer;Freeactivated
+Merge cascade,OBSERVED,three-stepauto cascade toBerserker4
+Max tier,UNKNOWN,notreached
+Hero deployment,OBSERVED,"drag,tapwithdraw,cap1early;autoresultretained"
+Auto battle,OBSERVED,attacks/deaths/stagesafterdeployment
+Attack speed,UNKNOWN,icon2.0/2.5/1.5displayed;shorttimingboundsnotformula
+Damage,OBSERVED,5/13normaland32critdisplaycases;formularemainsunknown
+Crit,OBSERVED,CRITICAL32labelonBerserker4;probabilityunknown
+Enemy HP,OBSERVED,"1,4,16,81;boss70;normal121/144/196"
+Enemy attack,UNKNOWN,Legendaryhelpdescribesit;modeunplayed
+Stage waves,UNKNOWN,singlevisibletargetearly;generalwavecountunknown
+Boss cadence,UNKNOWN,firstboss1-10observed;threerepeatedbossesnotcaptured
+Boss timer/fail,OBSERVED,"timerbar/Giveup,priorfarmretryandonewin;exacttimeoutunknown"
+Stage rewards,OBSERVED,"kill1early,bossdelta10000;generalcatalogueunknown"
+Unlocks,OBSERVED,"autoafterboss,platformlevel2;fullgraphunknown"
+Offline rewards,OBSERVED,"3:34popup,247Kgold+4types;cap/rateunknown"
+Hero level,OBSERVED,tier1–4andaccountlevel2;upgradeformulaunknown
+Hero equipment,UNKNOWN,Figmaexists;liveequipmentnotreached
+Equipment upgrade,UNKNOWN,Figmaexists;liveenhancenotcaptured
+Summon/open x1/x10,UNKNOWN,Figmaoffersonly;livepoolunknown
+Daily reward,OBSERVED,7dayattendance;claim/resetnotfullytested
+Wheel,UNKNOWN,Figmathreestates;livewheelnotlocatedinboundedearlysession
+Quest,OBSERVED,kill2/2thenHireHero0/5→2/5
+Gift,OBSERVED,sidebarGifticon;contentsunknown
+Event,OBSERVED,LaunchLoginEventandAdPackEventmenu
+Settings,OBSERVED,"version,info,sound,attendance,language,help,terms,account,powersavingbuttons"
+Audio settings,OBSERVED,Soundentry;actualsoundauditionnotdone
+Haptics,UNKNOWN,Figma toggle;reference nativebehaviorunmeasured
+Alternative battle contents,OBSERVED,marketing/helpdescribesDragon/Demon;actualmodesunplayed
+Shop/IAP,OUT OF SCOPE,mobilelistingadvertisesIAP;nocharges/SDKimplementation
+Ads/rewarded ads,OBSERVED,Freevideoautoofferactivated;providerverificationnotinspected
+Save behavior,OBSERVED,sameguestcontextreloadretainslevel2/gems400/progress;crashsemanticsunknown
+Background behavior,UNKNOWN,browsernavigationabsenceobserved;nativehome/locknotavailable
+Navigation while battle active,OBSERVED,settings/help/rewardpopupcontinuity
+Red dot rules,UNKNOWN,dotsvisible;completepredicate/resetnotestablished

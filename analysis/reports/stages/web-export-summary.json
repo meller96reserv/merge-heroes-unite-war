@@ -1,0 +1,10 @@
+{
+  "format": "diagnostic-summary-v1",
+  "sourceSha256": "2b7937f99685a45c683f855578484925b92742dab5b38f2bcdf5cd327a96e513",
+  "sourceBytes": 10548,
+  "lineCount": 123,
+  "successMarkerCount": 0,
+  "failureMarkerCount": 0,
+  "executionStatus": "NOT_ASSERTED",
+  "rawMessagesIncluded": false
+}

@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "kind": "melee",
+      "status": "PASS",
+      "anticipationToReleasePixels": 4262,
+      "releaseMarkerMs": 150,
+      "damageOnlyAfterCoreStep": true,
+      "runtimeErrors": 0
+    },
+    {
+      "kind": "magic",
+      "status": "PASS",
+      "anticipationToReleasePixels": 2986,
+      "releaseMarkerMs": 150,
+      "damageOnlyAfterCoreStep": true,
+      "runtimeErrors": 0
+    },
+    {
+      "kind": "ranged",
+      "status": "PASS",
+      "anticipationToReleasePixels": 3430,
+      "releaseMarkerMs": 150,
+      "damageOnlyAfterCoreStep": true,
+      "runtimeErrors": 0
+    }
+  ],
+  "native": "NOT_RUN"
+}

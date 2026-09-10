@@ -1,0 +1,32 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {AudioLifecycle} from '../../app/src/audio/AudioLifecycle';
+import {GameRuntime} from '../../app/src/game/GameRuntime';
+import {createState,draft} from '../../game-core/src/model/GameState';
+import {FakeClock,MemorySaveStore} from '../../game-core/src/ports';
+import {TransactionCoordinator} from '../../game-core/src/systems/TransactionCoordinator';
+import {recoverSave} from '../../game-core/src/persistence/SaveRecovery';
+test('nested ad/focus/background gates cannot resume audio early; rejected ads release only their own hold',async()=>{
+ const active:boolean[]=[],gains:number[][]=[];
+ const lifecycle=new AudioLifecycle({setActive:v=>{active.push(v);},setGains:(m,s)=>{gains.push([m,s]);},unlock:async()=>{}});
+ const state=createState({dataVersion:'playable-v1',initialGold:'100',utcMs:1000});lifecycle.apply(state);assert.deepEqual(active,[false,true]);
+ const ad=lifecycle.hold('ad'),other=lifecycle.hold('other');lifecycle.setGate('app',false);ad();ad();other();assert.equal(active.at(-1),false);
+ lifecycle.setGate('app',true);assert.equal(active.at(-1),true);
+ await assert.rejects(lifecycle.during('failed-ad',async()=>{lifecycle.setGate('focus',false);throw Error('injected');}));assert.equal(active.at(-1),false);
+ lifecycle.setGate('focus',true);assert.equal(active.at(-1),true);
+ state.revision=2;state.data.settings.musicGain=0;lifecycle.apply(state);state.revision=1;state.data.settings.musicGain=1;lifecycle.apply(state);assert.deepEqual(gains.at(-1),[0,1]);
+ lifecycle.dispose();assert.equal(active.at(-1),false);
+});
+test('gain changes persist atomically across reload, reject stale settings and keep mute after a failed write',async()=>{
+ const clock=new FakeClock(1000),store=new MemorySaveStore(),commit=new TransactionCoordinator(store,clock,'audio-settings').commit;
+ const game=new GameRuntime(createState({dataVersion:'playable-v1',initialGold:'100',utcMs:1000}),commit),applied:number[][]=[];
+ const lifecycle=new AudioLifecycle({setActive:()=>{},setGains:(m,s)=>{applied.push([m,s]);},unlock:async()=>{}}),off=lifecycle.bind(game);
+ const update={type:'UpdateSettings' as const,commandId:'settings:mute',settingsRevision:0,patch:{musicGain:0,sfxGain:.4}};
+ assert.equal((await game.dispatcher.dispatch(update)).ok,true);assert.deepEqual(applied.at(-1),[0,.4]);
+ assert.equal((await game.dispatcher.dispatch(update)).ok,true);
+ assert.deepEqual(await game.dispatcher.dispatch({...update,commandId:'settings:stale'}),{ok:false,reason:'STALE_REVISION'});
+ const recovered=recoverSave(await store.readCandidates('audio-settings'),['playable-v1']);assert.equal(recovered.status,'recovered');if(recovered.status!=='recovered')throw Error('recovery');assert.equal(recovered.state.data.settings.musicGain,0);assert.equal(recovered.state.data.settings.revision,1);
+ store.failNext='flush';assert.deepEqual(await game.dispatcher.dispatch({...update,commandId:'settings:failed',settingsRevision:1,patch:{musicGain:1}}),{ok:false,reason:'SAVE_FAILED'});assert.deepEqual(applied.at(-1),[0,.4]);
+ const invalid=draft(game.dispatcher.getSnapshot());const next=new GameRuntime(invalid,commit);
+ assert.deepEqual(await next.dispatcher.dispatch({...update,commandId:'settings:invalid',settingsRevision:1,patch:{musicGain:2}}),{ok:false,reason:'INVALID_COMMAND'});
+ assert.deepEqual(next.dispatcher.getSnapshot().data.currencies,{gold:'100',gem:'0'});off();lifecycle.dispose();
+});

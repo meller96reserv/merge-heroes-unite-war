@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "mappedHeroFamilies": 10,
+  "rarityInferred": false,
+  "selectedAssets": 178,
+  "sourceHashesValid": true,
+  "battleDecodedMiB": 40.747840881347656,
+  "allPlannedRectsWithin2048": true,
+  "figmaContext": "analysis/figma/implementation/battle-context.txt",
+  "unavailableNewFile": "Yc3y8PHv9qJdh1fXUzLl1S: Figma connector reports no edit access; no version identity assumed."
+}

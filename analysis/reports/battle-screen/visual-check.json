@@ -1,0 +1,175 @@
+{
+  "tasks": [
+    "TASK-0059",
+    "TASK-0060",
+    "TASK-0061"
+  ],
+  "checks": [
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "fixture": "figma-battle-10",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 172,
+        "y": 761,
+        "width": 86,
+        "height": 77
+      }
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "fixture": "adapted-battle-15",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 172,
+        "y": 761,
+        "width": 86,
+        "height": 77
+      }
+    },
+    {
+      "viewport": [
+        360,
+        640
+      ],
+      "fixture": "figma-battle-10",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 144,
+        "y": 496.828125,
+        "width": 72,
+        "height": 64.453125
+      }
+    },
+    {
+      "viewport": [
+        360,
+        640
+      ],
+      "fixture": "adapted-battle-15",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 144,
+        "y": 496.828125,
+        "width": 72,
+        "height": 64.453125
+      }
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "fixture": "figma-battle-10",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 156,
+        "y": 688.90625,
+        "width": 78,
+        "height": 69.828125
+      }
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "fixture": "adapted-battle-15",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 156,
+        "y": 688.90625,
+        "width": 78,
+        "height": 69.828125
+      }
+    },
+    {
+      "viewport": [
+        412,
+        915
+      ],
+      "fixture": "figma-battle-10",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 164.796875,
+        "y": 751.15625,
+        "width": 82.390625,
+        "height": 73.765625
+      }
+    },
+    {
+      "viewport": [
+        412,
+        915
+      ],
+      "fixture": "adapted-battle-15",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 164.796875,
+        "y": 751.15625,
+        "width": 82.390625,
+        "height": 73.765625
+      }
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "fixture": "figma-battle-10",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 341,
+        "y": 853,
+        "width": 86,
+        "height": 77
+      }
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "fixture": "adapted-battle-15",
+      "consoleErrors": 0,
+      "oneCanvas": true,
+      "routeReturnIdentical": true,
+      "purchaseTarget": {
+        "x": 341,
+        "y": 853,
+        "width": 86,
+        "height": 77
+      }
+    }
+  ],
+  "canonicalUnmaskedPixelDifferenceAtTolerance16": 0.07484778920051902,
+  "initialPixelTarget": 0.015,
+  "fullPixelGate": "NEEDS_CALIBRATION_TASK_0069",
+  "source": "Figma YL2jFE10viR9zQV5GzBCuZ node2:426",
+  "nativeExecution": "NOT_RUN",
+  "productionGameplay": "NOT_IMPLEMENTED_BY_STATIC_TASKS"
+}

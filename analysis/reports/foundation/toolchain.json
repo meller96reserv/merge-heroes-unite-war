@@ -1,0 +1,50 @@
+{
+  "taskId": "TASK-0047",
+  "status": "PASS",
+  "node": "22.23.2",
+  "npm": "10.9.8",
+  "dependencies": {
+    "@expo/metro-runtime": "57.0.15",
+    "@shopify/react-native-skia": "2.6.2",
+    "expo": "57.0.21",
+    "expo-asset": "57.0.16",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-gesture-handler": "2.32.0",
+    "react-native-reanimated": "4.5.1",
+    "react-native-safe-area-context": "5.7.0",
+    "react-native-web": "0.21.2",
+    "react-native-worklets": "0.10.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.18",
+    "typescript": "6.0.3"
+  },
+  "lockSha256": "36eb3ade8234314dc04d25abe3cfcccf1c5f16e1787733cf1e0e2de70071a028",
+  "compatibilitySource": "expo@57.0.21 bundledNativeModules.json plus current official expo install --check (RN Web 0.21.2, TypeScript 6.0.3)",
+  "primarySources": [
+    "https://docs.expo.dev/versions/latest/sdk/skia/",
+    "https://shopify.github.io/react-native-skia/docs/getting-started/web/",
+    "https://registry.npmjs.org/expo/57.0.21"
+  ],
+  "nativeStatus": "NOT_RUN; TASK-0202/0203 and later QA",
+  "verifiedCommands": [
+    "npm ci",
+    "npm run typecheck",
+    "npm run check:expo",
+    "npm run build:web",
+    "npm run dev:web"
+  ],
+  "sourceHashes": {
+    "package.json": "ceeb940e3a7f00171bda3a1e880bf08726cd683d99d3fe6431d88798b9b3a3e6",
+    "package-lock.json": "36eb3ade8234314dc04d25abe3cfcccf1c5f16e1787733cf1e0e2de70071a028",
+    "app.json": "3181146ee6218b1b9418849e3a0711a16ff965a2091cb4edc2f4f9bd877d3b0c",
+    "index.ts": "c3f25ee498f5d7617fc18b27fbaa3093e50b7e6791145053b1edac00e92edecc",
+    "index.web.ts": "f899136450dfaa0da6e40a86e67cf9aad4f7752513a0788024e5e08cf2be04bf",
+    "app/src/App.tsx": "6b06b02f88b36a9942852ca235896159fadf2015b29c41144f732c7edf226432",
+    "app/src/WebRoot.tsx": "95931f92ddceb083ed0c07d9bb411e8b0f349bfdaeca20d271fec58fd8f67fcd",
+    "tooling/runtime/expo.mjs": "e140944de87487b2fe97db2b25cea7094a14683359491a3721254f9ff2467479",
+    "tooling/runtime/setup-web.mjs": "6f160f80a9f9315d5f1403edfbccf373da5122e76f28cabc19b529c61c83d636"
+  }
+}

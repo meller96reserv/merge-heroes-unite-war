@@ -1,0 +1,109 @@
+screenId,component,motionDecision,status
+SCREEN-001,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-001,background,none.static,PROPOSED; use only when component exists
+SCREEN-001,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-001,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-001,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-002,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-002,background,none.static,PROPOSED; use only when component exists
+SCREEN-002,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-002,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-002,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-003,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-003,background,none.static,PROPOSED; use only when component exists
+SCREEN-003,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-003,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-003,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-003,currencyHUD,currency.bump,PROPOSED
+SCREEN-003,bottomNavigation,tab.switch,PROPOSED
+SCREEN-003,lockedAction,feature.locked,PROPOSED
+SCREEN-004,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-004,background,none.static,PROPOSED; use only when component exists
+SCREEN-004,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-004,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-004,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-004,currencyHUD,currency.bump,PROPOSED
+SCREEN-004,bottomNavigation,tab.switch,PROPOSED
+SCREEN-004,lockedAction,feature.locked,PROPOSED
+SCREEN-005,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-005,background,none.static,PROPOSED; use only when component exists
+SCREEN-005,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-005,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-005,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-005,currencyHUD,currency.bump,PROPOSED
+SCREEN-005,bottomNavigation,tab.switch,PROPOSED
+SCREEN-005,lockedAction,feature.locked,PROPOSED
+SCREEN-006,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-006,background,none.static,PROPOSED; use only when component exists
+SCREEN-006,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-006,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-006,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-006,currencyHUD,currency.bump,PROPOSED
+SCREEN-006,bottomNavigation,tab.switch,PROPOSED
+SCREEN-006,lockedAction,feature.locked,PROPOSED
+SCREEN-007,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-007,background,none.static,PROPOSED; use only when component exists
+SCREEN-007,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-007,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-007,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-007,currencyHUD,currency.bump,PROPOSED
+SCREEN-007,bottomNavigation,tab.switch,PROPOSED
+SCREEN-007,lockedAction,feature.locked,PROPOSED
+SCREEN-008,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-008,background,none.static,PROPOSED; use only when component exists
+SCREEN-008,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-008,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-008,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-008,rewardPanel,daily.claim,PROPOSED
+SCREEN-009,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-009,background,none.static,PROPOSED; use only when component exists
+SCREEN-009,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-009,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-009,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-009,rewardPanel,daily.claim,PROPOSED
+SCREEN-010,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-010,background,none.static,PROPOSED; use only when component exists
+SCREEN-010,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-010,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-010,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-010,slider,settings.slider,PROPOSED
+SCREEN-010,toggle,settings.toggle,PROPOSED
+SCREEN-011,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-011,background,none.static,PROPOSED; use only when component exists
+SCREEN-011,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-011,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-011,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-011,slider,settings.slider,PROPOSED
+SCREEN-011,toggle,settings.toggle,PROPOSED
+SCREEN-012,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-012,background,none.static,PROPOSED; use only when component exists
+SCREEN-012,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-012,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-012,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-013,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-013,background,none.static,PROPOSED; use only when component exists
+SCREEN-013,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-013,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-013,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-013,wheel,wheel.accelerate/wheel.decelerate/wheel.land,PROPOSED
+SCREEN-013,pointer,wheel.tick,PROPOSED
+SCREEN-014,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-014,background,none.static,PROPOSED; use only when component exists
+SCREEN-014,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-014,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-014,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-014,wheel,wheel.accelerate/wheel.decelerate/wheel.land,PROPOSED
+SCREEN-014,pointer,wheel.tick,PROPOSED
+SCREEN-015,screenRoot,screen.transition,PROPOSED; use only when component exists
+SCREEN-015,background,none.static,PROPOSED; use only when component exists
+SCREEN-015,title/bodyText,none.static,PROPOSED; use only when component exists
+SCREEN-015,primaryButton,start.press,PROPOSED; use only when component exists
+SCREEN-015,secondary/closeButton,button.secondary,PROPOSED; use only when component exists
+SCREEN-015,wheel,wheel.accelerate/wheel.decelerate/wheel.land,PROPOSED
+SCREEN-015,pointer,wheel.tick,PROPOSED
+SCREEN-003,boardHeroes,hero.spawn/hero.idle/hero.mergeOut/hero.mergeIn,PROPOSED
+SCREEN-003,battleEntities,hero.attack/enemy.hit/enemy.death,PROPOSED
+SCREEN-004,equipmentSlots,equipment.equip/equipment.enhance,PROPOSED
+SCREEN-007,upgradeCards,hero.upgrade,PROPOSED
+SCREEN-001,progress,loading.progress,PROPOSED
+SCREEN-012,maintenancePanel,maintenance.idle,PROPOSED

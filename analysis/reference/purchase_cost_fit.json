@@ -1,0 +1,69 @@
+{
+  "status": "PASS",
+  "task": "TASK-0008",
+  "run": "RUN-03",
+  "version": "LIVE_CRAZY3.16.2",
+  "acceptedPurchases": 30,
+  "totalSpent": 53,
+  "displayDeltaMismatches": 0,
+  "fits": [
+    {
+      "candidate": "constant_1",
+      "rmse": 1.1690451944500122,
+      "maxAbsoluteResidual": 3,
+      "exactMatches": 15,
+      "classification": "DERIVED_CANDIDATE_NOT_REFERENCE_FORMULA"
+    },
+    {
+      "candidate": "raw_exponential_1.05",
+      "rmse": 0.5364259372927382,
+      "maxAbsoluteResidual": 0.9799315994393987,
+      "exactMatches": 1,
+      "classification": "DERIVED_CANDIDATE_NOT_REFERENCE_FORMULA"
+    },
+    {
+      "candidate": "floor_exponential_1.05",
+      "rmse": 0.0,
+      "maxAbsoluteResidual": 0,
+      "exactMatches": 30,
+      "classification": "DERIVED_CANDIDATE_NOT_REFERENCE_FORMULA"
+    },
+    {
+      "candidate": "round_half_up_exponential_1.05",
+      "rmse": 0.6582805886043833,
+      "maxAbsoluteResidual": 1,
+      "exactMatches": 17,
+      "classification": "DERIVED_CANDIDATE_NOT_REFERENCE_FORMULA"
+    },
+    {
+      "candidate": "ceil_exponential_1.05",
+      "rmse": 0.983192080250175,
+      "maxAbsoluteResidual": 1,
+      "exactMatches": 1,
+      "classification": "DERIVED_CANDIDATE_NOT_REFERENCE_FORMULA"
+    },
+    {
+      "candidate": "observed_piecewise_overfit",
+      "rmse": 0.0,
+      "maxAbsoluteResidual": 0,
+      "exactMatches": 30,
+      "classification": "DERIVED_CANDIDATE_NOT_REFERENCE_FORMULA"
+    }
+  ],
+  "floorFamily": {
+    "formula": "floor(r^(n-1)); n is accepted purchase ordinal starting at1",
+    "initialCoefficientAssumed": 1,
+    "compatibleRateLowerInclusive": 1.0489642553230345,
+    "compatibleRateUpperExclusive": 1.0507566386532194,
+    "nonIdentifiable": true
+  },
+  "exactReferenceFormula": "UNKNOWN",
+  "platform": "public desktop browser, no native parity claim",
+  "limits": [
+    "One fresh profile; thirty accepted tier1 purchases, not thirty arbitrary clicks",
+    "Tutorial/discovery rewards and manual merges between intervals excluded from cost differences",
+    "No deployed heroes or active farming during measured purchase intervals; auto disabled",
+    "Fit cannot identify a unique formula or prove extrapolation, tier changes or mobile parity"
+  ],
+  "csvSha256": "3cec32f9930416e5e8e071ce6e4a687a8af6b9f560f8515c6c4fa041a815bb5f"
+}

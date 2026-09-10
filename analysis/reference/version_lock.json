@@ -1,0 +1,55 @@
+{
+  "taskId": "TASK-0005",
+  "capturedAt": "2026-09-08T18:03:50.305104+00:00",
+  "datasets": {
+    "web": {
+      "datasetId": "LIVE_CRAZY3.16.2",
+      "kind": "OBSERVED_RUNTIME",
+      "platform": "Chrome desktop public CrazyGames guest",
+      "version": "LIVE_CRAZY 3.16.2",
+      "url": "https://www.crazygames.com/game/heroes-unite",
+      "freshRunId": "RUN-03",
+      "freshVisibleVersionScreenshot": "analysis/reference/version_sources/web_run03_loading.png",
+      "sha256": "dc84b40fb8c73e09a4ab9eeb6872c38157ed317b09178d20c839659e852bf5b7",
+      "historicalSettingsEvidence": "EV-026 / CAP-039 / RUN-02 t1695.989s",
+      "historicalSettingsScreenshot": "analysis/reference/screenshots/settings_continuity.png"
+    },
+    "android": {
+      "datasetId": "ANDROID_STORE_3.18.0_20260901",
+      "kind": "OBSERVED_STORE_LISTING",
+      "url": "https://play.google.com/store/apps/details?id=com.superjoy.idleheroes",
+      "packageId": "com.superjoy.idleheroes",
+      "whatsNewVersion": "3.18.0",
+      "updatedDate": "2026-09-01",
+      "installedRuntimeVersion": "UNKNOWN_NOT_INSTALLED",
+      "parity": "UNKNOWN; no same-action native comparison"
+    },
+    "ios": {
+      "datasetId": "IOS_US_STORE_3.18.0_20260902",
+      "kind": "OBSERVED_STORE_LISTING",
+      "lookup": "analysis/reference/version_sources/ios_us_lookup.json",
+      "version": "3.18.0",
+      "releasedAt": "2026-09-02T05:54:52Z",
+      "installedRuntimeVersion": "UNKNOWN_NOT_INSTALLED",
+      "parity": "UNKNOWN; no same-action native comparison"
+    }
+  },
+  "policy": {
+    "behavioralEvidenceDataset": "LIVE_CRAZY3.16.2",
+    "crossVersionFormulaPooling": false,
+    "mobileListingIsRuntimeEvidence": false,
+    "mobileBehaviorStatus": "UNKNOWN",
+    "referenceBrowser": "Fresh isolated profile03, no existing save imported, normal TLS verification"
+  },
+  "verification": {
+    "status": "PASS",
+    "scope": "visible web runtime version and separately captured public mobile version inventory; mobile behavioral parity is not asserted",
+    "checks": [
+      "RUN-02 settings screenshot visually reread: LIVE_CRAZY3.16.2",
+      "RUN-03 fresh loading screenshot visually checked: LIVE_CRAZY3.16.2",
+      "Google Play current listing separately statesv3.18.0 updatedSep1",
+      "Apple primary lookup independently returns3.18.0 releasedSep2",
+      "Datasets separated and unknown runtime parity retained"
+    ]
+  }
+}

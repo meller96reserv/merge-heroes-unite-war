@@ -1,0 +1,8 @@
+measurementId,event,startSourcePtsSecondsApprox,endSourcePtsSecondsApprox,durationMs,uncertaintyMs,sampleCount,evidence_file,status,notes
+TIM-001,manual merge convergence→visible result,313.6,314.2,600,200,1,frames/merge_frames.jpg,MEASURED_APPROX,10fpsreview of25fpsvideo;onset/final thresholds uncertain;not authoritative simulation time
+TIM-002,manual result→discovery popup starts,314.2,314.4,200,200,1,frames/merge_frames.jpg,MEASURED_APPROX,visual phase only;single sample
+TIM-003,auto first→second result flashes,3808.8,3809.4,600,400,1,frames/auto_frames.jpg,MEASURED_APPROX,"5fpsreview;one cascade,not general scheduler interval"
+TIM-004,auto second→third result flashes,3809.4,3810.0,600,400,1,frames/auto_frames.jpg,MEASURED_APPROX,destination behavior separately unknown
+TIM-005,Magician successive boss impacts,2864.5,2867.0,2500,1000,1,frames/boss_frames.jpg,MEASURED_APPROX,2fpsreview;displayedwing2.5 supports hypothesis but no exact attack formula
+TIM-006,Magician next boss impacts,2867.0,2869.5,2500,1000,1,frames/boss_frames.jpg,MEASURED_APPROX,small sample and scheduling overhead;collect20hits for tuning
+TIM-007,offline reward displayed interval,,,214000,1000,1,screenshots/offline_return_game.png,OBSERVED_DISPLAY,"UI00:03:34;includesloading/portalreturn,notcontrolled60-secondtrial"

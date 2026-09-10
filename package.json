@@ -1,0 +1,51 @@
+{
+  "name": "merge-heroes-unite-war",
+  "version": "0.2.1",
+  "private": true,
+  "main": "index",
+  "packageManager": "npm@10.9.8",
+  "engines": {
+    "node": ">=22.13.0 <23"
+  },
+  "scripts": {
+    "dev:web": "node tooling/runtime/expo.mjs start --web --port 8082",
+    "dev:android": "node tooling/runtime/expo.mjs start --android --port 8082",
+    "dev:ios": "node tooling/runtime/expo.mjs start --ios --port 8082",
+    "typecheck": "tsc --noEmit",
+    "build:web": "node tooling/runtime/expo.mjs export --platform web",
+    "check:expo": "node tooling/runtime/expo.mjs install --check",
+    "postinstall": "node tooling/runtime/setup-web.mjs && node tooling/native/patch-expo-jsi.mjs",
+    "build:core": "tsc -p game-core/tsconfig.json && node tooling/core/check-boundary.mjs",
+    "test:core-boundary": "node tooling/core/test-boundary.mjs",
+    "assets:import": "node --import tsx tooling/assets/import-figma.ts && node --import tsx tooling/assets/derive-variants.ts",
+    "assets:validate": "node --import tsx tooling/assets/validate-registry.ts",
+    "native:prebuild": "node tooling/runtime/expo.mjs prebuild",
+    "build:android": "node tooling/release/build-candidate.mjs android",
+    "build:ios:sim": "node tooling/release/build-candidate.mjs ios"
+  },
+  "dependencies": {
+    "@appmetrica/react-native-analytics": "4.2.0",
+    "@expo/metro-runtime": "57.0.15",
+    "@shopify/react-native-skia": "2.6.2",
+    "expo": "57.0.21",
+    "expo-asset": "57.0.16",
+    "expo-audio": "57.0.4",
+    "expo-file-system": "57.0.6",
+    "expo-haptics": "57.0.2",
+    "expo-notifications": "57.0.17",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-gesture-handler": "2.32.0",
+    "react-native-reanimated": "4.5.1",
+    "react-native-safe-area-context": "5.7.0",
+    "react-native-web": "0.21.2",
+    "react-native-worklets": "0.10.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.18",
+    "sharp": "0.34.5",
+    "tsx": "4.20.6",
+    "typescript": "6.0.3"
+  }
+}
