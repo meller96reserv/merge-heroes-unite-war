@@ -1,0 +1,79 @@
+{
+  "version": "1.8",
+  "build": 9,
+  "status": "CANDIDATE",
+  "date": "2026-09-11",
+  "core": {
+    "status": "PASS",
+    "evidence": "customer-1.8/core-checks.txt",
+    "checks": [
+      "mandatory tutorial and combat",
+      "deployment bounds at 16:9 and tall aspect ratios",
+      "equipment buy and equip with duplicate/stale-price guards",
+      "rewards require recorded video completion",
+      "sell deployed and reserve heroes, retain equipment, save/retry invariants",
+      "last-hero sale keeps recruitment possible"
+    ]
+  },
+  "android": {
+    "status": "PASS_BEFORE_FINAL_PRESENTATION_PATCH",
+    "device": "existing cocos_polish_15, Android 16 ARM64; 720x1280 override",
+    "observed": [
+      "cold native launch",
+      "buy twice, merge, drag into formerly rejected lower spotlight area",
+      "tap recall/deploy",
+      "daily +5000 gold",
+      "catalogue buy staff -175 gold, upgrade -25, sell equipped fighter +1",
+      "hold reserve hero opens sale confirmation",
+      "relic purchase -100 gold and Blue Feather level 1"
+    ],
+    "notClaimed": [
+      "native notification permission result",
+      "final currency-error screenshot",
+      "live ad inventory",
+      "repeat gameplay after final background/silent-button/hold-timing edits"
+    ],
+    "evidence": [
+      "customer-1.8/android-start.png",
+      "customer-1.8/android-tutorial-combat.png",
+      "customer-1.8/android-equipment-shop.png",
+      "customer-1.8/android-sold.png",
+      "customer-1.8/android-hold-sale.png",
+      "customer-1.8/android-relic-purchased.png"
+    ]
+  },
+  "ios": {
+    "build": "PASS: final Xcode Release Simulator build with ARC service bridge",
+    "launch": "Start screen displayed; initial post-Play crash found in manual-memory native reply lifetime",
+    "fix": "GameServices.mm is a separate ARC-compiled source. Corrected native build succeeded.",
+    "gameplayAfterFix": "NOT_RUN: user requested final packaging without more gameplay tests",
+    "evidence": [
+      "customer-1.8/ios-start.png"
+    ],
+    "invalidSmokeNote": "Earlier coordinate-only Maestro run hit Springboard after crash; command completion is not gameplay PASS. Excluded from acceptance."
+  },
+  "legal": {
+    "status": "PASS",
+    "publicContentVerifiedViaTelegraphApi": true,
+    "directEmailOrTelegram": false
+  },
+  "services": {
+    "appMetrica": "SDKs and supplied UUID integrated; owner dashboard delivery NOT_VERIFIED",
+    "startIo": "BLOCKED: owner Android/iOS App IDs absent; no fake or borrowed ad IDs",
+    "notifications": "native implementations included, permission UI NOT_VERIFIED"
+  },
+  "external": [
+    "Start.io Android/iOS App IDs",
+    "Apple signing for physical iPhone/TestFlight",
+    "GitLab destination/access"
+  ],
+  "policy": "Final gameplay retesting omitted at explicit user request. Prior successful core/native observations reused; known iOS crash fixed and rebuilt, not mislabeled as tested.",
+  "builds": {
+    "androidApk": "PASS",
+    "androidAab": "PASS",
+    "iosSimulator": "PASS",
+    "source": "final files, including background, quiet legal/start buttons and frame-safe long press",
+    "runtimeAfterFinalEdits": "NOT_RUN at explicit user request"
+  },
+  "evidencePathsNote": "Evidence paths refer to local ignored benchmark/ captures from the build session; this tracked summary preserves actual observations, not a claim that those private diagnostics ship in Git."
+}

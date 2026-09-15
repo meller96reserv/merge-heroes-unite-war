@@ -1,8 +1,0 @@
-{
-  "task": "TASK-0035",
-  "status": "PASS",
-  "components": 6,
-  "statesPerComponent": 6,
-  "allSemanticRefsValid": true,
-  "review": "Normal/selected art inspected in Figma context. Missing interactive states and close text proposed explicitly."
-}

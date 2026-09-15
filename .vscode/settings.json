@@ -1,0 +1,24 @@
+{
+  "git.repositoryScanIgnoredFolders": [
+    "node_modules",
+    ".tools",
+    "cocos-spike/library",
+    "cocos-spike/temp",
+    "cocos-spike/build",
+    "cocos-spike/node_modules"
+  ],
+  "files.watcherExclude": {
+    "**/.tools/**": true,
+    "**/cocos-spike/library/**": true,
+    "**/cocos-spike/temp/**": true,
+    "**/cocos-spike/build/**": true,
+    "**/cocos-spike/node_modules/**": true
+  },
+  "search.exclude": {
+    "**/.tools": true,
+    "**/cocos-spike/library": true,
+    "**/cocos-spike/temp": true,
+    "**/cocos-spike/build": true,
+    "**/cocos-spike/node_modules": true
+  }
+}

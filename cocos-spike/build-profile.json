@@ -1,0 +1,32 @@
+{
+  "name": "MergeHeroesUniteWar",
+  "platform": "android",
+  "debug": false,
+  "startScene": "3b3fc79d-d83d-5ad4-ac96-7d183d4b2338",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/Battle.scene",
+      "uuid": "3b3fc79d-d83d-5ad4-ac96-7d183d4b2338"
+    }
+  ],
+  "buildPath": "project://build",
+  "outputName": "android",
+  "md5Cache": false,
+  "skipCompressTexture": false,
+  "packages": {
+    "android": {
+      "packageName": "com.mergeheroes.unitewar",
+      "apiLevel": 36,
+      "appABIs": [
+        "arm64-v8a"
+      ],
+      "orientation": {
+        "portrait": true,
+        "landscapeLeft": false,
+        "landscapeRight": false,
+        "portraitUpsideDown": false
+      },
+      "useDebugKeystore": true
+    }
+  }
+}

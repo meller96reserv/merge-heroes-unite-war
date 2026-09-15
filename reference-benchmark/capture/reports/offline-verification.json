@@ -1,0 +1,43 @@
+{
+  "apk": {
+    "status": "SUCCESS",
+    "mode": "offline",
+    "apk": "build/apk/heroes-unite-reference-benchmark.apk",
+    "namedApk": "build/apk/heroes-unite-reference-offline.apk",
+    "bytes": 39822581,
+    "sha256": "334c81d29160bb40de2b09eca28164363bdc924c48991f6a3087b359a7cf4720",
+    "buildSeconds": 14.04,
+    "package": "com.kisel.referencebenchmark.offline"
+  },
+  "androidPermissionEvidence": "package: com.kisel.referencebenchmark.offline",
+  "noInternetPermission": true,
+  "initialGuestCreatedLocally": true,
+  "offlineRuntimeInstalled": true,
+  "inputPurchase": {
+    "goldBefore": 100,
+    "goldAfterTwoPurchases": 98,
+    "purchasedHeroes": 2
+  },
+  "merge": "Two level-1 units merged into level-2 Archer; discovery card observed",
+  "combat": "First enemy defeated, next enemy appeared at stage 1-2; after restart reached stage 1-3",
+  "restart": {
+    "beforeGold": 109,
+    "afterGold": 113,
+    "beforeGems": 100,
+    "afterGems": 100,
+    "afterStage": 3,
+    "afterHighestHero": 2,
+    "scene": "PlayScene",
+    "saveRestored": true
+  },
+  "recordedExternalWebResources": [],
+  "unhandledOfflineEndpoints": [],
+  "baseline": "NOT_RERUN: preserved online baseline is not an offline measurement",
+  "device": "visible medium_phone / emulator-5554 / Android 16 API 36 / WebView 151.0.7922.199",
+  "limits": [
+    "Physical-device offline smoke not run",
+    "All late-game screens/assets not exhaustively checked",
+    "No rewarded ads, cloud account/save, online rankings or server live events",
+    "Device clock is trusted; progress stays in this separate app package"
+  ]
+}

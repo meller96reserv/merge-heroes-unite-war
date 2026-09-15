@@ -1,0 +1,713 @@
+[
+  {
+    "name": "resources",
+    "status": "TIMEOUT"
+  },
+  {
+    "name": "battle_buff_eff",
+    "status": "LOADED",
+    "assets": 132,
+    "error": null,
+    "elapsedMs": 5985
+  },
+  {
+    "name": "battle_bullet",
+    "status": "LOADED",
+    "assets": 25,
+    "error": null,
+    "elapsedMs": 16110
+  },
+  {
+    "name": "battle_ch2",
+    "status": "LOADED",
+    "assets": 36,
+    "error": null,
+    "elapsedMs": 1196
+  },
+  {
+    "name": "battle_ch3",
+    "status": "LOADED",
+    "assets": 26,
+    "error": null,
+    "elapsedMs": 1293
+  },
+  {
+    "name": "battle_ch4",
+    "status": "LOADED",
+    "assets": 6,
+    "error": null,
+    "elapsedMs": 14
+  },
+  {
+    "name": "battle_dark_ui",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 8
+  },
+  {
+    "name": "battle_devil",
+    "status": "LOADED",
+    "assets": 49,
+    "error": null,
+    "elapsedMs": 118
+  },
+  {
+    "name": "battle_dragon_late",
+    "status": "LOADED",
+    "assets": 8,
+    "error": null,
+    "elapsedMs": 16
+  },
+  {
+    "name": "battle_labyrinth",
+    "status": "LOADED",
+    "assets": 34,
+    "error": null,
+    "elapsedMs": 83
+  },
+  {
+    "name": "battle_owl_fairy",
+    "status": "LOADED",
+    "assets": 8,
+    "error": null,
+    "elapsedMs": 17
+  },
+  {
+    "name": "battle_raid_bg",
+    "status": "LOADED",
+    "assets": 12,
+    "error": null,
+    "elapsedMs": 15
+  },
+  {
+    "name": "battle_support_npc",
+    "status": "LOADED",
+    "assets": 12,
+    "error": null,
+    "elapsedMs": 21
+  },
+  {
+    "name": "battle_tower",
+    "status": "LOADED",
+    "assets": 42,
+    "error": null,
+    "elapsedMs": 75
+  },
+  {
+    "name": "battle_treasure",
+    "status": "LOADED",
+    "assets": 10,
+    "error": null,
+    "elapsedMs": 9
+  },
+  {
+    "name": "battle_unit_late",
+    "status": "LOADED",
+    "assets": 30,
+    "error": null,
+    "elapsedMs": 11
+  },
+  {
+    "name": "battle_world",
+    "status": "LOADED",
+    "assets": 6,
+    "error": null,
+    "elapsedMs": 18
+  },
+  {
+    "name": "field_ui_dungeon",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 3
+  },
+  {
+    "name": "field_ui_right_hero_skill",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 3
+  },
+  {
+    "name": "legend_hero_01_06",
+    "status": "LOADED",
+    "assets": 59,
+    "error": null,
+    "elapsedMs": 417
+  },
+  {
+    "name": "legend_hero_07_12",
+    "status": "LOADED",
+    "assets": 48,
+    "error": null,
+    "elapsedMs": 282
+  },
+  {
+    "name": "legend_hero_13_18",
+    "status": "LOADED",
+    "assets": 48,
+    "error": null,
+    "elapsedMs": 416
+  },
+  {
+    "name": "legend_hero_19_24",
+    "status": "LOADED",
+    "assets": 40,
+    "error": null,
+    "elapsedMs": 318
+  },
+  {
+    "name": "legend_hero_25_",
+    "status": "LOADED",
+    "assets": 42,
+    "error": null,
+    "elapsedMs": 375
+  },
+  {
+    "name": "legend_hero_event",
+    "status": "LOADED",
+    "assets": 22,
+    "error": null,
+    "elapsedMs": 592
+  },
+  {
+    "name": "play_hero_deck_ui",
+    "status": "LOADED",
+    "assets": 4,
+    "error": null,
+    "elapsedMs": 7
+  },
+  {
+    "name": "play_hero_stat_ui",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_ad_event",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_battle_pass",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_battle_shop",
+    "status": "LOADED",
+    "assets": 6,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_boss_reward",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_cash_shop2",
+    "status": "LOADED",
+    "assets": 5,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_collect_common",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_dragon",
+    "status": "LOADED",
+    "assets": 12,
+    "error": null,
+    "elapsedMs": 79
+  },
+  {
+    "name": "popup_draw_result",
+    "status": "LOADED",
+    "assets": 22,
+    "error": null,
+    "elapsedMs": 30
+  },
+  {
+    "name": "popup_dungeon",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_event",
+    "status": "LOADED",
+    "assets": 34,
+    "error": null,
+    "elapsedMs": 2
+  },
+  {
+    "name": "popup_event_attend",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_event_bingo",
+    "status": "LOADED",
+    "assets": 3,
+    "error": null,
+    "elapsedMs": 822
+  },
+  {
+    "name": "popup_event_comeback",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_event_dice",
+    "status": "LOADED",
+    "assets": 10,
+    "error": null,
+    "elapsedMs": 12
+  },
+  {
+    "name": "popup_event_hero7days",
+    "status": "LOADED",
+    "assets": 4,
+    "error": null,
+    "elapsedMs": 1108
+  },
+  {
+    "name": "popup_event_launching",
+    "status": "LOADED",
+    "assets": 5,
+    "error": null,
+    "elapsedMs": 1
+  },
+  {
+    "name": "popup_event_limit_hero",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_event_merchant",
+    "status": "LOADED",
+    "assets": 4,
+    "error": null,
+    "elapsedMs": 6
+  },
+  {
+    "name": "popup_event_newyear",
+    "status": "LOADED",
+    "assets": 7,
+    "error": null,
+    "elapsedMs": 10
+  },
+  {
+    "name": "popup_event_package",
+    "status": "LOADED",
+    "assets": 3,
+    "error": null,
+    "elapsedMs": 11
+  },
+  {
+    "name": "popup_event_pass",
+    "status": "LOADED",
+    "assets": 5,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_event_quest",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 9
+  },
+  {
+    "name": "popup_event_rps",
+    "status": "LOADED",
+    "assets": 19,
+    "error": null,
+    "elapsedMs": 50
+  },
+  {
+    "name": "popup_event_special_pass",
+    "status": "LOADED",
+    "assets": 5,
+    "error": null,
+    "elapsedMs": 8
+  },
+  {
+    "name": "popup_event_treasure_hunt",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 6
+  },
+  {
+    "name": "popup_ex_menu",
+    "status": "LOADED",
+    "assets": 5,
+    "error": null,
+    "elapsedMs": 1
+  },
+  {
+    "name": "popup_formation",
+    "status": "LOADED",
+    "assets": 3,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_golden_temple",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 6
+  },
+  {
+    "name": "popup_gold_bomb",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 6
+  },
+  {
+    "name": "popup_help",
+    "status": "LOADED",
+    "assets": 10,
+    "error": null,
+    "elapsedMs": 523
+  },
+  {
+    "name": "popup_hero",
+    "status": "LOADED",
+    "assets": 8,
+    "error": null,
+    "elapsedMs": 2
+  },
+  {
+    "name": "popup_hero_collect",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_hero_costume",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_hero_ex_acc_sub",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 7
+  },
+  {
+    "name": "popup_hero_item_sub",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_hero_pri_eqp_sub",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 7
+  },
+  {
+    "name": "popup_hero_return",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_hero_skill_sub",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_hero_upg3",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_info",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_labyrinth_sub",
+    "status": "LOADED",
+    "assets": 10,
+    "error": null,
+    "elapsedMs": 13
+  },
+  {
+    "name": "popup_late_dungeon",
+    "status": "LOADED",
+    "assets": 10,
+    "error": null,
+    "elapsedMs": 10
+  },
+  {
+    "name": "popup_late_event",
+    "status": "LOADED",
+    "assets": 6,
+    "error": null,
+    "elapsedMs": 10
+  },
+  {
+    "name": "popup_late_growth",
+    "status": "LOADED",
+    "assets": 30,
+    "error": null,
+    "elapsedMs": 106
+  },
+  {
+    "name": "popup_mat_upgrade",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_new_attend",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_npay_reward",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_pass",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_pickup",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_post",
+    "status": "LOADED",
+    "assets": 3,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_premium_pass2",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 7
+  },
+  {
+    "name": "popup_product",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_quest",
+    "status": "LOADED",
+    "assets": 3,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "popup_raid",
+    "status": "LOADED",
+    "assets": 11,
+    "error": null,
+    "elapsedMs": 16
+  },
+  {
+    "name": "popup_rank",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_rank_reward",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "popup_roulette",
+    "status": "LOADED",
+    "assets": 3,
+    "error": null,
+    "elapsedMs": 80
+  },
+  {
+    "name": "popup_roulette_late",
+    "status": "LOADED",
+    "assets": 4,
+    "error": null,
+    "elapsedMs": 847
+  },
+  {
+    "name": "popup_save_n_server",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_select_battle",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "popup_setup",
+    "status": "LOADED",
+    "assets": 5,
+    "error": null,
+    "elapsedMs": 1
+  },
+  {
+    "name": "popup_shop_detail",
+    "status": "LOADED",
+    "assets": 9,
+    "error": null,
+    "elapsedMs": 8
+  },
+  {
+    "name": "popup_support",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 1
+  },
+  {
+    "name": "popup_timeleap",
+    "status": "LOADED",
+    "assets": 15,
+    "error": null,
+    "elapsedMs": 26
+  },
+  {
+    "name": "popup_worldmap",
+    "status": "LOADED",
+    "assets": 8,
+    "error": null,
+    "elapsedMs": 14
+  },
+  {
+    "name": "popup_world_boss",
+    "status": "LOADED",
+    "assets": 8,
+    "error": null,
+    "elapsedMs": 12
+  },
+  {
+    "name": "shop_common",
+    "status": "LOADED",
+    "assets": 3,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "splash_popup",
+    "status": "LOADED",
+    "assets": 6,
+    "error": null,
+    "elapsedMs": 1051
+  },
+  {
+    "name": "table_data",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 29
+  },
+  {
+    "name": "top_ui_buff",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 7
+  },
+  {
+    "name": "top_ui_event_product",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 4
+  },
+  {
+    "name": "top_ui_ex_left_menu",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 0
+  },
+  {
+    "name": "top_ui_limit_product",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 8
+  },
+  {
+    "name": "top_ui_time_limit_hero",
+    "status": "LOADED",
+    "assets": 1,
+    "error": null,
+    "elapsedMs": 5
+  },
+  {
+    "name": "ui_icon_common",
+    "status": "LOADED",
+    "assets": 2,
+    "error": null,
+    "elapsedMs": 0
+  }
+]

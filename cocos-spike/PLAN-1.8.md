@@ -1,0 +1,17 @@
+# COCOS-1.8 — Customer correction
+
+Scope: current native Cocos game. Authority: user's customer video and September 11 request, app-specific TZ, rewarded advertising TZ, relevant general instructions. Existing RN task DAG is historical for this separate Cocos delivery; no RN migration or reference recapture.
+
+Observed video: 145.6 s / 360x640. Tutorial step 4 repeatedly rejects drops inside the spotlight; at this aspect ratio the old acceptance area is only about 43 logical pixels high. Last relic screen visibly spends gold (5179 to 4979), while the x10 action requires 100 gems and the customer has 7. Empty equipment inventory offers random gem opening without a useful catalogue. Legal links, rewarded video and notifications are currently explicit stubs.
+
+Work: shared responsive deployment/spotlight geometry; mandatory tutorial retained; equipment catalogue with explicit prices, purchase/equip/upgrade actions; currency-specific affordability messages; real native rewarded bridge (Start.io), AppMetrica, legal links/Telegraph pages, notifications; production bundle identity and updated Android/iOS artifacts. Preserve transaction idempotency and cosmetic-only effects. Live Start.io IDs and GitLab destination remain owner-controlled inputs.
+
+PROPOSED direct equipment store rule requested by user: price in gold = hero tier * 50 + equipment-slot index * 25. Price is defined/validated in pure core. Buying and equipping happen in one durable transaction; repeated purchase of an already owned definition cannot charge again. Existing items, random opening history and saves remain readable.
+
+Acceptance: focused pure-core regressions (purchase/equip/retry/funds + drag geometry 16:9/tall); one native walkthrough at the customer's aspect ratio; APK/AAB and iOS build checks. External ad inventory, physical iPhone and GitLab signing must be reported as actually verified or still unavailable. No duplicate emulator creation or long soak tests.
+
+User addition: both tap and drag deploy; sell deployed/reserve heroes from their hero screen or by holding a hero for 550 ms. Explicit confirmation shows gold, preserves equipment in inventory, and deletes ownership/board/battle participation atomically. Mandatory tutorial protects its required heroes until completed. PROPOSED sale = half current tier-one recruitment price * tier merge units (minimum 1 gold); final-hero sale floors proceeds to the shortfall for one new entry-level recruit. No UI/VFX grants. User requests verification only after all implementation edits, no interim tests.
+
+Final user polish: continuous full-screen background outside the safe-area UI transform; no click SFX on Let's Play or Terms/Privacy. iOS SDK bridge compiled under ARC after final smoke exposed a reply-lifetime crash with the engine's default manual ObjC memory mode.
+
+Outcome: Android APK/AAB and iOS Simulator Release builds PASS. Pure-core regressions PASS. Android customer-flow observations reused; iOS native bridge crash fixed with ARC and final build PASS, post-fix gameplay NOT_RUN at user request. Both final background/silent-button changes and frame-safe hold timing included. Telegraph public contents verified without added contacts. Start.io IDs, Apple signing and GitLab access remain external; DELIVERY_COMPLETE is not claimed. Historical build evidence is tracked in releases/1.8-9.json. Pass --evidence explicitly only when repackaging those verified artifacts; new packaging defaults to NOT_RUN.

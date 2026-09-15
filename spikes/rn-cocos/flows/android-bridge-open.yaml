@@ -1,8 +1,0 @@
-appId: com.kiselnativeprobe
----
-- assertVisible: "Open native Cocos"
-- assertVisible: "Bridge waiting"
-- tapOn:
-    id: open-cocos
-- takeScreenshot: android-bridge-opening
-# Acceptance uses the receiving JS/native logs and Cocos color oracle after loading.

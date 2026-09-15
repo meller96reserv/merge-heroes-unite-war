@@ -1,31 +1,31 @@
-# Codex execution rules after planning
+# Execution rules — current Cocos game
 
-The planning mission is complete and its root completion report is historical evidence. The user now authorizes implementation through [start_prompt.md](start_prompt.md). Execute the existing task DAG, bootstrap missing development tools safely, follow accepted ADR-007 and maintain the same RN/Skia application in browser and native. Task status and attached evidence describe current implementation progress.
+The user selected a standalone native Cocos product for Android and iOS. `cocos-spike/` is the only active runtime. Historical RN/Expo/Skia instructions and the old task DAG are superseded; documents remain in `archive/rn-planning/` for reference only.
 
-1. Read docs/00_INDEX.md, the evidence/unknown/conflict registers, the relevant phase and one ready REQUIRED_NOW or SUPPORTING_REQUIRED atomic task. Use tasks/task_manifest.json dependencies rather than numeric phase order. TASK-0001 validates handoff before changes.
-2. Preserve original .fig, source hashes, user edits and the deleted-app baseline. Do not restore old RN code from history as an assumed foundation. Use isolated implementation changes and inspect current repository state.
-3. OBSERVED/MEASURED facts require source IDs, screenshots/video PTS or reproducible measurements. INFERRED/PROPOSED/UNKNOWN remain explicit. Figma numbers are visual fixtures; web3.16.2 and mobile store versions are separate datasets.
-4. Unknowns have concrete verification tasks and behavior/data gates. Continue independent work; do not invent missing costs, probabilities, timers or algorithms. The user authorizes a coherent approximation: record a versioned PROPOSED product rule and owning-task tests before enabling it. Exact reference capture gates parity claims, not browser-first implementation.
-5. ADR-007 supersedes the historical native spike strategy. Production uses RN/Expo, Skia, Reanimated and Gesture Handler. Pin compatible versions; browser-first development starts with root npm run dev:web. Native builds/device checks remain independently required for release; historical PARTIAL is never PASS.
-6. Keep game-core pure and deterministic. Domain owns money,merges,damage,stage and reward receipts. Skia projects state, Gesture Handler routes input and Reanimated animates it. RN owns application/platform services. No per-frame service traffic and no reward/damage from tween completion.
-7. Durable actions commit draft+receipt+watermark before state install/events. Duplicate requests/results are idempotent. Save failures preserve old authoritative state; migrations preserve backups. Decimal currencies never pass through floating display parsing.
-8. Source art uses semantic IDs,calibrated pivots/trim/insets and bounded bundle residency. Never use a full-screen screenshot as interactive UI or chop flattened characters automatically. Keep all source assets classified even when out of MVP.
-9. Audio is original or licensed. Do not extract reference code,audio or private resources. Rights/fonts/audio proof is required before distribution. Missing audio remains custom needed,not final.
-10. Execute the smallest bounded task and its meaningful checks. Update evidence/spec/schema/task/test traceability together. Split newly discovered independent work into stable IDs; recompute DAG and critical path. Do not mark a task complete while its own oracle is unmet.
-11. Test core invariants,save crash points,visual fixtures,native lifecycle and device performance according to changed surface. Web success does not prove mobile. Exact Figma and15-slot adaptation goldens are separate. Record actual expected/actual results and limits.
-12. Keep debug tools and proposed fixtures out of release. Rewarded-only ads and AppMetrica are required by docs/05_PRODUCT_REQUIREMENTS_AMENDMENT.md; IAP,payouts,accounts and backend remain outside scope. Only confirmed rewarded completion may authorize an idempotent durable grant. Release submission/distribution needs explicit authorization for the concrete approved artifact.
+## Authority and scope
 
-Documentation changes follow evidence→unknown/conflict→spec/schema→phase/task→test. Never rewrite historical captures to match an implementation. [Task index](tasks/TASK_INDEX.md) · [Execution order](plans/00_EXECUTION_ORDER.md) · [Consistency report](analysis/reports/planning_consistency_report.md).
+Latest user decisions override earlier internal plans. Then apply the game-specific brief in docs/tz/, the advertising brief for ads, supplied Figma for art/composition, and general developer instructions only where relevant to this game. Research supports implementation; it does not add delivery scope or prove exact parity.
 
-Current delivery scope is [the targeted amendment](plans/DELIVERY_SCOPE.md).
-The three docs/tz files and supplied Figma determine required product behavior;
-reference/internal documentation cannot add features. Deferred tasks retain
-their original specifications and status but are excluded from active delivery.
-Every required Figma screen and real action remains mandatory. Refresh the
-delivery DAG after checkpoint status updates. TASK-0237 / DELIVERY_COMPLETE
-requires the actual complete production product; unresolved external-only
-requirements stay explicitly open after independent work is finished.
+Read docs/00_INDEX.md, cocos-spike/DEVELOPMENT.md, cocos-spike/HANDOFF.md and docs/BACKLOG.md. Resolve the bounded requested change from those documents and actual source. Do not execute the archived task manifest or label unfinished RN tasks completed.
 
-Current user-authorized [delivery QA policy](docs/qa/10_DELIVERY_QA_POLICY.md) overrides exhaustive or duplicate acceptance requirements. Retain correctness tests and release builds/smoke; batch presentation checks and allow user browser visual acceptance. Keep evidence concise and do not claim unperformed checks.
+## Preserve these product decisions
 
-Current user override: [six-hour candidate mode](plans/DELIVERY_CANDIDATE_MODE.md). Group coherent task IDs, reuse green checks, prioritize reachable required UI and early Android/iOS Simulator launches; no repeated full-suite/report ceremony. Final native smoke still checks the completed app.
+- Native Cocos Android/iOS; package com.mergeheroes.unitewar, display name Merge Heroes Unite War. No RN/WebView game host.
+- Mandatory short tutorial; both tap and drag deploy/recall. Merge and sale of reserve/deployed heroes after onboarding; sale requires confirmation.
+- Continuous stage progression without per-round Continue dialogs. Boss farming stays within its chapter. Third fighter unlocks with the last platform row.
+- Figma-style screens with working controls. Settings has branded title/back arrow, sound/music/vibration/notifications and legal links; no Usage Analytics UI.
+- Visible projectiles, bare positive integer damage, flying gold/gems and restrained licensed audio/haptics. Start/Terms/Privacy clicks stay silent. Full-bleed background with safe-area HUD.
+- Rewarded-only ads: only recorded completed video authorizes an idempotent reward. No fake videos, borrowed ad IDs or grants on failure/close. AppMetrica is separate.
+- No IAP, payouts, accounts or backend. Core play/assets are local; native services and legal URLs use the network.
+- Do not add a support email or Telegram to legal pages: the user withdrew that addition. Published text refers to the developer/store listing.
+
+## Engineering and evidence
+
+1. Inspect changes before editing. Preserve user files, original Figma, captures, saves and permanent signing material.
+2. Keep core deterministic and platform-independent. Commit draft, receipts and watermarks before state/events; presentation never applies authoritative damage/rewards.
+3. Use semantic assets and persistent .meta UUIDs. Atlases/audio are committed; old RN import scripts must not overwrite them.
+4. Reuse evidence. Mark OBSERVED/MEASURED, PROPOSED and UNKNOWN accurately. Document changed balance rules in source/current notes.
+5. Finish related edits before verification. Use focused correctness checks and the requested build; one representative smoke when appropriate. Browser QA is optional. Time-box noncritical investigation to 5–10 minutes. Do not claim unperformed native checks.
+6. Record changes, validation and remaining owner inputs in current docs. cocos-spike/releases/ holds historical release evidence; an old successful check does not certify a new binary.
+7. Keep outputs, local toolchains, emulators and credentials ignored. Keep the pre-commit security hook enabled and sanitize diagnostics with tooling/security/sanitize-log.py.
+8. Commit coherent work after applicable checks. Merge/push when authorized; store submission, new public services and messages require relevant user authorization.

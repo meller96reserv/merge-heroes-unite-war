@@ -1,0 +1,10 @@
+{
+  "status": "SUCCESS",
+  "mode": "offline",
+  "apk": "build/apk/heroes-unite-reference-benchmark.apk",
+  "namedApk": "build/apk/heroes-unite-reference-offline.apk",
+  "bytes": 39822581,
+  "sha256": "334c81d29160bb40de2b09eca28164363bdc924c48991f6a3087b359a7cf4720",
+  "buildSeconds": 14.04,
+  "package": "com.kisel.referencebenchmark.offline"
+}

@@ -1,0 +1,1193 @@
+{
+  "source": "Our production Figma exports; no reference-runtime assets",
+  "atlases": [
+    {
+      "key": "settings",
+      "semantic": "ui_icon_settings__369x374",
+      "source": "app/assets/art/ui_icon_settings__369x374.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        253,
+        256
+      ],
+      "trimmedSize": [
+        253,
+        256
+      ]
+    },
+    {
+      "key": "wheel",
+      "semantic": "ui_wheel_reward_illustration__1774x1837",
+      "source": "app/assets/art/ui_wheel_reward_illustration__1774x1837.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        247,
+        256
+      ],
+      "trimmedSize": [
+        247,
+        256
+      ]
+    },
+    {
+      "key": "bossFrame",
+      "semantic": "ui_button_red_square__1580x1579",
+      "source": "app/assets/art/ui_button_red_square__1580x1579.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        256,
+        256
+      ],
+      "trimmedSize": [
+        256,
+        256
+      ]
+    },
+    {
+      "key": "navDark",
+      "semantic": "ui_panel_dark_square__1576x1595",
+      "source": "app/assets/art/ui_panel_dark_square__1576x1595.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        253,
+        256
+      ],
+      "trimmedSize": [
+        253,
+        256
+      ]
+    },
+    {
+      "key": "navBlue",
+      "semantic": "ui_panel_blue_square__1448x1614",
+      "source": "app/assets/art/ui_panel_blue_square__1448x1614.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        230,
+        256
+      ],
+      "trimmedSize": [
+        230,
+        256
+      ]
+    },
+    {
+      "key": "battle",
+      "semantic": "ui_icon_battle_swords__1402x1456",
+      "source": "app/assets/art/ui_icon_battle_swords__1402x1456.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        247,
+        256
+      ],
+      "trimmedSize": [
+        247,
+        256
+      ]
+    },
+    {
+      "key": "hourglass",
+      "semantic": "ui_icon_hourglass__1343x1364",
+      "source": "app/assets/art/ui_icon_hourglass__1343x1364.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        252,
+        256
+      ],
+      "trimmedSize": [
+        252,
+        256
+      ]
+    },
+    {
+      "key": "snowflake",
+      "semantic": "ui_icon_crystal_snowflake__1318x1341",
+      "source": "app/assets/art/ui_icon_crystal_snowflake__1318x1341.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        252,
+        256
+      ],
+      "trimmedSize": [
+        252,
+        256
+      ]
+    },
+    {
+      "key": "goldPile",
+      "semantic": "ui_icon_gold_pile__1134x1163",
+      "source": "app/assets/art/ui_icon_gold_pile__1134x1163.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        250,
+        256
+      ],
+      "trimmedSize": [
+        250,
+        256
+      ]
+    },
+    {
+      "key": "shop",
+      "semantic": "ui_nav_shop__438x436",
+      "source": "app/assets/art/ui_nav_shop__438x436.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        256,
+        255
+      ],
+      "trimmedSize": [
+        256,
+        255
+      ]
+    },
+    {
+      "key": "relic",
+      "semantic": "ui_nav_crystal_relic__1407x1332",
+      "source": "app/assets/art/ui_nav_crystal_relic__1407x1332.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        256,
+        242
+      ],
+      "trimmedSize": [
+        256,
+        242
+      ]
+    },
+    {
+      "key": "buyFrame",
+      "semantic": "ui_frame_board_slot__244x219",
+      "source": "app/assets/art/ui_frame_board_slot__244x219.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        244,
+        219
+      ],
+      "trimmedSize": [
+        244,
+        219
+      ]
+    },
+    {
+      "key": "heroes",
+      "semantic": "ui_nav_heroes_helmet__1902x1550",
+      "source": "app/assets/art/ui_nav_heroes_helmet__1902x1550.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        256,
+        209
+      ],
+      "trimmedSize": [
+        256,
+        209
+      ]
+    },
+    {
+      "key": "slot",
+      "semantic": "background_stone_slot__348x265",
+      "source": "app/assets/art/background_stone_slot__348x265.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        256,
+        195
+      ],
+      "trimmedSize": [
+        256,
+        195
+      ]
+    },
+    {
+      "key": "dungeon",
+      "semantic": "ui_nav_dungeon__1494x1139",
+      "source": "app/assets/art/ui_nav_dungeon__1494x1139.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        256,
+        195
+      ],
+      "trimmedSize": [
+        256,
+        195
+      ]
+    },
+    {
+      "key": "gold",
+      "semantic": "currency_gold_coin__254x262",
+      "source": "app/assets/art/currency_gold_coin__254x262.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        124,
+        128
+      ],
+      "trimmedSize": [
+        124,
+        128
+      ]
+    },
+    {
+      "key": "stage",
+      "semantic": "relic_infernal_mask__1628x1757",
+      "source": "app/assets/art/relic_infernal_mask__1628x1757.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        119,
+        128
+      ],
+      "trimmedSize": [
+        119,
+        128
+      ]
+    },
+    {
+      "key": "boss",
+      "semantic": "ui_icon_dragon_red__1540x1564",
+      "source": "app/assets/art/ui_icon_dragon_red__1540x1564.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        126,
+        128
+      ],
+      "trimmedSize": [
+        126,
+        128
+      ]
+    },
+    {
+      "key": "gem",
+      "semantic": "currency_gem_blue__300x252",
+      "source": "app/assets/art/currency_gem_blue__300x252.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        128,
+        108
+      ],
+      "trimmedSize": [
+        128,
+        108
+      ]
+    },
+    {
+      "key": "track",
+      "semantic": "ui_bar_dark_track__3646x435",
+      "source": "app/assets/art/ui_bar_dark_track__3646x435.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        768,
+        92
+      ],
+      "trimmedSize": [
+        768,
+        92
+      ]
+    },
+    {
+      "key": "progress",
+      "semantic": "ui_bar_cyan_fill__2680x420",
+      "source": "app/assets/art/ui_bar_cyan_fill__2680x420.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        512,
+        80
+      ],
+      "trimmedSize": [
+        512,
+        80
+      ]
+    },
+    {
+      "key": "currencyFrame",
+      "semantic": "ui_frame_currency__figma_2_487",
+      "source": "app/assets/art/ui_frame_currency__figma_2_487.png",
+      "atlas": "battle_ui",
+      "rawSize": [
+        145,
+        54
+      ],
+      "trimmedSize": [
+        145,
+        54
+      ]
+    },
+    {
+      "key": "hero3",
+      "semantic": "hero_raccoon_engineer__1617x1662",
+      "source": "app/assets/art/hero_raccoon_engineer__1617x1662.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        374,
+        384
+      ],
+      "trimmedSize": [
+        374,
+        384
+      ]
+    },
+    {
+      "key": "hero5",
+      "semantic": "hero_panda_monk__1705x1775",
+      "source": "app/assets/art/hero_panda_monk__1705x1775.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        369,
+        384
+      ],
+      "trimmedSize": [
+        369,
+        384
+      ]
+    },
+    {
+      "key": "hero6",
+      "semantic": "hero_bunny_assassin__1711x1827",
+      "source": "app/assets/art/hero_bunny_assassin__1711x1827.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        360,
+        384
+      ],
+      "trimmedSize": [
+        360,
+        384
+      ]
+    },
+    {
+      "key": "hero7",
+      "semantic": "hero_lion_knight__1616x1788",
+      "source": "app/assets/art/hero_lion_knight__1616x1788.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        347,
+        384
+      ],
+      "trimmedSize": [
+        347,
+        384
+      ]
+    },
+    {
+      "key": "hero8",
+      "semantic": "hero_ice_fairy__1718x1740",
+      "source": "app/assets/art/hero_ice_fairy__1718x1740.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        379,
+        384
+      ],
+      "trimmedSize": [
+        379,
+        384
+      ]
+    },
+    {
+      "key": "hero10",
+      "semantic": "hero_elf_archer__1797x1858",
+      "source": "app/assets/art/hero_elf_archer__1797x1858.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        371,
+        384
+      ],
+      "trimmedSize": [
+        371,
+        384
+      ]
+    },
+    {
+      "key": "goblin",
+      "semantic": "enemy_bomb_goblin__1606x1561",
+      "source": "app/assets/art/enemy_bomb_goblin__1606x1561.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        384,
+        373
+      ],
+      "trimmedSize": [
+        384,
+        373
+      ]
+    },
+    {
+      "key": "hero4",
+      "semantic": "hero_owl_mage__1813x1760",
+      "source": "app/assets/art/hero_owl_mage__1813x1760.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        384,
+        373
+      ],
+      "trimmedSize": [
+        384,
+        373
+      ]
+    },
+    {
+      "key": "hero9",
+      "semantic": "hero_inferno_dragon__1886x1748",
+      "source": "app/assets/art/hero_inferno_dragon__1886x1748.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        384,
+        356
+      ],
+      "trimmedSize": [
+        384,
+        356
+      ]
+    },
+    {
+      "key": "hero2",
+      "semantic": "hero_fox_sorcerer__1828x1679",
+      "source": "app/assets/art/hero_fox_sorcerer__1828x1679.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        384,
+        353
+      ],
+      "trimmedSize": [
+        384,
+        353
+      ]
+    },
+    {
+      "key": "enemy",
+      "semantic": "enemy_ironhide_boar__1862x1681",
+      "source": "app/assets/art/enemy_ironhide_boar__1862x1681.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        384,
+        347
+      ],
+      "trimmedSize": [
+        384,
+        347
+      ]
+    },
+    {
+      "key": "hero",
+      "semantic": "hero_turtle_warrior__1815x1620",
+      "source": "app/assets/art/hero_turtle_warrior__1815x1620.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        384,
+        343
+      ],
+      "trimmedSize": [
+        384,
+        343
+      ]
+    },
+    {
+      "key": "scout",
+      "semantic": "enemy_swamp_crocodile__1895x1429",
+      "source": "app/assets/art/enemy_swamp_crocodile__1895x1429.png",
+      "atlas": "battle_actors",
+      "rawSize": [
+        384,
+        290
+      ],
+      "trimmedSize": [
+        384,
+        290
+      ]
+    }
+  ],
+  "background": {
+    "source": "app/assets/art/background_floating_islands__941x1672.png",
+    "size": [
+      864,
+      1535
+    ]
+  },
+  "additionalOriginalAssets": [
+    {
+      "semantic": "ui_frame_equipment_gold__1035x1545",
+      "source": "app/assets/art/ui_frame_equipment_gold__1035x1545.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_frame_magic_gold__1289x1762",
+      "source": "app/assets/art/ui_frame_magic_gold__1289x1762.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_frame_purple_orb__1428x1440",
+      "source": "app/assets/art/ui_frame_purple_orb__1428x1440.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_frame_purple_shield__1628x1719",
+      "source": "app/assets/art/ui_frame_purple_shield__1628x1719.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_panel_plain_navy__1126x2000",
+      "source": "app/assets/art/ui_panel_plain_navy__1126x2000.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_wheel_sectors__figma_2_634",
+      "source": "app/assets/art/ui_wheel_sectors__figma_2_634.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_wheel_outer_ring__1940x1924",
+      "source": "app/assets/art/ui_wheel_outer_ring__1940x1924.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_frame_orange_wings__1714x1662",
+      "source": "app/assets/art/ui_frame_orange_wings__1714x1662.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "boss_frost_dragon__1995x1925",
+      "source": "app/assets/art/boss_frost_dragon__1995x1925.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "ui_frame_heart_wings__1728x1616",
+      "source": "app/assets/art/ui_frame_heart_wings__1728x1616.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "boss_infernal_dragon__1968x1659",
+      "source": "app/assets/art/boss_infernal_dragon__1968x1659.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "boss_shadow_dragon__1974x1657",
+      "source": "app/assets/art/boss_shadow_dragon__1974x1657.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "branding_logo__1448x1086",
+      "source": "app/assets/art/branding_logo__1448x1086.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "enemy_fire_lizard__1562x1651",
+      "source": "app/assets/art/enemy_fire_lizard__1562x1651.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "enemy_poison_mushroom__1596x1576",
+      "source": "app/assets/art/enemy_poison_mushroom__1596x1576.png",
+      "atlas": "meta_0"
+    },
+    {
+      "semantic": "branding_logo__1448x1086_variant2",
+      "source": "app/assets/art/branding_logo__1448x1086_variant2.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "enemy_shadow_wolf__1783x1677",
+      "source": "app/assets/art/enemy_shadow_wolf__1783x1677.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "enemy_iron_beetle__1835x1638",
+      "source": "app/assets/art/enemy_iron_beetle__1835x1638.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "branding_hero_collage__1536x1024",
+      "source": "app/assets/art/branding_hero_collage__1536x1024.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "branding_hero_collage__1536x1024_variant2",
+      "source": "app/assets/art/branding_hero_collage__1536x1024_variant2.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "enemy_stone_gargoyle__1789x1558",
+      "source": "app/assets/art/enemy_stone_gargoyle__1789x1558.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "enemy_toxic_slime__1654x1388",
+      "source": "app/assets/art/enemy_toxic_slime__1654x1388.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "enemy_dark_bat_mage__1888x1531",
+      "source": "app/assets/art/enemy_dark_bat_mage__1888x1531.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "currency_blue_orb__545x554",
+      "source": "app/assets/art/currency_blue_orb__545x554.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "decoration_raccoon_castle__1254x1254_variant2",
+      "source": "app/assets/art/decoration_raccoon_castle__1254x1254_variant2.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_bunny_assassin_chest__567x656",
+      "source": "app/assets/art/equipment_bunny_assassin_chest__567x656.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_bunny_assassin_pants__522x580",
+      "source": "app/assets/art/equipment_bunny_assassin_pants__522x580.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_elf_archer_boots__497x535",
+      "source": "app/assets/art/equipment_elf_archer_boots__497x535.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_elf_archer_bow__561x739",
+      "source": "app/assets/art/equipment_elf_archer_bow__561x739.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_elf_archer_hood__622x656",
+      "source": "app/assets/art/equipment_elf_archer_hood__622x656.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_elf_archer_hood_fur__684x714",
+      "source": "app/assets/art/equipment_elf_archer_hood_fur__684x714.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_elf_archer_quiver__519x688",
+      "source": "app/assets/art/equipment_elf_archer_quiver__519x688.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_elf_archer_ring_leaf__529x544",
+      "source": "app/assets/art/equipment_elf_archer_ring_leaf__529x544.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_fox_sorcerer_ring__452x543",
+      "source": "app/assets/art/equipment_fox_sorcerer_ring__452x543.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_fox_sorcerer_ring_mask__461x515",
+      "source": "app/assets/art/equipment_fox_sorcerer_ring_mask__461x515.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_fox_sorcerer_staff__462x747",
+      "source": "app/assets/art/equipment_fox_sorcerer_staff__462x747.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_fox_sorcerer_staff_orb__535x811",
+      "source": "app/assets/art/equipment_fox_sorcerer_staff_orb__535x811.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_ice_fairy_ring_gem__465x536",
+      "source": "app/assets/art/equipment_ice_fairy_ring_gem__465x536.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_ice_fairy_ring_snowflake__484x545",
+      "source": "app/assets/art/equipment_ice_fairy_ring_snowflake__484x545.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_ice_fairy_robe__670x754",
+      "source": "app/assets/art/equipment_ice_fairy_robe__670x754.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_ice_fairy_staff_snowflake__583x881",
+      "source": "app/assets/art/equipment_ice_fairy_staff_snowflake__583x881.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_ice_fairy_staff_spear__435x899",
+      "source": "app/assets/art/equipment_ice_fairy_staff_spear__435x899.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_inferno_dragon_ring__306x425",
+      "source": "app/assets/art/equipment_inferno_dragon_ring__306x425.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_inferno_dragon_ring_gem__328x398",
+      "source": "app/assets/art/equipment_inferno_dragon_ring_gem__328x398.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_inferno_dragon_robe__521x524",
+      "source": "app/assets/art/equipment_inferno_dragon_robe__521x524.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_inferno_dragon_spear__628x784",
+      "source": "app/assets/art/equipment_inferno_dragon_spear__628x784.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_inferno_dragon_sword__557x803",
+      "source": "app/assets/art/equipment_inferno_dragon_sword__557x803.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_lion_knight_hammer__509x696",
+      "source": "app/assets/art/equipment_lion_knight_hammer__509x696.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_lion_knight_helmet__491x628",
+      "source": "app/assets/art/equipment_lion_knight_helmet__491x628.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_lion_knight_sword__486x750",
+      "source": "app/assets/art/equipment_lion_knight_sword__486x750.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_owl_mage_ring_crescent__413x553",
+      "source": "app/assets/art/equipment_owl_mage_ring_crescent__413x553.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_owl_mage_robe_crescent__611x673",
+      "source": "app/assets/art/equipment_owl_mage_robe_crescent__611x673.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_owl_mage_robe_orb__533x651",
+      "source": "app/assets/art/equipment_owl_mage_robe_orb__533x651.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_owl_mage_staff_crescent__394x792",
+      "source": "app/assets/art/equipment_owl_mage_staff_crescent__394x792.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_owl_mage_staff_owl__478x836",
+      "source": "app/assets/art/equipment_owl_mage_staff_owl__478x836.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_panda_monk_pants__537x568",
+      "source": "app/assets/art/equipment_panda_monk_pants__537x568.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_panda_monk_staff__623x626",
+      "source": "app/assets/art/equipment_panda_monk_staff__623x626.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_turtle_warrior_hammer__562x646",
+      "source": "app/assets/art/equipment_turtle_warrior_hammer__562x646.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "equipment_turtle_warrior_mace__583x649",
+      "source": "app/assets/art/equipment_turtle_warrior_mace__583x649.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_blue_crescent__505x579",
+      "source": "app/assets/art/relic_blue_crescent__505x579.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_blue_feather__473x665",
+      "source": "app/assets/art/relic_blue_feather__473x665.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_blue_shard__354x641",
+      "source": "app/assets/art/relic_blue_shard__354x641.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_boar_mask__510x544",
+      "source": "app/assets/art/relic_boar_mask__510x544.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_compass_gold__538x602",
+      "source": "app/assets/art/relic_compass_gold__538x602.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_fire_crystal__447x635",
+      "source": "app/assets/art/relic_fire_crystal__447x635.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_fire_dragon_head__406x576",
+      "source": "app/assets/art/relic_fire_dragon_head__406x576.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_frost_dragon_head__471x629",
+      "source": "app/assets/art/relic_frost_dragon_head__471x629.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_gold_bird_mask__527x591",
+      "source": "app/assets/art/relic_gold_bird_mask__527x591.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_gold_dragon_head__455x633",
+      "source": "app/assets/art/relic_gold_dragon_head__455x633.png",
+      "atlas": "meta_1"
+    },
+    {
+      "semantic": "relic_gold_hammer__474x528",
+      "source": "app/assets/art/relic_gold_hammer__474x528.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "relic_green_disc__483x547",
+      "source": "app/assets/art/relic_green_disc__483x547.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "relic_leaf_crescent__470x571",
+      "source": "app/assets/art/relic_leaf_crescent__470x571.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "relic_rabbit_mask__490x644",
+      "source": "app/assets/art/relic_rabbit_mask__490x644.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "relic_shadow_crystal__469x599",
+      "source": "app/assets/art/relic_shadow_crystal__469x599.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "relic_wolf_mask__479x633",
+      "source": "app/assets/art/relic_wolf_mask__479x633.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "reward_gold_chest__1254x1254",
+      "source": "app/assets/art/reward_gold_chest__1254x1254.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_icon_star__478x497",
+      "source": "app/assets/art/ui_icon_star__478x497.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_icon_sword__525x536",
+      "source": "app/assets/art/ui_icon_sword__525x536.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_icon_upgrade_arrow__1302x1413",
+      "source": "app/assets/art/ui_icon_upgrade_arrow__1302x1413.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_inferno_dragon_chest__610x596",
+      "source": "app/assets/art/equipment_inferno_dragon_chest__610x596.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_elf_archer_ring__536x516",
+      "source": "app/assets/art/equipment_elf_archer_ring__536x516.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_ice_fairy_boots__578x556",
+      "source": "app/assets/art/equipment_ice_fairy_boots__578x556.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "decoration_raccoon_castle__1254x1254",
+      "source": "app/assets/art/decoration_raccoon_castle__1254x1254.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_owl_mage__621x592",
+      "source": "app/assets/art/portrait_owl_mage__621x592.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "reward_gold_chest__1254x1254_variant2",
+      "source": "app/assets/art/reward_gold_chest__1254x1254_variant2.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_turtle_warrior_ring_shell__514x487",
+      "source": "app/assets/art/equipment_turtle_warrior_ring_shell__514x487.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_inferno_dragon__621x590",
+      "source": "app/assets/art/portrait_inferno_dragon__621x590.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_elf_archer_coat__663x625",
+      "source": "app/assets/art/equipment_elf_archer_coat__663x625.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_owl_mage_ring_orb__499x469",
+      "source": "app/assets/art/equipment_owl_mage_ring_orb__499x469.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_bunny_assassin_ring_band__455x424",
+      "source": "app/assets/art/equipment_bunny_assassin_ring_band__455x424.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_lion_knight_shield__458x423",
+      "source": "app/assets/art/equipment_lion_knight_shield__458x423.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_ring_gem__497x460",
+      "source": "app/assets/art/equipment_raccoon_engineer_ring_gem__497x460.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_fox_sorcerer__642x592",
+      "source": "app/assets/art/portrait_fox_sorcerer__642x592.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_icon_crown__353x325",
+      "source": "app/assets/art/ui_icon_crown__353x325.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_icon_heart__474x437",
+      "source": "app/assets/art/ui_icon_heart__474x437.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_lion_knight__661x606",
+      "source": "app/assets/art/portrait_lion_knight__661x606.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_elf_archer__647x592",
+      "source": "app/assets/art/portrait_elf_archer__647x592.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_panda_monk__648x590",
+      "source": "app/assets/art/portrait_panda_monk__648x590.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_cannon_large__625x565",
+      "source": "app/assets/art/equipment_raccoon_engineer_cannon_large__625x565.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_cannon_small__313x283",
+      "source": "app/assets/art/equipment_raccoon_engineer_cannon_small__313x283.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_turtle_warrior__660x592",
+      "source": "app/assets/art/portrait_turtle_warrior__660x592.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_bunny_assassin_ring__506x452",
+      "source": "app/assets/art/equipment_bunny_assassin_ring__506x452.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_panda_monk_chest__619x555",
+      "source": "app/assets/art/equipment_panda_monk_chest__619x555.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_ice_fairy__660x590",
+      "source": "app/assets/art/portrait_ice_fairy__660x590.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_raccoon_engineer__662x592",
+      "source": "app/assets/art/portrait_raccoon_engineer__662x592.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "portrait_bunny_assassin__662x590",
+      "source": "app/assets/art/portrait_bunny_assassin__662x590.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_icon_blue_triangle__1484x1322",
+      "source": "app/assets/art/ui_icon_blue_triangle__1484x1322.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_lion_knight_chest__610x541",
+      "source": "app/assets/art/equipment_lion_knight_chest__610x541.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_ring_clock__558x491",
+      "source": "app/assets/art/equipment_raccoon_engineer_ring_clock__558x491.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_panel_stats_black__966x425",
+      "source": "app/assets/art/ui_panel_stats_black__966x425.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "background_grass_platform__754x329",
+      "source": "app/assets/art/background_grass_platform__754x329.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_coat__651x566",
+      "source": "app/assets/art/equipment_raccoon_engineer_coat__651x566.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_turtle_warrior_chest_shell__608x522",
+      "source": "app/assets/art/equipment_turtle_warrior_chest_shell__608x522.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_turtle_warrior_ring_orb__511x435",
+      "source": "app/assets/art/equipment_turtle_warrior_ring_orb__511x435.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_panda_monk_ring__442x374",
+      "source": "app/assets/art/equipment_panda_monk_ring__442x374.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_bunny_assassin_crescent_axes__699x588",
+      "source": "app/assets/art/equipment_bunny_assassin_crescent_axes__699x588.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "ui_panel_gold_black_wide__3815x1593",
+      "source": "app/assets/art/ui_panel_gold_black_wide__3815x1593.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_panda_monk_orbs__669x551",
+      "source": "app/assets/art/equipment_panda_monk_orbs__669x551.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_turtle_warrior_ring__534x437",
+      "source": "app/assets/art/equipment_turtle_warrior_ring__534x437.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_cannon_large__666x538",
+      "source": "app/assets/art/equipment_raccoon_engineer_cannon_large__666x538.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_cannon_small__333x269",
+      "source": "app/assets/art/equipment_raccoon_engineer_cannon_small__333x269.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_turtle_warrior_chest_plate__686x555",
+      "source": "app/assets/art/equipment_turtle_warrior_chest_plate__686x555.png",
+      "atlas": "meta_2"
+    },
+    {
+      "semantic": "equipment_raccoon_engineer_chest_machine__668x500",
+      "source": "app/assets/art/equipment_raccoon_engineer_chest_machine__668x500.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "equipment_bunny_assassin_axes__715x516",
+      "source": "app/assets/art/equipment_bunny_assassin_axes__715x516.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_panel_gold_navy_wide__2339x828",
+      "source": "app/assets/art/ui_panel_gold_navy_wide__2339x828.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_panel_settings_audio__figma_2_190",
+      "source": "app/assets/art/ui_panel_settings_audio__figma_2_190.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "background_dungeon_frost_strip__2172x724",
+      "source": "app/assets/art/background_dungeon_frost_strip__2172x724.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "background_dungeon_infernal_strip__2172x724",
+      "source": "app/assets/art/background_dungeon_infernal_strip__2172x724.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "background_dungeon_shadow_bright_strip__2172x724",
+      "source": "app/assets/art/background_dungeon_shadow_bright_strip__2172x724.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "branding_welcome_text__2172x724_variant2",
+      "source": "app/assets/art/branding_welcome_text__2172x724_variant2.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "branding_welcome_text__2172x724",
+      "source": "app/assets/art/branding_welcome_text__2172x724.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_button_gold__2378x1300",
+      "source": "app/assets/art/ui_button_gold__2378x1300.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_button_orange__2542x1359",
+      "source": "app/assets/art/ui_button_orange__2542x1359.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_panel_settings_toggles__figma_2_191",
+      "source": "app/assets/art/ui_panel_settings_toggles__figma_2_191.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_icon_close__figma_2_121",
+      "source": "app/assets/art/ui_icon_close__figma_2_121.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_banner_name_purple__959x176",
+      "source": "app/assets/art/ui_banner_name_purple__959x176.png",
+      "atlas": "meta_3"
+    },
+    {
+      "semantic": "ui_banner_stage_blue__3876x605",
+      "source": "app/assets/art/ui_banner_stage_blue__3876x605.png",
+      "atlas": "meta_3"
+    }
+  ],
+  "additionalBackgrounds": [
+    "background_castle_platform__941x1672",
+    "background_forest_glade__941x1672"
+  ]
+}

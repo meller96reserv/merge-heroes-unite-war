@@ -1,0 +1,14 @@
+{
+  "completedRecords": 1179,
+  "malformedJournalLines": 0,
+  "notes": [
+    {
+      "type": "finalization",
+      "text": "One response.allHeaders call stalled; closing the capture browser unblocked it but exposed an unhandled rejection. Completed journal bodies and HAR recovered and hashes verified. Final failed/non-GET record details unavailable; aggregate counts were read from live status before closure."
+    }
+  ],
+  "journalCleanup": {
+    "removedRedundantJournalBytes": 128636295,
+    "retained": "Recovered content-bearing HAR, resource index, CAS bodies and untouched normalized originals"
+  }
+}

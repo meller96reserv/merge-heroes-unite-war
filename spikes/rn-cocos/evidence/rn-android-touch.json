@@ -1,9 +1,0 @@
-{
-  "task": "TASK-0039",
-  "target": "Android API36 arm64 emulator",
-  "expected": "One UI tap increments the displayed RN counter by one",
-  "before": 4,
-  "after": 5,
-  "passed": true,
-  "priorAttempt": "Delayed capture saw +2; repeated with consecutive capture/tap/capture to isolate the input."
-}

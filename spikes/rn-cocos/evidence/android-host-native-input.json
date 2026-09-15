@@ -1,8 +1,0 @@
-{
-  "sourceApk": "spikes/rn-cocos/cocos-probe/build/android/proj/build/KiselCocosProbe/outputs/apk/debug/KiselCocosProbe-debug.apk",
-  "sourceApkSha256": "da7b327bc274760b984399411a92282d5b5e7b99a5b45e5a4ded4a63c193c464",
-  "nativeLibrarySha256": "275b16bacd82f28b9a81afa9e6400b33142ad8960f4f0d31067e5ce319173cc8",
-  "bytes": 72089776,
-  "stagedFile": ".tools/cocos-android-host/jniLibs/arm64-v8a/libcocos.so",
-  "architecture": "arm64-v8a"
-}

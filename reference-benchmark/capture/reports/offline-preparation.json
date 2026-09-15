@@ -1,0 +1,14 @@
+{
+  "mode": "offline",
+  "settingsSnapshotSha256": "6d355212807617ebb1dca1b38b4497d270308e722a9a0b050ba1c5e293869569",
+  "source": "runtime/local",
+  "output": "runtime/offline",
+  "changes": [
+    "Entry CSP and offline scripts",
+    "Boot hook before cc.game.run",
+    "Local startup/settings/save adapter; online-only services disabled",
+    "Removed conditional third-party domain/language input/audio block"
+  ],
+  "removedDependencyBlockBytes": 513,
+  "gameplayRules": "Original client battle/purchase/merge logic retained; device clock replaces server time; online events/rewards unavailable"
+}

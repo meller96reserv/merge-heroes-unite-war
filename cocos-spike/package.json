@@ -1,0 +1,18 @@
+{
+  "name": "merge-heroes-unite-war",
+  "private": true,
+  "uuid": "34c93f85-2cd9-5f21-9a22-bb71b1d374b9",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "scripts": {
+    "check:core": "node tools/check-port.cjs",
+    "typecheck": "tsc --noEmit --ignoreDeprecations 6.0 --lib ES2022,DOM"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3"
+  }
+}

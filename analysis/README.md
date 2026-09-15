@@ -1,12 +1,10 @@
-# Planning evidence workspace
+# Исследования и исходная графика
 
-This directory contains source analysis and our own reference-game observations. It is not a runtime asset bundle.
+Это исследовательские данные, не runtime текущей игры. Перед дополнительным исследованием переиспользуйте:
 
-- [Figma audit](figma/README.md): immutable archive copy, 351 extracted rasters, manifests, semantic mapping, contact sheets, hierarchy and 15 screen renders.
-- [Reference captures](reference/capture_index.md): 60 screenshots, the original silent recording, 11 short clips, frame sheets, observations and measurement tables.
-- [Consistency report](reports/planning_consistency_report.md): document, schema, source-hash and dependency checks.
-- [Remaining gates](reports/unresolved_blockers.md): concrete verification tasks for native feasibility, reference rules and release inputs.
+- [Figma](figma/README.md): 351 извлечённый растр, семантические карты/манифесты, иерархия и рендеры экранов.
+- [Референс](reference/capture_index.md): 60 скриншотов, 11 коротких клипов, таблицы механик, баланса и времени. Полная запись — около 68 минут.
 
-The duplicate Figma archive at `figma/raw/source.fig` and full recording under `reference/videos/` are retained locally and excluded from Git because they exceed GitHub's regular file-size limit. Extracted game art, screenshots, short clips, frame sheets and manifests remain versioned. The short clips are the convenient review entry; regenerating them requires the local full recording. Captured temporary guest identifiers are research context and are not product/account configuration.
+Большие оригиналы figma/raw/source.fig, ../docs/Merge Heroes Unite War.fig и reference/videos/ остаются локально и игнорируются Git. Извлечённые изображения, клипы, скриншоты и таблицы версионируются. Для игры эти большие оригиналы не нужны: runtime-ресурсы находятся в cocos-spike/assets/.
 
-[Documentation index](../docs/00_INDEX.md) · [Analysis tools](../tools/analysis/README.md).
+Старые RN-отчёты и генераторы удалены из текущего дерева; они доступны в Git на `3b81e20`. Ссылки на прежние docs/, tools/ и analysis/reports/ в неизменённых материалах относятся к тому дереву. [Архив спецификаций](../archive/rn-planning/README.md), [актуальная документация](../docs/00_INDEX.md).

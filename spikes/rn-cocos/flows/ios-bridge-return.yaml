@@ -1,9 +1,0 @@
-appId: org.reactjs.native.example.KiselNativeProbe
----
-- assertVisible: "Return to RN"
-- takeScreenshot: bridge-ios-cocos
-- tapOn:
-    id: dismiss-cocos
-- assertVisible: "Open native Cocos"
-- assertVisible: "Bridge PASS: color=1, rejected=9/9"
-- takeScreenshot: bridge-ios-rn

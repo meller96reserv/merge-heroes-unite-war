@@ -1,0 +1,281 @@
+{
+  "version": "1.7",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "music": {
+    "title": "Town Theme RPG",
+    "author": "cynicmusic",
+    "sourcePage": "https://opengameart.org/content/town-theme-rpg",
+    "sourceFile": "TownTheme.mp3",
+    "sourceSha256": "2657861d5107d4a3c01ef81cb6a4d61ddd5e7a054b6da57e658373d79d0c3466",
+    "runtimeSha256": "f2228aef5c46d92453641e5b9fb6af3dec2b62efeff694653f9acfff48059fe7",
+    "processing": "Loudness normalized to -22 LUFS; quiet runtime music mix"
+  },
+  "effects": [
+    {
+      "id": "ui_soft_1",
+      "sourceFile": "interface/Audio/click_003.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "2fa929138bc3a0f432696588f66eac94b8f6d463905ec8808c6461ce4b054292",
+      "runtimeSha256": "e586573b90b3bae03f8d615387c098ded4142066795e419726efb9ffd1a63cbe",
+      "durationMs": 5,
+      "peakDbFS": -19.26,
+      "rmsDbFS": -27.26
+    },
+    {
+      "id": "ui_primary_1",
+      "sourceFile": "interface/Audio/pluck_001.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "be97ec4893a02d6eccfb678daa76c83e34cb2583b834ec2593d2641def739fa4",
+      "runtimeSha256": "8a4c78e204422ff461b5aef3fb12d78fbeed48b93205887a32b67c414b7619b9",
+      "durationMs": 98,
+      "peakDbFS": -7.23,
+      "rmsDbFS": -24.45
+    },
+    {
+      "id": "ui_error_1",
+      "sourceFile": "interface/Audio/back_002.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "61581c58194e3f19f531072edabbc344204c7e0a2887b8ededce4357bcf09195",
+      "runtimeSha256": "3ed1985d9da4a6637b6efdc90da7b82292efb90f030238223497deb1006bcc46",
+      "durationMs": 89,
+      "peakDbFS": -4.93,
+      "rmsDbFS": -21.06
+    },
+    {
+      "id": "ui_tab_1",
+      "sourceFile": "interface/Audio/select_004.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "eb6cb435f3f2ab14f85f46a2bdd9073ec511d0f1f8d8c890c6636045703a5fd4",
+      "runtimeSha256": "4076b733fc43a965416fab2dc35ef95c78806cc21aee0976e505b9d30191c7d6",
+      "durationMs": 160,
+      "peakDbFS": -4.76,
+      "rmsDbFS": -19.92
+    },
+    {
+      "id": "ui_open_1",
+      "sourceFile": "interface/Audio/open_002.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "24ff224fe2c09c6aed1b41249825382dc74cf324b887ff279d8494912ce2beee",
+      "runtimeSha256": "b68607c1d5d8ef82b3e0bde16142afb327ed8d82d6be990c7964ef477dc9ddf6",
+      "durationMs": 220,
+      "peakDbFS": -4.43,
+      "rmsDbFS": -14.91
+    },
+    {
+      "id": "ui_close_1",
+      "sourceFile": "interface/Audio/close_002.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "bc4279d2bb2bf86592473eab6a8eab55e51b54a8619315000dbd780a83b102d8",
+      "runtimeSha256": "5fed05bf4f9d56d11e38426e10bed30c25d7d2c5ddd69f2d7e480eb80b13142f",
+      "durationMs": 200,
+      "peakDbFS": -5.14,
+      "rmsDbFS": -13.81
+    },
+    {
+      "id": "ui_toggle_1",
+      "sourceFile": "interface/Audio/switch_003.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "ca12dd32103f401481d5aff56d5e9831174e99bb577139c09b07d046eb8b837e",
+      "runtimeSha256": "c8bd5a54203ffc66dddded60f5e9f6af33d97f5fe74884d654c0c7614f72dfaa",
+      "durationMs": 160,
+      "peakDbFS": -5.81,
+      "rmsDbFS": -19.2
+    },
+    {
+      "id": "ui_tick_1",
+      "sourceFile": "interface/Audio/tick_001.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "9d057b918024c787bbe6c00beed13a7ef72a3fa0c259add3cef36582792f4230",
+      "runtimeSha256": "330b500bb88a6e461e346339497cb86b91ef9b112364ebb487a721c38939f969",
+      "durationMs": 43,
+      "peakDbFS": -15.67,
+      "rmsDbFS": -33.5
+    },
+    {
+      "id": "hero_spawn_1",
+      "sourceFile": "interface/Audio/confirmation_002.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c",
+      "runtimeSha256": "2decd883c1ceeb81b8c91d09adabd473ab3985b3a6f226dd213f931992395864",
+      "durationMs": 380,
+      "peakDbFS": -5.62,
+      "rmsDbFS": -17.86
+    },
+    {
+      "id": "hero_drop_1",
+      "sourceFile": "interface/Audio/drop_002.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "4ac4d1cef7e936965cbf795852ca2020300b9e2ba7daa59f2bf4f1f7bf416218",
+      "runtimeSha256": "ac120894fff077caf30249ad8f6e24e6925a9ce9606415e4a9184c52a8c578d6",
+      "durationMs": 180,
+      "peakDbFS": -6.35,
+      "rmsDbFS": -22.21
+    },
+    {
+      "id": "combat_melee_1",
+      "sourceFile": "rpg/Audio/knifeSlice.ogg",
+      "sourcePage": "https://kenney.nl/assets/rpg-audio",
+      "license": "CC0-1.0",
+      "sourceSha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+      "runtimeSha256": "29680eccbd3f1009d8762c24751b6a4a4772953f0ea8451beafd732ee9062d35",
+      "durationMs": 220,
+      "peakDbFS": -5.25,
+      "rmsDbFS": -19.51
+    },
+    {
+      "id": "combat_ranged_1",
+      "sourceFile": "rpg/Audio/knifeSlice2.ogg",
+      "sourcePage": "https://kenney.nl/assets/rpg-audio",
+      "license": "CC0-1.0",
+      "sourceSha256": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def",
+      "runtimeSha256": "a8ac1165118d591f3e6a85f6aa34178b8433e1a7ce0bfe20a5b13becffd738d9",
+      "durationMs": 240,
+      "peakDbFS": -6.89,
+      "rmsDbFS": -27.69
+    },
+    {
+      "id": "combat_magic_1",
+      "sourceFile": "interface/Audio/glass_003.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "9a6f16e3c2eff6fe5d017a4755a28306b14555728831cd00d70308e8f9689566",
+      "runtimeSha256": "60d866f2b287aa1ffdd21dfa83869b87843ade20c04d4a08d809a7dd52f015a1",
+      "durationMs": 119,
+      "peakDbFS": -4.85,
+      "rmsDbFS": -18.83
+    },
+    {
+      "id": "combat_hit_1",
+      "sourceFile": "rpg/Audio/chop.ogg",
+      "sourcePage": "https://kenney.nl/assets/rpg-audio",
+      "license": "CC0-1.0",
+      "sourceSha256": "d00c2b3c9fff07e376145c8c8c45c90e5084ec192f6ce0387db233f7b86f1486",
+      "runtimeSha256": "0fcaf5ac3af553f1a8a970412148096c5aa32125577b23d66bc24f8675b8122a",
+      "durationMs": 130,
+      "peakDbFS": -5.18,
+      "rmsDbFS": -21.51
+    },
+    {
+      "id": "combat_crit_1",
+      "sourceFile": "interface/Audio/glass_002.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "08e972c73e53c91d6d310e107e80db60edce78ae47225889a028e628a6f3da49",
+      "runtimeSha256": "1fdeb186e5c00230896ecc73bb5dffbae996005935d2af0a08404b6314487c70",
+      "durationMs": 120,
+      "peakDbFS": -6.18,
+      "rmsDbFS": -22.72
+    },
+    {
+      "id": "enemy_deathSmall_1",
+      "sourceFile": "interface/Audio/drop_004.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "10738707f9300f9b963ceba46d5da2ed4a221faf7d39484a643c2d3bc151c5f2",
+      "runtimeSha256": "f63f2b1a9afdd23f6515b7670dfdecb6fef5ffdb716b79f234bfc588b08c8e64",
+      "durationMs": 250,
+      "peakDbFS": -5.87,
+      "rmsDbFS": -23.52
+    },
+    {
+      "id": "economy_goldGain_1",
+      "sourceFile": "rpg/Audio/handleCoins2.ogg",
+      "sourcePage": "https://kenney.nl/assets/rpg-audio",
+      "license": "CC0-1.0",
+      "sourceSha256": "4b857968d64f9ac9336a10ffac6694d7547e1f01566ad6857b30bc8db3ee6c32",
+      "runtimeSha256": "401025d7fd2daa02374c27d77723461663626ae270a2135bd403f1bd63e06823",
+      "durationMs": 284,
+      "peakDbFS": -5.1,
+      "rmsDbFS": -27.22
+    },
+    {
+      "id": "economy_gemGain_1",
+      "sourceFile": "interface/Audio/glass_005.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "1f6c88008d0d9fe449197512811785e1d4638daf408a96a4a02756530e019172",
+      "runtimeSha256": "7413942d0d0dd01fc2180f827fe785b25396a8ec10336e64bc68a234ea173bba",
+      "durationMs": 130,
+      "peakDbFS": -8.45,
+      "rmsDbFS": -27.3
+    },
+    {
+      "id": "merge_low_1",
+      "sourceFile": "interface/Audio/confirmation_001.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a",
+      "runtimeSha256": "a95618fffc49b21a94428b8a3396d13bac363965edef1fa2276b639c440cefd4",
+      "durationMs": 288,
+      "peakDbFS": -5.47,
+      "rmsDbFS": -15.58
+    },
+    {
+      "id": "merge_high_1",
+      "sourceFile": "interface/Audio/confirmation_004.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "568967a3d9f8a8f6af54ea01729c4882284308f2a27d78c07ffd7ee0d6951661",
+      "runtimeSha256": "e19775f2adb947077b79611f3f3565a27fb62746276f508cc39cf316e4f1f6fd",
+      "durationMs": 487,
+      "peakDbFS": -4.9,
+      "rmsDbFS": -15.79
+    },
+    {
+      "id": "reward_claim_1",
+      "sourceFile": "jingles/Audio/Pizzicato jingles/jingles_PIZZI00.ogg",
+      "sourcePage": "https://kenney.nl/assets/music-jingles",
+      "license": "CC0-1.0",
+      "sourceSha256": "b442ade3308a2bbda4b8c572c86f9f1071c7bdbcfb1e6f915d35c605b61bd475",
+      "runtimeSha256": "d8e8b00bca910e0bae3e15328034f97226b5d1d432bbfdfe24da7bd476e69800",
+      "durationMs": 486,
+      "peakDbFS": -4.99,
+      "rmsDbFS": -16.71
+    },
+    {
+      "id": "upgrade_1",
+      "sourceFile": "interface/Audio/maximize_004.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "59c7a24b204be24d2a44a86d1e4d18c2cf51fa0446967a14b2590e8fb3afaf34",
+      "runtimeSha256": "47ed835e0f1c1675c0104f5f6a91c8be9abe9aacd41dfa499afd6720e7d0223d",
+      "durationMs": 392,
+      "peakDbFS": -5.12,
+      "rmsDbFS": -20.36
+    },
+    {
+      "id": "equipment_1",
+      "sourceFile": "rpg/Audio/metalClick.ogg",
+      "sourcePage": "https://kenney.nl/assets/rpg-audio",
+      "license": "CC0-1.0",
+      "sourceSha256": "9851a69d0c613e13bceef08060ecc4148f098ef487927cbebe270d642398a3b3",
+      "runtimeSha256": "5466cb0c37d12df3ca7485586aaf3278a13ce001f7c254272a25b04494b39cee",
+      "durationMs": 230,
+      "peakDbFS": -5.03,
+      "rmsDbFS": -31.54
+    },
+    {
+      "id": "wheel_stop_1",
+      "sourceFile": "interface/Audio/confirmation_003.ogg",
+      "sourcePage": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sourceSha256": "3091bf0be0497f825769ee0733ca7bdc3bcd59bd6c6e8f2ba8f93d580ff38022",
+      "runtimeSha256": "49bf4a7cc517831b368f5eda2167a7c8c4f4110cfa3acbc2f971a39729ae902d",
+      "durationMs": 320,
+      "peakDbFS": -5.48,
+      "rmsDbFS": -19.65
+    }
+  ],
+  "changes": "Trimmed long tails, gentle edge fades, bounded high end, effects normalized to approximately -5 dBFS peak. No reference-game audio."
+}

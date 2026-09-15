@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checkedCapturedAndOriginalFiles": 2445,
+  "unmodifiedLocalResourceFiles": 1157,
+  "allowedLocalChanges": [
+    "index.html SDK script reference",
+    "benchmark-portal.js added adapter",
+    "public URL root relocated to local root"
+  ],
+  "failures": []
+}

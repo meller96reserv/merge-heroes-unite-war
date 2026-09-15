@@ -1,7 +1,0 @@
-from plan_common import *
-
-def system_doc(path,title,terms,inputs,outputs,state,pre,order,machine,algorithm,config,ui,hooks,save,analytics,edges,tests,evidence,unknowns,accept):
- sections=[('A. Terminology',terms),('B. Inputs',inputs),('C. Outputs/events',outputs),('D. State',state),('E. Preconditions',pre),('F. Transaction order',order),('G. State machine','```text\n'+machine+'\n```'),('H. Algorithms','```text\n'+algorithm+'\n```'),('I. Config dependencies',config),('J. UI dependencies',ui),('K. Animation/audio hooks',hooks),('L. Save implications',save),('M. Analytics',analytics),('N. Edge cases',edges),('O. Test matrix',tests),('P. Evidence',evidence),('Q. Unknowns',unknowns),('R. Acceptance criteria',accept)]
- text='# '+title+'\n\n[PROPOSED] Исполняемый контракт нашей реализации; observed facts перечислены отдельно в Evidence. Псевдокод описывает будущую реализацию и не является production code.\n\n'+'\n\n'.join('## '+h+'\n\n'+body for h,body in sections)
- text+='\n\n'+ ' · '.join(link(path,target,label) for target,label in [('docs/03_EVIDENCE_LEDGER.md','Evidence ledger'),('docs/04_UNKNOWNS_REGISTER.md','Unknowns'),('docs/09_SCREEN_CATALOG.md','Screens/assets'),('analysis/figma/semantic_map.json','Semantic assets'),('data-spec/README.md','Schemas'),('plans/00_EXECUTION_ORDER.md','Phases'),('tasks/TASK_INDEX.md','Atomic tasks'),('docs/00_INDEX.md','Index')])+'.'
- write(path,text)

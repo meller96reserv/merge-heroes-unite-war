@@ -1,0 +1,37 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.kisel.referencebenchmark'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'com.kisel.referencebenchmark'
+        minSdk 26
+        targetSdk 35
+        versionCode 1
+        versionName '0.1-reference'
+        manifestPlaceholders = [appLabel: 'Heroes Unite Reference Benchmark']
+    }
+    buildFeatures { buildConfig true }
+    flavorDimensions += 'connection'
+    productFlavors {
+        online {
+            dimension 'connection'
+            buildConfigField 'boolean', 'OFFLINE', 'false'
+        }
+        offline {
+            dimension 'connection'
+            applicationIdSuffix '.offline'
+            versionNameSuffix '-offline'
+            manifestPlaceholders = [appLabel: 'Heroes Unite Offline Reference']
+            buildConfigField 'boolean', 'OFFLINE', 'true'
+        }
+    }
+    signingConfigs { debug { storeFile file('../../build/reference-debug.keystore'); storePassword 'android'; keyAlias 'androiddebugkey'; keyPassword 'android' } }
+    buildTypes { debug { debuggable true; minifyEnabled false } }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+    sourceSets {
+        online { assets.srcDirs = ['../../runtime/local'] }
+        offline { assets.srcDirs = ['../../runtime/offline'] }
+    }
+    androidResources { noCompress += ['wasm', 'bin', 'mp3', 'ogg', 'png', 'jpg', 'webp'] }
+}
+dependencies { implementation 'androidx.webkit:webkit:1.14.0' }

@@ -1,74 +1,61 @@
+# Local originals and large research recordings.
 docs/Merge Heroes Unite War.fig
 docs/links.txt
-
-# Large local research originals; retain short clips and extracted game art in Git.
 /analysis/figma/raw/source.fig
 /analysis/reference/videos/
-
-# Local system and Python cache files.
+/docs/tz/com.chickenmaracana.pop.apk
+/.vscode
+# Tools, caches, diagnostics and credentials.
 .DS_Store
 __pycache__/
 *.py[cod]
-
-# Local pinned toolchains, dependency caches and native/editor build output.
 /.tools/
 node_modules/
 .gradle/
 Pods/
-/spikes/rn-cocos/cocos-probe/library/
-/spikes/rn-cocos/cocos-probe/temp/
-/spikes/rn-cocos/cocos-probe/local/
-/spikes/rn-cocos/cocos-probe/build/
-/spikes/rn-cocos/rn-probe/android/build/
-/spikes/rn-cocos/rn-probe/android/app/build/
-/spikes/rn-cocos/rn-probe/ios/build/
 local.properties
 *.xcuserstate
 xcuserdata/
-
-# Long native diagnostics stay local; reports retain their hashes and commands.
-/spikes/rn-cocos/evidence/videos/
-
-# Signing material and process dumps are local, never checkpoint artifacts.
 *.keystore
 *.jks
 *.hprof
 *.xcresult/
-# Keep the filtered application events; the full unrelated Android system stream is redundant.
-/spikes/rn-cocos/logs/android-host-isolated-runtime.log
-
-# Redundant raw native-probe automation output; selected evidence remains tracked.
-spikes/rn-cocos/evidence/**/logs/
-spikes/rn-cocos/evidence/**/takeScreenshot/
-spikes/rn-cocos/evidence/**/xctest_runner_*.log
-spikes/rn-cocos/logs/*build.log
-spikes/rn-cocos/logs/*configure.log
-spikes/rn-cocos/logs/*export-console.log
-spikes/rn-cocos/logs/cocos-probe-*-export.log
-
-# Reproducible Expo/native output and local browser tooling.
-/.expo/
-/dist/
-/android/
-/ios/
-/public/canvaskit.wasm
-/test-results/
-/playwright-report/
-
-# SEC-001: runtime/network diagnostics may contain proxy headers and tokens.
-/spikes/**/logs/
-/spikes/**/*.log
-/analysis/**/diagnostics/
 *.log
 .env
 .env.*
-!.env.example
+/analysis/**/diagnostics/
 
-# Local Expo module native compiler output (source remains tracked).
-/modules/*/android/build/
-/modules/*/android/.gradle/
-/modules/*/android/.cxx/
-/modules/*/ios/build/
+# Old generated RN host folders are never source inputs.
+/android/
+/ios/
+/.expo/
+/dist/
+/public/canvaskit.wasm
 
-# Owner-supplied binary reference; read locally, never ship or commit.
-/docs/tz/com.chickenmaracana.pop.apk
+# Explicit allowlist for the active Cocos project.
+/cocos-spike/*
+!/cocos-spike/assets/
+!/cocos-spike/native/
+!/cocos-spike/settings/
+!/cocos-spike/branding/
+!/cocos-spike/audio-licenses/
+!/cocos-spike/legal/
+!/cocos-spike/tools/
+!/cocos-spike/releases/
+!/cocos-spike/README.md
+!/cocos-spike/HANDOFF.md
+!/cocos-spike/DEVELOPMENT.md
+!/cocos-spike/PLAN-1.8.md
+!/cocos-spike/app-services.json
+!/cocos-spike/release.json
+!/cocos-spike/package.json
+!/cocos-spike/package-lock.json
+!/cocos-spike/tsconfig.json
+!/cocos-spike/build-profile.json
+!/cocos-spike/build-profile-ios.json
+/cocos-spike/**/build/
+/cocos-spike/**/.cxx/
+/cocos-spike/**/local.properties
+
+# Historical probe output should never reappear as current source.
+/spikes/

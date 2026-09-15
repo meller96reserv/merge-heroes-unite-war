@@ -1,0 +1,591 @@
+{
+  "summary": {
+    "run": "2026-09-10T18-05-52-247Z",
+    "local": false,
+    "requests": 1373,
+    "successfulResponses": 1366,
+    "resourcesCaptured": 1143,
+    "uniqueBodies": 1006,
+    "uniqueBytes": 88621338,
+    "excludedResponses": 141,
+    "pending": 0,
+    "failedRequests": 46,
+    "uncapturedResponses": 89,
+    "hosts": [
+      "www.crazygames.com",
+      "cdn.privacy-mgmt.com",
+      "builds.crazygames.com",
+      "api.crazygames.com",
+      "games.crazygames.com",
+      "fonts.googleapis.com",
+      "www.googletagmanager.com",
+      "model.crazygames.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "www.google.by",
+      "imgs.crazygames.com",
+      "fafvertizing.crazygames.com",
+      "mafvertizing.crazygames.com",
+      "accounts.google.com",
+      "fundingchoicesmessages.google.com",
+      "oa.openxcdn.net",
+      "invstatic101.creativecdn.com",
+      "tags.crwdcntrl.net",
+      "static.criteo.net",
+      "gum.criteo.com",
+      "files.crazygames.com",
+      "sdk.crazygames.com",
+      "imasdk.googleapis.com",
+      "rtb.openx.net",
+      "google-bidout-d.openx.net"
+    ]
+  },
+  "errors": [
+    {
+      "type": "console",
+      "text": "Not signed in with the identity provider.",
+      "time": "2026-09-10T18:05:57.536Z"
+    },
+    {
+      "type": "console",
+      "text": "[GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token.",
+      "time": "2026-09-10T18:05:57.800Z"
+    },
+    {
+      "type": "console",
+      "text": "Not signed in with the identity provider.",
+      "time": "2026-09-10T18:06:51.072Z"
+    },
+    {
+      "type": "console",
+      "text": " onBattleConstLoading. not use key=SUPER_ELITE_UNIT_ATK_UP",
+      "time": "2026-09-10T18:06:54.196Z"
+    }
+  ],
+  "operations": [
+    {
+      "time": "2026-09-10T18:06:21.481Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-initial"
+      },
+      "result": {
+        "path": "capture/reports/public-initial.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:06:50.756Z",
+      "command": {
+        "op": "click",
+        "x": 497,
+        "y": 386
+      }
+    },
+    {
+      "time": "2026-09-10T18:07:15.906Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-started"
+      },
+      "result": {
+        "path": "capture/reports/public-started.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:08:32.517Z",
+      "command": {
+        "op": "click",
+        "x": 636,
+        "y": 818
+      }
+    },
+    {
+      "time": "2026-09-10T18:08:32.745Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-tutorial-1"
+      },
+      "result": {
+        "path": "capture/reports/public-tutorial-1.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:12.900Z",
+      "command": {
+        "op": "drag",
+        "x1": 444,
+        "y1": 550,
+        "x2": 602,
+        "y2": 335
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:13.007Z",
+      "command": {
+        "op": "note",
+        "text": "Public fullscreen launch; tutorial purchase/automatic merge to level 2; drag hero onto battle field."
+      },
+      "result": {
+        "coverage": "Public fullscreen launch; tutorial purchase/automatic merge to level 2; drag hero onto battle field."
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:13.244Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-battle-1"
+      },
+      "result": {
+        "path": "capture/reports/public-battle-1.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:24.386Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-battle-2"
+      },
+      "result": {
+        "path": "capture/reports/public-battle-2.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:50.786Z",
+      "command": {
+        "op": "click",
+        "x": 636,
+        "y": 817
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:50.892Z",
+      "command": {
+        "op": "click",
+        "x": 636,
+        "y": 817
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:50.997Z",
+      "command": {
+        "op": "click",
+        "x": 636,
+        "y": 817
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:51.110Z",
+      "command": {
+        "op": "click",
+        "x": 876,
+        "y": 30
+      }
+    },
+    {
+      "time": "2026-09-10T18:09:51.314Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-settings"
+      },
+      "result": {
+        "path": "capture/reports/public-settings.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:10:01.468Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-current"
+      },
+      "result": {
+        "path": "capture/reports/public-current.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:12:22.777Z",
+      "command": {
+        "op": "click",
+        "x": 687,
+        "y": 244
+      }
+    },
+    {
+      "time": "2026-09-10T18:12:22.972Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-attendance"
+      },
+      "result": {
+        "path": "capture/reports/public-attendance.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:13:09.657Z",
+      "command": {
+        "op": "click",
+        "x": 775,
+        "y": 70
+      }
+    },
+    {
+      "time": "2026-09-10T18:13:09.758Z",
+      "command": {
+        "op": "click",
+        "x": 744,
+        "y": 142
+      }
+    },
+    {
+      "time": "2026-09-10T18:13:09.860Z",
+      "command": {
+        "op": "click",
+        "x": 410,
+        "y": 78
+      }
+    },
+    {
+      "time": "2026-09-10T18:13:10.068Z",
+      "command": {
+        "op": "snapshot",
+        "name": "public-menu-resource-capture"
+      },
+      "result": {
+        "path": "capture/reports/public-menu-resource-capture.png"
+      }
+    },
+    {
+      "time": "2026-09-10T18:19:12.175Z",
+      "command": {
+        "op": "note",
+        "text": "Reused analysis/reference/capture_index.md (4091.12s video, 60 screenshots), version_lock.json and screen catalogue. New capture used manifest-declared public release bundles via normal Cocos asset loader; not proof of visiting all corresponding screens. debug_scene excluded. No scene instantiation/progression/save edits."
+      },
+      "result": {
+        "coverage": "Reused analysis/reference/capture_index.md (4091.12s video, 60 screenshots), version_lock.json and screen catalogue. New capture used manifest-declared public release bundles via normal Cocos asset loader; not proof of visiting all corresponding screens. debug_scene excluded. No scene instantiation/progression/save edits."
+      }
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://www.crazygames.com/metrics/ag/g/c?v=2&tid=G-BB20KEMLCJ&gtm=45g92e6990v882979294za204zd882979294&_p=1789063556183&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dNzQzZD&ecid=2111767047&_eu=AAAAAGAC&_uip=%3A%3A&cid=1886548478.1789063556&ec_mode=a&fp=1&frm=0&pscdl=noapi&rcb=16&sr=1280x960&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uam=&uamb=0&uap=macOS&uapv=15.7.4&uaw=0&ul=en-gb&ur=BY-BR&_gsid=4g3qu7PM4djIjyGhLwosuCbehRKZ5885xQ&gaf=2&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153&sid=1789063556&sct=1&seg=0&dl=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&dt=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&gap.gtb=1&ep.pwa=false&tfd=1251",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:56.572Z"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=1&auid=1098282177.1789063557&dt=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&tid=AW-312835820&en=page_view&dl=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&scrsrc=www.crazygames.com&rnd=435196026.1789063557&navt=n&npa=0&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1789063556646&tfd=1393&gap.gtb=1&tids=AW-312835820&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:56.731Z"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/312835820/?random=1789063556623&cv=11&fst=1789063556623&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1280&u_h=960&url=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&rcb=9&frm=0&tiba=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1098282177.1789063557&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=15.7.4&uaw=0&data=event%3Dgtag.config&gap.gtb=1&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:56.737Z"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/312835820/?random=1789063556638&cv=11&fst=1789063556638&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1280&u_h=960&url=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&rcb=9&frm=0&tiba=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1098282177.1789063557&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=15.7.4&uaw=0&data=event%3Dgtag.config&gap.gtb=1&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:56.737Z"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1098282177.1789063557&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:56.748Z"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "method": "HEAD",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:57.482Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:57.797Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:58.108Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:58.177Z"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/ping?e=1",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:59.137Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:05:59.786Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:06:51.180Z"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "method": "HEAD",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:06:52.604Z"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "method": "HEAD",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:06:52.795Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:06:52.887Z"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/ping?e=1",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:06:53.985Z"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/ping?e=1",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:06:55.120Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:07:02.372Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:07:12.375Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:07:22.372Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:07:32.374Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:07:42.376Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:07:52.378Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:08:52.378Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:09:52.379Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:10:52.382Z"
+    },
+    {
+      "url": "https://www.crazygames.com/metrics/ag/g/c?v=2&tid=G-BB20KEMLCJ&gtm=45g92e6990v882979294za204zd882979294&_p=1789063556183&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tcfd=10000&gdid=dNzQzZD&ecid=2111767047&_eu=AAAAAGQC&_uip=%3A%3A&cid=1886548478.1789063556&fp=1&frm=0&ni=0&pscdl=noapi&rcb=16&sr=1280x960&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uam=&uamb=0&uap=macOS&uapv=15.7.4&uaw=0&ul=en-gb&ur=BY-BR&_gsid=4g3qu7PM4djIjyGhLwosuCbehRKZ5885xQ&gaf=2&_s=2&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153&dl=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&sid=1789063556&sct=1&seg=1&dt=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&en=min5&_ee=1&gap.gtb=2&ep.pwa=false&ep.event_category=playtimePerSession&ep.event_label=91187&epn.value=1&ep.loader_type=none&_et=55966&tfd=356965",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:11:52.283Z"
+    },
+    {
+      "url": "https://www.crazygames.com/metrics/d/ccm/form-data/312835820?gtm=45892e6990phv9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tcfd=10000&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&rcb=9&gdid=dNzQzZD&npa=0&frm=0&pscdl=noapi&auid=1098282177.1789063557&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=15.7.4&uaw=0&ec_mode=a&gap.gtb=2&fmt=8&_uip=%3A%3A&emd=tvd.1&eme=tv.1~&gap.ch=4",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:11:52.315Z"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=0&auid=1098282177.1789063557&dt=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&tid=AW-312835820&en=min5&dl=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&scrsrc=www.crazygames.com&rnd=435196026.1789063557&navt=n&npa=0&ep.event_category=playtimePerSession&ep.event_label=91187&ep.non_interaction=0&ep.loader_type=none&epn.value=1&gdid=dNzQzZD&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tcfd=10000&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1789063912237&tfd=356986&gap.gtb=2&tids=AW-312835820&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:11:52.323Z"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1098282177.1789063557&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:11:52.326Z"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/312835820/?random=1789063912220&cv=11&fst=1789063912220&fmt=8&bg=ffffff&guid=ON&async=1&en=min5&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tcfd=10000&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1280&u_h=960&url=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&rcb=9&frm=0&tiba=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&gdid=dNzQzZD&value=1&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1098282177.1789063557&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=15.7.4&uaw=0&data=event%3Dmin5%3Bevent_category%3DplaytimePerSession%3Bevent_label%3D91187%3Bnon_interaction%3Dfalse%3Bloader_type%3Dnone&gap.gtb=2&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:11:52.327Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:11:52.421Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:11:52.421Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:12:52.388Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:13:52.382Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:14:52.381Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:15:52.409Z"
+    },
+    {
+      "url": "https://www.crazygames.com/metrics/ag/g/c?v=2&tid=G-BB20KEMLCJ&gtm=45g92e6990v882979294za204zd882979294&_p=1789063556183&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tcfd=10000&gdid=dNzQzZD&ecid=2111767047&_eu=AAAAAGQC&_uip=%3A%3A&cid=1886548478.1789063556&fp=1&frm=0&ni=0&pscdl=noapi&rcb=16&sr=1280x960&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uam=&uamb=0&uap=macOS&uapv=15.7.4&uaw=0&ul=en-gb&ur=BY-BR&_gsid=4g3qu7PM4djIjyGhLwosuCbehRKZ5885xQ&gaf=2&_s=3&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153&dl=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&sid=1789063556&sct=1&seg=1&dt=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&en=min10&_ee=1&gap.gtb=2&ep.pwa=false&ep.event_category=playtimePerSession&ep.event_label=91187&epn.value=1&ep.loader_type=none&tfd=656958",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:16:52.289Z"
+    },
+    {
+      "url": "https://www.crazygames.com/metrics/d/ccm/form-data/312835820?gtm=45892e6990phv9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tcfd=10000&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&rcb=9&gdid=dNzQzZD&npa=0&frm=0&pscdl=noapi&auid=1098282177.1789063557&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=15.7.4&uaw=0&ec_mode=a&gap.gtb=2&fmt=8&_uip=%3A%3A&emd=tvd.1&eme=tv.1~&gap.ch=2",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:16:52.310Z"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=0&auid=1098282177.1789063557&dt=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&tid=AW-312835820&en=min10&dl=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&scrsrc=www.crazygames.com&rnd=435196026.1789063557&navt=n&npa=0&ep.event_category=playtimePerSession&ep.event_label=91187&ep.non_interaction=0&ep.loader_type=none&epn.value=1&gdid=dNzQzZD&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tcfd=10000&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1789064212224&tfd=656975&gap.gtb=2&tids=AW-312835820&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:16:52.316Z"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1098282177.1789063557&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:16:52.320Z"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/312835820/?random=1789064212211&cv=11&fst=1789064212211&fmt=8&bg=ffffff&guid=ON&async=1&en=min10&gtm=45892e6990v9100436285za204zb882979294zd882979294xec&gcd=13l3l3l3l1l1&dma=0&tcfd=10000&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1280&u_h=960&url=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fheroes-unite&rcb=9&frm=0&tiba=%F0%9F%8E%AE%20Heroes%20Unite%20%F0%9F%95%B9%EF%B8%8F%20Play%20on%20CrazyGames&gdid=dNzQzZD&value=1&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1098282177.1789063557&uaa=arm&uab=64&uafvl=Chromium%3B152.0.7977.83%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.83&uamb=0&uam=&uap=macOS&uapv=15.7.4&uaw=0&data=event%3Dmin10%3Bevent_category%3DplaytimePerSession%3Bevent_label%3D91187%3Bnon_interaction%3Dfalse%3Bloader_type%3Dnone&gap.gtb=2&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:16:52.323Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:16:52.413Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:16:52.413Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:17:52.407Z"
+    },
+    {
+      "url": "https://cza.crazygames.com/event",
+      "method": "POST",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED",
+      "time": "2026-09-10T18:18:52.412Z"
+    }
+  ]
+}

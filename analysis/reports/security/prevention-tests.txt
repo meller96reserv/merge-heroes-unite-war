@@ -1,1 +1,0 @@
-PASS: synthetic auth detection, URL credentials, raw-log rejection, allowlisted summary excludes credentials

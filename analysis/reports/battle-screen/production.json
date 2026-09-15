@@ -1,9 +1,0 @@
-{
-  "status": "PASS",
-  "command": "npm run build:web",
-  "consoleErrors": 0,
-  "oneCanvas": true,
-  "debugCatalogueAbsent": true,
-  "modalRoundtrip": true,
-  "nativeRuntime": "NOT_RUN"
-}

@@ -1,7 +1,0 @@
-{
-  "scope": "all reachable Git refs",
-  "status": "PASS",
-  "blobsScanned": 2465,
-  "matches": [],
-  "credentialValuesPrinted": false
-}

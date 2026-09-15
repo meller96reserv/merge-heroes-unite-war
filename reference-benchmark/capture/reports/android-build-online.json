@@ -1,0 +1,8 @@
+{
+  "status": "SUCCESS",
+  "apk": "build/apk/heroes-unite-reference-benchmark.apk",
+  "bytes": 39820219,
+  "sha256": "0b83b4dfcb1344c15a09db6e6319a827ee572df96aa7a55f26cedc1a190d3398",
+  "buildSeconds": 13.19,
+  "package": "com.kisel.referencebenchmark"
+}

@@ -1,3 +1,5 @@
-# Current execution amendment
+# Продолжить разработку
 
-The explicit user architecture correction of 2026-09-09 supersedes the runtime and mandatory spike directives of the original prompt. Execute [ADR-007](docs/adr/ADR-007-RN-SKIA-RUNTIME.md), [execution rules](CODEX_EXECUTION_RULES.md) and the current [task DAG](tasks/task_manifest.json). Preserve current work; commit coherent tasks and continue browser-first RN/Skia implementation. Original prompt is preserved verbatim in `spikes/rn-cocos/architecture/start_prompt.md.txt`. Product/research/quality requirements remain in the existing planning package.
+Прочитай AGENTS.md, CODEX_EXECUTION_RULES.md, docs/00_INDEX.md, cocos-spike/DEVELOPMENT.md, cocos-spike/HANDOFF.md и docs/BACKLOG.md. Разрабатывай текущую native Cocos Creator 3.8.8 игру в cocos-spike/. Выполни конкретную задачу пользователя, сохрани прогресс игроков и проведи только относящиеся к изменению проверки после завершения правок. Обнови документацию о результате и ограничениях.
+
+Архив RN-планирования не является очередью задач. Не восстанавливай React Native и не начинай повторное исследование уже записанного референса.

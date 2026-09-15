@@ -1,0 +1,23 @@
+{
+  "name": "heroes-unite-reference-benchmark",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Isolated public reference capture; never a production dependency",
+  "scripts": {
+    "capture": "node capture/scripts/capture.mjs",
+    "capture:prepare": "python3 capture/scripts/curate.py && node capture/scripts/prepare.mjs",
+    "reference:web": "node capture/scripts/serve.mjs",
+    "reference:offline": "node capture/scripts/serve.mjs --offline",
+    "android:build": "python3 benchmark/scripts/android.py build",
+    "android:install": "python3 benchmark/scripts/android.py install",
+    "android:run": "python3 benchmark/scripts/android.py run",
+    "benchmark": "python3 benchmark/scripts/benchmark.py",
+    "report:storage": "python3 benchmark/scripts/storage.py",
+    "capture:bundles": "node capture/scripts/load-public-bundles.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.58.2",
+    "ws": "8.18.3"
+  }
+}

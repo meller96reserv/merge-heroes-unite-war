@@ -1,0 +1,1994 @@
+[
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/index.html",
+    "status": 200,
+    "type": "Document"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/style-mobile.3c111.css",
+    "status": 200,
+    "type": "Stylesheet"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/Define.1a1a8.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/src/settings.bd8c2.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/CrazyGamesPlugin.8269d.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/benchmark-portal.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/main.9b5b8.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/splash.54175.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/cocos2d-js-min.9b31e.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/internal/config.d0832.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/config.86246.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/internal/index.d0832.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/index.86246.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/main/config.6e590.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/main/index.6e590.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/internal/import/09/0967b326a.1f618.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/main/import/97/97a5e339-3f8f-4ea6-ae42-d2dded5b4282.7fcaa.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/import/07/071269188.1daa7.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/main/import/40/404b0f73-db25-4182-a3dc-9c2f683ad50e.219da.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/58/58ca60c2-5002-47aa-8f70-b75082fb2313.54506.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/26/26f3852b-43e2-4a64-83f0-82e30456b057.624ca.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/69/69a17a34-e5a1-4325-8a1b-8cdaf5511559.699e3.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/efce3d33-cb1c-482f-b9b9-514883f12c0f.bc52a.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/f0/f0ccd51d-865f-4b8b-ab13-3c3327b3ec9a.d363e/GODOB.ttf",
+    "status": 200,
+    "type": "Font"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/56/567ba48f-657c-4e59-ad40-557fe15a4dc8.3c326.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/04/0405f6a4-ce7b-461f-ae77-e821cc0376e9.7074b.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/47/475e3194-2d2b-4a65-9209-ed649c415a4d.997a3.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/table_data/config.aefdb.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/table_data/index.aefdb.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/table_data/import/23/23b2c8bc-61ef-49bf-b5f1-c93073ce270a.e54e2.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/setting/version",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/setting/version",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/26/261270cc-a861-4cc4-8042-51aad0b9cace.6629c.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/27/2793ad9e-ab6b-44d0-9d9b-0448bcdae286.9dd97.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d1/d10d98ee-9134-45a4-b75c-87087ce28ed5.2597a.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/98/98f580d4-8471-4b25-a5cc-0fcbb8744677.82b1a.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/14/144d921a-7164-4d8d-9abd-256b876cf58b.1e49f.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/cf/cfa43173-e91e-4420-bed1-432b6366af75.33f51.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/27/27dd6df8-a5f5-4209-a2c4-f3e836f95f0a.44dc5.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/8b/8bb9b12c-e04c-446d-ac97-036bfa7364cd.6b7b2.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/47/47c31e52-bba4-4299-93b4-ab0228140a7f.85393.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/6b/6b8a5bc7-6d58-4143-b549-e1b2d46d96bf.f7652.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/70/7057dcee-bf3d-4cb7-897f-fde1f7a95bfb.484d1.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/3b/3b714471-1f78-4294-a7c5-505d211109fc.eb5b8.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/6c/6cb078cb-b119-419f-9d77-ad582d71b12f.37a67.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/13/13cc4f91-8c7f-4f68-8dd0-4d73bdb568bc.88064.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/main/import/08/081c83d18.aa4a0.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/main/import/e6/e6873444-7b8e-480b-90cc-bd0b12e859fb.a93ab.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b2/b2687ac4-099e-403c-a192-ff477686f4f5.2bf0b.plist",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/7c/7c4beb9a-9af1-4d33-9dd6-d78a1d0f97a6.9c191.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/52/52004f46-9828-412f-9852-89f01bd02235.42f7a.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/main/native/e6/e6873444-7b8e-480b-90cc-bd0b12e859fb.1ee9b.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/77/771d57e8-1da0-4bba-a4b6-2266c81afa4d.27e33.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1a/1a45517b-f0be-4caa-8ba1-9b643074d966.cc9e9.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/2a/2a22dce3-2fcc-4350-889e-d610060f92d7.68a2b.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/6e/6ef1ddb1-56d3-42ef-9fed-b20e12191618.a8757.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e4/e4b55131-ce3d-41d9-ac9c-6679b498c3b2.218df.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b0/b0bd253a-c081-48a0-a523-09c3504ecee8.13fd7.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/44/44163545-3868-44ee-a163-2a8e57fa7590.5c14f.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a7/a7ea3c67-f530-491b-ad4c-8e1769507223.8dd7d.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d1/d1eddbf4-088d-4def-8049-06aaeff8ce79.80eba.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e5/e59aa433-8194-47c5-91d7-6915c3960ae8.97d9e.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/dc/dc5b2d76-65f9-42e7-9196-2ab4211660bf.e5136.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/f8/f8f53a58-d011-4f10-bf09-515047941aaf.eb7ad.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d4/d440def0-1b1f-415c-ab19-78360cdc873e.81f5b.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/3f/3f33dee2-dda2-4005-aacc-612a2e0d0d41.b898f.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/26/263823ef-1b68-4ad7-9dd4-79586a5d238c.40887.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/svr/list",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a7/a72f1764-f0c1-4360-88f8-ce25e18599cc.d13d9.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/9d/9d21e838-e636-4342-981f-e72f915637fa.4241d.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/4b/4b881a4c-72b5-44ab-9904-e61a46ba6d94.6f657.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d8/d81ec8ad-247c-4e62-aa3c-d35c4193c7af.cdbc9.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/66/6699ad01-7c0f-4e7f-91b6-72403e88fe45.68192.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a4/a4cf5732-f23a-43a1-b294-6da66bebddf0.5ce17.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/4d/4d964fce-8c0b-4586-b84a-289b23cd5239.45ce9.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/05/0560b10e-317a-403e-aaa6-926220dbb802.6a157.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/svr/list",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/67/677f9a9d-0a0c-42af-9bb9-9ff4fee3899c.fbf55.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d0/d0a82d39-bede-46c4-b698-c81ff0dedfff.841f5.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/f8/f8bc03a8-686e-456b-b556-e96bb95d2fea.02395.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/c5/c58f5387-40b8-4fa7-9855-d08cff7512ce.d61f2.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/8b/8bca0a3d-7ee8-4071-8565-2c25c1eb5968.9a642.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/53/539380bd-3258-4ced-aca1-8efc8d635ec3.7d588.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/87/874d01c8-f3a5-4aae-943a-f590a3edd364.f4b6d.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/77/77aa08b4-aa40-4d38-af7b-1da687e12315.46d75.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/77/775d78aa-5c25-4727-9604-e29611978528.1136c.webp",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/user/chk_new_user",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/98/98f7a2d8-65b7-4c1f-a684-c55acbe00ef8.156df.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e4/e449ae85-a2fd-41ef-9ea3-e296ca36714d.e2801.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/f7/f7001427-638e-42f2-a880-1ddc8de64dde.52911.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/54/54d293a9-79e0-4ded-888c-43ad5789bf06.0ca3d.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/user/chk_new_user",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/info/get_my_all_info",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/info/get_my_all_info",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/log/reg",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/log/reg",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fa/facadb0c-dec3-4214-bab1-50cb7b485f06.a431f.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/f8/f834185c-7ab8-451d-92fe-bfe2d6eee5ef.76d8d.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/01/01161558-d005-4225-a4f7-f303d2b9ccf4.cc42f.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1c/1c9a65b5-b99c-42be-8951-8902b22506da.4ce1f.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/f7/f754a04c-4e93-4b2b-93ac-ff72c9ba8886.9291a.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/98/9825939a-2b7a-46b2-9b2e-9c59cc9153d2.0e9f0.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/36/3627a6b0-960c-430e-b7a0-5df3723a4835.5b0e1.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/2b/2b34e8e0-f7a4-4a5c-afdf-b9bfcd475791.0e9f0.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a9/a9cac932-945c-4e1b-ac18-784cc352605e.483fe.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/66/6671ba89-ba39-469c-94a8-801eeb87c84b.f88be.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/rank/load_ranking",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/rank/upload_score",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/user/update2",
+    "status": 204,
+    "type": "Preflight"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fb/fbca0808-b060-43a5-8529-d588a47d4ed6.8c148.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_bullet/config.2bec1.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_bullet/index.2bec1.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/84/8414f69d-167f-4aa4-b3cc-b6c31457a21f.a4d4a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e7/e775f322-65e0-47fc-905d-9e7840c08b0a.72fc8.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fb/fb8857f8-dcad-4a11-8948-a7461117dc99.6bf5a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/64/6432d9fe-dcae-434f-be67-f4ce1b62f2f3.b295f.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_bullet/import/01/01d1d6d2d.7ede9.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d5/d5b03378-6772-4739-96be-ca68c15f2a93.67c05.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b7/b769f6ed-c85f-4431-9013-aa409a7d37db.d152d.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/9b/9b41c833-028f-457c-bdb6-e48271cc6f60.34091.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/27/27adfa6a-f14c-4b7d-99e3-1c985d438f8b.6450d.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d1/d1561f03-5012-4463-9212-9fe027cd0e08.3a618.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b5/b59c5013-9fbe-4ad9-a165-deaad885b5e8.7e656.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/17/1780925a-c436-4f7e-ab59-c24790853b71.d647e.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/53/53683de6-c340-4659-943b-00b9c37a633c.2b239.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/50/5013583c-9964-44a3-b386-dd3976b522e8.ead03.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/30/305c90b2-e4f5-44ea-af63-66fecbeb1c00.1c9ad.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/97/971ad1db-cf79-4048-b345-7b227f1cc32d.f602f.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a7/a7f85e45-4f39-4003-a0ae-8278f74c48b5.60aa6.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/rank/upload_score",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/91/91de8f25-e412-46b9-bc38-2dd4812d6940.df281.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/64/640b8685-96de-451b-8258-9baaa0c39c03.ff277.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/54/547ed468-8ed8-4a25-a276-9780c13b23d1.0dece.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba309e79-4953-4888-ae7e-fe3f6bb30eee.53c6b.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d6/d6739138-7217-4ae6-9ab2-cacfdcd158a1.aca68.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/20/2097095a-f52e-4fe0-a183-709b10573e33.e436e.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/3c/3cdbad02-0b12-4956-947e-cafbc1f1a751.ba6d5.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e5/e5199e7f-f767-491a-bbe4-87f4b534f221.b44bf.png",
+    "status": 200,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ff/ff795cf7-688f-4053-967e-2983dd5223f3.d75d1.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/62/6240b799-77f9-4fea-863b-5ddb2951c24d.41334.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/5a/5aea8f86-26e5-422a-a16b-7766c40f6f78.efc09.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/98/985e005c-9592-4a5f-911c-af5441df7718.7a723.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/dd/dd7048d9-45f8-4d37-9b40-3143bb94b5f7.66114.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/user/update2",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/77/7730bd1d-734c-4147-a7c7-5ae9b20f09bc.dba97.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/75/759dbd0d-89df-49d1-8a68-b85c23be91e9.9a884.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e6/e6de57d9-cc86-40d6-b04f-44208b9ab833.7c0cb.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/ui_icon_common/config.00972.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/51/51debb1c-6330-40c0-9dbe-821d69431f04.06fc9.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/ui_icon_common/index.00972.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/68/68d598f1-c7d0-450f-9f49-4f9ada3614d0.773a9.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1c/1c7ef693-6ee6-4a08-869f-45700f6f943e.73c26.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/config.ab4d7.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/index.ab4d7.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://new-crazy-api.superjoy2.link/rank/load_ranking",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/60/604eed3f-1532-4b82-8230-898664fc5bc7.651c2.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/ui_icon_common/import/0a/0aa951ac3.d62ef.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/import/0f/0fd1e8cbb.ac8a7.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ab/ab486b8e-bf5f-4753-b401-5a2627756e18.fa2c6.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/cf/cf41ec2c-aa90-400f-be24-9f5b465d2101.d95e3.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/f0/f04130e9-3731-4521-b26f-3335fdb071d3.fda56.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/11/11f8736f-a6bd-4819-a57c-ca3a33c8a2c1.07d5c.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/03/033bf3a1-e50d-477c-aef5-1120a9f123e1.61422.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/d2/d29f0224-a1c6-426a-9bcb-437e4d43dec6.5ca3d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/46/465b4939-8bf0-44cb-8608-964bb5581319.948ec.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/1b/1b7f5bcc-f163-4db3-9c81-68227ed18ee6.0727d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/e2/e2edddc4-6632-409c-81f2-d7f603f05ce5.a167d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/28/2833f3d8-b3c5-4045-8090-6b9607640161.1d904.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba910aa4-792e-4726-a4f2-132f4e771b2c.1c51c.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/af/afb2de1c-0b7b-41e3-b4a3-e6906cd734f2.6deef.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/top_ui_ex_left_menu/config.66056.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/top_ui_ex_left_menu/index.66056.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/top_ui_ex_left_menu/import/78/7809aefc-4d49-4953-9296-b3033fe6a04a.a431f.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b1/b1b7b0c6-c0d7-474a-9137-e3a9c696ba41.cf270.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/bf/bfd52e90-d042-4e78-ad8c-48ca46d39db9.c905d.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/59/59ae80f0-9be3-4d05-b7df-82ed4dc3e940.6e9e8.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1e/1ebac5fb-edec-4248-aa8b-5f2c64795c11.c32fe.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ea/eaaf7b43-a634-42de-a7e8-69932d8e9f4d.7fafb.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/93/93fbca61-a1b5-4545-894a-7fc532831977.adf8a.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/7d/7d015807-481b-4df8-b4ff-9201ed73fe6a.81e6c.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/81/8145e933-7ab9-464d-99d3-b6d007e13e48.d7b86.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/cf/cfb2727a-0be8-4182-82fc-df8c5be34fb4.77422.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/19/19017074-5ade-48db-93e9-e2e9888b5fd3.5c245.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/81/81493a2f-0ccc-4daa-850e-2eaf714f3a50.471c6.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/cd/cde35aa4-f331-42dd-a94a-97a9854ef607.e94e0.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a9/a9d8585e-e136-4e8d-906b-e5756104e2aa.1df6f.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/cb/cbcbcd85-680f-4095-8e46-c81ed7cd453b.f7068.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/63/63b1231b-471f-481f-938c-67a16ba42062.847e0.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/59/598ea2c5-5936-4b99-a199-304666b49e7b.7d23a.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/bf/bf4a2ff4-b090-4a50-a84f-6c46a7bf894a.684d3.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/70/7038e407-0095-45c7-aa90-a5408a457249.383e3.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/db/dbd651c1-6a5f-4a48-812c-3d27e79bf573.9601a.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/12/12f207a9-dcc5-426e-9b51-b80f75c71cf9.b3479.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/ef775f53-8634-497a-9bd1-bbf7757bdf54.1b06b.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e8/e8673e3b-1780-44b3-9c30-b6dc47851187.257b4.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/17/173dfdee-b482-4703-9fb2-06b0843a68a5.482b7.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba2ddcc2-4d0a-4fce-9be4-0995fc32d1c3.7b6f8.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/22/22bcb48d-9602-4095-a6a8-32ed5adac50c.8131b.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1c/1c10bca2-af67-48db-a62b-ac6679a64ba0.cd2a8.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/77/77c2d482-63ad-4834-af9e-523f0026e741.9d7e5.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/dc/dc65957c-a8e5-462e-8a18-ae280b2787c7.c90c8.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/86/8652a8c2-b22d-47ff-aeac-3bfa5e04becb.bb66c.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/2a/2af88cdd-5d47-4340-b860-bf7ff64700df.829dc.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/97/972707fe-e7d6-42ff-bfa9-f6c12125524b.7cc41.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/c0/c0b4c334-7807-4afd-ba4a-3aa28920ecf7.019db.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/21/2178de5d-010b-499c-b4e8-ab50d614acbf.5b341.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fd/fd2661bd-3718-449d-a698-7d50388b4dd3.94198.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/32/323a71a9-3253-46b8-bbf7-9c552ed4bda6.d36fd.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/98/986a4ecd-87e3-4691-92d4-84d08108c90b.1e06b.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/86/864c4fbe-e61d-4fe0-a631-4a4659bf8cf8.78220.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/80/8017c1c7-c667-456c-a1d1-e40b0352039f.6f648.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/51/51188144-c97d-46d1-a063-0ed60591d91d.55b9c.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/02/02abd59f-3d65-4ba6-8be2-c5b06561f263.05164.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ad/ad489489-1e2f-48a0-9c5e-b86ef7e8dffb.3b59d.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/2b/2bdb85c2-140d-49a0-a384-6395ccbe73d3.f321d.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/73/73543030-85b2-414e-91f5-98ae65f98da7.327ad.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a9/a9235347-e6ce-4eca-92f8-197853876358.a6847.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a6/a62f9e75-1ec8-41b4-899f-209536bef2ae.a5b55.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/02/020dd5de-8271-4034-bdac-3a8e90cd1086.98670.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/76/76f0b742-a922-4809-9f9e-f99a40de8e7d.12f01.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e5/e5ab19cc-0341-4282-8532-0064a928e8cc.180f1.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fb/fb4667a1-c09b-4fff-9ca2-424bc499542f.6b9d1.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/bb/bb9d0252-9695-4935-b0c1-3ac761341320.88dc1.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a1/a107e579-e86d-41ef-8063-716dadbf2af1.be251.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/f0/f0ba2a6f-e95a-404f-ac13-213de1e71ab4.e562c.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fa/fa17e663-4cbc-40e3-86d6-d2fca4935b77.36e1d.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/09/098d4494-e091-4bae-8b7b-5acfcb87cb47.da40d.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a0/a07898f4-0fc8-4cd4-82e3-c7ed688457f8.ca82b.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/31/31871850-0f84-4be1-82d3-5d80ce561cff.1ffcf.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/c0/c0b3f439-bdda-4402-8911-ebfada8bd798.27be5.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/30/30af30da-e8c7-4207-b7ea-f0435f61dc05.61224.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1d/1de9d5fb-661e-47c5-b79c-20beff43154d.d304a.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b5/b56366aa-9bb3-46ac-aae6-66a79870dc4c.8e898.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/c9/c9e5eeeb-34ce-4971-b28b-36ace993a3ee.d48cd.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e7/e775f322-65e0-47fc-905d-9e7840c08b0a.72fc8.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/84/8414f69d-167f-4aa4-b3cc-b6c31457a21f.a4d4a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/9a/9a9ec7a2-b29e-4bb9-aa17-1a6bc4c2db42.493db.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/81/81842528-4f05-4e64-8b2a-8f3b8163771c.d8eb4.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fb/fb8857f8-dcad-4a11-8948-a7461117dc99.6bf5a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/55/55a4e96d-8f52-430b-9d93-f61a97eccbba.e8b25.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/3c/3cb8633c-6ec6-46a3-8ec3-82633811fb32.60a11.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/c9/c996f93f-b18b-4cb4-93b8-112a0691fa1c.b9e96.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a7/a7f85e45-4f39-4003-a0ae-8278f74c48b5.60aa6.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/64/640b8685-96de-451b-8258-9baaa0c39c03.ff277.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d6/d6739138-7217-4ae6-9ab2-cacfdcd158a1.aca68.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba309e79-4953-4888-ae7e-fe3f6bb30eee.53c6b.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/5a/5aea8f86-26e5-422a-a16b-7766c40f6f78.efc09.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/62/6240b799-77f9-4fea-863b-5ddb2951c24d.41334.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ff/ff795cf7-688f-4053-967e-2983dd5223f3.d75d1.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/82/822704d0-bfb0-45a6-8c63-3d1aa50e9a0e.9ca37.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/51/51fa9673-4607-460c-89f0-f98365ffa867.f7519.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/95/95193d71-c5f1-4092-b886-8659c7d5a23e.f279f.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/54/547ed468-8ed8-4a25-a276-9780c13b23d1.0dece.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/22/22febe1e-6f65-411c-8d1c-f799cc706e60.ce5ad.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/cf/cf41ec2c-aa90-400f-be24-9f5b465d2101.d95e3.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/f0/f04130e9-3731-4521-b26f-3335fdb071d3.fda56.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/11/11f8736f-a6bd-4819-a57c-ca3a33c8a2c1.07d5c.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/46/465b4939-8bf0-44cb-8608-964bb5581319.948ec.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/d2/d29f0224-a1c6-426a-9bcb-437e4d43dec6.5ca3d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/03/033bf3a1-e50d-477c-aef5-1120a9f123e1.61422.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/1b/1b7f5bcc-f163-4db3-9c81-68227ed18ee6.0727d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/77/77680abb-eaa5-46f4-b68c-9d22d91a1f79.d19c3.mp3",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/e2/e2edddc4-6632-409c-81f2-d7f603f05ce5.a167d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1e/1ebac5fb-edec-4248-aa8b-5f2c64795c11.c32fe.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/93/93fbca61-a1b5-4545-894a-7fc532831977.adf8a.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/ef775f53-8634-497a-9bd1-bbf7757bdf54.1b06b.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e7/e775f322-65e0-47fc-905d-9e7840c08b0a.72fc8.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fb/fb8857f8-dcad-4a11-8948-a7461117dc99.6bf5a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/84/8414f69d-167f-4aa4-b3cc-b6c31457a21f.a4d4a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a7/a7f85e45-4f39-4003-a0ae-8278f74c48b5.60aa6.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/64/640b8685-96de-451b-8258-9baaa0c39c03.ff277.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba309e79-4953-4888-ae7e-fe3f6bb30eee.53c6b.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d6/d6739138-7217-4ae6-9ab2-cacfdcd158a1.aca68.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/5a/5aea8f86-26e5-422a-a16b-7766c40f6f78.efc09.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/62/6240b799-77f9-4fea-863b-5ddb2951c24d.41334.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ff/ff795cf7-688f-4053-967e-2983dd5223f3.d75d1.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/54/547ed468-8ed8-4a25-a276-9780c13b23d1.0dece.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/cf/cf41ec2c-aa90-400f-be24-9f5b465d2101.d95e3.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/f0/f04130e9-3731-4521-b26f-3335fdb071d3.fda56.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/11/11f8736f-a6bd-4819-a57c-ca3a33c8a2c1.07d5c.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/e2/e2edddc4-6632-409c-81f2-d7f603f05ce5.a167d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/1b/1b7f5bcc-f163-4db3-9c81-68227ed18ee6.0727d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/d2/d29f0224-a1c6-426a-9bcb-437e4d43dec6.5ca3d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/03/033bf3a1-e50d-477c-aef5-1120a9f123e1.61422.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/46/465b4939-8bf0-44cb-8608-964bb5581319.948ec.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1e/1ebac5fb-edec-4248-aa8b-5f2c64795c11.c32fe.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/93/93fbca61-a1b5-4545-894a-7fc532831977.adf8a.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/ef775f53-8634-497a-9bd1-bbf7757bdf54.1b06b.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/e7/e775f322-65e0-47fc-905d-9e7840c08b0a.72fc8.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/fb/fb8857f8-dcad-4a11-8948-a7461117dc99.6bf5a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/84/8414f69d-167f-4aa4-b3cc-b6c31457a21f.a4d4a.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/a7/a7f85e45-4f39-4003-a0ae-8278f74c48b5.60aa6.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/64/640b8685-96de-451b-8258-9baaa0c39c03.ff277.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba309e79-4953-4888-ae7e-fe3f6bb30eee.53c6b.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d6/d6739138-7217-4ae6-9ab2-cacfdcd158a1.aca68.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/5a/5aea8f86-26e5-422a-a16b-7766c40f6f78.efc09.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ff/ff795cf7-688f-4053-967e-2983dd5223f3.d75d1.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/62/6240b799-77f9-4fea-863b-5ddb2951c24d.41334.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/54/547ed468-8ed8-4a25-a276-9780c13b23d1.0dece.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/cf/cf41ec2c-aa90-400f-be24-9f5b465d2101.d95e3.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/f0/f04130e9-3731-4521-b26f-3335fdb071d3.fda56.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/11/11f8736f-a6bd-4819-a57c-ca3a33c8a2c1.07d5c.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/e2/e2edddc4-6632-409c-81f2-d7f603f05ce5.a167d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/1b/1b7f5bcc-f163-4db3-9c81-68227ed18ee6.0727d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/46/465b4939-8bf0-44cb-8608-964bb5581319.948ec.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/03/033bf3a1-e50d-477c-aef5-1120a9f123e1.61422.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/battle_unit_late/native/d2/d29f0224-a1c6-426a-9bcb-437e4d43dec6.5ca3d.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/1e/1ebac5fb-edec-4248-aa8b-5f2c64795c11.c32fe.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/93/93fbca61-a1b5-4545-894a-7fc532831977.adf8a.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/ef775f53-8634-497a-9bd1-bbf7757bdf54.1b06b.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/popup_hero/config.ab535.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/popup_hero/index.ab535.js",
+    "status": 200,
+    "type": "Script"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/popup_hero/import/0e/0e9f74772.d9e18.json",
+    "status": 200,
+    "type": "XHR"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b3/b3137663-42e9-485d-bae6-a345e75615f7.ba773.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d6/d6739138-7217-4ae6-9ab2-cacfdcd158a1.aca68.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/ef775f53-8634-497a-9bd1-bbf7757bdf54.1b06b.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/11/11de2b83-f83c-4210-93ab-ebc945bf0053.c474e.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba309e79-4953-4888-ae7e-fe3f6bb30eee.53c6b.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/5a/5aea8f86-26e5-422a-a16b-7766c40f6f78.efc09.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b3/b3137663-42e9-485d-bae6-a345e75615f7.ba773.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d6/d6739138-7217-4ae6-9ab2-cacfdcd158a1.aca68.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/11/11de2b83-f83c-4210-93ab-ebc945bf0053.c474e.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/ef775f53-8634-497a-9bd1-bbf7757bdf54.1b06b.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba309e79-4953-4888-ae7e-fe3f6bb30eee.53c6b.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/5a/5aea8f86-26e5-422a-a16b-7766c40f6f78.efc09.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/b3/b3137663-42e9-485d-bae6-a345e75615f7.ba773.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/d6/d6739138-7217-4ae6-9ab2-cacfdcd158a1.aca68.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/11/11de2b83-f83c-4210-93ab-ebc945bf0053.c474e.png",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ef/ef775f53-8634-497a-9bd1-bbf7757bdf54.1b06b.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/5a/5aea8f86-26e5-422a-a16b-7766c40f6f78.efc09.webp",
+    "status": 404,
+    "type": "Image"
+  },
+  {
+    "kind": "response",
+    "url": "https://appassets.androidplatform.net/assets/resources/native/ba/ba309e79-4953-4888-ae7e-fe3f6bb30eee.53c6b.png",
+    "status": 404,
+    "type": "Image"
+  }
+]

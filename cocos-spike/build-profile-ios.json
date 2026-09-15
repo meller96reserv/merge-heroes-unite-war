@@ -1,0 +1,32 @@
+{
+  "name": "MergeHeroesUniteWar",
+  "platform": "ios",
+  "debug": false,
+  "startScene": "3b3fc79d-d83d-5ad4-ac96-7d183d4b2338",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/Battle.scene",
+      "uuid": "3b3fc79d-d83d-5ad4-ac96-7d183d4b2338"
+    }
+  ],
+  "buildPath": "project://build",
+  "outputName": "ios",
+  "md5Cache": false,
+  "skipCompressTexture": false,
+  "packages": {
+    "ios": {
+      "bundleId": "com.mergeheroes.unitewar",
+      "skipUpdateXcodeProject": false,
+      "teamid": "",
+      "iphoneos": false,
+      "simulator": true,
+      "orientation": {
+        "portrait": true,
+        "upsideDown": false,
+        "landscapeLeft": false,
+        "landscapeRight": false
+      },
+      "packageName": "com.mergeheroes.unitewar"
+    }
+  }
+}

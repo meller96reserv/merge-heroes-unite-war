@@ -1,0 +1,1 @@
+{"scene":"PlayScene","offline":{"version":1,"installed":true,"requests":{"/setting/version":1,"/svr/list":1,"/user/chk_new_user":1,"/user/update2":2,"/info/get_my_all_info":1,"/log/reg":1,"/rank/upload_score":1,"/rank/load_ranking":1},"unavailable":[]},"resources":250}

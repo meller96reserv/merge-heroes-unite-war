@@ -1,39 +1,40 @@
 # Merge Heroes Unite War
 
-React Native + TypeScript game, using Expo, Skia, Reanimated and Gesture Handler.
-Android, iOS and Web share application code and assets.
+Мобильная игра на **Cocos Creator 3.8.8** для Android и iOS. Актуальная версия — **1.8 (9)**, пакет `com.mergeheroes.unitewar`. Основная разработка ведётся в `main`.
+
+**Исходники игры: [cocos-spike/](cocos-spike/).** Имя папки осталось от прототипа; внутри текущий самостоятельный продукт. React Native удалён из рабочего дерева и доступен в истории Git.
+
+## Начать работу
 
 ```sh
-nvm install
-nvm use
+git clone --depth 1 https://github.com/franticus/kisel.git
+cd kisel
+git config core.hooksPath .githooks
+cd cocos-spike
 npm ci
-npm run dev:web
+npm run check:core
 ```
 
-Open **http://localhost:8082**. Fast Refresh is enabled. The current workspace also
-uses its existing local Node 22 automatically when the terminal still uses Node 20.
-A fresh checkout requires Node 22 from `.nvmrc`.
+Нужен Node.js 22. В Cocos Creator 3.8.8 открыть именно папку `cocos-spike` и сцену `assets/scenes/Battle.scene`. Первый импорт создаст library/ и temp/; после него доступен `npm run typecheck`. Скрипты сборки рассчитаны на macOS, iOS Simulator — на Apple Silicon.
 
-```sh
-npm run typecheck
-npm run check:expo
-npm run build:web
-```
+- [Карта исходников, ассетов и сборка с нового компьютера](cocos-spike/DEVELOPMENT.md).
+- [Состояние, сервисы, комплект 1.8-9 и ограничения](cocos-spike/HANDOFF.md).
+- [Документация и ТЗ](docs/00_INDEX.md), [открытые вопросы](docs/BACKLOG.md).
+- [Инструкции агенту](AGENTS.md), [правила работы](CODEX_EXECUTION_RULES.md).
 
-Current milestone: a [playable shared battle](app/README.md) with Figma assets,
-buy/spawn, drag/drop/merge, auto combat, durable rewards, six stages, boss timers,
-manual retry/farming and row unlocks. Calibrated hero motion, distinct boss
-reactions and a staged merge reveal now run in the shared Skia presentation. Buy a hero with the centre card; drag equal
-heroes together to merge; tap a board hero to deploy or withdraw. Three heroes
-can fight at once. Clear bosses to open more board space.
+Локальные сборки находятся в `cocos-spike/build/delivery/1.8-9/`. Они не входят в Git. iOS-комплект содержит приложение для Simulator, **не подписанный IPA для iPhone**. Для рекламных видео ещё нужны Start.io App ID владельца, для физического iPhone — Apple signing. [Фактические проверки 1.8-9](cocos-spike/releases/1.8-9.json).
 
-[Current acceptance evidence](analysis/reports/motion/checkpoint.md) records browser,
-save, core and production web checks. Full Figma pixel calibration, remaining
-screens/audio/rewarded providers and native acceptance remain separate tasks in
-the [task order](plans/00_EXECUTION_ORDER.md).
+## Структура
 
-[ADR-007](docs/adr/ADR-007-RN-SKIA-RUNTIME.md) · [Product/design documentation](docs/00_INDEX.md) ·
-[Task manifest](tasks/task_manifest.json) · [Execution rules](CODEX_EXECUTION_RULES.md).
-The [historical spike](spikes/rn-cocos/README.md) is SUPERSEDED.
+| Путь | Назначение |
+| --- | --- |
+| cocos-spike/assets/ | Сцена, TypeScript, игровой core, изображения, шрифты, музыка и звуки |
+| cocos-spike/native/, settings/, tools/ | Нативные шаблоны, настройки Creator и сборочные скрипты внутри проекта |
+| docs/tz/ | Исходные документы заказчика |
+| analysis/figma/, analysis/reference/ | Экспорты Figma, скриншоты/клипы, исследование механик и измерения |
+| reference-benchmark/ | Прежний захват/бенчмарк оригинала; не часть текущего приложения |
+| archive/rn-planning/ | Архив прежних спецификаций и задач; не активный план |
 
-Current delivery scope: [required work, deferred groups and DELIVERY_COMPLETE gate](plans/DELIVERY_SCOPE.md).
+Для продолжения с Codex: «Прочитай AGENTS.md и текущую документацию, затем выполни [конкретную задачу]». Предыдущая переписка для понимания текущего кода не требуется. Доступ к редактируемой Figma и приватным ключам передаётся отдельно.
+
+Большие исходные .fig и полная видеозапись сохранены локально и не входят в Git; ресурсы игры, короткие клипы и исследовательские таблицы включены. `--depth 1` позволяет не скачивать историю удалённого RN-приложения. Зависимости проверок содержат только TypeScript; движок, SDK, сборки и эмуляторы не версионируются. Постоянный ключ Android, пароли и Telegraph token хранятся в игнорируемом `cocos-spike/private/`.

@@ -1,8 +1,0 @@
-{
-  "status": "FAIL",
-  "mode": "background",
-  "pid": 6895,
-  "device": "private API36 arm64 emulator",
-  "cycles": [],
-  "error": "Foreground did not resume existing Cocos"
-}
