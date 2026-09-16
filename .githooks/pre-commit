@@ -1,2 +1,2 @@
 #!/bin/sh
-exec python3 tooling/security/check-staged.py
+exec python tooling/security/check-staged.py

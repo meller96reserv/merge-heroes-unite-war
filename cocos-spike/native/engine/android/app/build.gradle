@@ -21,7 +21,7 @@ android {
         applicationId APPLICATION_ID
         minSdkVersion PROP_MIN_SDK_VERSION
         targetSdkVersion PROP_TARGET_SDK_VERSION
-        versionCode 17
+        versionCode 18
         versionName "1.8"
 
         externalNativeBuild {

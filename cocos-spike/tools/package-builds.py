@@ -7,11 +7,13 @@ release=json.loads((P/'release.json').read_text());version=release['version'];bu
 parser=argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--source-only', action='store_true', help='Package committed source inputs without native builds or private keys')
 parser.add_argument('--review', action='store_true', help='Package current debug APK/AAB and source without private signing or iOS claims')
+parser.add_argument('--android-release', action='store_true', help='Package signed Android APK/AAB, source and private signing material')
 parser.add_argument('--output', type=Path, help='Source-only destination ZIP')
 parser.add_argument('--evidence', type=Path, help='Actual verification JSON for these exact artifacts; omitted means NOT_RUN')
 args=parser.parse_args()
 if args.output and not args.source_only: parser.error('--output requires --source-only')
-if args.review and args.source_only: parser.error('--review and --source-only are mutually exclusive')
+if sum(bool(x) for x in (args.review,args.source_only,args.android_release)) > 1:
+    parser.error('--review, --source-only and --android-release are mutually exclusive')
 verification={'status':'NOT_RUN','note':'No verification record supplied for these artifacts.'}
 if args.evidence:
     verification=json.loads(args.evidence.read_text())
@@ -59,6 +61,60 @@ if args.review:
     with zipfile.ZipFile(complete,'w',compression=zipfile.ZIP_STORED) as z:
         for path in sorted(out.iterdir()):
             if path.is_file():z.write(path,out.name+'/'+path.name)
+    print(complete,complete.stat().st_size,'bytes')
+    for key,path in artifacts.items():print(key,path.name,path.stat().st_size)
+    raise SystemExit(0)
+if args.android_release:
+    out = P/f'build/delivery/{version}-{build}-android-release'
+    out.mkdir(parents=True,exist_ok=True)
+    sourcezip = out/f'{stem}.zip'
+    with zipfile.ZipFile(sourcezip,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=6) as z:
+        for path in sorted(files):
+            if path.name.startswith('.') or path.name=='local.properties' or path.suffix in {'.log','.jks','.keystore','.apk','.aab','.pyc'}: continue
+            z.write(path,'MergeHeroesUniteWar/'+str(path.relative_to(P)))
+    apk=P/f'build/android/merge-heroes-unite-war-{version}.apk'
+    aab=next((P/'build/android/proj/build/MergeHeroesUniteWar/outputs/bundle/release').glob('*-release.aab'),None)
+    if not apk.is_file() or aab is None: raise SystemExit('Current signed release APK/AAB are required')
+    artifacts={'projectSource':sourcezip}
+    for key,source in [('apk',apk),('aab',aab)]:
+        dest=out/f'{stem}.{key}';shutil.copy2(source,dest);artifacts[key]=dest
+    shutil.copy2(P/'HANDOFF.md',out/'README.md')
+    settings=json.loads((P/'app-services.json').read_text())
+    settings.update(version=version,build=build,appleTeamId=None,androidSigning=json.loads((P/'private/android-signing.json').read_text()))
+    key=out/f'{stem}.jks';shutil.copy2(P/'private'/key.name,key);os.chmod(key,0o600);artifacts['androidKeystore']=key
+    private=out/'project-settings.private.json';private.write_text(json.dumps(settings,indent=2)+'\n');os.chmod(private,0o600)
+    submission=out/'SUBMISSION.txt'
+    submission.write_text(f'''Merge Heroes Unite War
+com.mergeheroes.unitewar
+v {version} (build {build})
+
+start.io
+Android ID: NOT PROVIDED
+iOS ID: NOT PROVIDED
+
+appmetrica
+com.mergeheroes.unitewar
+69728c63-1c5c-4239-976f-cdfca334fb55
+
+дизайн:
+https://www.figma.com/design/Yc3y8PHv9qJdh1fXUzLl1S/Merge-Heroes-Unite-War?node-id=0-1
+
+ID Products:
+нет
+
+Платных продуктов и встроенных покупок нет.
+''',encoding='utf-8')
+    def digest(path):
+        with path.open('rb') as f:return hashlib.file_digest(f,'sha256').hexdigest()
+    manifest={'name':'Merge Heroes Unite War','version':version,'build':build,'package':stem,'engine':'Cocos Creator 3.8.8 native','purpose':'Private Android store submission package','artifacts':{k:{'file':v.name,'bytes':v.stat().st_size,'sha256':digest(v)} for k,v in artifacts.items()},'signing':'New persistent release RSA 3072 identity; credentials are in project-settings.private.json','services':{'startIo':'NOT PROVIDED','appMetricaApiKey':'69728c63-1c5c-4239-976f-cdfca334fb55'},'iapProducts':[],'ios':'NOT_BUILT: physical iOS build requires macOS, Xcode and Apple signing','verification':verification}
+    (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+    checks=[*artifacts.values(),out/'README.md',private,submission,out/'manifest.json']
+    (out/'SHA256SUMS').write_text(''.join(f'{digest(p)}  {p.name}\n' for p in checks))
+    complete=out.parent/f'merge-heroes-unite-war-{version}-{build}-android-release-private.zip'
+    with zipfile.ZipFile(complete,'w',compression=zipfile.ZIP_STORED) as z:
+        for path in sorted(out.iterdir()):
+            if path.is_file():z.write(path,out.name+'/'+path.name)
+    os.chmod(complete,0o600)
     print(complete,complete.stat().st_size,'bytes')
     for key,path in artifacts.items():print(key,path.name,path.stat().st_size)
     raise SystemExit(0)
